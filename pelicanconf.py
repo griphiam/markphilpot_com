@@ -11,8 +11,7 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_DOMAIN = SITEURL
-FEED_ALL_ATOM = 'feeds/atom'
+FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
@@ -29,7 +28,7 @@ SOCIAL = (('Twitter', 'http://twitter.com/mark_philpot'),
 DEFAULT_PAGINATION = 10
 
 PLUGIN_PATH = 'plugins'
-PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'pelican_flickrtag']
+PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors']
 
 THEME = 'themes/elegant'
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)']
