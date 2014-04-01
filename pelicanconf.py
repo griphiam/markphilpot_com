@@ -22,13 +22,57 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://twitter.com/mark_philpot'),
+          ('Github', 'http://github.com/griphiam'),)
 
 DEFAULT_PAGINATION = 10
 
 PLUGIN_PATH = 'plugins'
-PLUGINS = []
+PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors']
+
+THEME = 'themes/elegant'
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)']
+
+TYPOGRIFY = True
+RELATED_POSTS_LABEL = 'keep reading...'
+USE_FOLDER_AS_CATEGORY = False
+ARTICLE_URL = u'{slug}'
+PAGE_URL = u'{slug}'
+PAGE_SAVE_AS = u'{slug}.html'
+USE_FAVICON = True
+
+STATIC_PATHS = ['theme/images', 'images']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+
+PROJECTS = [
+	{
+		'name': 'iSuperGP',
+		'url': 'http://www.isupergp.com',
+		'description': 'Mobile front end to <a href="http://supergenpass.com">SupergenPass</a>'
+	}
+]
+
+LANDING_PAGE_ABOUT = {
+	'title': 'Software Engineer, Photographer, Musician',
+	'details': '<div><p>So, a little bit about myself...</p></div>'
+}
+
+SITESUBTITLE = '"This is a test of the emergency broadcast system" - Someone, Somewhere'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
