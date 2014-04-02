@@ -69,7 +69,13 @@ PROJECTS = [
 
 LANDING_PAGE_ABOUT = {
 	'title': 'Software Engineer, Photographer, Musician',
-	'details': '<div><p>So, a little bit about myself...</p></div>'
+	'details': """
+        <div>
+            <p>So, a little bit about myself...</p>
+            <p>Software :: how I currently make my living.  I'm a jack-of-all-trades sort of programmer, so everything from databases, backend services and through to the user interface is fair game.</p>
+            <p>Photos &amp; Music :: hobbies, outlets, just fun.</p>
+        </div>
+    """
 }
 
 SITESUBTITLE = '"You simian-descended, equivocating, pronoun-starved little mortal twerp" - The Transcendant Pig'
