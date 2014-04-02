@@ -28,7 +28,7 @@ SOCIAL = (('Twitter', 'http://twitter.com/mark_philpot'),
 DEFAULT_PAGINATION = 10
 
 PLUGIN_PATH = 'plugins'
-PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors']
+PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'extract_toc']
 
 THEME = 'themes/elegant'
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)']
