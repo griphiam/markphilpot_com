@@ -36,9 +36,10 @@ MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(pe
 TYPOGRIFY = True
 RELATED_POSTS_LABEL = 'keep reading...'
 USE_FOLDER_AS_CATEGORY = False
-ARTICLE_URL = u'{slug}'
-PAGE_URL = u'{slug}'
-PAGE_SAVE_AS = u'{slug}.html'
+ARTICLE_URL = u'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = u'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = u'pages/{slug}/'
+PAGE_SAVE_AS = u'pages/{slug}/index.html'
 USE_FAVICON = True
 
 STATIC_PATHS = ['theme/images', 'images']

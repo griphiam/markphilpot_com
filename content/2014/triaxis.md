@@ -2,7 +2,7 @@ Title: Mesa Boogie :: TriAxis/2:Ninety
 Date: 2014-04-03 22:28:26
 Modified: 2014-04-03 22:28:30
 Tags: triaxis, mesa boogie, guitar
-Category: Music
+Category: music
 Slug: mesa-boogie
 Summary: Mesa Boogie Deep Dive
 
