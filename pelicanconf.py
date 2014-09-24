@@ -27,7 +27,10 @@ SOCIAL = (('Twitter', 'http://twitter.com/mark_philpot'),
 
 DEFAULT_PAGINATION = 10
 
-PLUGIN_PATH = 'plugins'
+PATH = 'content'
+PLUGIN_PATHS = [
+    'plugins',
+]
 PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'extract_toc']
 
 THEME = 'themes/elegant'
