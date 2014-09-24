@@ -73,7 +73,7 @@ LANDING_PAGE_ABOUT = {
 	'details': """
         <div>
             <p>So, a little bit about myself...</p>
-            <p>Software :: how I currently make my living.  I'm a jack-of-all-trades sort of programmer, so everything from databases, backend services and through to the user interface is fair game.</p>
+            <p>Software :: how I currently make my living.  I'm a full stack engineer -- so everything from databases, backend services and through to the user interface is fair game.</p>
             <p>Photos &amp; Music :: hobbies, outlets, just fun.</p>
         </div>
     """
