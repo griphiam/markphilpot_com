@@ -14,7 +14,7 @@ The Mesa Boogie TriAxis / 2:Ninety is a classic.  Sure, we have digital modelers
 
 # Abandonware
 
-The problem is that we have entered a world where current technology cannot begin to comprehend software of the past.  And to make matters worse, the hight of the TriAxis was well before the rise of open source.  Hell, most of the MIDI world has never been pulled out of the 90's; most of the software being shareware downloaded from web pages that look straight out of Geocitites (kids, ask your parents).
+The problem is that we have entered a world where current technology cannot begin to comprehend software of the past.  And to make matters worse, the hight of the TriAxis was well before the rise of open source.  Hell, most of the MIDI world has never been pulled out of the 90's; most of the software being shareware downloaded from web pages that look straight out of Geocities (kids, ask your parents).
 
 Most guitar preamps and effects today have a nice software component that allows easier control of the device than the front panel hardware controls usually provides.  To make matters worse, the TriAxis has only one knob (level control) and the absolute worst push buttons you have ever seen or attempted to use.  
 
