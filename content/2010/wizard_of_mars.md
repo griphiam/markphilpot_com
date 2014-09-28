@@ -1,5 +1,5 @@
 Title: Diane Duate - A Wizard of Mars
-Date: 2014-09-27 15:17:01
+Date: 2010-04-16 15:17:01
 Tags: books
 Category: reviews
 Slug: wizard_of_mars
