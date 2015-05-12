@@ -44,6 +44,7 @@ ARTICLE_SAVE_AS = u'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = u'pages/{slug}/'
 PAGE_SAVE_AS = u'pages/{slug}/index.html'
 USE_FAVICON = True
+WITH_FUTURE_DATES = True
 
 STATIC_PATHS = ['theme/images', 'images']
 
