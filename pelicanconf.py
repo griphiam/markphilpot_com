@@ -65,6 +65,16 @@ SITEMAP = {
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 PROJECTS = [
+    {
+        'name': 'TriAxis Editor',
+        'url': 'http://triaxiseditor.com',
+        'description': 'Web config editor for the Mesa Boogie TriAxis'
+    },
+    {
+        'name': 'GCP Editor',
+        'url': 'http://gcproeditor.com',
+        'description': 'Web config editor for the Voodoo Labs GCP'
+    },
 	{
 		'name': 'iSuperGP',
 		'url': 'http://www.isupergp.com',
