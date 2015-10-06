@@ -34,7 +34,7 @@ PLUGIN_PATHS = [
 PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'extract_toc']
 
 THEME = 'themes/elegant'
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)', 'markdown.extensions.attr_list']
 
 TYPOGRIFY = True
 RELATED_POSTS_LABEL = 'keep reading...'
