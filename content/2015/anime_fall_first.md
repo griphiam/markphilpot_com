@@ -21,7 +21,7 @@ __*Verdict* :: Binge if I could__
 ![Heavy Object TODO]({filename}/images/anime/2015/fall/heavyobject_pv.jpg "Heavy Object"){: .center}
 ![JC Staff]({filename}/images/anime/studios/jc_staff.png "JC Staff"){: .center}
 
-[Heavy Object](https://hummingbird.me/anime/heavy-object) <br/> Going into this season, I was genuinely excited for this one. The writer is Kazuma Kamachi, writer of [ToAru Majutsu no Index](http://) and [Railgun](http://), two shows I throughly enjoyed. After episode 1?  Meh?
+[Heavy Object](https://hummingbird.me/anime/heavy-object) <br/> Going into this season, I was genuinely excited for this one. The writer is Kazuma Kamachi, writer of [Toaru Majutsu no Index](https://hummingbird.me/anime/toaru-majutsu-no-index) and [Toaru Kagaku no Railgun](https://hummingbird.me/anime/toaru-kagaku-no-railgun), two shows I throughly enjoyed. After episode 1?  Meh?
 
 Granted the first episode was heavy on backstory, but just found myself especially bored by the conflict and the characters felt completely flat. Contrast this with the characters from Railgun who I fell in love with almost immediately.  I'll get through the 3 episode rule with this one, but it might not get beyond that.
 
@@ -80,7 +80,9 @@ __*Verdict* :: Cursor on the Drop Button__
 ![Concrete Revolutio]({filename}/images/anime/2015/fall/concrete_pv.jpg "Concrete Revolutio"){: .center}
 ![Bones]({filename}/images/anime/studios/bones.png "Bones"){: .center}
 
-[Concrete Revolutio: Choujin Gensou](https://hummingbird.me/anime/concrete-revolutio-choujin-gensou) <br/> TODO
+[Concrete Revolutio: Choujin Gensou](https://hummingbird.me/anime/concrete-revolutio-choujin-gensou) <br/> What do you get when you cross [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) with [Rolling Girls](https://hummingbird.me/anime/the-rolling-girls)? I'm not exactly sure either, but Concrete Revolutio would be my best guess. Unlike Kekkai Sensen, I wasn't immediately sucked into the world being built and it was hard to get a sense of the characters. I'll definitely give it a few more episodes, but considering how long we've waited for Kekkai Sensen's final episode, I feel like Bones doesn't get any free passes on this one.
+
+__*Verdict* :: Could be destined for a holding pattern...__
 
 ![Omari no Seraph]({filename}/images/anime/2015/fall/owarinoseraphs2_pv.jpg "Omari no Seraph"){: .center}
 ![Wit]({filename}/images/anime/studios/wit.png "Wit"){: .center}
@@ -89,10 +91,9 @@ __*Verdict* :: Cursor on the Drop Button__
 
 __*Verdict* :: Can now finish Season 1__
 
-## Haikyuu!! 2
 ![Haikuu]({filename}/images/anime/2015/fall/haikyuus2_pv.jpg "Haikuu"){: .center}
 ![Production IG]({filename}/images/anime/studios/production_ig.jpg "Production IG"){: .center}
 
-Like with [Baby Steps 2 TODO](http://) in the spring, I stumbled into a sports anime which I never thought I'd watch.  However, the enthusiasm fans seem to have for this show made me curious so I went back and started with the first season; and I'm very glad I did.  Where as Baby Steps has a single protagonist (because of the sport... but wouldn't you like to see a spin-off with mixed doubles?), this seems like it will be more team dynamics focused which could open a lot of avenues for interesting story telling.  I do think I'm going to miss having any women in the supporting cast (or hell, it might have been better focusing on a women's volleyball team), but only time will tell where they end up going.  All in all, I'm very glad I decided to give season 1 a try and will be making my way through.
+[Haikyuu 2](https://hummingbird.me/anime/haikyuu-2) <br/> Like with [Baby Steps 2 TODO](http://) in the spring, I stumbled into a sports anime which I never thought I'd watch.  However, the enthusiasm fans seem to have for this show made me curious so I went back and started with the first season; and I'm very glad I did.  Where as Baby Steps has a single protagonist (because of the sport... but wouldn't you like to see a spin-off with mixed doubles?), this seems like it will be more team dynamics focused which could open a lot of avenues for interesting story telling.  I do think I'm going to miss having any women in the supporting cast (or hell, it might have been better focusing on a women's volleyball team), but only time will tell where they end up going.  All in all, I'm very glad I decided to give season 1 a try and will be making my way through.
 
-__*Verdict* :: Currently binging to catch up__
+__*Verdict* :: Currently binging Season 1 to catch up__
