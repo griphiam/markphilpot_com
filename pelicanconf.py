@@ -66,6 +66,11 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 PROJECTS = [
     {
+        'name': 'DaedaFusion OSS',
+        'url': 'https://github.com/daedafusion',
+        'description': 'Plugable component architecture'
+    },
+    {
         'name': 'TriAxis Editor',
         'url': 'http://triaxiseditor.com',
         'description': 'Web config editor for the Mesa Boogie TriAxis'
