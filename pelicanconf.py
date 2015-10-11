@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+DEBUG = True
+
 AUTHOR = u'Mark Philpot'
 SITENAME = u'markphilpot.com'
 SITEURL = ''

@@ -1,6 +1,6 @@
 Title: Anime Fall 2015 - First Impressions
 Date: 2015-10-09 21:30:00
-Tags: anime
+Tags: anime, first impressions
 Category: anime
 Slug: anime_2015_fall_first
 Summary: First Impressions of the Anime Fall 2015 Season
@@ -10,7 +10,7 @@ So this is my inaugural anime post that I really meant to do for the Summer seas
 By way of introduction, I use [Hummingbird](https://hummingbird.me) to keep tabs on by anime "todo" list and you can follow me [here](https://hummingbird.me/users/mphilpot). The interface is by far superior to [MAL](http://myanimelist.net) which is probably a post in and of itself.
 
 ![One Punch Man]({filename}/images/anime/2015/fall/onepunch_pv.jpg "One Punch Man"){: .center}
-![Madhouse]({filename}/images/anime/studios/madhouse.png "Madhouse"){: .center}
+![Madhouse]({filename}/images/anime/studios/madhouse.png "Madhouse"){: .studio}
 
 [One Punch Man](https://hummingbird.me/anime/one-punch-man) <br/> If you go based on the hype, this is the only show of the season.  Having never heard of the manga before the anime crossed my radar, I really knew nothing of this other than the single line synopsis.  I've been a fan of Madhouse's most recent work ([Death Parade](https://hummingbird.me/anime/death-parade), [Ore Monogatari!!](https://hummingbird.me/anime/ore-monogatari)) the last few seasons so I was looking forward to seeing what the hype was about.  An episode in, I have high hopes.
 
@@ -19,7 +19,7 @@ The animation is fantastic (almost like Madhouse got together with Trigger) and 
 __*Verdict* :: Binge if I could__
 
 ![Heavy Object TODO]({filename}/images/anime/2015/fall/heavyobject_pv.jpg "Heavy Object"){: .center}
-![JC Staff]({filename}/images/anime/studios/jc_staff.png "JC Staff"){: .center}
+![JC Staff]({filename}/images/anime/studios/jc_staff.png "JC Staff"){: .studio}
 
 [Heavy Object](https://hummingbird.me/anime/heavy-object) <br/> Going into this season, I was genuinely excited for this one. The writer is Kazuma Kamachi, writer of [Toaru Majutsu no Index](https://hummingbird.me/anime/toaru-majutsu-no-index) and [Toaru Kagaku no Railgun](https://hummingbird.me/anime/toaru-kagaku-no-railgun), two shows I throughly enjoyed. Those shows had fantastic characters and great world building. But after episode 1?  Meh?
 
@@ -28,7 +28,7 @@ Granted the first episode was heavy on backstory, but just found myself bored by
 __*Verdict* :: 3 Episode Rule Jeopardy__
 
 ![Sakurako]({filename}/images/anime/2015/fall/sakurako-san_pv.jpg "Sakurako"){: .center}
-![TROYCA]({filename}/images/anime/studios/troyca.png "TROYCA"){: .center}
+![TROYCA]({filename}/images/anime/studios/troyca.png "TROYCA"){: .studio}
 
 [Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru](https://hummingbird.me/anime/sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru) <br/> The last to air for the fall season, this could be promising or it could be a very awkward triangle relationship between an engaged couple and a high school student. I'd admit the dynamic between the two main characters has some good back and forth and it doesn't dive head first into awkwardness based on the age difference. This will be either a "murder mystery of the week" with some punchy dialog between the characters, or an over the top sordid exploration of the relationship between an older woman and underage teenager.
 
@@ -49,14 +49,14 @@ __*Verdict* :: Hopeful__
 __*Verdict* :: Already dropped__
 
 ![Hacka Doll]({filename}/images/anime/2015/fall/hackadoll_pv.jpg "Hacka Doll"){: .center}
-![Trigger]({filename}/images/anime/studios/trigger.png "Trigger"){: .center}
+![Trigger]({filename}/images/anime/studios/trigger.png "Trigger"){: .studio}
 
 [Hacka Doll The Animation](https://hummingbird.me/anime/hacka-doll-the-animation) <br/> The only reason this is on anyone's radar for this season is the studio attached to it.  I loved [Kill la Kill](https://hummingbird.me/anime/kill-la-kill) and was really hoping for more [Little Witch Academia](https://hummingbird.me/anime/little-witch-academia) (no, I haven't had a chance yet to watch the [movie](https://hummingbird.me/anime/little-witch-academia-2)). But oh boy does this seem like a wasted effort. I guess the only saving grace is that it truly does turn out to be a dud, it was only a series of shorts.
 
 __*Verdict* :: Cursor on the Drop Button__
 
 ![Utawarerumono]({filename}/images/anime/2015/fall/utawarerumono_pv.jpg "Utawarerumono"){: .center}
-![White Fox]({filename}/images/anime/studios/white_fox.png "White Fox"){: .center}
+![White Fox]({filename}/images/anime/studios/white_fox.png "White Fox"){: .studio}
 
 [Utawarerumono: Itsuwari No Kamen](https://hummingbird.me/anime/utawarerumono-itsuwari-no-kamen) <br/> File this under "complete unknown" and "somewhat promising." I actually appreciate that the show just drops in the audience without explaining any of context of the world the protagonist finds himself in (unlike some other shows I could name *cough* Heavy Object *cough*). My one gripe is that it's a continuation of a lazy (but theoretically competant) male lead trope. It really would be nice to have a show with this tone that was gender flipped.  The saving grace is that the female supporting character seems like the "sweet but kick-ass type" -- I hope anyway.
 
@@ -70,7 +70,7 @@ __*Verdict* :: Hoping to enjoy__
 __*Verdict* :: We'll see where this goes__
 
 ![Asterisk]({filename}/images/anime/2015/fall/gakusen_pv.jpg "Asterisk"){: .center}
-![A1]({filename}/images/anime/studios/a1.png "A1"){: .center}
+![A1]({filename}/images/anime/studios/a1.png "A1"){: .studio}
 
 [Gakusen Toshi Asterisk](https://hummingbird.me/anime/gakusen-toshi-asterisk) <br/> What. The. *Hell*?! You could literally run Asterisk and Cavalry side by side, and they *literally* would be identical.  Shot for shot.  Hell, even the dialog could have been copied. I just happened to watch these two back to back and had to stop and check that I hadn't accidentally played the same episode twice. *Mind Blown*
 
@@ -86,22 +86,22 @@ __*Verdict* :: Cursor on the Drop Button__
 __*Verdict* :: Cursor on the Drop Button__
 
 ![Concrete Revolutio]({filename}/images/anime/2015/fall/concrete_pv.jpg "Concrete Revolutio"){: .center}
-![Bones]({filename}/images/anime/studios/bones.png "Bones"){: .center}
+![Bones]({filename}/images/anime/studios/bones.png "Bones"){: .studio}
 
 [Concrete Revolutio: Choujin Gensou](https://hummingbird.me/anime/concrete-revolutio-choujin-gensou) <br/> What do you get when you cross [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) with [Rolling Girls](https://hummingbird.me/anime/the-rolling-girls)? I'm not exactly sure either, but Concrete Revolutio would be my best guess. Unlike Kekkai Sensen, I wasn't immediately sucked into the world being built and it was hard to get a sense of the characters. I'll definitely give it a few more episodes, but considering how long we've waited for Kekkai Sensen's final episode, I feel like Bones doesn't get any free passes on this one.
 
 __*Verdict* :: Could be destined for a holding pattern...__
 
 ![Omari no Seraph]({filename}/images/anime/2015/fall/owarinoseraphs2_pv.jpg "Omari no Seraph"){: .center}
-![Wit]({filename}/images/anime/studios/wit.png "Wit"){: .center}
+![Wit]({filename}/images/anime/studios/wit.png "Wit"){: .studio}
 
 [Owari no Seraph 2](https://hummingbird.me/anime/owari-no-seraph-nagoya-kessen) <br/> A so-so series from two seasons ago, I held off finishing once I heard there was going to be a second season.
 
 __*Verdict* :: Can now finish Season 1__
 
 ![Haikuu]({filename}/images/anime/2015/fall/haikyuus2_pv.jpg "Haikuu"){: .center}
-![Production IG]({filename}/images/anime/studios/production_ig.jpg "Production IG"){: .center}
+![Production IG]({filename}/images/anime/studios/production_ig.jpg "Production IG"){: .studio}
 
-[Haikyuu 2](https://hummingbird.me/anime/haikyuu-2) <br/> Like with [Baby Steps 2 TODO](http://) in the spring, I stumbled into a sports anime which I never thought I'd watch.  However, the enthusiasm fans seem to have for this show made me curious so I went back and started with the first season; and I'm very glad I did.  Where as Baby Steps has a single protagonist (because of the sport... but wouldn't you like to see a spin-off with mixed doubles?), this seems like it will be more team dynamics focused which could open a lot of avenues for interesting story telling.  I do think I'm going to miss having any women in the supporting cast (or hell, it might have been better focusing on a women's volleyball team), but only time will tell where they end up going.  All in all, I'm very glad I decided to give season 1 a try and will be making my way through.
+[Haikyuu 2](https://hummingbird.me/anime/haikyuu-2) <br/> Like with [Baby Steps 2](https://hummingbird.me/anime/baby-steps-2) in the spring, I stumbled into a sports anime which I never thought I'd watch.  However, the enthusiasm fans seem to have for this show made me curious so I went back and started with the first season; and I'm very glad I did.  Where as Baby Steps has a single protagonist (because of the sport... but wouldn't you like to see a spin-off with mixed doubles?), this seems like it will be more team dynamics focused which could open a lot of avenues for interesting story telling.  I do think I'm going to miss having any women in the supporting cast (or hell, it might have been better focusing on a women's volleyball team), but only time will tell where they end up going.  All in all, I'm very glad I decided to give season 1 a try and will be making my way through.
 
 __*Verdict* :: Currently binging Season 1 to catch up__
