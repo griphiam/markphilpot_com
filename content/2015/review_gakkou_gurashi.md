@@ -1,12 +1,10 @@
-Title: Review: Gakkou Gurashi!!
+Title: Review: Gakkou Gurashi!
 Date: 2015-10-09 21:30:00
 Tags: anime, review
 Category: anime
 Slug: review_gakkou_gurashi
 Summary: Review of Gakkou Gurashi!!
 status: draft
-
-http://animutank.com/anime/summer-2015-season-anime-preview/
 
 ![Gakkou Gurashi!]({filename}/images/anime/2015/summer/gakkougurashi_pv.jpg){: .center}
 ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
@@ -37,9 +35,9 @@ If you haven't seen this yet, preserve your ignorance a bit longer and at least 
     ┳┻| ⊂ﾉ   
     ┻┳|
 
-## Summary
+## Prologue
 
-I understand the difficulties in generating a synopsis for a show like this. I'm assuming [Mahou Shoujo Madoka★Magica]() had the same issue: how to let people know not to completely judge the show based on the promotion material.  However, that being said I have a bone to pick.
+I understand the difficulties in generating a synopsis for a show like this. I'm assuming [Mahou Shoujo Madoka★Magica](https://hummingbird.me/anime/mahou-shoujo-madoka-magica) had the same issue: how to let people know not to completely judge the show based on the promotional material.  However, that being said I have a bone to pick.
 
 Here's the synopsis from ANN:
 
@@ -57,14 +55,24 @@ Anyway, back to Gakkou. Thankfully there are more twists and turns throughout th
 
 ## Story & Characters
 
+On the surface, this appears to be nothing more than a moe inspired high school slice-of-life. Only at the end of the first episode does the first twist reveal itself (unfortunatley only for those who managed to avoid the introductory synopsis). The story takes place exclusively at a high school (except for one brief field trip) and surprisingly it doesn't feel boring or claustrophobic.
+
+The characters all have distinct personalities and temperaments that add some complexity while not feeling forced and over the top. The way the crew deals with Yuki and what she is going through is both touching and to a certain extent understandable (rather than convenient as a plot device).
+
 ## Animation
+
+This is where I feel this show excels (though I don't think many others feel this way). On the surface you have a very stylized moe character design and call out facial reactions that present a normal slice of life high school show. The moment the zombies are introduced and the real condition of the school is revealed, it really is like a bubble bursting. If you've seen the show already, I actually recommend going back and watching the first few episodes.  You will notice how much detail there is in the background shots that are subtle enough the first time around they don't arouse suspicion.
 
 ## Music & Sound
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218144691&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-The opening was a fantastic contrast to the dark nature of the show. The first five seconds of the song drop a hint before the happy melody takes over, and then after the first episode, the destruction beginning to seep through. I thought it was brilliantly done.
+The opening was a fantastic contrast to the dark nature of the show. The first five seconds of the song drop a hint before the happy melody takes over, and then after the first episode, the destruction beginning to seep through the opening's animation. I thought it was brilliantly done.
 
-I also loved that they changed up the ending songs to really add punch to the final scene of the episode.
+I also loved that they changed up the ending songs in a few episodes to really add punch to the final scene.
 
 Finally, a special shout out for the sound design when the zombies are on screen. Combined with the visual obscurity, the darkness and zombies gave weight to how scary this situation would be.
+
+## Final Thoughts
+
+The last thought that comes to mind is "Who manages to execute better? Madoka or Gakkou?"  Granted they are very different shows, and I still would give the edge to Madoka, but it really speaks to the strengths of Gakkou it is even a possible comparison.
