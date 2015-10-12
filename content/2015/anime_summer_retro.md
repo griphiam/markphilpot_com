@@ -4,7 +4,6 @@ Tags: anime, retro
 Category: anime
 Slug: anime_2015_summer_retro
 Summary: Retrospective of the Summer 2015 Anime Season
-status: draft
 
 Welcome to my first attempt at an anime season retrospective. Some ground rules before we get started.
 
