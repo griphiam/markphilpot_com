@@ -98,9 +98,11 @@ Speaking of which, while I think the characters and plot fell flat, the animatio
 ![Ranpo]({filename}/images/anime/2015/summer/ranpo_pv1.jpg){: .center}
 ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
 
-[Ranpo Kitan: Game of Laplace](https://hummingbird.me/anime/ranpo-kitan-game-of-laplace) ![star]({filename}/images/rating/full_star_trans.png){: .star}![star]({filename}/images/rating/full_star_trans.png){: .star}![star]({filename}/images/rating/full_star_trans.png){: .star}![star]({filename}/images/rating/empty_star_trans.png){: .star}![star]({filename}/images/rating/empty_star_trans.png){: .star} *Almost Done*
+[Ranpo Kitan: Game of Laplace](https://hummingbird.me/anime/ranpo-kitan-game-of-laplace) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/empty_star.png){: .star} *Almost Done*
 
 I have a few more episodes to go on this one. This is a dark, murder mystery of the week type of show... the type of show that I appreciate but have to be in the mood to watch an episode. The story telling is quite good and there is enough comedy sprinkled in so that the darkness isn't super depressing. Oh, and this show completed the ying-yang with Aoharu with the MC being a very feminine male lead.
+
+*Update:* Finally finished the show and **wow** that was a great ending. It really shows how much an ending to a series can swing your opinion. Definitely recommend. The first half is essentially introductions and laying the ground work. The show gets it's legs in the second half and screams to the finish.
 
 ![Dandelion]({filename}/images/anime/2015/summer/dandelion_pv1.jpg){: .center}
 [Production IMS](http://){: .center .link-nb}
