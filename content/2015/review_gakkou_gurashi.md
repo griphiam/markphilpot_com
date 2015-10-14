@@ -55,13 +55,15 @@ Anyway, back to Gakkou. Thankfully there are more twists and turns throughout th
 
 ## Story & Characters
 
-On the surface, this appears to be nothing more than a moe inspired high school slice-of-life. Only at the end of the first episode does the first twist reveal itself (unfortunatley only for those who managed to avoid the introductory synopsis). The story takes place exclusively at a high school (except for one brief field trip) and surprisingly it doesn't feel boring or claustrophobic.
+![Cast]({filename}/images/anime/2015/summer/gakkou_gurashi/cast.jpg){: .center}
 
-The characters all have distinct personalities and temperaments that add some complexity while not feeling forced and over the top. The way the crew deals with Yuki and what she is going through is both touching and to a certain extent understandable (rather than convenient as a plot device).
+On the surface, this appears to be nothing more than a moe inspired high school slice-of-life. We're introduced to the four girls going about their day at school. Only at the end of the first episode does the first twist reveal itself (unfortunatley only for those who managed to avoid the introductory synopsis). The story takes place exclusively at a high school (except for one brief field trip) and surprisingly it doesn't feel boring or claustrophobic.
+
+The characters all have distinct personalities and temperaments that add some complexity while not feeling forced and over the top. The design of Kurumi alone caused a complete sell out of that particular shovel. The way the crew deals with Yuki and what she is going through is both touching and to a certain extent understandable (rather than convenient as a plot device).
 
 ## Animation
 
-This is where I feel this show excels (though I don't think many others feel this way). On the surface you have a very stylized moe character design and call out facial reactions that present a normal slice of life high school show. The moment the zombies are introduced and the real condition of the school is revealed, it really is like a bubble bursting. If you've seen the show already, I actually recommend going back and watching the first few episodes.  You will notice how much detail there is in the background shots that are subtle enough the first time around they don't arouse suspicion.
+This is where I feel this show excels (though I don't think many others will feel this way). On the surface you have a very stylized moe character design and call out facial reactions that present a normal slice of life high school show. The moment the zombies are introduced and the real condition of the school is revealed, it really is like a bubble bursting. If you've seen the show already, I actually recommend going back and watching the first few episodes.  You will notice how much detail there is in the background shots that are subtle enough the first time around they don't arouse suspicion.
 
 ## Music & Sound
 
@@ -71,8 +73,16 @@ The opening was a fantastic contrast to the dark nature of the show. The first f
 
 I also loved that they changed up the ending songs in a few episodes to really add punch to the final scene.
 
+![Yuki]({filename}/images/anime/2015/summer/gakkou_gurashi/yuki.jpg){: .center}
+
 Finally, a special shout out for the sound design when the zombies are on screen. Combined with the visual obscurity, the darkness and zombies gave weight to how scary this situation would be.
 
 ## Final Thoughts
 
 The last thought that comes to mind is "Who manages to execute better? Madoka or Gakkou?"  Granted they are very different shows, and I still would give the edge to Madoka, but it really speaks to the strengths of Gakkou it is even a possible comparison.
+
+![Cast Sunset]({filename}/images/anime/2015/summer/gakkou_gurashi/cast_sunset.jpg){: .center}
+
+The ending had hints there might be more to come, but it could also mean I need to find the manga to see what happens next. This type of ending I love -- wrap it up so there is a satisfying conclusion, but hint there may be more and see if you can drum up support.
+
+In the end, I hope you took my advice and watched the series before finishing this post and really enjoyed all Gakkou Gurashi had to offer.
