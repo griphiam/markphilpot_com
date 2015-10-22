@@ -29,7 +29,7 @@ Charlotte is a product of a collaboration between PA Works and Key ([Clannad](ht
 
 PA Works doesn't disappoint (again). The character design is closer to that of Clannad than Angel Beats but all around it's another solid entry in the studio's portfolio. But the animation was never the issue.
 
-Charlotte is like to different anime's concatenated together. If you commit to it, this show has a dramatically different second half. The feel, tempo and pacing are night and day, however the back half feels extremely rushed (especially when you get to the final episode). What saves it is that despite the flaws in the second half, the show manages to turn around a very tepid opening six episodes.
+Charlotte is like two different anime's concatenated together. If you commit to it, this show has a dramatically different second half. The feel, tempo and pacing are night and day, however the back half feels extremely rushed (especially when you get to the final episode) and many of the side characters get discarded in the process. What saves it is that despite the flaws in the second half, the show manages to turn around a very tepid opening six episodes.
 
 I also have to give credit for the character arc of Yuu (minus the last episode) -- Going from a stuck-up little prick to a genuinely compassionate human being was an incredible feat and one I didn't think could happen when the show started.
 
@@ -39,7 +39,7 @@ I also have to give credit for the character arc of Yuu (minus the last episode)
 
 The show's OP *Bravely You* is out of this world. Combined with great visuals, the entire opening is what single handedly kept me from dropping the show at the outset.
 
-While the OST didn't really resonate with me while I was watching it, there is actually a nice "concert" in the middle of the second act that is quite good.
+While the OST didn't really resonate with me while I was watching it, there is actually a nice "concert" in the middle of the second act that is quite good and doesn't feel contrived.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223043352&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -47,6 +47,8 @@ It really resonates with the mood of the second act and feels very Angel Beats i
 
 ## Final Thoughts
 
+Most everyone has pegged the final episode as a complete clusterfuck -- and they aren't too far off. Many rants were born upon that episode airing. There is a shred of payoff at the end, but they could have done a rather awesome second cour with just the contents of the last episode.
+
 ![Tomori]({filename}/images/anime/2015/summer/charlotte/tomori.jpg){: .center}
 
-Ultimately this show is worth your time. I don't think it's better than Angel Beats, but it's in that same vein, and if you enjoyed that one, stick out the first half and you'll definitely be rewarded.
+Ultimately this show is worth your time. I don't think it's better than Angel Beats, but its in that same vein, and if you enjoyed that one, stick out the first half and you'll definitely be rewarded.
