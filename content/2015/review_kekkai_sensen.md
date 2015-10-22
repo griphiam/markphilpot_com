@@ -1,4 +1,4 @@
-Title: Review: Kekkai Sensen
+Title: Kekkai Sensen
 Date: 2015-10-18 12:00:00
 Tags: anime, review
 Category: anime

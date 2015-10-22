@@ -1,4 +1,4 @@
-Title: Review: Gakkou Gurashi!
+Title: Gakkou Gurashi!
 Date: 2015-10-14 12:30:00
 Tags: anime, review
 Category: anime

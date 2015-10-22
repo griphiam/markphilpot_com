@@ -1,4 +1,4 @@
-Title: Review: Bakemonogatari
+Title: Bakemonogatari
 Date: 2015-10-30 12:00:00
 Tags: anime, review
 Category: anime

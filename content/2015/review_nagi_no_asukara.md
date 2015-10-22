@@ -1,10 +1,9 @@
-Title: Review: Nagi no Asukara
-Date: 2015-10-20 12:00:00
+Title: Nagi no Asukara
+Date: 2015-10-21 12:00:00
 Tags: anime, review
 Category: anime
 Slug: review_nagi_no_asukara
 Summary: Review of Nagi no Asukara
-status: draft
 
 ![Nagi no Asukara]({filename}/images/anime/2013/fall/nagi_no_asukara/pv.jpg){: .center}
 ![PA]({filename}/images/anime/studios/pa_works.png){: .studio}
@@ -53,7 +52,7 @@ The main story revolves around a group of middle-school teenagers and how they d
 
 The writer for *Asukara* is [Mari Okada](https://en.wikipedia.org/wiki/Mari_Okada) and if you don't know that name, take note: she is also the writer for [Toradora!](https://hummingbird.me/anime/toradora) and [Anohana](https://hummingbird.me/anime/anohana-the-flower-we-saw-that-day) (among many others). A web of relationships is almost expected given her pedigree.
 
-After the first cour, an event takes place that splits up our cast of characters.  Five years later, the graph has evolved into this:
+After the first cour, an event takes place that splits up our cast.  Five years later, the graph has evolved into this:
 
 ![Mid]({filename}/images/anime/2013/fall/nagi_no_asukara/mid.png){: .center}
 
@@ -61,7 +60,7 @@ While the show does deal with some serious topics (racisism), it really only mak
 
 ![Mid]({filename}/images/anime/2013/fall/nagi_no_asukara/meeting.jpg){: .center}
 
-At times I felt very frustrated due to the "obliviousness" of some of the characters. It wasn't as bad as conflict created because the characters are constantly misunderstanding each other which I usually find insufferable. The focus of some characters and the reticence of others matched their personalities, so the frustration was believable and real.
+At times I felt very frustrated due to the "obliviousness" of some of the characters. It wasn't as bad as artificial conflict created because the characters are constantly misunderstanding each other which I usually find insufferable. The focus of some characters and the reticence of others matched their personalities, so the frustration wasn't quite as contrived and forced as it could have been.
 
 ## Music & Sound
 
@@ -75,9 +74,13 @@ The first OP set the stage well. *Lull* matches the initial innocence of the wor
 
 The OST matches the animation, atmosphere and story perfectly. Simple in all the right places and really added to the overall experience.
 
+Finally, a shout out to the sound designers -- the underwater sets were brilliantly done. I don't know how they did it, but they managed to convey that same sensation you hear when it's showing outside -- a blanket dampening, combined with the creaking of the ocean was a wonderful effect.
+
 ## Final Thoughts
 
-Thankfully this is not a romance anime that fails to give any resolution to the relationships being built. It took me longer to finish this that it should have -- 26 episodes is really a lot when current shows are usually given only a single cour. If you're interested, here's the [graph]({filename}/images/anime/2013/fall/nagi_no_asukara/final.png) on how everyone ended up.
+Thankfully this is not a romance anime that fails to give any resolution to the relationships. However, like most romance anime, all the time is spent dancing around one another and there is no screen time allotted to the characters actually being *in* the relationships.
+
+It took me longer to finish this that it should have -- 26 episodes is really a lot when current shows are usually given only a single cour. If you're interested, here's the [graph]({filename}/images/anime/2013/fall/nagi_no_asukara/final.png) on how everyone ended up.
 
 I loved this show and I'm sad there isn't more story for me to experience with these characters.
 
