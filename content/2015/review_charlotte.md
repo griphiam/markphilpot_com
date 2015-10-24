@@ -13,7 +13,7 @@ status: draft
 
 I almost skipped this one. The first few episodes felt like a high school version of *Quantum Leap* (albiet very nice to watch). Not thinking it would end up going anywhere, I put it on hold for about 3/4 of the summer season. A few sites I follow kept posting episode discussions on this show and I couldn't fathom why.
 
-Anyway, during a week when I had caught up on everything, I decided in delve back into Charlotte... and then I watched episode six.
+Anyway, during a week when I had caught up on everything else, I decided in delve back into Charlotte... and then I watched episode six.
 
 ## Story, Characters, & Animation
 
