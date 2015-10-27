@@ -1,6 +1,6 @@
 SearchReplace: $SHOW_NAME, $SHOW_SLUG, $STUDIO, $YEAR, $SEASON, $PV_IMG, $STUDIO_LOGO
 
-Title: Review: $SHOW_NAME
+Title: $SHOW_NAME
 Date: 2015-xx-xx xx:xx:00
 Tags: anime, review
 Category: anime

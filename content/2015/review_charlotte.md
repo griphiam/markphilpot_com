@@ -1,10 +1,9 @@
 Title: Charlotte
-Date: 2015-10-30 12:00:00
+Date: 2015-10-26 12:00:00
 Tags: anime, review
 Category: anime
 Slug: review_charlotte
 Summary: Review of Charlotte
-status: draft
 
 ![Charlotte]({filename}/images/anime/2015/summer/charlotte_pv2.jpg){: .center}
 ![PA Works]({filename}/images/anime/studios/pa_works.png){: .studio}
@@ -21,7 +20,7 @@ I'll let Aniplex give the summary:
 
 >In a world where children have a chance to develop special powers upon reaching puberty. Otosaka Yuu is one such child, choosing to live a relatively normal, satisfying life despite possessing an ability to control others’ bodies for a short period of time. One day, Yuu is suddenly approached by Tomori Nao, another child with special powers. Their meeting sets the stage for a story about growth, their many experiences, and a cruel fate that links the two. A routine life changes to one filled with the unexpected, a promise to return home becoming their only guide down an uncertain road.
 
-tl;dr -- [X-Men the Animation](https://youtu.be/itLS__hFqXk?t=346)
+tl;dr :: [X-Men the Animation](https://youtu.be/itLS__hFqXk?t=346)
 
 ![Cast]({filename}/images/anime/2015/summer/charlotte/main_characters.jpg){: .center}
 
@@ -29,7 +28,7 @@ Charlotte is a product of a collaboration between PA Works and Key ([Clannad](ht
 
 PA Works doesn't disappoint (again). The character design is closer to that of Clannad than Angel Beats but all around it's another solid entry in the studio's portfolio. But the animation was never the issue.
 
-Charlotte is like two different anime's concatenated together. If you commit to it, this show has a dramatically different second half. The feel, tempo and pacing are night and day, however the back half feels extremely rushed (especially when you get to the final episode) and many of the side characters get discarded in the process. What saves it is that despite the flaws in the second half, the show manages to turn around a very tepid opening six episodes.
+Charlotte is like two different anime's concatenated together. If you commit to it, this show has a dramatically different second half. The feel, tempo, and pacing are night and day, however the back half feels extremely rushed (especially when you get to the final episode) and many of the side characters get discarded in the process. What saves the show overall is that despite the flaws in the second half, the show manages to turn around a very tepid opening with emotion and drama.
 
 I also have to give credit for the character arc of Yuu (minus the last episode) -- Going from a stuck-up little prick to a genuinely compassionate human being was an incredible feat and one I didn't think could happen when the show started.
 
@@ -37,13 +36,13 @@ I also have to give credit for the character arc of Yuu (minus the last episode)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220473870&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-The show's OP *Bravely You* is out of this world. Combined with great visuals, the entire opening is what single handedly kept me from dropping the show at the outset.
+The show's OP *Bravely You* is fantastic. Combined with great visuals, the entire opening is what single handedly kept me from dropping the show at the outset.
 
 While the OST didn't really resonate with me while I was watching it, there is actually a nice "concert" in the middle of the second act that is quite good and doesn't feel contrived.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223043352&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-It really resonates with the mood of the second act and feels very Angel Beats inspired.
+It fits with the mood of the second act and feels very Angel Beats inspired.
 
 ## Final Thoughts
 

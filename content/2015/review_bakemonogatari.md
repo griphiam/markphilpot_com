@@ -17,7 +17,7 @@ There should be some consideration made to why the Monogatari series is as highl
 
 Thanks to the writing of Nisio Isin and the animation by Shaft, you have one of the most epic series in the history of anime (and that's no exageration). Bakemonogatari is where it all starts.
 
-While not the exact origin, it is the origin and formation of the group of girls surrounding our protagonist, Koyomi Araragi -- a recovering part-vampire highschool student who seems to attract supernatural possessed/haunted girls[ref]Even as I write this synopsis now, someone unfamiliar with Bake would shrug this off as just another harem show[/ref]. Koyomi has the help of Oshino Meme, a Hawaiian-shirt-wearing shaman who helped Koyomi return from full vampire a few months ago. 
+While not the exact origin, it is the origin and formation of the group of girls surrounding our protagonist, Koyomi Araragi -- a recovering part-vampire high school student who seems to attract supernatural possessed/haunted girls[ref]Even as I write this synopsis now, someone unfamiliar with Bake would shrug this off as just another harem show[/ref]. Koyomi has the help of Oshino Meme, a Hawaiian-shirt-wearing shaman who helped Koyomi return from full vampire a few months ago.
 
 ![cast]({filename}/images/anime/2009/bakemonogatari/cast.jpg){: .center}
 
@@ -41,7 +41,7 @@ The second girl we meet is Mayoi, a lost elementary school girl. This story incl
 
 ![Suruga]({filename}/images/anime/2009/bakemonogatari/suruga.jpg){: .center}
 
-Ah Suruga Kanbaru, the star of the highschool basketball team and underclassman to Koyomi and Senjogahara.
+Ah Suruga Kanbaru, the star of the high school basketball team and underclassman to Koyomi and Senjogahara.
 
 ### Nadeko Snake
 
@@ -54,5 +54,7 @@ Nadeko is a friend of Koyomi's twin sisters, Karen and Tsukihi.
 ![Tsubasa]({filename}/images/anime/2009/bakemonogatari/tsubasa.jpg){: .center}
 
 ## Music & Sound
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/10092183&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## Final Thoughts
