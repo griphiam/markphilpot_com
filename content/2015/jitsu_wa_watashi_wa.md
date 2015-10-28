@@ -1,5 +1,5 @@
 Title: Jitsu wa Watashi wa
-Date: 2015-11-27 12:00:00
+Date: 2015-10-27 12:00:00
 Tags: anime, review
 Category: anime
 Slug: review_jitsu_wa_watashi_wa
