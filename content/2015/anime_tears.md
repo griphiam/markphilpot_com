@@ -1,10 +1,9 @@
 Title: Induced Tears
-Date: 2015-10-30 12:00:00
+Date: 2015-11-04 12:00:00
 Tags: anime,
 Category: anime
 Slug: tears
 Summary: Anime that have made a grown man weep
-status: draft
 
 Any medium has the potential. So submerged in the story & characters you find yourself totally taken emotionally.
 
@@ -22,6 +21,10 @@ Below is collection of anime whose story and characters packed a huge emotional 
 
 The most recent show on this list is here because of its emotional range -- cute moe, fear, desperation, loss... It truly ran the gamut and that roller coaster made it's gut punches that much more effective.
 
+The realization of reality that Yuki goes through (almost like a loss of innocence) is really heart breaking *because* she was this foundation for the rest of the girls even if it was just their desire to not let reality pop that bubble.
+
+That and that damn dog...
+
 ### Toradora!
 
 ![Taiga]({filename}/images/2015/tears/tiaga.jpg){: .center}
@@ -30,7 +33,7 @@ Christmas Eve. If you've seen this show, you know the scene of which I speak.
 
 Toradora has the best execution of this style of romantic triangle evolution. The chemistry between Ryuuji and Taiga builds up to the events after the Christmas party and it truly is soul crushing when realization of how she really feels washes over her.
 
-The softening here is that there are still five or so more episodes after that point to pull you back out of the emotional hole.
+Thankfully, the punch is pulled a bit here since there are still five or so more episodes after that point to pull you back out of the emotional hole.
 
 ### Angel Beats!
 
@@ -38,11 +41,9 @@ The softening here is that there are still five or so more episodes after that p
 
 I kind of knew what was coming from a few episodes in -- as each supporting character "moved on" I knew what might be in store at the end.  What I didn't know was how they were going to deliver that blow.
 
-Turns out, very effectively.
-
 They are all dead after all... how could the knowledge of how they got there significantly change things? Well, this show proves (and is topped by a show further down the list) that reasons do matter.
 
-I watched this show significantly after it aired, so bits and pieces had filtered in, so I don't think the end hit as hard as it might have.
+I watched this show significantly after it aired and bits and pieces had filtered in, so I don't think the end hit as hard as it might have.
 
 # Real Tears
 
@@ -52,13 +53,17 @@ I watched this show significantly after it aired, so bits and pieces had filtere
 
 From the moment you start this show, you know there is going to be hard gut punch at the end. Hell, even the first episode manages to crush your soul and that is for two characters you barely even know yet.
 
-I enjoyed the fact that there were no frills or gimmicks in the story. You knew (or could guess) the destination -- it was just a matter of the journey getting there. There was a lot of potential for trite cliches throughout and I think they managed to avoid a lot of pitfalls.
+I enjoyed the fact that there were no frills or gimmicks in the story. You knew (or could guess) the destination -- it was just a matter of the journey getting there. There was a lot of potential for trite cliches throughout and I think they managed to avoid a lot of pitfalls. The audience really grew to love Tsukasa and Isla even though everyone knew from the start that there was a time limit to their relationship (and both sides know it going into it and yet still choose to make the effort).
 
-Man, I will never look at ferris wheels the same way again.
+I will never look at ferris wheels the same way again, however.
 
 ### Death Parade
 
 ![Parade]({filename}/images/2015/tears/dp.jpg){: .center}
+
+The premise of this show is to deliver multiple gut checks throughout the season, and Madhouse did a fantastic job quickly introducing two new characters each week and weave a narrative that resulted in some epic scenes.
+
+However, the penultimate feels train goes to the unnamed dark-haired women who is Decim's companion. While we don't get her backstory until the very end, I was very emotionally invested in *why* she was there, since the show makes it plain she is human while Decim and the others clearly aren't. The reveal definitely doesn't disappoint in the feels department.
 
 # Complete & Total Emotional Wreck
 
