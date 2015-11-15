@@ -110,11 +110,12 @@ SITESUBTITLE = '"You simian-descended, equivocating, pronoun-starved little mort
 
 INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING = True
 HUMMINGBIRD_USERNAME = 'mphilpot'
+HUMMINGBIRD_API_KEY = '0084bb364f1201c86837'
 
 if INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING:
     import requests
 
-    r = requests.get('http://hummingbird.me/api/v1/users/%s/library?status=currently-watching' % HUMMINGBIRD_USERNAME)
+    r = requests.get('https://hummingbird.me/api/v1/users/%s/library?status=currently-watching' % HUMMINGBIRD_USERNAME)
     try:
         r.raise_for_status()
         shows = r.json()
