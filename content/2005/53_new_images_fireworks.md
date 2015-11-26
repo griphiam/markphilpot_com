@@ -1,6 +1,6 @@
 Title: New Images - Fireworks
 Date: 2005-07-19 18:43:10
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: new_images_fireworks
 
@@ -13,5 +13,3 @@ This is one of my favorites because it almost looks like a star constellation or
 <wpgallery>photography/pano|1229-2|Monticello.jpg|Monticello|left</wpgallery>
 
 Prior to the fireworks, we gathered for a great BBQ in a park area in north Rock Creek.  Paul came out from Seattle for the weekend and Dave came up from North Carolina.  Sam and his girlfriend came down from Philadelphia as well but unfortunately Sam and Dave had to leave before the fireworks (work... ever the inconvenience).  I hadn't played croquet or ultimate in a very long time, so thanks guys!  I had a blast!  (And the BBQ turned out really well... once we reinvented how to make fire) =)
-
-<code><div style="clear:both;"></div></code>

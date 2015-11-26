@@ -1,6 +1,6 @@
 Title: by your powers combined
 Date: 2007-04-13 21:00:13
-Tags: imported
+Tags: imported, fix
 Category: linux
 Slug: by_your_powers_combined
 

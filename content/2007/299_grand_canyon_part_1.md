@@ -1,6 +1,6 @@
 Title: Grand Canyon (part 1)
 Date: 2007-10-03 10:58:40
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: grand_canyon_part_1
 

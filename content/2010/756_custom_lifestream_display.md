@@ -1,6 +1,6 @@
 Title: Custom Lifestream Display
 Date: 2010-02-15 22:28:26
-Tags: imported
+Tags: imported, fix
 Category: development
 Slug: custom_lifestream_display
 

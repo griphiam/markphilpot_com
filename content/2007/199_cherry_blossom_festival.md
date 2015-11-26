@@ -1,6 +1,6 @@
 Title: Cherry Blossom Festival
 Date: 2007-04-01 17:26:40
-Tags: imported
+Tags: imported,fix
 Category: photography
 Slug: cherry_blossom_festival
 

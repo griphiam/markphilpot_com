@@ -1,6 +1,6 @@
 Title: old picture posts
 Date: 2007-03-02 21:25:38
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: old_picture_posts
 

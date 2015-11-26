@@ -1,6 +1,6 @@
 Title: Golden Sunset
 Date: 2009-11-06 14:42:07
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: golden_sunset
 

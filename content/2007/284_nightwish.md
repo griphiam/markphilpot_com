@@ -10,10 +10,7 @@ A virtual unknown here in the States, <a href="http://www.nightwish.com">Nightwi
 
 <em>Update</em> -- Changed to youtube source
 
-<p class="center"><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/GdZn7k5rZLQ"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/GdZn7k5rZLQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
-
-
-><em>Amaranth</em>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/GdZn7k5rZLQ"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/GdZn7k5rZLQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
 >Baptised with a perfect name
 The doubting one by heart

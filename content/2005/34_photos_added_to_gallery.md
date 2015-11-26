@@ -1,6 +1,6 @@
 Title: Photos added to Gallery
 Date: 2005-04-27 19:54:23
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: photos_added_to_gallery
 

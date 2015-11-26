@@ -1,6 +1,6 @@
 Title: Skiing Self Portrait
 Date: 2010-01-02 12:30:40
-Tags: imported
+Tags: imported, fix
 Category: links
 Slug: skiing_self_portrait
 

@@ -1,6 +1,6 @@
 Title: Dreamfall : The Longest Journey
 Date: 2005-07-20 20:00:17
-Tags: imported
+Tags: imported, fix
 Category: games
 Slug: dreamfall_the_longest_journey
 
@@ -15,5 +15,3 @@ Though I don't own a Playstation, I reveled when they made Final Fantasy VII & V
 Dreamfall hopefully won't be pulled down by the hype (though I doubt many even know about it, really).  They released a video trailer for E3 (you can download it from the website).  The environments look incredible.  However, there has been no word on game play yet... Some interviews talk about trying to make a very different game, as there have been many knock offs of the <em>The Longest Journey</em>, they wanted to make something new.  Only time will tell if this is a good thing or not.
 
 As there is no release date yet, I don't know when I'll have the pleasure of playing <em>Dreamfall</em>.  (Hopefully won't be too long) =)  I'll send out a review when it does.
-
-<code><div style="clear:both;"></div></code>

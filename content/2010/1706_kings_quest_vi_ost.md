@@ -1,7 +1,7 @@
 Title: King's Quest VI OST
 Date: 2010-09-22 21:51:22
-Tags: imported
-Category: 
+Tags: imported, fix
+Category:
 Slug: kings_quest_vi_ost
 
 <img alt="Kings Quest VI: Heir Today, Gone Tomorrow" src="http://blog.mcstudios.net/wordpress/wp-content/uploads/HLIC/f326ab112b766e63d6b1d8794704f98f.jpg" title="Kings Quest VI: Heir Today, Gone Tomorrow" class="alignright" width="241" height="300" />

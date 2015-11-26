@@ -1,6 +1,6 @@
 Title: Safari v. Firefox
 Date: 2009-06-11 11:07:13
-Tags: imported
+Tags: imported, fix
 Category: software
 Slug: safari_v_firefox
 

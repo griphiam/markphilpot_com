@@ -1,6 +1,6 @@
 Title: a series of unfortunate frustrations
 Date: 2009-05-07 13:43:37
-Tags: imported
+Tags: imported, fix
 Category: linux
 Slug: a_series_of_unfortunate_frustrations
 

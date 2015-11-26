@@ -31,11 +31,11 @@ There is no elegant way of flooring or ceiling a date.  The following function i
 ```java
 public static Date floorDateToMonth( Date date )
 {
-Calendar cal = Calendar.getInstance();
-cal.setTime(date);
-// Zero out everything below month
-Date newDate = new Date(cal.get(Calendar.YEAR)-1900, cal.get(Calendar.MONTH)-1, 1, 0, 0, 0);
-return newDate;
+  Calendar cal = Calendar.getInstance();
+  cal.setTime(date);
+  // Zero out everything below month
+  Date newDate = new Date(cal.get(Calendar.YEAR)-1900, cal.get(Calendar.MONTH)-1, 1, 0, 0, 0);
+  return newDate;
 }
 ```
 

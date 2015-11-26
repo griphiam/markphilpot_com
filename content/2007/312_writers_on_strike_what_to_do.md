@@ -1,6 +1,6 @@
 Title: writers on strike... what to do?
 Date: 2007-11-12 09:40:32
-Tags: imported
+Tags: imported, fix
 Category: tv
 Slug: writers_on_strike_what_to_do
 

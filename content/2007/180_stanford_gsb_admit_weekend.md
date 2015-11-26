@@ -1,6 +1,6 @@
 Title: stanford GSB admit weekend
 Date: 2007-03-18 19:35:34
-Tags: imported
+Tags: imported, fix
 Category: stanford
 Slug: stanford_gsb_admit_weekend
 

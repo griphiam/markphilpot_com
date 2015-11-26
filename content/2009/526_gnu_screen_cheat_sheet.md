@@ -1,6 +1,6 @@
 Title: GNU Screen Cheat Sheet
 Date: 2009-05-03 22:41:23
-Tags: imported
+Tags: imported, fix
 Category: linux
 Slug: gnu_screen_cheat_sheet
 

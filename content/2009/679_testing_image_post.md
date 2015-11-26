@@ -1,6 +1,6 @@
 Title: Testing image post
 Date: 2009-11-06 10:23:32
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: testing_image_post
 

@@ -1,6 +1,6 @@
 Title: New Panoramas
 Date: 2006-01-26 21:03:20
-Tags: imported
+Tags: imported, fix
 Category: photography
 Slug: new_panoramas
 

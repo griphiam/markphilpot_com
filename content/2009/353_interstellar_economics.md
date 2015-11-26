@@ -1,6 +1,6 @@
 Title: interstellar economics
 Date: 2009-04-26 23:51:02
-Tags: imported
+Tags: imported, fix
 Category: space
 Slug: interstellar_economics
 

@@ -1,6 +1,6 @@
 Title: firefox corruption issue (w/ fix)
 Date: 2009-04-27 22:17:00
-Tags: imported
+Tags: imported, fix
 Category: linux
 Slug: firefox_corruption_issue_w_fix
 

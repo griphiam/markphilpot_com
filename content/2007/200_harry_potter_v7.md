@@ -30,8 +30,11 @@ Here are a few things I hope she does/doesn't do --
 </ul>
 </li>
 </ul>
-<h4>my theories</h4>
+
+## my theories
+
 Here are some of my theories as to what lies ahead in DH --
+
 <ul>
 	<li>RAB is not Regulus Black
 <ul>

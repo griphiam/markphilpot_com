@@ -10,4 +10,4 @@ I've put new pictures of Ann's family up in the picture section, so enjoy Ann's 
 
 Once again, I'll try to be better about this, but between this and the Fall Back forum, things get a little spread out...
 
-OH... its DAMN cold!  Thankfully I don't live a few hours north, but Ann's up in Boston this weekend, bearing the brunt of it.  <<SHIVER>>
+OH... its DAMN cold!  Thankfully I don't live a few hours north, but Ann's up in Boston this weekend, bearing the brunt of it.

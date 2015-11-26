@@ -4,10 +4,9 @@ Tags: imported
 Category: space
 Slug: space_shuttle_discovery
 
-<div style="float: right;"><a title="Launch Video" href="http://mfile.akamai.com/18565/wmv/etouchsyst2.download.akamai.com/18355//wm.nasa-global/sts-121/STS-121_launch.asx"><img alt="STS-121 -- Shuttle Discovery Takeoff" src="http://www.nasa.gov/images/content/151570main_best-top.jpg" /></a>
+<a title="Launch Video" href="http://mfile.akamai.com/18565/wmv/etouchsyst2.download.akamai.com/18355//wm.nasa-global/sts-121/STS-121_launch.asx"><img alt="STS-121 -- Shuttle Discovery Takeoff" src="http://www.nasa.gov/images/content/151570main_best-top.jpg" /></a>
 
 <em>STS-121 -- Shuttle Discovery (<a title="Launch" href="http://www.nasa.gov/mp4/151590main_121_launch_fixed_vodcast.mp4">download video</a>)</em>
-</div>
 
 As disappointed as I am with what <a title="National Aeronautics and Space Administration" href="http://www.nasa.gov">NASA</a> has done (or more accurately, hasn't done) since the 80's, there is still something awe inspiring about moving men and women into space, that I don't believe will ever get old. I am someone that can still watch <a href="http://www.imdb.com/title/tt0112384/" name="Huston, we have a problem...">Apollo 13</a> over and over because of the triumph that it represents.
 

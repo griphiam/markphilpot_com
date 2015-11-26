@@ -1,6 +1,6 @@
 Title: Mayan Riveria (part 1)
 Date: 2007-05-06 00:18:38
-Tags: imported
+Tags: imported, fix
 Category: travel
 Slug: mayan_riveria_part_1
 

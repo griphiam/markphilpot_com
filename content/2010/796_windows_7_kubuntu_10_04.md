@@ -1,6 +1,6 @@
 Title: Windows 7 & Kubuntu 10.04
 Date: 2010-05-03 15:20:25
-Tags: imported
+Tags: imported, fix
 Category: linux
 Slug: windows_7_kubuntu_10_04
 

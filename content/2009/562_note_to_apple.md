@@ -1,6 +1,6 @@
 Title: note to Apple
 Date: 2009-05-19 09:16:00
-Tags: imported
+Tags: imported, fix
 Category: rant
 Slug: note_to_apple
 

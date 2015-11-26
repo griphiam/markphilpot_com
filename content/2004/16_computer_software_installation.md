@@ -8,37 +8,37 @@ This list is more for me, but I thought I'd put it out there so people could com
 
 Software to Install:
 
-Drivers (Display, Video, Printer, Keyboard)
-Microsoft Service Packs & Patches
-Grisoft Anti-Virus
-Quicktime
-Divx
-Winamp
-MySQL (plus control center,  java connector)
-PHP
-Tomcat
-Apache
-Eclipse (plus plugins: PHP, Lomboz)
-Dreamweaver
-Quicken
-Webshots
-Trillian
-OpenOffice
-burnatonce
-Cyberlink PowerDVD
-Paint Shop Pro
-iMatch
-RegCleaner
-Tweak UI
-Statbar
-TortoiseCVS
-Java SDK
-Winzip
-Adobe Acrobat
-SmartFTP
-Adaware
-PDF Creator
-DVarchive
-VirtualDub
-mldonkey
-VideoLan
+- Drivers (Display, Video, Printer, Keyboard)
+- Microsoft Service Packs & Patches
+- Grisoft Anti-Virus
+- Quicktime
+- Divx
+- Winamp
+- MySQL (plus control center,  java connector)
+- PHP
+- Tomcat
+- Apache
+- Eclipse (plus plugins: PHP, Lomboz)
+- Dreamweaver
+- Quicken
+- Webshots
+- Trillian
+- OpenOffice
+- burnatonce
+- Cyberlink PowerDVD
+- Paint Shop Pro
+- iMatch
+- RegCleaner
+- Tweak UI
+- Statbar
+- TortoiseCVS
+- Java SDK
+- Winzip
+- Adobe Acrobat
+- SmartFTP
+- Adaware
+- PDF Creator
+- DVarchive
+- VirtualDub
+- mldonkey
+- VideoLan

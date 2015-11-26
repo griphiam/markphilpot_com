@@ -8,7 +8,7 @@ Back in 1995 (yes I know that was a long time ago), a very good sci-fi TV show a
 
 I had not heard of <a href="http://www.imdb.com/title/tt0303461/">Firefly</a> when it aired in 2002.  It fell under my radar completely.  But not quite unexpectedly, since Fox (yet again) decided to axe a great show after only <strong>14 episodes</strong> which were carelessly shown <em>out of order!</em>.
 
-<code><div style="float: right; margin: 5px 5px 5px 5px;"><img src="http://images.rottentomatoes.com/images/movie/custom/05/10004005.jpg" alt="Serenity" /></div></code>
+<div style="float: right; margin: 5px 5px 5px 5px;"><img src="http://images.rottentomatoes.com/images/movie/custom/05/10004005.jpg" alt="Serenity" /></div>
 
 When the first trailers for <em><a href="http://www.imdb.com/title/tt0379786/">Serenity</a></em> started appearing, Firefly started coming up on my radar.  The movie looked intriguing, but it was the devotion of fans who kept proclaiming how great Firefly was and how excited they were for Serenity that really piqued my interest.  So having not seen any of the TV episodes, Ann and I went out to see Serenity last weekend (along with Wallace & Grommit).  From someone who didn't see the TV show first, I thought it was incredibly good and refreshing.  There isn't much back story presented in the film (since it is presented in the TV episodes).  In that way, it is a little like the first Star Wars film (I don't want you to think I'm comparing the films... there is no comparison...) in that they didn't <em>explain</em> anything... they just presented the audience with some notions about the universe the story was taking place in.  However, for <em>Serenity</em> the backstory <strong>is</strong> there!  After seeing the film, I wanted more...
 

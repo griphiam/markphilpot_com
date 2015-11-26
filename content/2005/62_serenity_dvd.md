@@ -7,7 +7,7 @@ Slug: serenity_dvd
 As Sim pointed out (and which I've been meaning to post on =) the <a href="http://www.amazon.com/gp/product/B000BW7QWW/103-3482693-3975003?v=glance&#038;n=130&#038;n=507846&#038;s=dvd&#038;v=glance">Serenity</a> DVD is out December 20th. Needless to say, it will be in my hands on the 20th =)
 
 I did want to comment on something though...  When you look at the cover "art" for the DVD.
-<code><div style="float: right; margin: 5px 5px 5px 5px;"><img src="http://images.amazon.com/images/P/B000BW7QWW.01._PE30_SCMZZZZZZZ_.jpg" alt="Serenity" /></div></code>  It doesn't reflect Serenity at all!  To be perfectly honest, it looks really bad!  All the fans where shocked at it.  Joss Whedon has posted on the Browncoats forum, saying "I'm not the boss of this..."  Which leads me to my main question...
+<div style="float: right; margin: 5px 5px 5px 5px;"><img src="http://images.amazon.com/images/P/B000BW7QWW.01._PE30_SCMZZZZZZZ_.jpg" alt="Serenity" /></div>  It doesn't reflect Serenity at all!  To be perfectly honest, it looks really bad!  All the fans where shocked at it.  Joss Whedon has posted on the Browncoats forum, saying "I'm not the boss of this..."  Which leads me to my main question...
 
 <blockquote>Who did Joss Whedon piss off so badly to get this badly treated?</blockquote>
 

@@ -1,6 +1,6 @@
 Title: Pismo Beach
 Date: 2007-04-14 00:19:10
-Tags: imported
+Tags: imported,fix
 Category: updates
 Slug: pismo_beach
 
