@@ -1,4 +1,4 @@
-Title: Diane Duate - A Wizard of Mars
+Title: Diane Duane - A Wizard of Mars
 Date: 2010-04-16 15:17:01
 Tags: books
 Category: reviews

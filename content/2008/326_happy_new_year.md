@@ -1,0 +1,14 @@
+Title: happy new year
+Date: 2008-01-03 23:19:17
+Tags: imported
+Category: 
+Slug: happy_new_year
+
+<style type="text/css"> .flickr-photo { border: solid 2px #000000; } .flickr-yourcomment { } .flickr-frame { text-align: left; padding: 3px; } .flickr-caption { font-size: 0.8em; margin-top: 0px; } </style>
+<div class="flickr-frame"> 	<a href="http://www.flickr.com/photos/46803213@N00/2164582603/" title="photo sharing"><img src="http://farm3.static.flickr.com/2304/2164582603_a20722c538.jpg" class="flickr-photo" /></a>
+
+<span class="flickr-caption"><a href="http://www.flickr.com/photos/46803213@N00/2164582603/">Family @ Northstar</a>, originally uploaded by <a href="http://www.flickr.com/people/46803213@N00/">griphiam</a>.</span></div>
+<p class="flickr-yourcomment"> 	While skiing was a week too early (the big storm is just hitting now), it was fun to actually ski after a two year hiatus.  Really needed about 6-12 more inches to actually get complete coverage -- we'll get that and much more this weekend.</p>
+I've decided to go with a flickr account for my photo album.  I've been seduced by its user interface (and most of the other perks, even though its an extra $2 a month for it).  What this hopefully means is that things will be a bit more active around here.
+
+I probably won't be removing my existing gallery for a bit (at least until I can get a critical mass up).
