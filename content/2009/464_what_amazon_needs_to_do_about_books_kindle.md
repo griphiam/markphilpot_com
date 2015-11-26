@@ -1,7 +1,7 @@
 Title: What Amazon needs to do about books & Kindle
 Date: 2009-01-12 13:32:02
 Tags: imported
-Category: 
+Category: thoughts
 Slug: what_amazon_needs_to_do_about_books_kindle
 
 Given Kindle's wifi features and the ability to pull down newspapers (if I could get the Economist and the Washington Post I would be a very happy man), I'm very close to sold.  However, there is one thing I wish they did:

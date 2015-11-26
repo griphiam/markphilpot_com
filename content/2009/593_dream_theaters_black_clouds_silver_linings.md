@@ -1,7 +1,7 @@
 Title: Dream Theater's Black Clouds & Silver Linings
 Date: 2009-06-24 16:35:02
 Tags: imported
-Category: 
+Category: music
 Slug: dream_theaters_black_clouds_silver_linings
 
 [caption id="attachment_592" align="alignleft" width="342" caption="Black Clouds & Silver Linings"]<img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2009/06/bcsl_big.jpg" alt="Black Clouds & Silver Linings" title="Black Clouds & Silver Linings" width="342" height="342" class="size-full wp-image-592" />[/caption]

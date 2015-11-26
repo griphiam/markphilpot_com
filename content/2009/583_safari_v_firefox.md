@@ -1,7 +1,7 @@
 Title: Safari v. Firefox
 Date: 2009-06-11 11:07:13
 Tags: imported
-Category: 
+Category: software
 Slug: safari_v_firefox
 
 Apple recently released Safari 4. Being the model geek, I decided to give it a spin -- and I liked what I saw.  But here's the problem: at this point I have a deeply ingrained web browsing workflow.  Whether it's a habit or a plugin, there are certain things that are this point muscle memory (and for a good reason, because it usually is the most efficient).

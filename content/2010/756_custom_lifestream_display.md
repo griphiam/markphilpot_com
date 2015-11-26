@@ -1,7 +1,7 @@
 Title: Custom Lifestream Display
 Date: 2010-02-15 22:28:26
 Tags: imported
-Category: 
+Category: development
 Slug: custom_lifestream_display
 
 Necessity is the mother of invention, and that's especially true for software.

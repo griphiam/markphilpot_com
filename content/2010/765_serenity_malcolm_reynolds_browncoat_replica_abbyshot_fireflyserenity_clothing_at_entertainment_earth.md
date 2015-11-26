@@ -1,7 +1,7 @@
 Title: Serenity Malcolm Reynolds Browncoat Replica - AbbyShot - Firefly/Serenity - Clothing at Entertainment Earth
 Date: 2010-03-01 10:28:00
 Tags: imported
-Category: 
+Category: tv
 Slug: serenity_malcolm_reynolds_browncoat_replica_abbyshot_fireflyserenity_clothing_at_entertainment_earth
 
 Squeee!  <a href='http://www.entertainmentearth.com/prodinfo.asp?number=ABROWNCOAT%20SMALL'>Serenity Malcolm Reynolds Browncoat Replica</a>.  Awesome!  
@@ -20,4 +20,3 @@ Unfortunately the price is quite steep ($320), but just think of how many Hallow
 </ul>
 
 Worth it?
-

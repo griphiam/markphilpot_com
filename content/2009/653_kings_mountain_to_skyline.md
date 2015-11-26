@@ -1,7 +1,7 @@
 Title: King's Mountain to Skyline
 Date: 2009-08-02 17:58:06
 Tags: imported
-Category: 
+Category: updates
 Slug: kings_mountain_to_skyline
 
 More more doable than heading up Page Mill.  Unfortunately the part down 92 has no bike lane, all downhill and quite a lot of traffic.  However, the drip down Skyline was amazing.  Wish I brought my camera.  I will have to head up there via car soon with my camera and a tripod.

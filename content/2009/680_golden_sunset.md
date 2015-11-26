@@ -1,7 +1,7 @@
 Title: Golden Sunset
 Date: 2009-11-06 14:42:07
 Tags: imported
-Category: 
+Category: photography
 Slug: golden_sunset
 
 Taken after the heavy rains a few weeks ago

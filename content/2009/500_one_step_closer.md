@@ -1,7 +1,7 @@
 Title: one step closer
 Date: 2009-04-26 23:43:02
 Tags: imported
-Category: 
+Category: linux
 Slug: one_step_closer
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/36642717@N00/280573813/" title="UbuntuTux" target="_blank"><img src="http://farm1.static.flickr.com/94/280573813_65536fd936_m.jpg" alt="UbuntuTux" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-sa/2.0/" title="Attribution-ShareAlike License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/36642717@N00/280573813/" title="4_EveR_YounG" target="_blank">4_EveR_YounG</a></small></div>

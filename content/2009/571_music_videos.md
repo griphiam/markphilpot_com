@@ -1,7 +1,7 @@
 Title: Music Videos
 Date: 2009-05-25 22:47:34
 Tags: imported
-Category: 
+Category: creative
 Slug: music_videos
 
 <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/8YUg3d1EUKE&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/8YUg3d1EUKE&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>

@@ -1,7 +1,7 @@
 Title: I couldn't resist -- Best Nigerian spam *ever*
 Date: 2009-01-14 23:33:57
 Tags: imported
-Category: 
+Category: humor
 Slug: i_couldnt_resist_best_nigerian_spam_ever
 
 I mean seriously!  How can you write this!  And from the "FBI" no less!
@@ -51,7 +51,4 @@ UNITED STATES DEPARTMENT OF JUSTICE
 WASHINGTON, D.C. 20535
 
 Note: Do disregard any email you get from any impostors or offices claiming to be in possession of your ATM CARD, you are hereby advice only to be in contact with Mr. Daniel Smith of the ATM CARD CENTRE who is the rightful person to deal with in regards to your ATM CARD PAYMENT and forward any emails you get from impostors to this office so we could act upon and commence investigation.
-
 </blockquote>
-
-

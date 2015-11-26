@@ -1,7 +1,7 @@
 Title: Dinner in the City
 Date: 2009-11-06 20:57:34
 Tags: imported
-Category: 
+Category: links
 Slug: dinner_in_the_city
 
 A night on the town... Then Suzie's birthday at The Ambasador.

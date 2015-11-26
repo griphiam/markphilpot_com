@@ -1,7 +1,7 @@
 Title: GNU Screen Cheat Sheet
 Date: 2009-05-03 22:41:23
 Tags: imported
-Category: 
+Category: linux
 Slug: gnu_screen_cheat_sheet
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/63987143@N00/136624928/" title="night rising" target="_blank"><img src="http://farm1.static.flickr.com/53/136624928_291b73cbe8_m.jpg" alt="night rising" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/63987143@N00/136624928/" title="concretecandy" target="_blank">concretecandy</a></small></div>

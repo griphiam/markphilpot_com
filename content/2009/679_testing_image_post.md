@@ -1,7 +1,7 @@
 Title: Testing image post
 Date: 2009-11-06 10:23:32
 Tags: imported
-Category: 
+Category: photography
 Slug: testing_image_post
 
 Seeing what it looks like when I post multiple images from my iPhone. I thought Wolfi would make a natural subject.

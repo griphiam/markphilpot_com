@@ -1,7 +1,7 @@
 Title: realizations
 Date: 2009-05-09 13:11:25
 Tags: imported
-Category: 
+Category: linux
 Slug: realizations
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/87955432@N00/3512658989/" title="not quite sure" target="_blank"><img src="http://farm4.static.flickr.com/3071/3512658989_11cfc563f3_m.jpg" alt="not quite sure" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/87955432@N00/3512658989/" title="tschörda" target="_blank">tschörda</a></small></div>

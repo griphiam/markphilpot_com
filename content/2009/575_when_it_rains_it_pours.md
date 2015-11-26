@@ -1,7 +1,7 @@
 Title: when it rains... it pours
 Date: 2009-05-30 22:54:38
 Tags: imported
-Category: 
+Category: updates
 Slug: when_it_rains_it_pours
 
 <div style="margin: 15px; float: left"><a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="Hail Storm - Made it to the truck just in time... almost" target="_blank"><img src="http://farm4.static.flickr.com/3647/3569402984_8ac4ae2009_m.jpg" alt="Hail Storm - Made it to the truck just in time... almost" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="RWayne" target="_blank">RWayne</a></small></div>

@@ -1,7 +1,7 @@
 Title: Photo selected for Schmap's SF Guide
 Date: 2009-08-14 22:19:18
 Tags: imported
-Category: 
+Category: photography
 Slug: photo_selected_for_schmaps_sf_guide
 
 <a href="http://www.flickr.com/photos/markphilpot/3242720452/"><img src='http://farm4.static.flickr.com/3095/3242720452_a1a1846271.jpg' class='imgserie' alt='DSC_8497-DSC_8500'/></a>

@@ -1,7 +1,7 @@
 Title: Roland JV-35 ROMs
 Date: 2010-04-21 23:12:16
 Tags: imported
-Category: 
+Category: music
 Slug: roland_jv_35_roms
 
 Below are the three songs included in my old Roland JV-35.  While the standard GM complement of samples sounds a bit dated, I always thought these songs were well done and did a good job of showing off the keyboard.  Unfortunately the expansion board didn't include more ROMs... the wide range of sounds on the board are really good.

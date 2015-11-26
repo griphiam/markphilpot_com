@@ -1,7 +1,7 @@
 Title: Within Temptation - What Have You Done (Twilight)
 Date: 2009-04-16 23:10:03
 Tags: imported
-Category: 
+Category: creative
 Slug: within_temptation_what_have_you_done_twilight
 
 [video src="http://griphiam.web.aplus.net/video/within_temptation-what_have_you_done" width="720" height="356" options="controls" format="ogv m4v"]
@@ -12,4 +12,6 @@ I had this song pared with Twilight long before the movie actually came out.  I 
 
 Note: FlowPlayer didn't like the h.264 files kdenlive was generating, and for some reason the flash rendering wasn't working.  I generated the h.264 mp4 file and then manually converted it to flv --
 
-<code>./kdenlive/bin/ffmpeg -i untitled.mp4 -vcodec flv -acodec libmp3lame -ab 128k -ar 44100 -b 2000k untitled.flv</code>
+```bash
+./kdenlive/bin/ffmpeg -i untitled.mp4 -vcodec flv -acodec libmp3lame -ab 128k -ar 44100 -b 2000k untitled.flv
+```

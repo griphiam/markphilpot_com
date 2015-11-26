@@ -1,7 +1,7 @@
 Title: Nerdfighterlike
 Date: 2010-04-14 21:46:27
 Tags: imported
-Category: 
+Category: creative
 Slug: nerdfighterlike
 
 <em>Update: 2010-04-20</em> -- Fixed some timing and EQ issues. Also programed some new drums.  Still working on solo.

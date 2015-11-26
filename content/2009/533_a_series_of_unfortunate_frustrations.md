@@ -1,7 +1,7 @@
 Title: a series of unfortunate frustrations
 Date: 2009-05-07 13:43:37
 Tags: imported
-Category: 
+Category: linux
 Slug: a_series_of_unfortunate_frustrations
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/37136574@N00/56910709/" title="On my desk" target="_blank"><img src="http://farm1.static.flickr.com/29/56910709_211b54674e_m.jpg" alt="On my desk" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/37136574@N00/56910709/" title="zopeuse" target="_blank">zopeuse</a></small></div>

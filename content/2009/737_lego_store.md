@@ -1,7 +1,7 @@
 Title: Lego Store
 Date: 2009-11-20 13:01:12
 Tags: imported
-Category: 
+Category: links
 Slug: lego_store
 
 Valley Forge, PA

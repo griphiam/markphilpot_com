@@ -1,7 +1,7 @@
 Title: finally a network threw us a bone
 Date: 2009-05-18 13:26:34
 Tags: imported
-Category: 
+Category: tv
 Slug: finally_a_network_threw_us_a_bone
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/24600282@N08/3345106615/" title="Castle" target="_blank"><img src="http://farm4.static.flickr.com/3374/3345106615_60d56e66e8_m.jpg" alt="Castle" border="0" /></a></div>

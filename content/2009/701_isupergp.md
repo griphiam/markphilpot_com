@@ -1,11 +1,11 @@
 Title: iSuperGP
 Date: 2009-11-10 11:53:11
 Tags: imported
-Category: 
+Category: development
 Slug: isupergp
 
-[caption id="" align="alignright" width="194" caption="iSuperGP"]<a href="http://www.isupergp.com"><img alt="iSuperGP" src="http://www.isupergp.com/images/superman-logo-large.png" title="iSuperGP
-" width="194" height="194" /></a>[/caption]
+<a href="http://www.isupergp.com"><img alt="iSuperGP" src="http://www.isupergp.com/images/superman-logo-large.png" title="iSuperGP
+" width="194" height="194" /></a>
 
 My first iPhone web application: iSuperGP. If you use supergenpass.com for your password management, iSuperGP helps you use it on your iPhone. Using HTML5 local storage, you can save your sites locally so you don't have to retype them every time in the SGP mobile version.  The application is fully offline enabled, so you can bookmark it as an application and access your passwords even when you're disconnected.  If you find anything wrong or have suggestions, the support site is @ <a href="http://www.isupergp.com/trac">here</a>
 
