@@ -1,11 +1,11 @@
 Title: Cherry Blossom Festival
 Date: 2007-04-01 17:26:40
 Tags: imported
-Category: 
+Category: photography
 Slug: cherry_blossom_festival
 
 
-<p class="dc">This weekend saw the annual explosion of white and pink around the Tidal Basin and National Mall -- blooming of the Cherry Blossoms.  We when down on Friday evening, which was a good plan because it avoided most of the tourists that flock to the city for this weekend.  I would say it was mostly locals roaming the mall.</p>
+This weekend saw the annual explosion of white and pink around the Tidal Basin and National Mall -- blooming of the Cherry Blossoms.  We when down on Friday evening, which was a good plan because it avoided most of the tourists that flock to the city for this weekend.  I would say it was mostly locals roaming the mall.
 
 <div class="g2image_normal"><wpg2id>2079</wpg2id></div>
 It actually a pleasant evening, so it was nice to get around without having to be bundled up.  I also got a nice sunset shot with the Washington Memorial.

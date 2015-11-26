@@ -1,7 +1,7 @@
 Title: gutsy gibson
 Date: 2007-10-18 11:44:56
 Tags: imported
-Category: 
+Category: linux
 Slug: gutsy_gibson
 
 [K]ubuntu 7.10 was released today.  This will be my first attempt at a serious linux upgrade (which is complicated by the fact that I'm not running a vanilla Feisty at the moment).  So we'll see how this process goes. (Backup, backup, backup)

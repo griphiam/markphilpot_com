@@ -1,16 +1,16 @@
 Title: Serenity -- where are they now
 Date: 2007-03-21 00:36:19
 Tags: imported
-Category: 
+Category: tv
 Slug: serenity_where_are_they_now
 
 
-<p class="dc">To anyone who watched Firefly &amp; <a href="http://www.imdb.com/title/tt0379786/">Serenity</a>, you understand how I feel about the actors.  I loved the characters they portrayed, and once it went riding off into the sunset on the silver screen (well before its time), I want the actors to at least go on to bigger projects... hoping to see them once again on screen.  I thought I would gather up some information on what they've been up to (mostly via <a href="http://www.imdb.com/">imdb</a>, albeit).</p>
+To anyone who watched Firefly & <a href="http://www.imdb.com/title/tt0379786/">Serenity</a>, you understand how I feel about the actors.  I loved the characters they portrayed, and once it went riding off into the sunset on the silver screen (well before its time), I want the actors to at least go on to bigger projects... hoping to see them once again on screen.  I thought I would gather up some information on what they've been up to (mostly via <a href="http://www.imdb.com/">imdb</a>, albeit).
 
 <ul>
 	<li><a href="http://www.imdb.com/name/nm0923736/">Joss Whedon</a>
 <ul>
-	<li>Its unfortunately been a rough time for Joss.  After Serenity made its run through the theaters, he was tapped to write a Wonderwoman screenplay.  After working on it for about a year, the studio decided it wasn't working and moved on.  I'm not sure what he's been upto since, but imdb has a <a href="http://www.imdb.com/title/tt0481738/" title="Goners">mysterious project</a> listed... though no one seems to know exactly what it is.  So I guess we're in a wait and see mode.</li>
+	<li>Its unfortunately been a rough time for Joss.  After Serenity made its run through the theaters, he was tapped to write a Wonder Woman screenplay.  After working on it for about a year, the studio decided it wasn't working and moved on.  I'm not sure what he's been up to since, but imdb has a <a href="http://www.imdb.com/title/tt0481738/" title="Goners">mysterious project</a> listed... though no one seems to know exactly what it is.  So I guess we're in a wait and see mode.</li>
 </ul>
 </li>
 	<li><a href="http://www.imdb.com/name/nm0277213/">Nathan Fillion</a>
@@ -56,8 +56,9 @@ Slug: serenity_where_are_they_now
 </li>
 	<li><a href="http://www.imdb.com/name/nm0322002/">Ron Glass </a>
 <ul>
-	<li>More TV work for Ron.  He's done actually quite a bit in his career.  When I first checked his page on imdb, it was barely filled in, aside from Firefly &amp; Serenity.  He has been around the block!  Hasn't done much since Serenity though.</li>
+	<li>More TV work for Ron.  He's done actually quite a bit in his career.  When I first checked his page on imdb, it was barely filled in, aside from Firefly & Serenity.  He has been around the block!  Hasn't done much since Serenity though.</li>
 </ul>
 </li>
 </ul>
+
 So there you have it.  A one stop shop recap.  Hope you enjoyed this edition.  Stay tuned for more (maybe an annual thing...)

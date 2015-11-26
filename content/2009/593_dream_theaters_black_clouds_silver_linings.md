@@ -4,7 +4,7 @@ Tags: imported
 Category: 
 Slug: dream_theaters_black_clouds_silver_linings
 
-[caption id="attachment_592" align="alignleft" width="342" caption="Black Clouds & Silver Linings"]<img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2009/06/bcsl_big.jpg" alt="Black Clouds &amp; Silver Linings" title="Black Clouds &amp; Silver Linings" width="342" height="342" class="size-full wp-image-592" />[/caption]
+[caption id="attachment_592" align="alignleft" width="342" caption="Black Clouds & Silver Linings"]<img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2009/06/bcsl_big.jpg" alt="Black Clouds & Silver Linings" title="Black Clouds & Silver Linings" width="342" height="342" class="size-full wp-image-592" />[/caption]
 
 Dream Theater's latest album <em>Black Clouds & Silver Linings</em> continues their musical evolution brilliantly and might be their best work melodically to date. Vocal layers are much thicker (just the way I like it) with Mike Portnoy and John Petrucci lending their voices to the mix more than I can remember on any previous album.  They also have struck a very satisfying balance between crazy instrumentals and truly melodic figures. Unlike some other bands in this genre, Dream Theater seems to continually evolve their sound and every album is distinct from the last.  There really is quite a lot to digest with this album -- essentially two "single-esque" type songs and rest truly epics that will take a few listens to wrap your head around, but never did I feel that a song was laboring under it's own weight.
 

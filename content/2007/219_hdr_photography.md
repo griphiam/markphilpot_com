@@ -1,12 +1,13 @@
 Title: HDR Photography
 Date: 2007-05-29 16:47:32
 Tags: imported
-Category: 
+Category: photography
 Slug: hdr_photography
 
 All I can say is... Wow!
 
 <a href="http://www.flickr.com/photos/stuckincustoms/459418289/in/photostream/">
+
 <div style="text-align: center"><img src="http://farm1.static.flickr.com/196/459418289_12b3f3ffaa.jpg?v=0" title="Magic Kingdom" alt="Magic Kingdom" height="491" width="500" /></div>
 </a>
 

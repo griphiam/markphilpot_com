@@ -1,7 +1,7 @@
 Title: waiting game
 Date: 2008-02-29 13:04:53
 Tags: imported
-Category: 
+Category: thoughts
 Slug: waiting_game
 
 So the current set of rumors (I never thought I'd sink this low... it won't happen again) is that the iPhone SDK will be tightly controlled (Bad) and that a 3G revision is due sometime this summer.  Ugh.

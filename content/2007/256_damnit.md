@@ -1,7 +1,7 @@
 Title: Damnit
 Date: 2007-06-13 09:38:00
 Tags: imported
-Category: 
+Category: updates
 Slug: damnit
 
 That was so much harder than it needed to be.  It does not help when the rest of the world's DNS servers refresh every four hours and your own ISP (damn RCN) refreshes every <strong>30 hours</strong> (son of a bitch).

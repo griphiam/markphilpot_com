@@ -1,7 +1,7 @@
 Title: ACC Tournament (Thursday)
 Date: 2007-03-05 21:42:59
 Tags: imported
-Category: 
+Category: duke
 Slug: acc_tournament_thursday
 
 <strong>Clemson vs. Florida State</strong> (12:00pm)

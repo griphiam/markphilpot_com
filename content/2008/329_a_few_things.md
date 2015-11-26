@@ -1,7 +1,7 @@
 Title: a few things
 Date: 2008-01-14 23:38:45
 Tags: imported
-Category: 
+Category: tv
 Slug: a_few_things
 
 Currently a television kick...

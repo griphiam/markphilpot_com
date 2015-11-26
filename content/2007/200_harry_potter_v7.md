@@ -1,16 +1,17 @@
 Title: harry potter v7
 Date: 2007-04-02 21:27:24
 Tags: imported
-Category: 
+Category: books
 Slug: harry_potter_v7
 
 The bestselling series will finally have its conclusion this July (21<sup>st</sup> specifically).  While the series has its detractors, which are probably louder and more numerous only on account of its popularity, I think you must admit it has been a satisfying series.  Rowling has done a great job evolving the story from something simplistic enough for a child to something tacking real serious issues like racism, bigotry, and the evolution from adolescent to adult without painting a rosy picture.  Additionally, unlike some other fantasy authors, she had a plan and she stuck to it.  You can tell as you read and the plot is revealed that she had planned out all seven books even before beginning the first.  Each revelation is deliberate and each nuance potentially important in a future work.  I will be sad to see it end -- she created an elaborate world where many narratives could dwell.  However, I'm glad she always had a final resolution, and I appreciate that.
 
 If you haven't caught up, stop here as spoilers do follow...
 
-<!--more-->
-<h4>wishful thinking</h4>
+## wishful thinking
+
 Here are a few things I hope she does/doesn't do --
+
 <ul>
 	<li>Don't drop Ginny from the story
 <ul>
@@ -54,4 +55,5 @@ Here are some of my theories as to what lies ahead in DH --
 </ul>
 </li>
 </ul>
+
 Any thoughts?

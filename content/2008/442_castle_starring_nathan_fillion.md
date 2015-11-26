@@ -1,7 +1,7 @@
 Title: Castle starring Nathan Fillion
 Date: 2008-10-06 14:38:35
 Tags: imported
-Category: 
+Category: tv
 Slug: castle_starring_nathan_fillion
 
 Thank you ABC!  Thank you... thank you.  Now please don't go an cancel it, damn it!

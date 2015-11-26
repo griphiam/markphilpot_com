@@ -1,7 +1,7 @@
 Title: not exactly in the spirit of easter...
 Date: 2008-03-24 15:00:40
 Tags: imported
-Category: 
+Category: links
 Slug: not_exactly_in_the_spirit_of_easter
 
 But funny nonetheless...

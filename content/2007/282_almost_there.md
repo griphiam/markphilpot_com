@@ -1,7 +1,7 @@
 Title: almost... there...
 Date: 2007-09-06 12:11:55
 Tags: imported
-Category: 
+Category: updates
 Slug: almost_there
 
 We just need to get through this weekend...

@@ -1,19 +1,12 @@
 Title: "flat earth" journalism
 Date: 2008-02-24 22:30:36
 Tags: imported
-Category: 
+Category: politics
 Slug: flat_earth_journalism
-
-<style type="text/css">
-.flickr-photo { border: solid 2px #000000; }
-.flickr-yourcomment { }
-.flickr-frame { text-align: left; padding: 3px; }
-.flickr-caption { font-size: 0.8em; margin-top: 0px; }
-</style>
 
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/markphilpot/2272318808/" title="photo sharing"><img src="http://farm3.static.flickr.com/2226/2272318808_f6cf4e0543.jpg" class="flickr-photo" alt="" /></a>
-<br />
+
 	<span class="flickr-caption"><a href="http://www.flickr.com/photos/markphilpot/2272318808/">stanford dish</a>, originally uploaded by <a href="http://www.flickr.com/people/markphilpot/">griphiam</a>.</span>
 </div>
 
@@ -27,11 +20,8 @@ I would argue there really is no longer such thing as investigative journalism. 
 
 The answer has to be some emerging alternative.  Blogs perhaps... particularly issue focused ones that resemble a newspaper (you see many dominant examples of that in the tech sphere, like <a href="http://arstechnica.com/index.ars">Ars Technica</a> where news is combined with informed opinions).  Individual blogs maybe... but there is a different credibility issue to solve there.
 
-<h4>On a side note</h4>
+## On a side note
 
 This space has been devoid of any political dealings which would be considered timely right now. For reasons entirely my own and shared apparently by many, I've supported Obama since some of the first debates.  Its really interesting how the Democratic contest has come down to really generational support.  I'm keeping my fingers crossed that Party shenanigans and back room super delegate dealings don't derail what I would consider to be a really great primary contest (much more so at least than the Republican side).
 
 In more local dealings, Lawrence Lessig is considering running for the late Congressman Lantos' CA 12th district seat.  Having a congressperson who doesn't think the internet is a series of tubes would be a huge plus in my book.  More details to come.
-
-
-

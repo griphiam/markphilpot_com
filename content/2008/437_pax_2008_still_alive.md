@@ -1,7 +1,7 @@
 Title: PAX 2008 -- Still Alive
 Date: 2008-09-02 09:08:01
 Tags: imported
-Category: 
+Category: music
 Slug: pax_2008_still_alive
 
 Jonathan Coulton w/ Felicia Day! (Squee!)

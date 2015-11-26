@@ -1,7 +1,7 @@
 Title: Computer Software Installation
 Date: 2004-02-01 17:16:08
 Tags: imported
-Category: 
+Category: software
 Slug: computer_software_installation
 
 This list is more for me, but I thought I'd put it out there so people could comment on it... maybe add some of your own.  This is a list of all the software I install upon a fresh reformat of my computer.  I'll try to add links later.

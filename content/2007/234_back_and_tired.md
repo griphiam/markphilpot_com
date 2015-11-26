@@ -1,7 +1,7 @@
 Title: back and tired
 Date: 2007-05-03 23:28:18
 Tags: imported
-Category: 
+Category: updates
 Slug: back_and_tired
 
 Man!  We leave the country for a few days and it seems like everything decided to hit the fan!  First off, fantastic trip.  Much need rest, relaxation, sun, beach, and Mexican beer.  Can't ask for much more than that.  I'll have details and pictures later, so stay tuned.

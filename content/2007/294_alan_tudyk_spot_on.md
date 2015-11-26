@@ -1,7 +1,7 @@
 Title: Alan Tudyk spot on
 Date: 2007-09-26 22:33:22
 Tags: imported
-Category: 
+Category: tv
 Slug: alan_tudyk_spot_on
 
 Personally, I think the entire cast  of Firefly/<a href="http://www.imdb.com/title/tt0379786/">Serenity</a> is under appreciated.  <a href="http://www.imdb.com/name/nm0277213/">Nathan</a> has the biggest potential, but as this comment displays, <a href="http://www.imdb.com/name/nm0876138/">Alan</a> is probably the <a href="http://www.filmwad.com/the-alan-tudyk-effect-4621-p.html">most versatile</a>, and I completely agree with the sentiment.  I haven't seen <a href="http://www.imdb.com/title/tt0381849/">3:10 to Yuma</a> yet, but it has received some great press and reviews.  He is the unsung hero that everyone loves.

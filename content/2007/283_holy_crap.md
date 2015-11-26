@@ -1,7 +1,7 @@
 Title: holy crap
 Date: 2007-09-12 16:07:32
 Tags: imported
-Category: 
+Category: updates
 Slug: holy_crap
 
 oh... my... $DEITY
@@ -14,7 +14,7 @@ Finish up work and then take a load of  stuff over to the Stanford apartment (Ab
 
 <em>Friday (212 miles driven)</em>
 
-Pick up the uhaul at 7:30am (ugh) and start the 3D tetris puzzle.  We basically fill the truck and the CR-V to capacity and we didn't even fit everything in that trip.  Caravan down to Stanford and begin the unloading process.  When I say "unload," I don't want to convey any resemblance of order.  This was more like, dump in the apartment and run.  Everything still in boxes basically.  Now, we had very tight timetable.  We had to drop off the truck, get back to Sunnyvale to shower and pack, then hightail it up to Yuba city for my step-brother's rehearsal dinner... at 6:30pm.  Needless to say, we were panicked and rushed to get moving so we wouldn't ground to a halt fighting Friday afternoon traffic).  Incredibly, we made it up to Yuba City with 10 minutes to spare...  quite a feat when you think about it.
+Pick up the uhaul at 7:30am (ugh) and start the 3D Tetris puzzle.  We basically fill the truck and the CR-V to capacity and we didn't even fit everything in that trip.  Caravan down to Stanford and begin the unloading process.  When I say "unload," I don't want to convey any resemblance of order.  This was more like, dump in the apartment and run.  Everything still in boxes basically.  Now, we had very tight timetable.  We had to drop off the truck, get back to Sunnyvale to shower and pack, then hightail it up to Yuba city for my step-brother's rehearsal dinner... at 6:30pm.  Needless to say, we were panicked and rushed to get moving so we wouldn't ground to a halt fighting Friday afternoon traffic).  Incredibly, we made it up to Yuba City with 10 minutes to spare...  quite a feat when you think about it.
 
 (BTW, they finally finished the Benicia bridge approach remodel... toll booth on the south side.  Quite a significant improvement.)
 

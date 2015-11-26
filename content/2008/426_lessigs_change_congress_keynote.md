@@ -1,7 +1,7 @@
 Title: Lessig's Change Congress Keynote
 Date: 2008-07-28 13:02:08
 Tags: imported
-Category: 
+Category: links
 Slug: lessigs_change_congress_keynote
 
 <embed src="http://blip.tv/play/rRHElmGK5jM" type="application/x-shockwave-flash" width="640" height="456" allowscriptaccess="always" allowfullscreen="true"></embed>

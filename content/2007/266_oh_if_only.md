@@ -1,7 +1,7 @@
 Title: oh if only
 Date: 2007-07-02 14:56:25
 Tags: imported
-Category: 
+Category: humor
 Slug: oh_if_only
 
 Though not everyone will get the joke, it's damn funny†

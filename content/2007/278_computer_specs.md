@@ -1,7 +1,7 @@
 Title: computer specs
 Date: 2007-08-17 13:17:41
 Tags: imported
-Category: 
+Category: computer
 Slug: computer_specs
 
 Desktop
@@ -9,17 +9,18 @@ Desktop
 Dual booting -- Kubuntu Feisty 7, Windows XP
 
 Note: All prices quoted are via Newegg as of 8.15.07 (and will hopefully decrease).  Detailed specs via link (usually to newegg)
+
 <ul>
 	<li>Motherboard
 <ul>
-	<li>Gigabyte GA-965P-DS3 $125 [<a href="http://www.newegg.com/Product/Product.asp?Item=N82E16813128012&amp;ATT=13-128-012&amp;CMP=OTC-d3alt1me&amp;cm_mmc=OTC-d3alt1me-_-Motherboards+-+Intel-_-GIGABYTE-_-13128012">link</a>]</li>
+	<li>Gigabyte GA-965P-DS3 $125 [<a href="http://www.newegg.com/Product/Product.asp?Item=N82E16813128012&ATT=13-128-012&CMP=OTC-d3alt1me&cm_mmc=OTC-d3alt1me-_-Motherboards+-+Intel-_-GIGABYTE-_-13128012">link</a>]</li>
 </ul>
 </li>
 	<li>Processor
 <ul>
 	<li>Intel Core 2 Quad Q6600 Kentsfield 2.4GHz $295 [<a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16819115017">link</a>]
 <ul>
-	<li>Alternate -- Intel Core 2 Duo [<a href="http://www.newegg.com/Product/Product.asp?Item=N82E16819115016&amp;ATT=19-115-016&amp;CMP=OTC-d3alt1me&amp;cm_mmc=OTC-d3alt1me-_-Processors-_-intel-_-19115016">link</a>]</li>
+	<li>Alternate -- Intel Core 2 Duo [<a href="http://www.newegg.com/Product/Product.asp?Item=N82E16819115016&ATT=19-115-016&CMP=OTC-d3alt1me&cm_mmc=OTC-d3alt1me-_-Processors-_-intel-_-19115016">link</a>]</li>
 </ul>
 </li>
 </ul>
@@ -86,6 +87,7 @@ Note: All prices quoted are via Newegg as of 8.15.07 (and will hopefully decreas
 </ul>
 </li>
 </ul>
+
 My current thought is to keep my existing mouse and keyboard.  I'm not sure if I should keep my existing 4.1 Creative speaker set or jump to the 7.1 -- considering size of apartment.  But for $87, its not a bad deal.
 
 I'm going with a 500W PSU because of the graphics card and processor.  The quad plus a GeForce 8X series would probably be a bit much for a 400W PSU.  I'm torn between the cases.  The Nine Hundred (stupid name) has the external front ports on the top for nice easy access.  The P182 is supposed to be very quite and I think looks a bit better (cleaner lines).  Also I'm not sure how I feel about the Nine Hundred's blue led, though I suppose I could disconnect that.

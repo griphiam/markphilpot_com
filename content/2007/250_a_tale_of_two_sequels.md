@@ -1,7 +1,7 @@
 Title: a tale of two sequels
 Date: 2007-05-28 13:55:42
 Tags: imported
-Category: 
+Category: movies
 Slug: a_tale_of_two_sequels
 
 Ignore all the critics who opine about a lack luster Pirates 3.  Go see it.  It is a great summer popcorn movie.  Obviously over the top, cgi driven, but clever and fun.  Anyone who gave this movie a bad review was expecting way to much -- or thought that because the first movie was a surprising success that the second and third would suddenly be much better.

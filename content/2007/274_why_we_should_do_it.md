@@ -1,7 +1,7 @@
 Title: why we |should| do it
 Date: 2007-11-01 13:20:35
 Tags: imported
-Category: 
+Category: space
 Slug: why_we_should_do_it
 
 For whatever reason, I am often posed the following question...

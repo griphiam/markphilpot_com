@@ -1,7 +1,7 @@
 Title: Grand Canyon (part 1)
 Date: 2007-10-03 10:58:40
 Tags: imported
-Category: 
+Category: photography
 Slug: grand_canyon_part_1
 
 Well I know its been a long wait, but I'm finally getting around to processing all those pictures taken in the last 4 months.  Expect quite a bit of new stuff coming soon.

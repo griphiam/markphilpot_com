@@ -1,15 +1,16 @@
 Title: hitchhiker's guide === wikipedia
 Date: 2007-03-20 00:04:06
 Tags: imported
-Category: 
+Category: thoughts
 Slug: hitchhikers_guide_wikipedia
 
 
-<p class="dc">There is of little doubt in my mind that <a href="http://www.wikipedia.org/" title="Might as well have ">Wikipedia</a> is the living incarnation of the Hitchhiker's Guide to the Galaxy.</p>
+There is of little doubt in my mind that <a href="http://www.wikipedia.org/" title="Might as well have ">Wikipedia</a> is the living incarnation of the Hitchhiker's Guide to the Galaxy.
 
-<blockquote>In many of the more relaxed civilizations on the Outer Eastern Rim of the Galaxy, the Hitch Hiker's Guide has already supplanted the great Encyclopedia Galactica as the standard repository of all knowledge and wisdom, for though it has many omissions and contains much that is apocryphal, or at least wildly inaccurate, it scores over the older, more pedestrian work in two important respects.</blockquote>
-<blockquote>First, it is slightly cheaper; and secondly it has the words "Don't Panic" inscribed in large friendly letters on its cover.</blockquote>
-<a href="http://www.arstechnica.com" title="Great tech site">Arstechnica</a> has two articles on the subject.  The <a href="http://arstechnica.com/articles/culture/citizendium.ars/1" title="Citizendium">first</a> is an effort by one of the founders of wikipedia to add legitimacy and clout -- to bring it closer to a legitimate reference rivaling that of Britanica.  He brings up some great points, but believe the effort will be fraught with futility.  Wikipedia is a collection of popular culture.  It might even be a great springboard on where to look for real research, but the notion that anything in wikipedia should be cited as a primary source is (IMO) laughable.
+>In many of the more relaxed civilizations on the Outer Eastern Rim of the Galaxy, the Hitch Hiker's Guide has already supplanted the great Encyclopedia Galactica as the standard repository of all knowledge and wisdom, for though it has many omissions and contains much that is apocryphal, or at least wildly inaccurate, it scores over the older, more pedestrian work in two important respects.</blockquote>
+>First, it is slightly cheaper; and secondly it has the words "Don't Panic" inscribed in large friendly letters on its cover.
+
+<a href="http://www.arstechnica.com" title="Great tech site">Arstechnica</a> has two articles on the subject.  The <a href="http://arstechnica.com/articles/culture/citizendium.ars/1" title="Citizendium">first</a> is an effort by one of the founders of wikipedia to add legitimacy and clout -- to bring it closer to a legitimate reference rivaling that of Brittanica.  He brings up some great points, but believe the effort will be fraught with futility.  Wikipedia is a collection of popular culture.  It might even be a great springboard on where to look for real research, but the notion that anything in wikipedia should be cited as a primary source is (IMO) laughable.
 
 Speaking of laughable, the <a href="http://arstechnica.com/news.ars/post/20070304-conservapedia-hopes-to-fix-wikipedias-liberal-bias.html" title="But in all seriousness, you're joking right?">second</a> article is an attempt to create a conservative <a href="http://www.forbes.com/digitalentertainment/2006/11/20/foxnews-conservative-satire-tech-media-cx_1120varietytv.html" title="From the same man who brought you ">version</a> of wikipedia (Conservapedia).  Wow.  I'm speechless.  About as bad (and probably has the same future) as the conservative version of the Daily Show.
 

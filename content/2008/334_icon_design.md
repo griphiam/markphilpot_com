@@ -1,7 +1,7 @@
 Title: icon design
 Date: 2008-03-02 16:20:47
 Tags: imported
-Category: 
+Category: thoughts
 Slug: icon_design
 
 Icon design falls into the "hard" category in my book.  It really breaks down to a minimal conveyance of an idea that also has to be attractive and fit into the rest of your design.  <a href="http://turbomilk.com/truestories/cookbook/criticism/10-mistakes-in-icon-design/">This</a> is a rather good breakdown of the various mistakes you see in various operating systems and applications.

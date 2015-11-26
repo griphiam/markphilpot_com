@@ -1,12 +1,13 @@
 Title: photography workflow
 Date: 2007-04-11 00:42:59
 Tags: imported
-Category: 
+Category: photography
 Slug: photography_workflow
 
 Is it not so simple to ask for one integrated photography workflow tool?  It really is about as bad as finding a good photography bag -- the people designing them have such a narrow focus, they completely miss the boat.
 
 Let me define a few terms:
+
 <ul>
 	<li>NFA -- Narrowly Focused Application
 <ul>
@@ -19,16 +20,25 @@ Let me define a few terms:
 </ul>
 </li>
 </ul>
+
 Here's my current workflow.
-<h5>The Shot</h5>
-Currently done with my Nikon D70, RAW format.  I have a 1 GB CF card and a much smaller spare.  If I don't have my laptop with me on a trip, I take an old <a href="http://www.hypershop.com/shop/" title="Apparently, there's a new version...">Hyperdrive</a> (basically a CF &amp; SD reader that you can plug in your own hard drive).  Simple and efficient (i.e. no LCD display).  At its core, the Hyperdrive is an NFA, though one I can tolerate.  Ideally, I would love to just use my iPod as a portable storage device (PSD), but the speed and battery life of such options make this impossible.
-<h5>The Catalog</h5>
+
+## The Shot
+
+Currently done with my Nikon D70, RAW format.  I have a 1 GB CF card and a much smaller spare.  If I don't have my laptop with me on a trip, I take an old <a href="http://www.hypershop.com/shop/" title="Apparently, there's a new version...">Hyperdrive</a> (basically a CF & SD reader that you can plug in your own hard drive).  Simple and efficient (i.e. no LCD display).  At its core, the Hyperdrive is an NFA, though one I can tolerate.  Ideally, I would love to just use my iPod as a portable storage device (PSD), but the speed and battery life of such options make this impossible.
+
+## The Catalog
+
 <a href="http://www.photools.com/" title="Vastly Superior">iMatch</a>.  Period.  When you're dealing with tens of thousands of photos (potentially much more), there simply is no other way.  Others try, but none come close to the feature set you really need to manage a large photo collection.  The draw back is that it's a NFA.  However, as I will discuss later, the catalog is the key piece in the workflow.  It really starts (and would end) here.
-<h5>The Conversion</h5>
+
+## The Conversion
 Currently I use Phase One's <a href="http://www.phaseone.com/">Capture One LE</a> software for RAW conversion.  It's a very good NFA. Unfortunately (and I wish I knew this at the time I bought it), it doesn't save your edits in an XMP sidecar file.  This makes it hard to reproduce tweaks in the RAW conversion.  Ideally, you could incorporate this functionality into the Catalog, where it would save you're processing information (similar to the way Picasa does it, but in sidecar files instead of a proprietary database).
-<h5>The Stitching (Optional)</h5>
+
+## The Stitching (Optional)
 For panoramas, the next step is to incorporate the processed images into <a href="http://www.tawbaware.com/ptasmblr.htm">PTAssembler</a>.  This is a very good NFA and I wouldn't need it integrated.  I've dabbled in HDR photography, but I haven't come across a good tool, no yet produced a great image set that would require a good tool.  Maybe someday.
-<h5>The Publishing</h5>
+
+## The Publishing
+
 The last step is the final cleanup, resizing, noise removal, etc. performed in Photoshop.  Its a muscle application, and in most photo cases is overkill.  A simple tool set for the basic case is all you really need.  This is not to say that you can replace Photoshop from the workflow -- it really is absolutely essential.  I'm just saying that in a majority of cases, you don't need its power.
 
 Bottom line, what is the answer to all this?  Really, for me the answer is integrate RAW conversion and minimal photo editing into the Catalog or add powerful cataloging features to a RAW conversion/photo editing tool.

@@ -1,7 +1,7 @@
 Title: reasonable inactivity
 Date: 2008-12-15 22:18:39
 Tags: imported
-Category: 
+Category: updates
 Slug: reasonable_inactivity
 
 I've been less active blogging and more engaged in other social media outlets (twitter, friendfeed, etc).  My Friendfeed <a href="http://friendfeed.com/mphilpot?format=atom">RSS</a> is probably the best way to keep track of everything if you use feeds, or check <a href="http://blog.mcstudios.net/my-feed">this</a> page.  If you don't use friendfeed and are into that sort of thing (ie have multiple avenues via which you engage the internet), I highly recommend trying it out.

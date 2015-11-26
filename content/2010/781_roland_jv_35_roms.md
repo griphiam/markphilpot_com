@@ -15,6 +15,7 @@ Below are the three songs included in my old Roland JV-35.  While the standard G
 <h4>Strangers</h4>
 [audio src="http://griphiam.web.aplus.net/audio/strangers" format="mp3 ogg" options="controls"]
 
-<p>&nbsp;</p>
+
+
 
 <img alt="Roland JV-35" src="http://blog.mcstudios.net/wordpress/wp-content/uploads/HLIC/7741de25dc06fa3bcb6cd551ea41a531.jpg" title="Roland JV-35" class="alignright" width="499" height="187" />On the whole the old keyboard has served me quite well, though the MIDI-in port is malfunctioning at this point. At some point, I'll grab a keyboard with weighted keys (and a full complement of 88), but for now I'll the the most out of it I can.

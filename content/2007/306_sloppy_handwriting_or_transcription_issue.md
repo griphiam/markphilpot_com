@@ -1,7 +1,7 @@
 Title: sloppy handwriting or transcription issue?
 Date: 2007-10-17 11:56:00
 Tags: imported
-Category: 
+Category: thoughts
 Slug: sloppy_handwriting_or_transcription_issue
 
 
@@ -37,4 +37,5 @@ fn thi people ulioaw
 still drive</td>
 </tr>
 </table>
+
 The above was actual results of Microsoft Windows Mobile handwriting recognition on my handwriting...   I just found it funny.  I never use the feature anyway (and the results are probably why).

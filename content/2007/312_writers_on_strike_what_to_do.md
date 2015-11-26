@@ -1,14 +1,16 @@
 Title: writers on strike... what to do?
 Date: 2007-11-12 09:40:32
 Tags: imported
-Category: 
+Category: tv
 Slug: writers_on_strike_what_to_do
 
 You  know what this means right?  More Survivor, American Idol, Amazing Race... Reality TV! [Shudder]  Its going to be bad folks.  In addition, the contracts for Director's Guild and Actor's Guild are due up in June!  The hope is that the work that goes into the WGA contract can be applied to the DGA and AGA.  Technically we're still in the first week, but the repeated breakdowns in progress doesn't exactly lend to optimism.
 
 The only recipe for right now is to go back an catch up on all those shows you missed!   With a brand new Netflix account in hand, I begin to build up a queue that will satisfy my need for "quality" TV in between college basketball games.  The following is a breakdown on what I'm hoping to catch up on.
-<h3>To See...</h3>
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Freaks_and_Geeks_DVD.jpg/222px-Freaks_and_Geeks_DVD.jpg" style="float: right" width="180" /><em>Freaks &amp; Geeks</em>
+
+## To See...
+
+<img src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Freaks_and_Geeks_DVD.jpg/222px-Freaks_and_Geeks_DVD.jpg" style="float: right" width="180" /><em>Freaks & Geeks</em>
 Seasons: ½
 
 Due to the insistence from <a href="http://jeff.specular.org/">Jeff</a> and <a href="http://www.imdb.com/title/tt0405422/">Forty-Year-Old Virgin</a>/<a href="http://www.imdb.com/title/tt0478311/">Knocked Up</a>, I've taken the plunge to get my heart broken by becoming attached to this show that barely had a season's worth of episodes.  Ann and I watched the first three episodes last night, and I'm already disappointed that I only have a very limited number of episodes left (9).  =(  Damn you NBC!  You now join the ranks of Fox for killing off fantastic television only to dump mind-numbing crap in our face instead.
@@ -20,11 +22,11 @@ Also, how can a series that won an Emmy, be canceled so soon?
 <img src="http://upload.wikimedia.org/wikipedia/en/9/9d/Undeclared_DVD.jpg" style="float: right" height="185" width="135" /><em>Undeclared</em>
 Seasons: ½
 
-And we pick up where we left off, this time with only 15 episodes (those bastards).  I don't know much about it yet, but I assume its fairly analogous to F&amp;G, just moved up a few years -- college years.  If it is anywhere near the quality of F&amp;G, I'll treat it as season two of F&amp;G, so I can actually claim to have a full season!
+And we pick up where we left off, this time with only 15 episodes (those bastards).  I don't know much about it yet, but I assume its fairly analogous to F&G, just moved up a few years -- college years.  If it is anywhere near the quality of F&G, I'll treat it as season two of F&G, so I can actually claim to have a full season!
 
 Its unfortunate because I think Judd Apatow's talents are better suited to the television episode format, rather than feature length movies.  A brief look at his <a href="http://www.imdb.com/name/nm0031976/">imdb profile</a> suggests he's staying with producing films.  I hope he does decide to make a return to the small screen, and I will eagerly await.
 
-(Supposedly there's lots of cameos from F&amp;G, so that should be fun)
+(Supposedly there's lots of cameos from F&G, so that should be fun)
 
 <img src="http://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Farscape_Intro.jpg/250px-Farscape_Intro.jpg" style="float: right" height="172" width="250" /><em>Farscape</em>
 Seasons: 4+mini-series
@@ -59,7 +61,7 @@ Not much as far as I'm concerned.
 <img src="http://upload.wikimedia.org/wikipedia/en/b/b1/Season02_posterart.jpg" style="float: right" height="190" width="252" /><em>The Wire</em>
 Seasons: 5
 
-HBO again, and this time with what I believe is the most critically acclaimed show I know.  Sopranos took a lot of the thunder, but almost everyone who saw both claimed The Wire was better.  Again, another sheer character driven drama that supposedly takes a few episodes to get into it.  With five seasons (and each successive supposedly better than the previous), this is a more serious endevour to undertake.  My Dad has been pestering me to get around to seeing this, as it's easily his favorite show ever.  In time... In time.
+HBO again, and this time with what I believe is the most critically acclaimed show I know.  Sopranos took a lot of the thunder, but almost everyone who saw both claimed The Wire was better.  Again, another sheer character driven drama that supposedly takes a few episodes to get into it.  With five seasons (and each successive supposedly better than the previous), this is a more serious endeavor to undertake.  My Dad has been pestering me to get around to seeing this, as it's easily his favorite show ever.  In time... In time.
 
 Season 4 was set in Baltimore, MD and I have a few relatives who have worked there and claim the show is incredibly accurate in depicting the day to day life there.
 
@@ -80,12 +82,12 @@ Seasons: ½ + Movie
 
 Its hard not to come across as cult-like when discussing Firefly/Serenity.  Maybe it really is a "you get it or you don't" type of reaction, but this had the potential to become one of the best TV series running if given the support it deserved.  You would think studios would be looking at DVD sales of series' that they cut short and go,"hmmm... maybe if we had done the right kind of marketing/not fucked with the time slot/given it a time slot of death, then it might have succeeded..."
 
-Its hard to tell what their goals are sometimes.  They are all looking for the next Seinfeld, Friends, Fraizer, et al. when not all shows fit that model.
+Its hard to tell what their goals are sometimes.  They are all looking for the next Seinfeld, Friends, Frazier, et al. when not all shows fit that model.
 
 <img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Stargate_SG-1_Season_9_Title.jpg/250px-Stargate_SG-1_Season_9_Title.jpg" style="float: right" height="141" width="250" /><em>Stargate SG-1</em>
 Seasons: 10
 
-Who doesn't like a little Richard Dean Anderson love?  The rapport between the main characters really is quite staggeringly good.  Some great evolving plots, they kept stories going without being mundane.  Some critize the Ori plot as weaker and a reason why it was stopped after its 10th season, but I actually thought it was good, and felt rushed to give it a conclusion.  There were lots of political and cultural undertones that made it a really good conflict.
+Who doesn't like a little Richard Dean Anderson love?  The rapport between the main characters really is quite staggeringly good.  Some great evolving plots, they kept stories going without being mundane.  Some criticize the Ori plot as weaker and a reason why it was stopped after its 10th season, but I actually thought it was good, and felt rushed to give it a conclusion.  There were lots of political and cultural undertones that made it a really good conflict.
 
 In any regard, I highly recommend this series if you were a fan of the original movie. You'll get quite a lot of mileage out of this show with ten full seasons to get through.
 
@@ -97,7 +99,7 @@ Having not seen The Wire yet, so I can't directly compare the two, Deadwood has 
 <img src="http://upload.wikimedia.org/wikipedia/en/thumb/7/75/Buffy_logo_0001.jpg/250px-Buffy_logo_0001.jpg" style="float: right" height="185" width="250" /><em>Buffy</em>
 Seasons: 7*
 
-Getting back to Whedon's roots here.  I only realy enjoyed up to about season 4, and only really seen bits of the other three seasons.  I personally think the earlier seasons are better, due to the fact that Joss went off to work on Serenity in the season 5/6 time frame.  Lots of great good vs evil battles surrounded with how to adjust to high school life.  While it has a dark and serious theme to it, Joss does a good job of not letting it become depressing with lots of wacky plots and witty dialog.  I think being a little darker would have been better, but that's just my preference.
+Getting back to Whedon's roots here.  I only really enjoyed up to about season 4, and only really seen bits of the other three seasons.  I personally think the earlier seasons are better, due to the fact that Joss went off to work on Serenity in the season 5/6 time frame.  Lots of great good vs evil battles surrounded with how to adjust to high school life.  While it has a dark and serious theme to it, Joss does a good job of not letting it become depressing with lots of wacky plots and witty dialog.  I think being a little darker would have been better, but that's just my preference.
 <h3>Shows to be missed...</h3>
 <em>Bionic Woman</em>
 

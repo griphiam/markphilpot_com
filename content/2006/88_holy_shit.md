@@ -1,7 +1,7 @@
 Title: HOLY SHIT!
 Date: 2006-01-30 17:56:35
 Tags: imported
-Category: 
+Category: games
 Slug: holy_shit
 
 <strong>What a fucking trip down memory lane!</strong>

@@ -1,7 +1,7 @@
 Title: simply insane
 Date: 2007-04-19 00:03:08
 Tags: imported
-Category: 
+Category: thoughts
 Slug: simply_insane
 
 When I stumbled across <a href="http://video.google.com/videoplay?docid=-1120619888350136916" title="Wow, nerves of steel">this</a>, my first reaction was "You have to be crazy!"

@@ -1,7 +1,0 @@
-Title: simply brilliant
-Date: 2008-07-16 09:41:34
-Tags: imported
-Category: 
-Slug: simply_brilliant
-
-<div style='background-color:#e9e9e9; width: 425px;'><object id='A481508' quality='high' data='http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=6bRCmPnkhFj2MwPo&service=sendables.jibjab.com' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' wmode='transparent' height='319' width='425'><param name='wmode' value='transparent'></param><param name='movie' value='http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=6bRCmPnkhFj2MwPo&service=sendables.jibjab.com'></param><param name='scaleMode' value='showAll'></param><param name='quality' value='high'></param><param name='allowNetworking' value='all'></param><param name='allowFullScreen' value='true' /><param name='FlashVars' value='external_make_id=6bRCmPnkhFj2MwPo&service=sendables.jibjab.com'></param><param name='allowScriptAccess' value='always'></param></object><div style='text-align:center; width:435px; margin-top:6px;'>Send a JibJab Sendables&reg; <a href='http://sendables.jibjab.com/sendables'>eCard</a> Today!</div></div><img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://counters.gigya.com/wildfire/CIMP/bT*xJmx*PTEyMTYyMjYzOTM5MDUmcHQ9MTIxNjIyNjM5OTM1OCZwPTE5MTEzMSZkPSZuPSZnPTI=.jpg" />

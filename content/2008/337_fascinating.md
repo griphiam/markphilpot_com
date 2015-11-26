@@ -1,7 +1,7 @@
 Title: fascinating
 Date: 2008-02-26 12:54:16
 Tags: imported
-Category: 
+Category: movies
 Slug: fascinating
 
 An absolutely <a href="http://www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html">fascinating graphic</a> produced by the NY Times....
@@ -22,4 +22,3 @@ The following is the list of movies that have won best picture from outside that
 Outside LotR (which would be firmly in fantasy), there is not a single science fiction movie on the list.  The genre is pigeonholed by the studios that it fills the summer blockbuster role and can't fill the Oscar "worthy" role.  Looking at imdb's <a href="http://www.imdb.com/chart/scifi">top science fiction films</a>... The only one that came close (or should have... wasn't even nominated) was Bladerunner (but it definitely could not have beaten Ghandi).  ET was at least nominated in that same year.  Star Wars was nominated in 1977 (but it really had no place there... I believe that was before there as a separate "Best Special Effects" category).
 
 So what would it take to have a science fiction film win Best Picture?  If done well, Ender's Game could do it (some huge caveats with that).  In all likelihood, it would come out of the original screenplay category rather than adapted.  One that simply used sci-fi as a backdrop.  And in my mind that's unfortunate.
-

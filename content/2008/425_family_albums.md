@@ -1,7 +1,7 @@
 Title: family albums
 Date: 2008-07-27 13:56:54
 Tags: imported
-Category: 
+Category: photography
 Slug: family_albums
 
 I uploaded some of my parents pictures (since they weren't about to do it themselves =)  These aren't my photos, but deserves some exposure, none the less.

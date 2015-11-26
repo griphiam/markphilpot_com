@@ -1,7 +1,7 @@
 Title: New Panoramas
 Date: 2006-01-26 21:03:20
 Tags: imported
-Category: 
+Category: photography
 Slug: new_panoramas
 
 I haven't uploaded any of the panorama's I did in the past few months, so I thought I'd do some processing and get it up.  Here's the <a title="Panoramas - Page 2" href="http://gallery.mcstudios.net/v/photography/pano/?g2_page=2">ablum</a>
@@ -9,32 +9,32 @@ I haven't uploaded any of the panorama's I did in the past few months, so I thou
 <tr>
 <td><a title="Carmel Beach" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Beach.jpg.html" />
 <div style="text-align: center"><a title="Carmel Beach" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Beach.jpg.html"><img src="http://gallery.mcstudios.net/d/1925-1/Carmel-Beach.jpg" /></a></div>
-<p align="center" style="font-weight: bold">Carmel Beach Overlook</p>
+<p align="center" style="font-weight: bold">Carmel Beach Overlook
 </td>
 <td><a title="Sunset" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Sunset.jpg.html" />
 <div style="text-align: center"><a title="Sunset" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Sunset.jpg.html"><img src="http://gallery.mcstudios.net/d/1928-2/Carmel-Sunset.jpg" /></a></div>
-<p align="center" style="font-weight: bold">Carmel Beach Sunset</p>
+<p align="center" style="font-weight: bold">Carmel Beach Sunset
 </td>
 </tr>
 <tr>
 <td><a title="Highlands Inn" href="http://gallery.mcstudios.net/v/photography/pano/Highlands-Inn-Deck.jpg.html" />
 <div style="text-align: center"><a title="Highlands Inn" href="http://gallery.mcstudios.net/v/photography/pano/Highlands-Inn-Deck.jpg.html"><img src="http://gallery.mcstudios.net/d/1931-2/Highlands-Inn-Deck.jpg" /></a></div>
-<p style="text-align: center; font-weight: bold">Highlands Inn (Deck)</p>
+<p style="text-align: center; font-weight: bold">Highlands Inn (Deck)
 </td>
 <td><a title="Pike's Peak (outside Colorado Springs)" href="http://gallery.mcstudios.net/v/photography/pano/Pikes-Peak.jpg.html" />
 <div style="text-align: center"><a title="Pike's Peak (outside Colorado Springs)" href="http://gallery.mcstudios.net/v/photography/pano/Pikes-Peak.jpg.html"><img src="http://gallery.mcstudios.net/d/1934-2/Pikes-Peak.jpg" /></a></div>
-<p style="text-align: center; font-weight: bold">Pike's Peak, Colorado</p>
+<p style="text-align: center; font-weight: bold">Pike's Peak, Colorado
 </td>
 </tr>
 <tr>
 <td><a title="Carmel" href="http://gallery.mcstudios.net/v/photography/pano/Wide-Carmel-Beach.jpg.html" />
 <div style="text-align: center"><a title="Carmel" href="http://gallery.mcstudios.net/v/photography/pano/Wide-Carmel-Beach.jpg.html"><img src="http://gallery.mcstudios.net/d/1937-2/Wide-Carmel-Beach.jpg" /></a></div>
-<p style="text-align: center; font-weight: bold">Carmel Beach Sunset</p>
+<p style="text-align: center; font-weight: bold">Carmel Beach Sunset
 </td>
-<td>&nbsp;</td>
+<td></td>
 </tr>
 </table>
-Obviously the last one I've used as my website banner at the moment. There were a lot more attempts in Carmel.  It's really hard to take a multi-stich pano of a moving ocean tide.  Most of the time the difference is too great if you don't do it right.  Additionally, the ocean provides very few anchor points, so unless you have land involved (most often), you won't get them to stich.
+Obviously the last one I've used as my website banner at the moment. There were a lot more attempts in Carmel.  It's really hard to take a multi-stich pano of a moving ocean tide.  Most of the time the difference is too great if you don't do it right.  Additionally, the ocean provides very few anchor points, so unless you have land involved (most often), you won't get them to stitch.
 
 The Highlands Inn one is actually rather old, but it was taken at such an angle that it was really hard to get the horizon to not appear broken (basically a year, obviously on and off, to get it right).  Also for the sunset pictures, its really hard to get a full image of the sun without blowing all the highlights and overloading the camera's sensor (producing ugly purple fringing).  I got really lucky with the sunset pictures here.  It produces a nice contrast, I think.
 

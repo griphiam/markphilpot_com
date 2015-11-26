@@ -1,7 +1,7 @@
 Title: Attempts at cleverness
 Date: 2005-06-16 08:43:14
 Tags: imported
-Category: 
+Category: updates
 Slug: attempts_at_cleverness
 
 So this post was supposed to go out last weekend.  I had turned on Wordpress's feature of scanning a POP3 email account  to add posts.  Needless to say it looks like it doesn't work, so I'm just going back to manual postings.  So much for that feature.

@@ -1,7 +1,7 @@
 Title: This is the Colbert Report
 Date: 2006-08-17 15:46:42
 Tags: imported
-Category: 
+Category: tv
 Slug: this_is_the_colbert_report
 
-<a title="This is the Colbert Report!" href="http://www.youtube.com/watch?v=0FenUvFAiwk"><img alt="Cute 2 year old" src="http://sjl-static14.sjl.youtube.com/vi/0FenUvFAiwk/2.jpg" /></a> If you watch one 30 second video today... it <em>must</em> this one.&nbsp; If you watched the <a title="Opening of the Colbert Report" href="http://www.youtube.com/watch?v=w2LHFhcF08U">August 8th show</a>, then you caught a glimpse of it.
+<a title="This is the Colbert Report!" href="http://www.youtube.com/watch?v=0FenUvFAiwk"><img alt="Cute 2 year old" src="http://sjl-static14.sjl.youtube.com/vi/0FenUvFAiwk/2.jpg" /></a> If you watch one 30 second video today... it <em>must</em> this one. If you watched the <a title="Opening of the Colbert Report" href="http://www.youtube.com/watch?v=w2LHFhcF08U">August 8th show</a>, then you caught a glimpse of it.

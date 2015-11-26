@@ -1,7 +1,7 @@
 Title: google design
 Date: 2007-10-25 11:38:12
 Tags: imported
-Category: 
+Category: thoughts
 Slug: google_design
 
 I hadn't thought about it <a href="http://www.meangene.com/google/design_for_google.html">this way</a>, but this is a good overview of the influence Google's search algorithms have on web design.  After seeing this, you'll start to see the sheer number of websites that follow the same model/design... and this can all be traced back to Google!  Such ugly, cluttered designs too.

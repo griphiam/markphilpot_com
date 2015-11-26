@@ -1,10 +1,8 @@
 Title: DC Interview
 Date: 2003-06-08 01:06:58
 Tags: imported
-Category: 
+Category: jobs
 Slug: dc_interview
-
-Hey everyone,
 
 I'm heading to DC on Monday, and will be back on Thursday.  Everyone wish me luck =)  I haven't heard from any other companies yet, so this might be one of my few chances to get a job.
 
@@ -12,4 +10,4 @@ Ann and I have been planning our moving trip to DC, and have been disgusted with
 
 I'll check back soon.  I haven't had much time to tweak the website.  I really want to get the CD portion done so I can enter that information soon... but the summer seems likes its fleeting already (and its only June!).
 
-Ok, taking off to the bars... Cya =)
+Ok, taking off to the bars...

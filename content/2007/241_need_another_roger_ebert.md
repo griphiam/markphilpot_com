@@ -1,7 +1,7 @@
 Title: need another roger ebert
 Date: 2007-06-01 00:34:01
 Tags: imported
-Category: 
+Category: looking
 Slug: need_another_roger_ebert
 
 Ok, I need a recommendation.  For years, my sole source of quality film reviews was Roger Ebert.  On roughly 90% of his reviews I agreed with.  I always appreciated the fact that he knew what the film was trying to be.  If it was a summer film whose purpose was simply to entertain, he respected that and he didn't pan movies because they weren't up to artistic snuff.  The only movie he reviewed negatively which I thought was great was <em>Usual Suspects</em>.  I appreciated his candor and respected his opinion.

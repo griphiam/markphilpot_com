@@ -1,7 +1,7 @@
 Title: little cleanup
 Date: 2007-03-29 00:01:04
 Tags: imported
-Category: 
+Category: updates
 Slug: little_cleanup
 
 I did a little clean up on the <a href="http://wpg2.galleryembedded.com/index.php?title=Main_Page" title="nifty">wpg2 plugin</a> so now all the links go to my <a href="http://gallery.mcstudios.net" title="MCS Photography">gallery</a> rather than an embedded page (much better now) as well as clean up a little security issue =)

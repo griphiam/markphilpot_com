@@ -1,7 +1,7 @@
 Title: oh the irony
 Date: 2008-07-25 17:17:42
 Tags: imported
-Category: 
+Category: politics
 Slug: oh_the_irony
 
 <img src='http://graphics.jsonline.com/graphics/photographer/20/20534_large.jpg' alt='definition of irony' class='aligncenter' />

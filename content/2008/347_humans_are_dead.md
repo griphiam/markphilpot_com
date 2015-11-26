@@ -1,7 +1,7 @@
 Title: humans are dead
 Date: 2008-03-08 11:14:24
 Tags: imported
-Category: 
+Category: humor
 Slug: humans_are_dead
 
 Another Flight of the Conchords gem...

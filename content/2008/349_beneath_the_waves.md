@@ -1,7 +1,7 @@
 Title: beneath the waves
 Date: 2008-03-09 18:06:00
 Tags: imported
-Category: 
+Category: music
 Slug: beneath_the_waves
 
 The new single from Ayreon's new album 01011001.  Fantastic ensemble cast...  He always puts together great singers with some great performances and catchy harmonies.

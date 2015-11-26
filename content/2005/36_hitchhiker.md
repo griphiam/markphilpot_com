@@ -1,12 +1,12 @@
 Title: Hitchhiker
 Date: 2005-05-01 09:24:26
 Tags: imported
-Category: 
+Category: movies
 Slug: hitchhiker
 
 I didn't have high hopes going in.  I had seen the trailers.. I had caught a few of the reviews on Friday... But I <em>wanted</em> to like the movie!  I went in thinking, "It might not be great, but its still Hitchhiker's Guide".  I don't do that with many movies.
 
-Unfortunately it wasn't worth the price of admission.  Frankly, save the money and go out and buy the books if you haven't read them.  If you have read them, go out and buy the unabridged books on CD.  They are read by Douglas Adams himself, and the books are even funnier with a british accent.
+Unfortunately it wasn't worth the price of admission.  Frankly, save the money and go out and buy the books if you haven't read them.  If you have read them, go out and buy the unabridged books on CD.  They are read by Douglas Adams himself, and the books are even funnier with a British accent.
 
 I have only read the main books; not any of Adams' work published posthumously, nor listened to the BBC radio rendition (which I believe was written by Adams).  Adam's is given screenplay credit in the movie, and I know he had a screenplay written before he died, but I wonder how far the movie deviated from it (quite a bit I'd imagine).
 

@@ -1,7 +1,7 @@
 Title: javascript
 Date: 2008-08-25 09:53:50
 Tags: imported
-Category: 
+Category: development
 Slug: javascript
 
 We've been doing a lot of js-based development on our project lately, and the more news like <a href="http://shaver.off.net/diary/2008/08/22/the-birth-of-a-faster-monkey/">this</a>, the better.  Safari and Firefox have new JavaScript engines coming out that look really promising performance wise.  In contrast, recently the ECMA group (that is in charge of the JS "standard") abandoned their v4 plans to go with a less ambitious v3.1 of the JS language -- maybe no the best decision, but I don't think its the end of the world.

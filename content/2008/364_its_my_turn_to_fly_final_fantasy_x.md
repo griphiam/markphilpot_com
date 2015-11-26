@@ -1,7 +1,7 @@
 Title: It's My Turn To Fly (Final Fantasy X)
 Date: 2008-04-04 18:43:01
 Tags: imported
-Category: 
+Category: creative
 Slug: its_my_turn_to_fly_final_fantasy_x
 
 My second music video (this time in the true spirit of AMV) using scenes from Final Fantasy X set to The Urge's It's My Turn To Fly from Titan A.E.

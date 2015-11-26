@@ -1,7 +1,7 @@
 Title: friday fun
 Date: 2007-03-23 19:27:21
 Tags: imported
-Category: 
+Category: thoughts
 Slug: friday_fun
 
 <a href="http://www.millenniumpong.com/" title="Reminds me of junior year">This</a> is ambitious!   Enjoy a trip back to the good old college days.

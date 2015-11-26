@@ -1,7 +1,7 @@
 Title: team fortress 2 (initial)
 Date: 2007-10-12 08:06:26
 Tags: imported
-Category: 
+Category: games
 Slug: team_fortress_2_initial
 
 Oh... My... God.

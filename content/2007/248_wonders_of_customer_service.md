@@ -1,7 +1,7 @@
 Title: wonders of customer service
 Date: 2007-05-31 22:44:37
 Tags: imported
-Category: 
+Category: rant
 Slug: wonders_of_customer_service
 
 It really should be a fundamental business principle, but it's amazing how little attention it really gets.  Occasionally we here about abysmal service (AOL, any outsourced phone support, etc), but rarely does good customer service get great exposure.

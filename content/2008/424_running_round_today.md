@@ -1,7 +1,7 @@
 Title: running 'round today
 Date: 2008-07-26 13:52:07
 Tags: imported
-Category: 
+Category: updates
 Slug: running_round_today
 
 <a href="http://www.flickr.com/photos/markphilpot/2581759259/"><img src="http://farm4.static.flickr.com/3075/2581759259_048f1367b4.jpg?v=0" alt="wolfi" class="aligncenter"/></a>

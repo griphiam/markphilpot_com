@@ -1,7 +1,7 @@
 Title: yet another slip
 Date: 2008-10-13 23:31:12
 Tags: imported
-Category: 
+Category: updates
 Slug: yet_another_slip
 
 Why is it hard trying to keep a habit of writing a bit every day.  Seriously, you think this would be a bit easier... Lots of people do it now.

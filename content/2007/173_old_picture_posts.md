@@ -1,7 +1,7 @@
 Title: old picture posts
 Date: 2007-03-02 21:25:38
 Tags: imported
-Category: 
+Category: photography
 Slug: old_picture_posts
 
 After resorting all my posts into new categories, I realize every single one of my old posts that included a picture from my gallery don't work anymore.  If I remember correctly, I had some sort of plugin that took care of that and its no longer installed.  I'm going to try to go back and fix them this weekend.
@@ -12,7 +12,7 @@ Right now I'm testing out a new plugin (<a href="http://http://wpg2.galleryembed
 
 In keeping with spirit, there's a lunar eclipse out tonight.  I'm not sure it was visible in North America (I only heard it was going to be visible in Asia), but should be nice regardless.
 
-Two wierd things about this plugin.  It seems like the defualt link it shows is an embeded gallery page within wordpress rather than a link to the actual image over in gallery.  It might be tweakable, but I'm not sure.  At least WPG2 allows wordpress and gallery to be in separate domains, which most plugins I've used have always choked on.  It has also made me realize I need to clean up the titles in my gallery.  Getting sloppy, I think.
+Two weird things about this plugin.  It seems like the default link it shows is an embedded gallery page within wordpress rather than a link to the actual image over in gallery.  It might be tweakable, but I'm not sure.  At least WPG2 allows wordpress and gallery to be in separate domains, which most plugins I've used have always choked on.  It has also made me realize I need to clean up the titles in my gallery.  Getting sloppy, I think.
 
 So after some tweaking, I think I've arrived at something I'm fairly happy with (at least at this late hour).  I want to try to work on the CSS a bit more (and clean up the gallery).  Hopefully I'll also get some more images posted soon.
 

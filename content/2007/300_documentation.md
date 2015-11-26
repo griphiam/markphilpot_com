@@ -1,7 +1,7 @@
 Title: documentation
 Date: 2007-10-11 16:30:51
 Tags: imported
-Category: 
+Category: rant
 Slug: documentation
 
 <em>&lt;rant&gt;</em>

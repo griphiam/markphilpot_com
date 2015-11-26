@@ -1,7 +1,7 @@
 Title: OOXML with a side of the same old shit
 Date: 2007-09-25 23:12:25
 Tags: imported
-Category: 
+Category: rant
 Slug: ooxml_with_a_side_of_the_same_old_shit
 
 (Note: I'm cleaning out some topics I wanted to get to... so these aren't necessarily timely thoughts I'm exposing here.  This trend will probably continue until I actually get caught up.)

@@ -1,7 +1,7 @@
 Title: Scotty down Pegg[ed]
 Date: 2007-10-16 20:34:10
 Tags: imported
-Category: 
+Category: movies
 Slug: scotty_down_pegged
 
 "She can't take much more captain! I'm giving her all she's got!  We need to get to the Winchester!"

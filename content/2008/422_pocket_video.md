@@ -1,7 +1,7 @@
 Title: pocket video
 Date: 2008-07-24 23:22:44
 Tags: imported
-Category: 
+Category: thoughts
 Slug: pocket_video
 
 I didn't jump at the <a href="http://www.theflip.com/products_flip_mino.shtml#scene=sceneMain">Flip Mino</a> because when you get down to it, the quality is still VGA @ 30fps -- basically not much more than you're standard web cam.  Yes, it was nice and tiny and more importantly, cheap.  But it still didn't pop out.  You can now get MiniDV or hard drive based high definition camcorders now at somewhat reasonable prices, but still steep.

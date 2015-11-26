@@ -1,10 +1,10 @@
 Title: Trip Cross Country
 Date: 2003-05-23 14:19:08
 Tags: imported
-Category: 
+Category: roadtrip
 Slug: trip_cross_country
 
-I'm just finially starting to settle down after nearly two weeks of straight driving.  I first went up to DC to visit my uncle and walk around downtown.  I'm <i>really</i> looking forward to moving out there.  It really looks like a great city, and now the only hitch is finding a job (but more on that later).
+I'm just finally starting to settle down after nearly two weeks of straight driving.  I first went up to DC to visit my uncle and walk around downtown.  I'm <i>really</i> looking forward to moving out there.  It really looks like a great city, and now the only hitch is finding a job (but more on that later).
 
 So, the trip cross country... Paul and I started Friday morning and got into LA late Sunday evening.  I then drove up to the Bay Area on Monday.  Let me give you a state by state breakdown.
 
@@ -14,11 +14,11 @@ This was the first drive (X-country) where Paul and I were both awake driving th
 
 <b>Tennessee</b> - <i>Paul Driving</i>
 
-Paul determined (and I concurred) that Tennesse (especially Knoxville) can "kiss the fattest part of our ass."  For the second straight time, Paul got stuck driving in traffic on 40 going through Knoxville (and it wasn't like it was during rush hour or anything either).  TN is just all around not a pleasant place to be.
+Paul determined (and I concurred) that Tennessee (especially Knoxville) can "kiss the fattest part of our ass."  For the second straight time, Paul got stuck driving in traffic on 40 going through Knoxville (and it wasn't like it was during rush hour or anything either).  TN is just all around not a pleasant place to be.
 
 <b>Arkansa</b> - <i>Mark Driving</i>
 
-Right before leaving TN, we stopped to get gas and swap driving.  We when into the convient store, which had a TV with the weather on.  A <i>huge</i> storm front and tornado warning was covering Arkansa.  "Lovely" we thought.  After about 45 minutes driving down 40 and seeing this massive, ugly-looking storm front loom to the north, it then basically swollowed us up for the rest of AK.  I have never seen so much rain and lightning (thankfully no tornados).  We were crawling long the interstate at 30mph, wishing that our windshield wipers had a faster setting.  Lighting struck the ground about a quarter of a mile in front of us, which was quite amazing.
+Right before leaving TN, we stopped to get gas and swap driving.  We when into the convenient store, which had a TV with the weather on.  A <i>huge</i> storm front and tornado warning was covering Arkansa.  "Lovely" we thought.  After about 45 minutes driving down 40 and seeing this massive, ugly-looking storm front loom to the north, it then basically swallowed us up for the rest of AK.  I have never seen so much rain and lightning (thankfully no tornados).  We were crawling long the interstate at 30mph, wishing that our windshield wipers had a faster setting.  Lighting struck the ground about a quarter of a mile in front of us, which was quite amazing.
 
 That was basically the adrenaline rush of the trip.
 
@@ -36,7 +36,7 @@ The western part of New Mexico is quite breath taking.  We happened to be drivin
 
 <b>Arizona</b> - <i>Both Driving</i>
 
-We decided earlier in the day to stay at the Grand Canyon for the night, then wake up early on Sunday and see the Canyon for a half day, and then continue on to LA.  Most of AZ was pich black.  I think it was slightly overcast because you couldn't see any stars or the moon, and looking out from the highway, it was pitch black.  There was no ambiant light from anywhere.  It was actually really cool.
+We decided earlier in the day to stay at the Grand Canyon for the night, then wake up early on Sunday and see the Canyon for a half day, and then continue on to LA.  Most of AZ was pitch black.  I think it was slightly overcast because you couldn't see any stars or the moon, and looking out from the highway, it was pitch black.  There was no ambient light from anywhere.  It was actually really cool.
 
 We turned off 40 to head up to the Grand Canyon, and it was even more impressive here, because we were the only cars on the road.  It was at this point that Paul decided to scare the shit out of me.  With the cryptic remark, "This is pretty straight," he cuts out the lights to the car for a second and then turns them back on.  However during that one second, it got totally black.  No light from anywhere.  It was like you were in a cave.  And needless to say since I wasn't warned, I was fucking scary as hell.  Paul got a kick out of it though =)
 
@@ -52,4 +52,4 @@ We got stuck in traffic entering LA (people on the 15 are stupid), but we ended 
 
 Since the trip, I've just been unwinding and unpacking.  I went to see the new Matrix, but I'm going to hold off commenting on it till I've seen it again (but WOW).
 
-Now on to seeking employment and enjoying the last school-made summer =)
+Now on to seeking employment and enjoying the last school-made summer

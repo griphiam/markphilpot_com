@@ -1,7 +1,7 @@
 Title: incredible
 Date: 2007-06-25 01:06:13
 Tags: imported
-Category: 
+Category: links
 Slug: incredible
 
 Check out this <a href="http://www.games4work.com/games/swf/supercoolpic.swf">link</a>.  I haven't figured out if it wraps or not...

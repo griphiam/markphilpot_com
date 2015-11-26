@@ -1,7 +1,7 @@
 Title: makes you want to believe
 Date: 2008-03-18 12:20:28
 Tags: imported
-Category: 
+Category: links
 Slug: makes_you_want_to_believe
 
 His best one yet...  Simply amazing speech.

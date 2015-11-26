@@ -1,7 +1,7 @@
 Title: SYTYCD 2008 (Favorites pt 1)
 Date: 2008-06-27 08:16:06
 Tags: imported
-Category: 
+Category: tv
 Slug: sytycd_2008_favorites_pt_1
 
 If you can find high def versions of these, I highly recommend it.  Incredible performances!

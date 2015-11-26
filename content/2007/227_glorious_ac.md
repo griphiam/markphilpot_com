@@ -1,7 +1,7 @@
 Title: glorious AC
 Date: 2007-04-25 00:06:32
 Tags: imported
-Category: 
+Category: updates
 Slug: glorious_ac
 
 Finally!

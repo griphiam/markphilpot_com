@@ -1,7 +1,7 @@
 Title: Departed
 Date: 2007-04-03 22:20:03
 Tags: imported
-Category: 
+Category: movies
 Slug: departed
 
 What a fantastic movie!  Just got around to watching it.  In my opinion, much better than 'Goodfellas,' which is a feat unto itself.
