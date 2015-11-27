@@ -1,7 +1,7 @@
 Title: online booking a vacation
 Date: 2007-04-13 00:53:27
 Tags: imported
-Category: rants
+Category: rant
 Slug: online_booking_a_vacation
 
 

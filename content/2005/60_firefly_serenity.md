@@ -1,7 +1,7 @@
 Title: Firefly & Serenity
 Date: 2005-10-15 17:39:25
 Tags: imported, firefly, serenity
-Category: movies, tv
+Category: tv
 Slug: firefly_serenity
 
 Back in 1995 (yes I know that was a long time ago), a very good sci-fi TV show aired on Fox -- <a href="http://www.imdb.com/title/tt0112173/">Space Above and Beyond</a>.  It followed squadron of Marines in the year 2036 (or something like that), defending Earth from Alien invaders.  On the surface, this seems like a very shallow, childish plot from a 60's sci-fi short story.  But what you would miss is the compelling characters and background stories that made the show fun and interesting.  Yes, it happened to take place in space against alien invaders, but everyone seems to pigeon-hole sci-fi films... they can't be dramas and character sketches <em>as well as</em> being a great adventure with some special effects you might not have seen before.  My memory of pre-1995 television isn't very good, so I don't know if SAaB was the first or not, but it is an obvious trend of Fox discarding great shows on what seem like whims.

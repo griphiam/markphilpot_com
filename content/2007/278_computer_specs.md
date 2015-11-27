@@ -1,7 +1,7 @@
 Title: computer specs
 Date: 2007-08-17 13:17:41
 Tags: imported, setup
-Category: computer
+Category: computers
 Slug: computer_specs
 
 Desktop

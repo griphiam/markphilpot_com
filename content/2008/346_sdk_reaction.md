@@ -1,7 +1,7 @@
 Title: sdk reaction
 Date: 2008-03-07 12:45:25
-Tags: imported
-Category: apple
+Tags: imported, apple
+Category: thoughts
 Slug: sdk_reaction
 
 There are a lot more fully informed opinions on Apple iPhone SDK announcement, but here are a few of my thoughts as to how it relates to my own personal world...

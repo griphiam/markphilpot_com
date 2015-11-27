@@ -1,7 +1,7 @@
 Title: Diane Duane - A Wizard of Mars
 Date: 2010-04-16 15:17:01
-Tags: books
-Category: reviews
+Tags: review
+Category: books
 Slug: wizard_of_mars
 Summary: A review of "A Wizard of Mars"
 
