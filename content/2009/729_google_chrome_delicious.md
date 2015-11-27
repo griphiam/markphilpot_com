@@ -1,6 +1,6 @@
 Title: Google Chrome & Delicious
 Date: 2009-11-18 21:19:06
-Tags: imported, fix
+Tags: imported
 Category: software
 Slug: google_chrome_delicious
 
@@ -17,7 +17,7 @@ You can use Chrome’s Omnibox to search inside your Delicious tags:
 <ul>
 	<li>Name: Delicious</li>
 	<li>Keywork: d</li>
-	<li><del datetime="2009-11-19T18:34:38+00:00">URL: http://delicious.com/search?context=userposts&p=%s&lc=1&u=your_user_name</del><br/>http://delicious.com/search?p=%s&chk=&fr=del_icio_us&lc=1&atags=&rtags=&context=userposts|your_user_name|</li>
+	<li>http://delicious.com/search?p=%s&chk=&fr=del_icio_us&lc=1&atags=&rtags=&context=userposts|your_user_name|</li>
 </ul>
 </ul>
 

@@ -1,14 +1,12 @@
 Title: the best always get canceled
 Date: 2007-04-18 00:27:04
-Tags: imported,fix
+Tags: imported
 Category: tv
 Slug: the_best_always_get_canceled
 
 For those of of you that are emotionally strong, TubeWad as a good <a href="http://www.tubewad.com/13-tv-shows-that-should-never-have-been-cancelled-1340-p.html">breakdown</a> of some shows that have had the brightest candles but the shortest wicks -- shows that got canceled well before their time.  Its really sad actually how much good stuff there is on the list (and how much I'm more than intimately familiar with).  Before I add a few thoughts, let me point that while we have potentially numerous squandered classics here, we are now suffering through the 14<sup>th</sup> season of <em>Survivor</em> (I shit you not)!  Anyway, after that depressing thought... onward.
 
 ## Firefly
-
-<img src="http://farm1.static.flickr.com/11/12660556_d0aea9a281_m.jpg" class="flickr reflect rheight20" title="Serenity" alt="Serenity" height="150" width="240" />
 
 Unfortunately, it will forever be the standard bearer of great shows axed before their time.  We only got half of one season, though unlike most, we got great sendoff on the big screen.  That really does say a lot for the missed potential of this show.  Joss Whedon claimed that one of the reasons that <em>Firefly</em> had so much studio meddling is they thought that 9 characters where too many -- that the audience couldn't handle it.  However, look how it paved the way for shows like <em>Lost</em> and <em>Heros</em>.  It really was ahead of its time.
 

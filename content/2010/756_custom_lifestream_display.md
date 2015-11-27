@@ -1,6 +1,6 @@
 Title: Custom Lifestream Display
 Date: 2010-02-15 22:28:26
-Tags: imported, fix
+Tags: imported
 Category: development
 Slug: custom_lifestream_display
 
@@ -9,7 +9,8 @@ Necessity is the mother of invention, and that's especially true for software.
 For a long time, I've wanted to display my lifestream as a single page (and on my own domain) in a way I could customize to match my own aesthetics. I tried <a href="http://code.google.com/p/sweetcron/">Sweetcron</a>, <a href="http://github.com/dominiek/kakuteru">Kakuteru</a>, and a few custom scripts for pulling data from Friendfeed.  Everything was either too complex or lacked the ability to customize the way I wanted.  For a while, I had been collecting my lifestream events using the <a href="http://www.enthropia.com/labs/wp-lifestream/">Lifestream Plugin for Wordpress</a> and was really impressed in it's stability and functionality.  I wanted to display this data but outside of my Wordpress installation, so I decided some PHP was necessary.
 
 <h2>Custom Lifestream Display</h2>
-<a href="http://www.markphilpot.net"><img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2010/02/mpnet.png" alt="Custom Lifestream" title="markphilpot.net" width="500" height="373" class="alignright size-full wp-image-759" /></a>
+
+![mpnet]({filename}/images/2010/mpnet.png){: .center}
 
 The source is located over <a href="http://github.com/griphiam/mpnet">here</a> on github.  It's a simple set of PHP files that uses the lifestream data from the Lifestream Plugin in your Wordpress database and renders it grouped by event type.
 

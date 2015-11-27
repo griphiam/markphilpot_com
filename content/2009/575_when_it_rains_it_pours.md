@@ -1,10 +1,10 @@
 Title: when it rains... it pours
 Date: 2009-05-30 22:54:38
-Tags: imported, fix
+Tags: imported
 Category: updates
 Slug: when_it_rains_it_pours
 
-<div style="margin: 15px; float: left"><a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="Hail Storm - Made it to the truck just in time... almost" target="_blank"><img src="http://farm4.static.flickr.com/3647/3569402984_8ac4ae2009_m.jpg" alt="Hail Storm - Made it to the truck just in time... almost" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="RWayne" target="_blank">RWayne</a></small></div>
+<div style="margin: 15px; float: left"><a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="Hail Storm - Made it to the truck just in time... almost" target="_blank"><img src="http://farm4.static.flickr.com/3647/3569402984_8ac4ae2009_m.jpg" alt="Hail Storm - Made it to the truck just in time... almost" border="0" /></a></div>
 
 What a rough weekend.
 
@@ -15,3 +15,5 @@ Finding a new apartment is going to be a challenge this time around.  There are 
 Ann has one more week of school, a handful of finals, loads of interviews, and all the fun "disorientation" GSB events.  If we can make it through the next two months unscathed... it will be quite a miraculous feat.
 
 Oh! There really needs to be a website dedicated to dog owners in search of apartments. Maybe I should get on that.
+
+<small>Photo: <a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="RWayne" target="_blank">RWayne</a></small>

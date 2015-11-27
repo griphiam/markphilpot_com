@@ -1,6 +1,6 @@
 Title: writers on strike... what to do?
 Date: 2007-11-12 09:40:32
-Tags: imported, fix
+Tags: imported
 Category: tv
 Slug: writers_on_strike_what_to_do
 
@@ -10,7 +10,7 @@ The only recipe for right now is to go back an catch up on all those shows you m
 
 ## To See...
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Freaks_and_Geeks_DVD.jpg/222px-Freaks_and_Geeks_DVD.jpg" style="float: right" width="180" /><em>Freaks & Geeks</em>
+<em>Freaks & Geeks</em>
 Seasons: ½
 
 Due to the insistence from <a href="http://jeff.specular.org/">Jeff</a> and <a href="http://www.imdb.com/title/tt0405422/">Forty-Year-Old Virgin</a>/<a href="http://www.imdb.com/title/tt0478311/">Knocked Up</a>, I've taken the plunge to get my heart broken by becoming attached to this show that barely had a season's worth of episodes.  Ann and I watched the first three episodes last night, and I'm already disappointed that I only have a very limited number of episodes left (9).  =(  Damn you NBC!  You now join the ranks of Fox for killing off fantastic television only to dump mind-numbing crap in our face instead.
@@ -28,7 +28,7 @@ Its unfortunate because I think Judd Apatow's talents are better suited to the t
 
 (Supposedly there's lots of cameos from F&G, so that should be fun)
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Farscape_Intro.jpg/250px-Farscape_Intro.jpg" style="float: right" height="172" width="250" /><em>Farscape</em>
+<em>Farscape</em>
 Seasons: 4+mini-series
 
 Ok, ok.  This is one of those answers to "you know you're a geek when..." But I couldn't help seeing what was making all the racket.  Farscape is a project with the Jim Henson company... so you know what that means...  Muppets.  But this is more Yoda than Kermit the Frog.  Two of the main characters are puppets but they are made to look real (ala Yoda before he made the jump -- pun intended -- to CGI).
@@ -44,7 +44,7 @@ Having already made my way though all ten seasons of the original Stargate SG-1 
 
 (Start with SG-1 before this... there are definitely plot prerequisites).
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Doctorwhotitles2007.jpg/250px-Doctorwhotitles2007.jpg" style="float: right" height="141" width="250" /><em>Dr. Who</em>
+<em>Doctor Who</em>
 Seasons: ~2
 
 The BBC revamp of the 40+ year old franchise.  When I was really young I saw a few of the older episodes (I guess the 80's version, rather than the 60's version).  I know nothing about this new remake; this is more a shot in the dark than the rest of this list -- it's also toward the end of my current queue.
@@ -58,7 +58,7 @@ Surprise, surprise.  Another quality product coming from HBO.  I've already seen
 
 Not much as far as I'm concerned.
 
-<img src="http://upload.wikimedia.org/wikipedia/en/b/b1/Season02_posterart.jpg" style="float: right" height="190" width="252" /><em>The Wire</em>
+<em>The Wire</em>
 Seasons: 5
 
 HBO again, and this time with what I believe is the most critically acclaimed show I know.  Sopranos took a lot of the thunder, but almost everyone who saw both claimed The Wire was better.  Again, another sheer character driven drama that supposedly takes a few episodes to get into it.  With five seasons (and each successive supposedly better than the previous), this is a more serious endeavor to undertake.  My Dad has been pestering me to get around to seeing this, as it's easily his favorite show ever.  In time... In time.
@@ -72,19 +72,21 @@ I don't know how the WGA strike will affect season 4 (currently slated for the b
 
 BSG is really one of the most under appreciated gems in this line up.  It should really be competing with main stream programming, but can't because it's "sci-fi" (as if that was some dirty label). Sci-Fi in the main stream is Star Trek/Star Wars, when it doesn't have to be (in fact, the best are usually at the opposite end of the spectrum).  I understand why ST/SW have the audience they have, but if any show could have broken the mold, it would have been BSG.  However, if Fox/NBC/ABC had decided to fund it, it would have been axed in the middle of the first season (I'm not bitter or anything).
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Lost_title_card.jpg/250px-Lost_title_card.jpg" style="float: right" height="141" width="250" /><em>Lost</em>
+<em>Lost</em>
 Seasons: Resume w/ s3
 
 Season 3 also arrives this Christmas.  I have to say I was disappointed with season 2.  Adding and killing off characters it seems without much purpose... Plot twists and character blunders for the sake of preventing characters from evolving.  From what I hear, they now have a fixed end date, so they can start actually developing a story.  One of the biggest blessings I think BSG had was that it had a fixed end date (four seasons)... The writers knew how long the story was going to take and how many episodes they were going to use.  BSG is a lot tighter than Lost for this very reason.  Who knows how the strike will affect season 4, but I'm hoping s3 is a substantial improvement.
+
 <h3>Seen and Recommend...</h3>
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/a/af/Fireflyopeninglogo.JPG/250px-Fireflyopeninglogo.JPG" style="float: right" height="167" width="250" /><em>Firefly</em>
+
+<em>Firefly</em>
 Seasons: ½ + Movie
 
 Its hard not to come across as cult-like when discussing Firefly/Serenity.  Maybe it really is a "you get it or you don't" type of reaction, but this had the potential to become one of the best TV series running if given the support it deserved.  You would think studios would be looking at DVD sales of series' that they cut short and go,"hmmm... maybe if we had done the right kind of marketing/not fucked with the time slot/given it a time slot of death, then it might have succeeded..."
 
 Its hard to tell what their goals are sometimes.  They are all looking for the next Seinfeld, Friends, Frazier, et al. when not all shows fit that model.
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Stargate_SG-1_Season_9_Title.jpg/250px-Stargate_SG-1_Season_9_Title.jpg" style="float: right" height="141" width="250" /><em>Stargate SG-1</em>
+<em>Stargate SG-1</em>
 Seasons: 10
 
 Who doesn't like a little Richard Dean Anderson love?  The rapport between the main characters really is quite staggeringly good.  Some great evolving plots, they kept stories going without being mundane.  Some criticize the Ori plot as weaker and a reason why it was stopped after its 10th season, but I actually thought it was good, and felt rushed to give it a conclusion.  There were lots of political and cultural undertones that made it a really good conflict.
@@ -94,9 +96,9 @@ In any regard, I highly recommend this series if you were a fan of the original 
 <img src="http://upload.wikimedia.org/wikipedia/en/thumb/1/18/Deadwood_titleimage.jpg/200px-Deadwood_titleimage.jpg" style="float: right" height="115" width="200" /><em>Deadwood</em>
 Seasons: 3
 
-Having not seen The Wire yet, so I can't directly compare the two, Deadwood has to be one of my all time favorite character based dramas.  Not only for the resurrection of "cocksucka" into contemporary vocabulary, but the quality of writing and dialog is on another level.  There are so many spectacular lines from this series that are just mind blowingly good (on a Shakespeare-quality level).  Don't hesitate starting this series.  It will not disappoint.
+Having not seen The Wire yet, so I can't directly compare the two, Deadwood has to be one of my all time favorite character based dramas.  Not only for the resurrection of "cocksucka" into contemporary vocabulary, but the quality of writing and dialog is on another level.  There are so many spectacular lines from this series that are just mind-blowingly good (on a Shakespeare-quality level).  Don't hesitate starting this series.  It will not disappoint.
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/7/75/Buffy_logo_0001.jpg/250px-Buffy_logo_0001.jpg" style="float: right" height="185" width="250" /><em>Buffy</em>
+<em>Buffy</em>
 Seasons: 7*
 
 Getting back to Whedon's roots here.  I only really enjoyed up to about season 4, and only really seen bits of the other three seasons.  I personally think the earlier seasons are better, due to the fact that Joss went off to work on Serenity in the season 5/6 time frame.  Lots of great good vs evil battles surrounded with how to adjust to high school life.  While it has a dark and serious theme to it, Joss does a good job of not letting it become depressing with lots of wacky plots and witty dialog.  I think being a little darker would have been better, but that's just my preference.

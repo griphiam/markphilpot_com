@@ -1,10 +1,10 @@
 Title: Dream Theater's Black Clouds & Silver Linings
 Date: 2009-06-24 16:35:02
-Tags: imported, fix
+Tags: imported
 Category: music
 Slug: dream_theaters_black_clouds_silver_linings
 
-[caption id="attachment_592" align="alignleft" width="342" caption="Black Clouds & Silver Linings"]<img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2009/06/bcsl_big.jpg" alt="Black Clouds & Silver Linings" title="Black Clouds & Silver Linings" width="342" height="342" class="size-full wp-image-592" />[/caption]
+![BCSL]({filename}/images/2009/bcsl_big.jpg){: .center}
 
 Dream Theater's latest album <em>Black Clouds & Silver Linings</em> continues their musical evolution brilliantly and might be their best work melodically to date. Vocal layers are much thicker (just the way I like it) with Mike Portnoy and John Petrucci lending their voices to the mix more than I can remember on any previous album.  They also have struck a very satisfying balance between crazy instrumentals and truly melodic figures. Unlike some other bands in this genre, Dream Theater seems to continually evolve their sound and every album is distinct from the last.  There really is quite a lot to digest with this album -- essentially two "single-esque" type songs and rest truly epics that will take a few listens to wrap your head around, but never did I feel that a song was laboring under it's own weight.
 
@@ -26,12 +26,10 @@ The ballad of the album is toned down and not at all pretentious (as rock ballad
 
 This track concludes Mike Portnoy's <em>Twelve-step Suite</em> [<a href="http://en.wikipedia.org/wiki/Twelve-step_Suite">wikipedia</a>] (or AA Suite) about his struggle with alcoholism.  
 
-<blockquote>
-Six Degrees of Inner Turbulence -- The Glass Prison
-Train of Thought -- This Dying Soul
-Octavarium -- The Root Of All Evil
-Systematic Chaos -- Repentance
-</blockquote>
+- Six Degrees of Inner Turbulence -- The Glass Prison
+- Train of Thought -- This Dying Soul
+- Octavarium -- The Root Of All Evil
+- Systematic Chaos -- Repentance
 
 It is truly an epic conclusion, weaving in melodic threads from all the previous songs while at the same time feeling like it all belongs together.  Only fans who are familiar with the songs above will be able to digest all the hooks and inside references, but over all a very good song. I'm looking forward to the live concert where they perform this suite start to end.
 
@@ -42,7 +40,3 @@ A beautiful opening, and a kick-ass entrance which reminds me a little of The Wh
 <h4>The Count of Tuscany</h4>
 
 The true <strong>epic</strong> of the album.  I'm still digesting this one.  I've heard many sources reference Change of Seasons with this song.  This song sounds more like a "whole" song while CoS sounds a bit more like a patch work.  
-
-You can listen to the entire album here courtesy of <del datetime="2010-05-04T23:42:30+00:00">imeem</del> grooveshark.
-
-<object width="250" height="400"> <param name="movie" value="http://listen.grooveshark.com/widget.swf" /> <param name="wmode" value="window" /> <param name="allowScriptAccess" value="always" /> <param name="flashvars" value="hostname=cowbell.grooveshark.com&widgetID=21041928&style=metal&bbg=000000&bfg=666666&bt=FFFFFF&bth=000000&pbg=FFFFFF&pbgh=666666&pfg=000000&pfgh=FFFFFF&si=FFFFFF&lbg=FFFFFF&lbgh=666666&lfg=000000&lfgh=FFFFFF&sb=FFFFFF&sbh=666666&p=0" /> <embed src="http://listen.grooveshark.com/widget.swf" type="application/x-shockwave-flash" width="250" height="400" flashvars="hostname=cowbell.grooveshark.com&widgetID=21041928&style=metal&bbg=000000&bfg=666666&bt=FFFFFF&bth=000000&pbg=FFFFFF&pbgh=666666&pfg=000000&pfgh=FFFFFF&si=FFFFFF&lbg=FFFFFF&lbgh=666666&lfg=000000&lfgh=FFFFFF&sb=FFFFFF&sbh=666666&p=0" allowScriptAccess="always" wmode="window" /></object>

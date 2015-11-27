@@ -1,14 +1,19 @@
 Title: firefox corruption issue (w/ fix)
 Date: 2009-04-27 22:17:00
-Tags: imported, fix
+Tags: imported
 Category: linux
 Slug: firefox_corruption_issue_w_fix
 
 If you are seeing the following error:
 
->`Error: uncaught exception: [Exception... "Component returned failure code: 0x8007000e (NS_ERROR_OUT_OF_MEMORY) [nsIDocShellHistory.useGlobalHistory]"  nsresult: "0x8007000e (NS_ERROR_OUT_OF_MEMORY)"  location: "JS frame :: chrome://browser/content/browser.js :: prepareForStartup :: line 764"  data: no]`
+`Error: uncaught exception: [Exception... "Component returned failure code:
+0x8007000e (NS_ERROR_OUT_OF_MEMORY) [nsIDocShellHistory.useGlobalHistory]"  
+nsresult: "0x8007000e (NS_ERROR_OUT_OF_MEMORY)"  
+location: "JS frame :: chrome://browser/content/browser.js ::
+prepareForStartup :: line 764"  data: no]`
 
-<div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/59468914@N00/1025248778/" title="Panda rouge / Red Panda" target="_blank"><img src="http://farm2.static.flickr.com/1288/1025248778_b19c611d8c_m.jpg" alt="Panda rouge / Red Panda" border="0" /></a><small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://blog.mcstudios.net/wordpress/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59468914@N00/1025248778/" title="meantux" target="_blank">meantux</a></small></div>
+<div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/59468914@N00/1025248778/" title="Panda rouge / Red Panda" target="_blank"><img src="http://farm2.static.flickr.com/1288/1025248778_b19c611d8c_m.jpg" alt="Panda rouge / Red Panda" border="0" /></a></div>
+
 Symptoms: When you start firefox, it doesn't take you to your home page. Your home button doesn't work or takes you to a different site.
 
 Try the following:
@@ -19,3 +24,5 @@ Try the following:
 	<li>Take a peek in the bookmarkbackups folder and remove any zero length files</li>
 	<li>Restart firefox</li>
 </ul>
+
+<small>Photo: <a href="http://www.flickr.com/photos/59468914@N00/1025248778/" title="meantux" target="_blank">meantux</a></small>
