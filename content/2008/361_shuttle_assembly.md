@@ -1,6 +1,6 @@
 Title: shuttle assembly
 Date: 2008-04-03 11:13:45
-Tags: imported
+Tags: imported, space shuttle
 Category: space
 Slug: shuttle_assembly
 

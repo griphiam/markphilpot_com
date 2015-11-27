@@ -1,7 +1,7 @@
 Title: Touch up
 Date: 2005-11-27 11:00:33
 Tags: imported
-Category: meta
+Category: updates
 Slug: touch_up
 
 I touched up the site's CSS.  The background is now fixed, having discovered that finally fixed the bug that causes the CPU to go to 100% when scrolling against a fixed attachment background. I need to update my CD & DVD collections... the DVD collection won't be hard, but I'm in the process of moving my CD collection to a different storage format. Problem is that it requires me to redo it from scratch. The plus is that I get most of the CD covers automatically from Amazon. I think that will take a while.

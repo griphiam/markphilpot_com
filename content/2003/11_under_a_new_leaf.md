@@ -1,6 +1,6 @@
 Title: Under a New Leaf
 Date: 2003-11-02 11:52:32
-Tags: imported
+Tags: imported, visor, linux
 Category: updates
 Slug: under_a_new_leaf
 

@@ -1,6 +1,6 @@
 Title: More and more impressed with Gentoo
 Date: 2004-04-10 11:06:38
-Tags: imported
+Tags: imported, gentoo, winehq
 Category: linux
 Slug: more_and_more_impressed_with_gentoo
 

@@ -1,6 +1,6 @@
 Title: Finished Compiling Kernel
 Date: 2004-04-06 19:31:24
-Tags: imported
+Tags: imported, gentoo
 Category: linux
 Slug: finished_compiling_kernel
 

@@ -1,6 +1,6 @@
 Title: Computer Software Installation
 Date: 2004-02-01 17:16:08
-Tags: imported
+Tags: imported, setup
 Category: software
 Slug: computer_software_installation
 

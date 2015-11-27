@@ -1,6 +1,6 @@
 Title: Delicious Linkroll -- Canvas Plugin
 Date: 2006-06-29 21:12:40
-Tags: imported
+Tags: imported, delicious
 Category: software
 Slug: delicious_linkroll_canvas_plugin
 

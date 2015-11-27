@@ -1,6 +1,6 @@
 Title: Serenity Malcolm Reynolds Browncoat Replica - AbbyShot - Firefly/Serenity - Clothing at Entertainment Earth
 Date: 2010-03-01 10:28:00
-Tags: imported
+Tags: imported, serenity
 Category: tv
 Slug: serenity_malcolm_reynolds_browncoat_replica_abbyshot_fireflyserenity_clothing_at_entertainment_earth
 

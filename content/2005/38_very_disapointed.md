@@ -1,6 +1,6 @@
 Title: Very Disappointed
 Date: 2005-05-03 16:54:35
-Tags: imported
+Tags: imported, setup, thinkpad
 Category: computers
 Slug: very_disappointed
 

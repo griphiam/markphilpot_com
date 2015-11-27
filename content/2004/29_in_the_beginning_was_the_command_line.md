@@ -1,6 +1,6 @@
 Title: In the Beginning was the Command Line...
 Date: 2004-09-08 21:05:19
-Tags: imported
+Tags: imported, Stephenson, gentoo, windows
 Category: linux
 Slug: in_the_beginning_was_the_command_line
 

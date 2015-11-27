@@ -1,6 +1,6 @@
 Title: Attempts at cleverness
 Date: 2005-06-16 08:43:14
-Tags: imported
+Tags: imported, setup, thinkpad
 Category: updates
 Slug: attempts_at_cleverness
 

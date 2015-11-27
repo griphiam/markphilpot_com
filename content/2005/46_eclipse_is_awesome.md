@@ -1,6 +1,6 @@
 Title: Eclipse is Awesome!
 Date: 2005-06-20 19:57:05
-Tags: imported
+Tags: imported, eclipse, java, c++
 Category: software
 Slug: eclipse_is_awesome
 

@@ -1,6 +1,6 @@
 Title: Official Desktop Retirement
 Date: 2006-03-26 15:36:29
-Tags: imported
+Tags: imported, setup
 Category: computers
 Slug: official_desktop_retirement
 

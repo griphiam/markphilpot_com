@@ -1,6 +1,6 @@
 Title: Eclipse 3.5 & Ubuntu 9.10
 Date: 2009-11-11 23:12:21
-Tags: imported
+Tags: imported, ubuntu, eclipse
 Category: development
 Slug: eclipse_3_5_ubuntu_9_10
 

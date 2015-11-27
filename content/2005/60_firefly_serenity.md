@@ -1,6 +1,6 @@
 Title: Firefly & Serenity
 Date: 2005-10-15 17:39:25
-Tags: imported
+Tags: imported, firefly, serenity
 Category: movies, tv
 Slug: firefly_serenity
 

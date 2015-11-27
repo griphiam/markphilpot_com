@@ -1,7 +1,7 @@
 Title: Interesting Stats...
 Date: 2006-01-23 17:07:31
 Tags: imported
-Category: meta
+Category: updates
 Slug: interesting_stats
 
 So I decided to take a peek at the stats they my webhost keeps about my domain.  Lots of interesting things I never new (all numbers are rounded down to a nice even number).

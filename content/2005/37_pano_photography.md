@@ -1,6 +1,6 @@
 Title: Pano Photography
 Date: 2005-05-02 20:12:49
-Tags: imported
+Tags: imported, pano
 Category: photography
 Slug: pano_photography
 

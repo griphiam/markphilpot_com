@@ -1,6 +1,6 @@
 Title: Flight to Europe Part 2
 Date: 2003-08-28 15:50:44
-Tags: imported
+Tags: imported, story, europe
 Category: travel
 Slug: flight_to_europe_part_2
 

@@ -1,6 +1,6 @@
 Title: Serenity Sales Rank on Amazon
 Date: 2006-01-08 16:41:49
-Tags: imported
+Tags: imported, serenity
 Category: tv
 Slug: serenity_sales_rank_on_amazon
 

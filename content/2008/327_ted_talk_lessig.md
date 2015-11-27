@@ -1,6 +1,6 @@
 Title: TED Talk -- Lessig
 Date: 2008-01-07 13:50:40
-Tags: imported
+Tags: imported, lessig
 Category: links
 Slug: ted_talk_lessig
 

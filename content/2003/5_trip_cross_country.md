@@ -1,6 +1,6 @@
 Title: Trip Cross Country
 Date: 2003-05-23 14:19:08
-Tags: imported
+Tags: imported, driving
 Category: roadtrip
 Slug: trip_cross_country
 

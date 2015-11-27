@@ -1,6 +1,6 @@
 Title: Harry Potter
 Date: 2005-11-27 11:11:40
-Tags: imported
+Tags: imported, harry potter
 Category: movies
 Slug: harry_potter
 

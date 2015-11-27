@@ -1,7 +1,7 @@
 Title: an ipod with a dash of rockbox
 Date: 2007-02-21 17:45:27
-Tags: imported
-Category: jailbreak
+Tags: imported, apple, jailbreak
+Category: software
 Slug: an_ipod_with_a_dash_of_rockbox
 
 

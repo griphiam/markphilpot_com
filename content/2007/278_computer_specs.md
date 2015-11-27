@@ -1,6 +1,6 @@
 Title: computer specs
 Date: 2007-08-17 13:17:41
-Tags: imported
+Tags: imported, setup
 Category: computer
 Slug: computer_specs
 

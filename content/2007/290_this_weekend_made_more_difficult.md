@@ -1,6 +1,6 @@
 Title: this weekend made more difficult
 Date: 2007-09-17 09:31:04
-Tags: imported
+Tags: imported, setup
 Category: updates
 Slug: this_weekend_made_more_difficult
 

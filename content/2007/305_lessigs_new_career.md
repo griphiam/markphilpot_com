@@ -1,6 +1,6 @@
 Title: lessig's new career
 Date: 2007-10-30 08:40:32
-Tags: imported
+Tags: imported, lessig
 Category: thoughts
 Slug: lessigs_new_career
 

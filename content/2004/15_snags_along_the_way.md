@@ -1,6 +1,6 @@
 Title: Snags along the way...
 Date: 2004-01-16 21:49:12
-Tags: imported
+Tags: imported, setup
 Category: development
 Slug: snags_along_the_way
 

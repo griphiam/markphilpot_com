@@ -1,6 +1,6 @@
 Title: hitchhiker's guide === wikipedia
 Date: 2007-03-20 00:04:06
-Tags: imported
+Tags: imported, hitchhiker
 Category: thoughts
 Slug: hitchhikers_guide_wikipedia
 

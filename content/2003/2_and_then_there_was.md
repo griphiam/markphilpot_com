@@ -1,7 +1,7 @@
 Title: and then there was...
 Date: 2003-04-29 22:16:43
-Tags: imported
-Category: meta
+Tags: imported, first
+Category: updates
 Slug: and_then_there_was
 
 Yes, this is the first entry in my weblog (blog).  Though I guess I'm kind of late, since "everyone must be doing this."  Well, in all  likelihood, this will get very few views (and fewer comments), but hell, why not right?

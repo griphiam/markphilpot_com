@@ -1,7 +1,7 @@
 Title: Stabs in the Dark
 Date: 2005-07-14 20:49:12
-Tags: imported
-Category: development
+Tags: imported, css
+Category: updates
 Slug: stabs_in_the_dark
 
 There is nothing quite like flailing away with CSS.  Its not quite the most frustrating thing in the world, but it would give most annoyances a run for their money.

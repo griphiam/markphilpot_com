@@ -1,6 +1,6 @@
 Title: definition of ineptitude -- ATI
 Date: 2007-03-27 00:27:05
-Tags: imported
+Tags: imported, ati
 Category: rant
 Slug: definition_of_ineptitude_ati
 

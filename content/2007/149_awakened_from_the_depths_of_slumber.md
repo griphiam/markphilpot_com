@@ -1,7 +1,7 @@
 Title: Awakened from the depths of slumber
 Date: 2007-01-19 15:31:22
 Tags: imported
-Category: meta
+Category: updates
 Slug: awakened_from_the_depths_of_slumber
 
 

@@ -1,7 +1,7 @@
 Title: 6,387 and growing...
 Date: 2006-01-24 20:01:32
 Tags: imported
-Category: meta
+Category: updates
 Slug: 6387_and_growing
 
 I have now reached over 6,000 pictures in my image database (managed with iMatch, of which I've categorized about 90% of it.  iMatch's category system is so incredibly powerful), which I think take over 12 GB of space (which it all resides on my laptop hard drive... not the most secure solution).  This doesn't include all the Photoshop work (which is a few GBs of its own!)

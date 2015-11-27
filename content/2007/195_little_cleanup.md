@@ -1,6 +1,6 @@
 Title: little cleanup
 Date: 2007-03-29 00:01:04
-Tags: imported
+Tags: imported, ubuntu
 Category: updates
 Slug: little_cleanup
 

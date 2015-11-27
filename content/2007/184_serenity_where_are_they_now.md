@@ -1,6 +1,6 @@
 Title: Serenity -- where are they now
 Date: 2007-03-21 00:36:19
-Tags: imported
+Tags: imported, firefly, serenity
 Category: tv
 Slug: serenity_where_are_they_now
 

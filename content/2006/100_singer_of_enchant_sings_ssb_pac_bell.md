@@ -1,6 +1,6 @@
 Title: Singer of Enchant sings SSB @ Pac Bell!
 Date: 2006-02-21 20:59:05
-Tags: imported
+Tags: imported, enchant
 Category: music
 Slug: singer_of_enchant_sings_ssb_pac_bell
 

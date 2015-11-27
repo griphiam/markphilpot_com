@@ -1,6 +1,6 @@
 Title: Real-Time Shared Editing (Eclipse)
 Date: 2008-06-22 10:48:05
-Tags: imported
+Tags: imported, eclipse
 Category: software
 Slug: real_time_shared_editing_eclipse
 

@@ -1,6 +1,6 @@
 Title: Gaming Old School... (You do remember Sierra right?)
 Date: 2004-04-12 17:55:30
-Tags: imported
+Tags: imported, IIgs, emulator
 Category: games
 Slug: gaming_old_school_you_do_remember_sierra_right
 

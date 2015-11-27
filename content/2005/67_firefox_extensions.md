@@ -1,6 +1,6 @@
 Title: Firefox Extensions
 Date: 2005-11-20 08:09:57
-Tags: imported
+Tags: imported, setup
 Category: software
 Slug: firefox_extensions
 

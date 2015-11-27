@@ -1,6 +1,6 @@
 Title: Lost -- Season 1 Review
 Date: 2006-09-04 12:50:32
-Tags: imported
+Tags: imported, lost
 Category: tv
 Slug: lost_season_1_review
 

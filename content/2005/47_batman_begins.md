@@ -1,6 +1,6 @@
 Title: Batman Begins
 Date: 2005-06-25 15:40:00
-Tags: imported
+Tags: imported, batman
 Category: movies
 Slug: batman_begins
 

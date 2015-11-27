@@ -1,6 +1,6 @@
 Title: HOLY SHIT!
 Date: 2006-01-30 17:56:35
-Tags: imported
+Tags: imported, IIgs
 Category: games
 Slug: holy_shit
 

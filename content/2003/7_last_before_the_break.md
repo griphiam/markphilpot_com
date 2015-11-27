@@ -1,7 +1,7 @@
 Title: Last before the break
 Date: 2003-07-14 12:44:28
 Tags: imported
-Category: meta
+Category: updates
 Slug: last_before_the_break
 
 Summer is supposed to be a relaxing time, where you can do all the things you've been putting off because, hey!  Summer is comming!

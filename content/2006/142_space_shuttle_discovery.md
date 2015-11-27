@@ -1,6 +1,6 @@
 Title: Space Shuttle Discovery
 Date: 2006-07-06 06:26:36
-Tags: imported
+Tags: imported, space shuttle
 Category: space
 Slug: space_shuttle_discovery
 

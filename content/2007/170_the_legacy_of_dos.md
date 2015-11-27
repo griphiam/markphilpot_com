@@ -1,6 +1,6 @@
 Title: the legacy of dos
 Date: 2007-03-22 00:39:07
-Tags: imported
+Tags: imported, java, c++
 Category: software
 Slug: the_legacy_of_dos
 

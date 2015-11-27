@@ -1,6 +1,6 @@
 Title: KDE & Dolphin
 Date: 2007-02-24 23:40:04
-Tags: imported
+Tags: imported, kde
 Category: linux
 Slug: kde_dolphin
 

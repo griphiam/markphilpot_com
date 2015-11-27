@@ -1,7 +1,7 @@
 Title: Google Earth
 Date: 2005-07-12 19:35:58
-Tags: imported
-Category:
+Tags: imported, google
+Category: software
 Slug: google_earth
 
 You don't often see revolutionary, killer-apps...  <em><a href="http://earth.google.com/">Google Earth</a></em> might just be one.

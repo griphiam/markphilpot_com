@@ -1,6 +1,6 @@
 Title: Ubuntu (Kubuntu)
 Date: 2005-04-25 20:15:15
-Tags: imported
+Tags: imported, ubuntu, winehq, gnome, kde
 Category: linux
 Slug: ubuntu_kubuntu
 

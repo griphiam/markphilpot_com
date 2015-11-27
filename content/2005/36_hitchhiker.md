@@ -1,6 +1,6 @@
 Title: Hitchhiker
 Date: 2005-05-01 09:24:26
-Tags: imported
+Tags: imported, hitchhiker, star wars
 Category: movies
 Slug: hitchhiker
 

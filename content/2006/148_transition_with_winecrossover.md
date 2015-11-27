@@ -1,7 +1,7 @@
 Title: Transition with Wine/Crossover
 Date: 2006-09-17 10:13:45
-Tags: imported
-Category: software
+Tags: imported, winehq, ubuntu
+Category: linux
 Slug: transition_with_winecrossover
 
 

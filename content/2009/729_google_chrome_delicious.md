@@ -1,6 +1,6 @@
 Title: Google Chrome & Delicious
 Date: 2009-11-18 21:19:06
-Tags: imported
+Tags: imported, delicious
 Category: software
 Slug: google_chrome_delicious
 

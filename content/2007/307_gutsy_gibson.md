@@ -1,6 +1,6 @@
 Title: gutsy gibson
 Date: 2007-10-18 11:44:56
-Tags: imported
+Tags: imported, ubuntu
 Category: linux
 Slug: gutsy_gibson
 

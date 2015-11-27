@@ -1,7 +1,7 @@
 Title: value of offsite backups
 Date: 2006-08-29 10:05:31
-Tags: imported
-Category: meta
+Tags: imported, backups
+Category: updates
 Slug: value_of_offsite_backups
 
 

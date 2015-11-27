@@ -1,6 +1,6 @@
 Title: Flight to Europe Trip Part 1
 Date: 2003-08-11 11:55:48
-Tags: imported
+Tags: imported, story, europe
 Category: travel
 Slug: flight_to_europe_trip_part_1
 

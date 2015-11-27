@@ -1,6 +1,6 @@
 Title: Creative Commons
 Date: 2004-04-14 17:22:05
-Tags: imported
+Tags: imported, creative commons, lessig
 Category: thoughts
 Slug: creative_commons
 

@@ -1,6 +1,6 @@
 Title: one step closer
 Date: 2009-04-26 23:43:02
-Tags: imported
+Tags: imported, ubuntu, winehq
 Category: linux
 Slug: one_step_closer
 

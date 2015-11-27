@@ -1,7 +1,7 @@
 Title: Big News
 Date: 2003-11-02 11:49:51
 Tags: imported
-Category: meta
+Category: updates
 Slug: big_news
 
 So the big news...

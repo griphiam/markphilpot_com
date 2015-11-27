@@ -1,6 +1,6 @@
 Title: damn you ie
 Date: 2007-04-16 13:59:39
-Tags: imported
+Tags: imported, css
 Category: rant
 Slug: damn_you_ie
 

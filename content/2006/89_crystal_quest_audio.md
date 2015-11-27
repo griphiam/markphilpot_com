@@ -1,6 +1,6 @@
 Title: Crystal Quest Audio
 Date: 2006-01-30 19:56:31
-Tags: imported
+Tags: imported, IIgs
 Category: games
 Slug: crystal_quest_audio
 

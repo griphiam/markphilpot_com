@@ -1,6 +1,6 @@
 Title: On a Date with Java
 Date: 2006-01-19 10:13:25
-Tags: imported
+Tags: imported, java
 Category: development
 Slug: on_a_date_with_java
 

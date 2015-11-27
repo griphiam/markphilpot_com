@@ -5,7 +5,7 @@ Category: thoughts
 Slug: sloppy_handwriting_or_transcription_issue
 
 
-<table border="0" cellpadding="3" width="100%">
+<table border="1" cellpadding="3" width="100%">
 <tr>
 <td>This was a triumph
 I'm making a note here... Huge Success

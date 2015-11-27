@@ -1,6 +1,6 @@
 Title: And I guess I should say...
 Date: 2004-04-05 23:43:10
-Tags: imported
+Tags: imported, basketball
 Category: duke
 Slug: and_i_guess_i_should_say
 

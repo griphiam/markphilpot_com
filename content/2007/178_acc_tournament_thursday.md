@@ -1,6 +1,6 @@
 Title: ACC Tournament (Thursday)
 Date: 2007-03-05 21:42:59
-Tags: imported
+Tags: imported, basketball
 Category: duke
 Slug: acc_tournament_thursday
 

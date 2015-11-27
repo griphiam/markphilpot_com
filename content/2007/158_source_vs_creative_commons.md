@@ -1,6 +1,6 @@
 Title: source vs creative commons
 Date: 2007-02-16 07:09:35
-Tags: imported
+Tags: imported, creative commons, lessig
 Category: thoughts
 Slug: source_vs_creative_commons
 

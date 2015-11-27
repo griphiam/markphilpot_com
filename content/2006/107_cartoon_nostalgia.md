@@ -1,6 +1,6 @@
 Title: Cartoon Nostalgia
 Date: 2006-03-26 11:49:46
-Tags: imported
+Tags: imported, cartoons
 Category: tv
 Slug: cartoon_nostalgia
 

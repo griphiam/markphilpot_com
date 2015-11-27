@@ -1,7 +1,7 @@
 Title: data panopticon
 Date: 2007-06-03 23:24:57
 Tags: imported
-Category: habits
+Category: thoughts
 Slug: data_panopticon
 
 Personally, I'm a pack rat -- and probably more so in the digital sense.  I still have some of the papers that I wrote back in elementary school stored on some CD.  I definitely won't ever (or want to ever) read them again, but I'm just the sort of person who hangs on to those things.  Even with photography, I still keep 90% of the shots that I take, even if only 10% or so are good -- the only ones I do delete are the absolutely blurred or black.  So stumbling upon this <a href="http://ksgnotes1.harvard.edu/Research/wpaper.nsf/rwp/RWP07-022/$File/rwp_07_022_mayer-schoenberger.pdf">professor's paper</a> that we need to program computers to start forgetting data, puzzled me.  However, right off the bat, the point about how for really the first time in human history, the sheer amount of data being generated is exponentially outweighing the about being lost or forgotten.

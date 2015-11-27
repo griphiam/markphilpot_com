@@ -1,6 +1,6 @@
 Title: Serenity DVD
 Date: 2005-11-10 14:29:34
-Tags: imported
+Tags: imported, serenity
 Category: movies
 Slug: serenity_dvd
 

@@ -1,6 +1,6 @@
 Title: Getting into photography... even more.
 Date: 2004-06-20 14:31:28
-Tags: imported
+Tags: imported, d70
 Category: photography
 Slug: getting_into_photography_even_more
 

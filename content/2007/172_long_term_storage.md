@@ -1,6 +1,6 @@
 Title: long-term storage
 Date: 2007-03-28 00:17:41
-Tags: imported
+Tags: imported, backups
 Category: computers
 Slug: long_term_storage
 
@@ -16,7 +16,3 @@ I just recently made an off-site backup with single sided DVDs (all 15 of them),
 I really think the answer is that anything you want to save you need to retain immediately accessible (NAS makes this affordable and still practical) and then make off-site backups (copies) incrementally.
 
 The ReadyNAS has been a very valuable investment (now all I need is a gig-e network to make it truly complete).  Down the road, I would probably just buy another one rather than try to upgrade the drives to get more space.
-
-On that note, here's another shot from my latest trip out west.
-
-<div class="g2image_normal"><wpg2id>2061</wpg2id></div>

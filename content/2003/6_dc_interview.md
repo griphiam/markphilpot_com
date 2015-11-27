@@ -1,7 +1,7 @@
 Title: DC Interview
 Date: 2003-06-08 01:06:58
-Tags: imported
-Category: jobs
+Tags: imported, uhaul
+Category: updates
 Slug: dc_interview
 
 I'm heading to DC on Monday, and will be back on Thursday.  Everyone wish me luck =)  I haven't heard from any other companies yet, so this might be one of my few chances to get a job.

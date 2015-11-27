@@ -1,6 +1,6 @@
 Title: harry potter v7
 Date: 2007-04-02 21:27:24
-Tags: imported
+Tags: imported, harry potter
 Category: books
 Slug: harry_potter_v7
 
