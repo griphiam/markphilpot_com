@@ -1,6 +1,6 @@
 Title: Nerdfighterlike
 Date: 2010-04-14 21:46:27
-Tags: imported, fix
+Tags: imported
 Category: creative
 Slug: nerdfighterlike
 
@@ -8,7 +8,7 @@ Slug: nerdfighterlike
 
 Below is a rough cut of my rendition of <a href="http://www.youtube.com/user/devilishlypure">devilishlypure</a>'s song <em><a href="http://www.youtube.com/watch?v=6YonOpkx6K8">Nerdfighterlike</a></em> which was then done by Hank & Katherine Green <a href="http://www.youtube.com/watch?v=SjzG0mPXwxo">here</a> (of the <a href="http://www.youtube.com/user/vlogbrothers">vlogbrothers</a>).
 
-[audio src="http://www.mcstudios.net/files/nerdfighterlike" format="mp3 ogg" options="controls"]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/20880476&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 It is fairly rough at the moment and missing the middle solo, as well as vocals (though in the process of exploring my home studio, I've determined my singing range is rather narrow).  Let me know what you think though.  I'm still getting used to my tools.
 

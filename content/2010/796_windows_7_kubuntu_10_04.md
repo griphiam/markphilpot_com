@@ -1,6 +1,6 @@
 Title: Windows 7 & Kubuntu 10.04
 Date: 2010-05-03 15:20:25
-Tags: imported, fix
+Tags: imported
 Category: linux
 Slug: windows_7_kubuntu_10_04
 
@@ -16,7 +16,7 @@ It's a little disheartening to have to relearn everything (especially trying to 
 
 The Windows side of my install only gets used for games (Steam) and Photoshop CS3 work, so it really don't have excel at very much =)
 
-<h3>Kubuntu 10.04</h3><a href="http://www.kubuntu.org"><img alt="Kubuntu" src="http://people.canonical.com/~jriddell/10.10-lts-release/kubuntu_plymouth_splash.png" title="Kubuntu 10.04" class="alignright" width="320" height="230" /></a>
+<h3>Kubuntu 10.04</h3>
 
 Installation was fast and smooth.  I installed the updated nvidia drivers (which borked the bootsplash screen, but that bug is already fixed pending release in the update repositories).  Installed Flash 64bit and struggled with the same sound issue that happens every install (for some reason, the audio channels that Flash uses are muted by default in Kubuntu.  You have to go into the mixer and fix the muting and volume and then everything works great).
 

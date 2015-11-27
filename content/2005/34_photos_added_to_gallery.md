@@ -1,6 +1,6 @@
 Title: Photos added to Gallery
 Date: 2005-04-27 19:54:23
-Tags: imported, fix
+Tags: imported
 Category: photography
 Slug: photos_added_to_gallery
 
@@ -12,6 +12,6 @@ There is supposed to be a new moon on May 7th.  I'm hoping to be able to take my
 
 This was my first attempt:
 
-<wpgallery>photography/Moon_stack_2</wpgallery>
+![Moon Stack]({filename}/images/2005/Moon_stack_2.jpg){: .center}
 
 Given the light pollution in DC, I thought it came out pretty well.  We'll see if I can pick up stars with a new moon next week.

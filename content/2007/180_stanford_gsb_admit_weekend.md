@@ -1,6 +1,6 @@
 Title: stanford GSB admit weekend
 Date: 2007-03-18 19:35:34
-Tags: imported, fix
+Tags: imported
 Category: stanford
 Slug: stanford_gsb_admit_weekend
 
@@ -20,5 +20,3 @@ The GSB community seems a fantastic fit.  Because a good number of students are 
 All in all, it was overwhelming but at the same time very exciting.  We didn't want to head back to DC (of course heading back to a sleet storm didn't help).  Trying to plan things out, it looks like we'll move out in the last week of July, take a nice road trip via Hwy 40, and arrive in the Bay Area in the middle of August.
 
 I was able to get some of the new panos from the trip done.  I'll post more later, but in the mean time you can head over to my gallery and check them out.
-
-<p class="g2image_normal"><wpg2id>2058</wpg2id>

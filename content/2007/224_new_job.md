@@ -1,12 +1,12 @@
 Title: new job
 Date: 2007-04-24 01:18:35
-Tags: imported, fix
+Tags: imported
 Category: updates
 Slug: new_job
 
 We are now both set for our transitions back to California.  I accepted a job with the TMOS project at the San Jose Lockheed office (more on the project later...)
 
-<img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2007/04/gps2rart.jpg" alt="GPS Block IIR" class="flickr" />
+![GPS IIR]({filename}/images/2007/gps2rart.jpg){: .center}
 
 I must say I am very lucky to have worked on the GPS project for four years right out of school.  It has been a great experience and I've learned a great deal from the fantastic people on the project both in Gaithersburg and Colorado Springs.
 

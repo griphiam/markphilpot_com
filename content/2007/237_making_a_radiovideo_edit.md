@@ -1,6 +1,6 @@
 Title: making a radio/video edit
 Date: 2007-05-05 13:42:43
-Tags: imported, fix
+Tags: imported
 Category: music
 Slug: making_a_radiovideo_edit
 
@@ -12,8 +12,7 @@ What I didn't realize is that <em>Pilot in the Sky of Dreams</em> (the great vid
 
 ## Pilot Breakdown
 
-<a href="http://blog.mcstudios.net/wordpress/wp-content/uploads/2007/05/pilot.png" title="Pilot Breakdown"></a>
+![Breakdown]({filename}/images/2007/pilot.png){: .center}
 
-<div style="text-align: center"><a href="http://blog.mcstudios.net/wordpress/wp-content/uploads/2007/05/pilot.png" title="Pilot Breakdown"><img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2007/05/pilot.png" alt="Pilot Breakdown" /></a></div>
 
 The full length song is really good.  The vocals on the bridge section are really awesome -- they should have tried to incorporate it (a four minute video isn't that much longer than a three).  All in all a great album, however if you want to try Threshold to get into it, I'd recommend starting with <em>Subsurface</em>.

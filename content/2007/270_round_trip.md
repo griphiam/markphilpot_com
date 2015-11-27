@@ -1,11 +1,11 @@
 Title: round trip
 Date: 2007-07-13 13:41:44
-Tags: imported, fix
+Tags: imported
 Category: updates
 Slug: round_trip
 
 
-<div style="text-align: center"><img src="http://blog.mcstudios.net/wordpress/wp-content/uploads/2007/07/cross2.png" alt="cross_country_resize" /></div>
+![Map]({filename}/images/2007/cross2.png){: .center}
 
 <em>Fly out... Pack-Move... Drive back</em>
 

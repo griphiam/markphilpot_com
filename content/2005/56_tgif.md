@@ -1,10 +1,10 @@
 Title: TGIF
 Date: 2005-07-22 14:34:01
-Tags: imported, fix
+Tags: imported
 Category: updates
 Slug: tgif
 
-<wpgallery>photography/single|1272-2|DSC_0165.jpg|Washington Monument|right</wpgallery>
+![Washington Monument]({filename}/images/2005/DSC_0165.jpg){: .center}
 
 I thought I'd start out Friday with a "new" image.  It's actually a rather old picture (July 2004 I believe).  I took a bunch of other good ones on that shoot, so this set got lost in the background.  I uploaded two others in my <a href="http://gallery.mcstudios.net">Gallery</a> of the Washington Monument that I thought also turned out well.  Unfortunately the Reflecting Pool was draining at the time, but I actually think it creates a rather neat effect.
 
