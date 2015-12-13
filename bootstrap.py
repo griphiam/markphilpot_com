@@ -13,6 +13,10 @@ STUDIOS = {
         'name': 'A1 Pictures',
         'logo': 'images/anime/studios/a1.png'
     },
+    'aic': {
+        'name': 'Anime International Company',
+        'logo': 'images/anime/studios/aic.png'
+    },
     'bones': {
         'name': 'Bones',
         'logo': 'images/anime/studios/bones.png'
@@ -161,11 +165,10 @@ if __name__ == '__main__':
 
     if args.hummingbird_slug:
         data.update(parse_hummingbird(args.hummingbird_slug))
-    if args.studio:
-        data['studio'] = STUDIOS.get(args.studio, {'name': 'Unknown', 'logo': 'Unknown'})
     if args.season:
         data.update(process_hummingbird_upcoming(args.season))
 
+    data['studio'] = STUDIOS.get(args.studio, {'name': 'Unknown', 'logo': 'Unknown'})
     template = env.get_template(args.template)
 
     dt = datetime.now()

@@ -1,0 +1,40 @@
+Title: Boku wa Tomodachi ga Sukunai
+Date: 2015-12-09 18:40:01
+Tags: anime, review
+Category: anime
+Slug: review_boku_wa_tomodachi_ga_sukunai
+Summary: Review of Boku wa Tomodachi ga Sukunai
+status: draft
+
+![Boku wa Tomodachi ga Sukunai]({filename}/images/2015/haganai/pv.jpg "Boku wa Tomodachi ga Sukunai"){: .center}
+![Anime International Company]({filename}/images/anime/studios/aic.png){: .studio}
+
+[Boku wa Tomodachi ga Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/empty_star.png){: .star} *Haganai*
+
+Is this show ecchi? Hell yes. Is a standard harem show? Absolutely.
+
+But there is a nugget -- a kernel -- within the story and characters that almost (but not quite) completely redeems itself.
+
+## Story & Characters
+
+It's your basic ecchi/harem/romcom plot: Our male protagonist, Hasegawa Kodaka, is a recent transfer student and due to unfortunate misunderstandings and is appearance is shunned/avoided by the rest of the students. As a result he has no friends to speak of.  He runs into a fellow student, Yozora Mikazuki, who appears to be equally outcast and together they *happen* to form a new club dedicated to trying to figure out how to get or make friends.  They are shortly joined by a girl who they wouldn't think needed friends (Player 2 has joined the game...)
+
+![Harem Cast]({filename}/images/2015/haganai/cast.jpg "Harem Cast"){: .center}
+
+While there are other students who end up joining the club looking for friends, they are mainly there for comedic relief and they aren't nearly as well defined as the first three who form the main relationship triangle.  The longing for friendship and their struggles seem completely genuine. These characters are prickly and oblivious in realistic ways.
+
+## Animation
+
+While not breaking any new ground, the animation is quite good for what is essentially a romantic comedy.  The character designs are top notch with a word of warning that this definitely is ecchi.  There is actually genuine nudity instead of strategically placed hair, steam and clothing which you don't typically see in this genre.  This may be just my blinders, but it the ecchi didn't feel gratuitous with this show -- to put it simply, I've seen much worse.
+
+## Music & Sound
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221550718&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+The OP & ED are catchy and ended up in my "anime music" playlist.  The OST in general was solid but not ear catching.
+
+## Final Thoughts
+
+![Girls]({filename}/images/2015/haganai/girls.jpg "Girls"){: .center}
+
+In many ways, this show reminded me a slightly less sophisticated [My Teen Romantic Comedy SNAFU](https://hummingbird.me/anime/my-teen-romantic-comedy-snafu).  
