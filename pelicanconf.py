@@ -7,6 +7,10 @@ log = logging.getLogger(__name__)
 
 DEBUG = True
 
+# if DEBUG:
+#     CACHE_CONTENT = True
+#     LOAD_CONTENT_CACHE = True
+
 AUTHOR = u'Mark Philpot'
 SITENAME = u'markphilpot.com'
 SITEURL = ''
