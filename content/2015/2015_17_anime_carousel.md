@@ -1,10 +1,9 @@
 Title: 2015 Anime Carousel
-Date: 2015-12-01 12:30:00
+Date: 2015-12-28 12:30:00
 Tags: anime, carousel
 Category: anime
 Slug: anime_2015_carousel
 Summary: Carousel of all the anime I watched this year
-Status: draft
 
 <a href="{filename}/images/2015/carousel/02_death_parade.jpg" data-lightbox="carousel" data-title="Death Parade (Winter)">
 <img src="{filename}/images/2015/carousel/02_death_parade.jpg"/>
