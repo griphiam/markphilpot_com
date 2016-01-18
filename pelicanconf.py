@@ -7,9 +7,9 @@ log = logging.getLogger(__name__)
 
 DEBUG = True
 
-# if DEBUG:
-#     CACHE_CONTENT = True
-#     LOAD_CONTENT_CACHE = True
+if DEBUG:
+     CACHE_CONTENT = True
+     LOAD_CONTENT_CACHE = True
 
 AUTHOR = u'Mark Philpot'
 SITENAME = u'markphilpot.com'
@@ -116,7 +116,7 @@ INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING = True
 HUMMINGBIRD_USERNAME = 'mphilpot'
 HUMMINGBIRD_API_KEY = '0084bb364f1201c86837'
 
-if INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING:
+if INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING and not DEBUG:
     import requests
 
     r = requests.get('https://hummingbird.me/api/v1/users/%s/library?status=currently-watching' % HUMMINGBIRD_USERNAME)

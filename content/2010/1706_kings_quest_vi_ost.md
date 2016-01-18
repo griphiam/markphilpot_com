@@ -1,7 +1,7 @@
 Title: King's Quest VI OST
 Date: 2010-09-22 21:51:22
 Tags: imported
-Category:
+Category: music
 Slug: kings_quest_vi_ost
 
 King's Quest VI was one of my first "obsession" games. I first played it at Matt's house who had x386 with enough memory to run it. I can't remember what sound card he had (either a SoundBlaster 16 or Pro Audio Spectrum), but it was something with emulated Roland MT-32 MIDI and even then, the music of this game was absolutely awesome.
