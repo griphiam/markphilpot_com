@@ -175,8 +175,8 @@ if __name__ == '__main__':
     data['timestamp'] = dt.isoformat(" ")[:-7]
     data['year'] = int(data['timestamp'][:4])
 
-    if args.season and args.season == 'winter':
-        data['year'] += 1
+    #if args.season and args.season == 'winter':
+    #    data['year'] += 1
 
     if args.output:
         with open(args.output, 'wb') as fp:
