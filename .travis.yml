@@ -4,7 +4,7 @@ python:
 cache: apt
 install:
   - "pip install -r requirements.txt"
-script: "pelican content/"
+script: "pelican -s publishconf.py content/"
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY # Env
