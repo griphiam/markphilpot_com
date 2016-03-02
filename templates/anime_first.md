@@ -13,7 +13,7 @@ status: draft
 ![$STUDIO]({filename}/images/anime/studios/_.png "$STUDIO"){: .studio}
 Producers :: {{ show.producers|join(', ') if show.producers }}
 
-[{{ show.titles.canonical }}](https://hummingbird.me/anime/{{ show.slug }}) <br/> Content
+### [{{ show.titles.canonical }}](https://hummingbird.me/anime/{{ show.slug }})
 
 > {{ show.synopsis|replace('\r\n', '') }}
 
