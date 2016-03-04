@@ -21,3 +21,6 @@ deploy:
 notifications:
   email:
     on_failure: always
+branches:
+  only:
+    - master
