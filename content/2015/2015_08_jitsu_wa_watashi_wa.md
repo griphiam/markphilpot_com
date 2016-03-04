@@ -18,7 +18,7 @@ I don't know what caused me to try watching the first episode again, but I'm *so
 
 ## Story & Characters
 
-![cast]({filename}/images/anime/2015/summer/jitsu/cast.jpg){: .center}
+![cast]({filename}/images/anime/2015/summer/jitsu/cast.jpg){: .ew1000}
 
 The basic premise is a well run trope -- An emotionally transparent and good natured high school student is so open that he can't keep secrets. Urged by his friends, Asahi Kuromine decides to confess to his classmate crush Yoko Shiragami -- only to discover she's a vampire.  A sweet, but incredibly dense vampire...
 
@@ -44,7 +44,7 @@ It also helped that there is a really funny "Quiz" bit at the end of the credits
 
 ## Final Thoughts
 
-![peace]({filename}/images/anime/2015/summer/jitsu/peace.jpg){: .center}
+![peace]({filename}/images/anime/2015/summer/jitsu/peace.jpg){: .ew1000}
 
 How crazy good was this summer season?! Had I given this a chance initially, it would have been a show I watched as *soon* as it was available on Crunchyroll. Ultimately I'm so glad I didn't end up missing this.
 

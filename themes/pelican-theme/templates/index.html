@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<ul class="recent-posts">
+  {% set last_year = 0 %}
+  {% for article in dates %}
+  {% set year = article.date.strftime('%Y') %}
+  {%if last_year != year %}
+  <h2 id="{{year }}">{{ year }}</h2>
+  {% set last_year = year %}
+  {% endif %}
+  {% set next_year = 0 %}
+  {% if not loop.last %}
+  {% set next = loop.index0 + 1 %}
+  {% set next_article = dates[next] %}
+  {% set next_year = next_article.date.strftime('%Y') %}
+  {% endif %}
+  {% if next_year != year %}
+  <li class="last-entry-of-year">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="{{ SITEURL }}/{{ article.url }}">
+      <div>
+        <span class="title">{{ article.title }}</span>
+        <span class="date"><time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+      </div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock content %}

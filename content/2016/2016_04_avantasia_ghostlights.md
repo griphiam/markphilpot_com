@@ -4,8 +4,9 @@ Tags: music, review
 Category: music
 Slug: avantasia_ghostlights
 Summary: Review of Avantasia's "Ghostlights"
+Hero: background-image: url(/images/2016/avantasia/hero.jpg);
 
-![Ghostlights]({filename}/images/2016/avantasia-ghostlights.jpg){: .center}
+![Ghostlights]({filename}/images/2016/avantasia/avantasia-ghostlights.jpg){: .ew1000 }
 
 Tobias Sammet's supergroup project has always managed to walk the fine line between bombastically epic and collapsing under it's own weight. Getting top notch vocalists and dialing *rock opera* to 11 seems to be a formula that works more often than it fails (see [Ayreon](http://www.arjenlucassen.com/content/arjens-projects/ayreon/)).
 

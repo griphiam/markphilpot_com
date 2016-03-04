@@ -40,7 +40,7 @@ Summary: Review of Nagi no Asukara
 
 For me the animation must be dealt with first. I am normally a big fan of PA Works, but they truly outdid themselves on this one. The atmosphere in this world is simply breath taking.
 
-![Sunset]({filename}/images/anime/2013/fall/nagi_no_asukara/sunset.jpg){: .center}
+![Sunset]({filename}/images/anime/2013/fall/nagi_no_asukara/sunset.jpg){: .ew1000}
 
 The character design is fantastic and the blending of the "under the sea" settings with the surface was done brilliantly. On animation alone, this show scores high marks, but thankfully there is also a quality story to go with it.
 
@@ -58,7 +58,7 @@ After the first cour, an event takes place that splits up our cast.  Five years 
 
 While the show does deal with some serious topics (racisism), it really only makes up the backdrop for the evolution of the main characters.
 
-![Mid]({filename}/images/anime/2013/fall/nagi_no_asukara/meeting.jpg){: .center}
+![Mid]({filename}/images/anime/2013/fall/nagi_no_asukara/meeting.jpg){: .ew1000}
 
 At times I felt very frustrated due to the "obliviousness" of some of the characters. It wasn't as bad as artificial conflict created because the characters are constantly misunderstanding each other which I usually find insufferable. The focus of some characters and the reticence of others matched their personalities, so the frustration wasn't quite as contrived and forced as it could have been.
 
@@ -86,6 +86,6 @@ I loved this show and I'm sad there isn't more story for me to experience with t
 
 That being said however...
 
-![Miuna]({filename}/images/anime/2013/fall/nagi_no_asukara/miuna.jpg){: .center}
+![Miuna]({filename}/images/anime/2013/fall/nagi_no_asukara/miuna.jpg){: .ew1000}
 
 Miuna is the best girl

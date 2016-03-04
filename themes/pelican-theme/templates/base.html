@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% if article and article.author %}
+    <meta name="author" content="{{ article.author }}" />
+    <meta name="copyright" content="{{ article.author }}" />
+    {% elif page and page.author %}
+    <meta name="author" content="{{ page.author }}" />
+    <meta name="copyright" content="{{ page.author }}" />
+    {% else %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="copyright" content="{{ AUTHOR }}" />
+    {% endif %}
+
+    <title>{% block title %}{{ SITENAME|striptags }}{% endblock title %}</title>
+
+    {% block head_links %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/custom.css" media="screen">
+    {% endblock head_links %}
+
+    {% include '_includes/favicon_links.html' %}
+    {% block feed_links %}
+    {% include '_includes/feeds.html' %}
+    {% endblock feed_links %}
+    {% include '_includes/analytics.html' %}
+  </head>
+  <body>
+    <header>
+      <div class="hero" style="{% block hero %}display: none;{% endblock hero %}"></div>
+    </header>
+    <div class="container menu">
+      <ul>
+        <li><a href="{{ SITEURL }}/">Posts</a></li>
+        {% for p in pages %}
+        <li {% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <hr>
+    </div>
+    <div class="container content">
+      {% block content %}
+      {% endblock content %}
+    </div>
+    <footer>
+    </footer>
+  </body>
+</html>

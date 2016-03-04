@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ article.title|striptags }} {%if article.subtitle %} - {{ article.subtitle }} {% endif %} · {{ super() }}
+{% endblock title %}
+
+{% if not article.hero %}
+{% set HERO = 'display: none;' %}
+{% else %}
+{% set HERO = article.hero %}
+{% endif %}
+
+{% block hero %}{{ HERO }}{% endblock hero %}
+
+{% block content %}
+<div class="date">
+  <time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+</div>
+<h1 class="title">{{ article.title }}</h1>
+{{ article.content }}
+{% endblock content %}

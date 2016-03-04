@@ -18,6 +18,7 @@ SITEURL = ''
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
+DEFAULT_DATE_FORMAT = ('%B %d, %Y')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -42,7 +43,7 @@ PLUGIN_PATHS = [
 ]
 PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'extract_toc']
 
-THEME = 'themes/elegant'
+THEME = 'themes/pelican-theme'
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)', 'markdown.extensions.attr_list']
 
 TYPOGRIFY = True
@@ -71,7 +72,8 @@ SITEMAP = {
     }
 }
 
-DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+#DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+DIRECT_TEMPLATES = (('index',))
 
 PROJECTS = [
     {
