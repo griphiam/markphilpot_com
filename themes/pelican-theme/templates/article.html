@@ -4,6 +4,17 @@
 {{ article.title|striptags }} {%if article.subtitle %} - {{ article.subtitle }} {% endif %} · {{ super() }}
 {% endblock title %}
 
+{% block meta_tags_in_head %}
+{{ super() }}
+{% if article.tags or article.category or article.keywords %}
+<meta name="keywords" content="{{ [article.tags|join(', '), article.category, article.keywords]|join(', ') }}" />
+{% endif %}
+
+{% from '_includes/seo_metadata.html' import seo_metadata with context %}
+{{ seo_metadata(article) }}
+
+{% endblock meta_tags_in_head %}
+
 {% if not article.hero %}
 {% set HERO = 'display: none;' %}
 {% else %}
@@ -18,4 +29,31 @@
 </div>
 <h1 class="title">{{ article.title }}</h1>
 {{ article.content }}
+<hr/>
+{% if article.prev_article or article.next_article %}
+<aside>
+  <nav>
+    <div class="articles-timeline">
+        {% if article.prev_article %}
+            {% set ptitle = article.prev_article.title|striptags %}
+            {% set pv_title = ptitle %}
+            {%if article.prev_article.subtitle %}
+                {% set pv_title = ptitle + ' ' +  '<small>' + article.prev_article.subtitle + '</small>' %}
+                {% set ptitle = ptitle + ' - ' + article.prev_article.subtitle %}
+            {% endif %}
+        <div class="previous-article"><i class="fa fa-arrow-circle-o-left"></i> <a href="{{ SITEURL }}/{{ article.prev_article.url }}" title="Previous: {{ ptitle }}">{{ pv_title }}</a></div>
+        {% endif %}
+        {% if article.next_article %}
+            {% set ntitle = article.next_article.title|striptags %}
+            {% set nv_title = ntitle %}
+            {%if article.next_article.subtitle %}
+                {% set nv_title = ntitle + ' ' +  '<small>' + article.next_article.subtitle + '</small>' %}
+                {% set ntitle = ntitle + ' - ' + article.next_article.subtitle %}
+            {% endif %}
+        <div class="next-article"><a href="{{ SITEURL }}/{{ article.next_article.url }}" title="Next: {{ ntitle }}">{{ nv_title }}</a> <i class="fa fa-arrow-circle-o-right"></i></div>
+        {% endif %}
+    </div>
+  </nav>
+</aside>
+{% endif %}
 {% endblock content %}
