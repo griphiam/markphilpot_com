@@ -19,7 +19,7 @@ SITEURL = ''
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
-DEFAULT_DATE_FORMAT = ('%B %d, %Y')
+DEFAULT_DATE_FORMAT = ('%B %-d, %Y')
 NOW = datetime.datetime.now()
 
 # Feed generation is usually not desired when developing

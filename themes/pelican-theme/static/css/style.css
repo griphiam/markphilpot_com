@@ -730,6 +730,7 @@ a.headerlink {
     color: grey;
     padding-left: .5em;
     visibility: hidden;
+    border-bottom: 0;
 }
 
 /* studio should be deprecated */
