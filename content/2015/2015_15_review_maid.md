@@ -14,7 +14,7 @@ I don't think I've been so conflicted about an anime as I was watching *Maid-Sam
 
 ## Story & Characters
 
-![Misaki]({filename}/images/2015/maid/misaki.jpg){: .center}
+![Misaki]({filename}/images/2015/maid/misaki.jpg){: .ew1000}
 
 *Maid-Sama!* is a well regarded rom-com with a fantastically empowered female lead, Misaki Ayuzawa.
 
@@ -31,7 +31,7 @@ Additionally, this show runs 26 episodes (with a handful of quirky filler episod
 
 ## Animation
 
-![Style]({filename}/images/2015/maid/style.jpg){: .center}
+![Style]({filename}/images/2015/maid/style.jpg){: .ew1000}
 
 The animation here won't be winning any awards. While the character designs are high quality (complete with hyper stylized character shots with boarders -- I don't really know how else to describe the style) the overall production is rather minimal (possibly by design). The backgrounds are plain and minimal for the most part.  The comedy aspects are accentuated with "cat eyes" and exaggerated movements (I'm at a vocabulary loss to describe this style but is often used in comedy or in comedic situations).
 
@@ -41,6 +41,6 @@ The animation here won't be winning any awards. While the character designs are 
 
 ## Final Thoughts
 
-![Misaki Usui]({filename}/images/2015/maid/misaki_usui.jpg){: .center}
+![Misaki Usui]({filename}/images/2015/maid/misaki_usui.jpg){: .ew1000}
 
 Did I like it? Yeah, for the most part. Would I recommend this?  Eh.  There are a bunch of other rom-com's out there that I would definitely recommend well ahead of *Maid-Sama!*. If you've already made it through those and are generally a fan of the genre, give this a try.  I think Misaki's character is enough to salvage the shows general faults.

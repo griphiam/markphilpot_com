@@ -5,7 +5,7 @@ Category: books
 Slug: the_host
 Summary: Review of Stephenie Meyer's "The Host"
 
-![The Host]({filename}/images/2016/the_host.jpg){: .center}
+![The Host]({filename}/images/2016/the_host.jpg){: .ew1200 }
 
 A few disclosures before I start:
 
@@ -15,7 +15,7 @@ For the sake of this discussion, I'm going to essentially skip over the specific
 
 If you are the type of reader that can forgive bad parts of books when there is something else to balance it, then I might suggest you try it. *The Host* is not *nearly* as bad as Twilight -- orders of magnitude better -- but it still suffers from many of the same pit falls that plagued *Twilight*. Mel is not nearly as insipid as Bella, but she is still brought down by Meyer's demeaning portrayal of leading female characters. If you can look past that (which I admit is hard since it's the main thread of the novel), I think you'll find a nugget worth the effort.
 
-![Divider]({filename}/images/dividers/heartbeat_half.png){: .center .studio}
+![Divider]({filename}/images/dividers/heartbeat_half.png){: .center }
 
 I would truly love a prequel that details the start of the Soul invasion and humanity driven into hiding. That story would be bloody awesome if done well if only for the simple fact that humanity wouldn't win. How does a species who abhors violence like the Souls win? I understand the initial infiltration. I could imagine that that initial invasion goes so high, so fast, and so secretly, that humanity essentially has lost before any battle has had chance to start.
 

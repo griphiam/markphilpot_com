@@ -5,8 +5,10 @@ Category: anime
 Slug: anime_2015_carousel
 Summary: Carousel of all the anime I watched this year
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css" rel="stylesheet" property="stylesheet">
+
 <a href="{filename}/images/2015/carousel/02_death_parade.jpg" data-lightbox="carousel" data-title="Death Parade (Winter)">
-<img src="{filename}/images/2015/carousel/02_death_parade.jpg"/>
+<img src="{filename}/images/2015/carousel/02_death_parade.jpg" class="ew1000"/>
 </a>
 
 <a href="{filename}/images/2015/carousel/01_assassination.jpg" data-lightbox="carousel" data-title="Assassination Classroom (Winter)"></a>
@@ -41,3 +43,5 @@ Summary: Carousel of all the anime I watched this year
 <a href="{filename}/images/2015/carousel/32_sakurako.jpg" data-lightbox="carousel" data-title="Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru (Fall)"></a>
 
 Click on the image above to start the carousel of the anime I was able to enjoy that aired this year...
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox-plus-jquery.min.js"></script>

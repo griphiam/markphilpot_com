@@ -1,4 +1,4 @@
-Title: Serenity Malcolm Reynolds Browncoat Replica - AbbyShot - Firefly/Serenity - Clothing at Entertainment Earth
+Title: Serenity Malcolm Reynolds Browncoat Replica
 Date: 2010-03-01 10:28:00
 Tags: imported, serenity
 Category: tv

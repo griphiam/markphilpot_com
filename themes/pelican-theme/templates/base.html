@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% if article and article.author %}
+    <meta name="author" content="{{ article.author }}" />
+    <meta name="copyright" content="{{ article.author }}" />
+    {% elif page and page.author %}
+    <meta name="author" content="{{ page.author }}" />
+    <meta name="copyright" content="{{ page.author }}" />
+    {% else %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="copyright" content="{{ AUTHOR }}" />
+    {% endif %}
+
+    {% block meta_tags_in_head %}
+    {% endblock meta_tags_in_head %}
+
+    <title>{% block title %}{{ SITENAME|striptags }}{% endblock title %}</title>
+
+    {% block head_links %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/custom.css" media="screen">
+    {% endblock head_links %}
+
+    {% include '_includes/favicon_links.html' %}
+    {% block feed_links %}
+    {% include '_includes/feeds.html' %}
+    {% endblock feed_links %}
+    {% include '_includes/analytics.html' %}
+
+    {% if DEBUG %}
+    <script type="text/javascript" src="http://livejs.com/live.js"></script>
+    {% endif %}
+  </head>
+  <body>
+    <header>
+      <div class="hero" style="{% block hero %}background-image: url(/images/heros/gg_bridge.jpg);{% endblock hero %}"></div>
+    </header>
+    <div class="container menu">
+      <ul>
+        <li><a href="{{ SITEURL }}/">Posts</a></li>
+        {% for p in pages %}
+        <li {% if p.title == '~/projects' %}class="proj"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <hr>
+    </div>
+    <div class="container content">
+      {% block content %}
+      {% endblock content %}
+    </div>
+    <footer>
+      {% block footer %}
+      <div class="closing">
+        <div class="author">
+          By <a href="https://twitter.com/mark_philpot" class="twitter-follow">@mark_philpot</a>
+        </div>
+        <div class="copyright">
+          &copy; 2005-{{NOW.strftime('%Y')}}
+        </div>
+      </div>
+      {% endblock footer %}
+    </footer>
+  </body>
+</html>

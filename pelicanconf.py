@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import datetime
 import logging
 
 log = logging.getLogger(__name__)
@@ -18,6 +19,8 @@ SITEURL = ''
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
+DEFAULT_DATE_FORMAT = ('%B %-d, %Y')
+NOW = datetime.datetime.now()
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -42,7 +45,10 @@ PLUGIN_PATHS = [
 ]
 PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'extract_toc']
 
-THEME = 'themes/elegant'
+# Theme Settings
+THEME = 'themes/pelican-theme'
+TWITTER_USERNAME='mark_philpot'
+
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)', 'markdown.extensions.attr_list']
 
 TYPOGRIFY = True
@@ -71,7 +77,8 @@ SITEMAP = {
     }
 }
 
-DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+#DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+DIRECT_TEMPLATES = (('index',))
 
 PROJECTS = [
     {
