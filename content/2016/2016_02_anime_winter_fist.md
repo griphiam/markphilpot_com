@@ -137,9 +137,6 @@ Ok, this show will not be for everyone, but give the first episode a try.  The s
 
 I can't believe I almost missed out on this one. Not sure why it initially passed my radar. Probably the combination of production studios I had never heard of and what I took to be a vanilla sounding sci-fi plot. I'm glad I decided to give it a chance though, because the first episodes were definitely fun! I think if I keep expectations low, I'll be pleasantly surprised with this one.
 
-
-# Shorts
-
 ![Ooyasan wa Shishunki!]({filename}/images/anime/2016/winter/ooyasanwashishunki.jpg "Ooyasan wa Shishunki!"){: .center}
 <span class="center">Genco, Seven Arcs</span>
 

@@ -694,6 +694,7 @@ a.headerlink {
   text-align: center;
   margin: 0 auto;
   display: block;
+  max-width: 100%;
 }
 
 /* Hero Banner -- set Hero: background-image: url($some_url) */
@@ -754,4 +755,35 @@ div.articles-timeline .next-article {
 div.articles-timeline .previous-article {
   float: left;
   margin: 0;
+}
+
+/* TOC */
+.table-of-content {
+    font-size: 0.5rem;
+    float: right;
+    width: 200px;
+    margin-right: -220px;
+    margin-top: 6px;
+}
+.table-of-content a {
+    border-bottom: 0;
+}
+.table-of-content ul {
+    padding-left: 4px;;
+    list-style-type: none;
+}
+.table-of-content ul li {
+    margin-bottom: 4px;
+}
+@media(max-width: 1111px){
+    .table-of-content {
+        display: none;
+    }
+}
+
+/* Fake Captions */
+.content .caption {
+    font-size: 0.8rem;
+    margin-top: -1rem;
+    text-align: center;
 }

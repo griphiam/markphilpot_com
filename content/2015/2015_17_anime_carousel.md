@@ -5,7 +5,7 @@ Category: anime
 Slug: anime_2015_carousel
 Summary: Carousel of all the anime I watched this year
 
-<link href="/theme/css/lightbox.css" rel="stylesheet" property="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css" rel="stylesheet" property="stylesheet">
 
 <a href="{filename}/images/2015/carousel/02_death_parade.jpg" data-lightbox="carousel" data-title="Death Parade (Winter)">
 <img src="{filename}/images/2015/carousel/02_death_parade.jpg" class="ew1000"/>
@@ -44,4 +44,4 @@ Summary: Carousel of all the anime I watched this year
 
 Click on the image above to start the carousel of the anime I was able to enjoy that aired this year...
 
-<script src="/theme/js/lightbox.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox-plus-jquery.min.js"></script>
