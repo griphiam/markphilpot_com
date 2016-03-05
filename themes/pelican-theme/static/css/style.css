@@ -522,14 +522,14 @@ td, th {
 .recent-posts li .date {
   float: right;
   font-size: 12px;
-  margin-top: 0px;
+  margin-top: 2px;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.5);
 }
 .recent-posts li .tags {
   float: right;
   font-size: 12px;
-  margin-top: 16px;
+  margin-top: 18px;
   text-transform: lowercase;
   color: rgba(0, 0, 0, 0.4);
   line-height: 16px
