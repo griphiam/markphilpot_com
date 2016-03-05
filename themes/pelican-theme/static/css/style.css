@@ -414,6 +414,30 @@ td, th {
 
 /* Site Styles
    ========================================================================== */
+@font-face {
+  font-family: 'Muli';
+  src: url('../fonts/muli/Muli.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Muli';
+  src: url('../fonts/muli/Muli-Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Muli';
+  src: url('../fonts/muli/Muli-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Muli';
+  src: url('../fonts/muli/Muli-BoldItalic.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
 
 .container {
   margin: 0 auto;
@@ -448,7 +472,7 @@ td, th {
 }
 .content .date {
   float: left;
-  margin-top: 18px;
+  margin-top: 16px;
   margin-bottom: 25px;
   margin-left: -190px;
   width: 150px;
@@ -603,11 +627,12 @@ td, th {
 
 html {
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Muli', sans-serif;
   line-height: 1.6
 }
 .content code {
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-size: 0.95rem;
 }
 @media (min-width: 38em) {
   html {
@@ -615,8 +640,8 @@ html {
   }
 }
 .content .date {
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
+  font-family: 'Muli', sans-serif;
+  font-weight: bold;
   font-size: 13px
 }
 .content h1 {
@@ -628,7 +653,7 @@ html {
   text-align: center;
 }
 .content p {
-  margin: 1rem 0 1rem 0
+  margin: 1rem 0 1rem 0;
 }
 .content blockquote {
   font-size: 0.9rem
@@ -690,9 +715,9 @@ a.headerlink {
 
 /* studio should be deprecated */
 
-.center, .studio {
+img.center, img.studio {
   text-align: center;
-  margin: 0 auto;
+  margin: 0 auto !important;
   display: block;
   max-width: 100%;
 }
@@ -732,7 +757,7 @@ footer {
   color: rgba(0, 0, 0, 0.2);
   font-size: 13px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: bold;
 }
 .closing .author a {
   text-decoration: none
