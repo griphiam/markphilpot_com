@@ -1,10 +1,11 @@
-Title: Anime Fall 2015 - Retrospective
+Title: Anime Fall 2015 Retrospective
 Date: 2016-01-18 09:45:00
 Updated: 2016-03-01 22:47:00
 Tags: anime, retro
 Category: anime
 Slug: anime_2015_fall_retro
 Summary: Retrospective of the Fall 2015 Anime Season
+Hero: background-image: url(/images/anime/2015/fall/hero.jpg);
 
 [TOC]
 

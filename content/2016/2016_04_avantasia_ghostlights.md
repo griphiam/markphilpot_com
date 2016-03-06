@@ -1,4 +1,4 @@
-Title: Avantasia -- Ghostlights
+Title: Avantasia - Ghostlights
 Date: 2016-02-20 13:35:00
 Tags: music, review
 Category: music

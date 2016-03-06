@@ -1,9 +1,10 @@
-Title: Anime Fall 2015 - First Impressions
+Title: Anime Fall 2015 First Impressions
 Date: 2015-10-09 21:30:00
 Tags: anime, first impressions
 Category: anime
 Slug: anime_2015_fall_first
 Summary: First Impressions of the Anime Fall 2015 Season
+Hero: background-image: url(/images/anime/2015/fall/hero.jpg);
 
 So this is my inaugural anime post that I really meant to do for the Summer season but due to vacations wasn't able to do.  I still hope to do a Summer 2015 retrospective at some point because it really was an excellent season. My plan right now is to try to do two posts a season: a First Impressions post that covers the first episode or two of the shows I'm going to try to watch, and a Retrospective post covering the shows I enjoyed and the reasons why I dropped others.
 

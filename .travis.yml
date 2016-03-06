@@ -18,6 +18,7 @@ deploy:
   local-dir: output
   acl: public_read
   detect_encoding: true
+  cache_control: "max-age=600"
 notifications:
   email:
     on_failure: always

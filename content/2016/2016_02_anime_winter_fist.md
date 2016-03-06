@@ -5,6 +5,7 @@ Tags: anime, first impressions
 Category: anime
 Slug: anime_2016_winter_first
 Summary: First Impressions of the Anime Winter 2016 Season
+Hero: background-image: url(/images/anime/2016/winter/hero.jpg);
 
 [TOC]
 
