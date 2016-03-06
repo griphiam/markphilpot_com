@@ -8,7 +8,7 @@ Summary: Review of Jitsu wa Watashi wa
 ![Jitsu]({filename}/images/anime/2015/summer/jitsu/jitsuwa_pv.jpg){: .center}
 ![TBS Entertainment]({filename}/images/anime/studios/tbs.png){: .studio}
 
-[Jitsu wa Watashi wa](https://hummingbird.me/anime/jitsu-wa-watashi-wa) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/half_star.png){: .star} *Actually, I Am…*
+[Jitsu wa Watashi wa](https://hummingbird.me/anime/jitsu-wa-watashi-wa) *Actually, I Am…*
 
 I almost missed this gem. I watched the first 5 minutes of the first episode and dismissed it. The weird (yet distinctive) character designs didn't help. I thought it was going to be just another ecchi, harem show with monster & alien girls (a la [Rosario + Vampire](https://hummingbird.me/anime/rosario-vampire)).
 

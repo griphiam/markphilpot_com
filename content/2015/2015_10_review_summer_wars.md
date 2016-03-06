@@ -8,7 +8,7 @@ Summary: Review of Summer Wars
 ![Summer Wars]({filename}/images/2015/summer_wars/pv.jpg){: .center}
 ![Madhouse]({filename}/images/anime/studios/madhouse.png){: .studio}
 
-[Summer Wars](https://hummingbird.me/anime/summer-wars) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}
+[Summer Wars](https://hummingbird.me/anime/summer-wars)
 
 I'm not sure how this movie came on my radar (probably because of it's ranking in the [Hummingbird's Explore Anime](https://hummingbird.me/anime/filter/all) section). Once I figured out I generally enjoy works by Madhouse, I figured I might enjoy this one and added it to my queue.  Since the fall 2015 season is a lot less full, I've had the chance to work my way through other series, and Summer Wars was the first movie (rather than series) that I pulled out of the queue.
 

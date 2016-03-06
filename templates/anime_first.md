@@ -17,6 +17,4 @@ Producers :: {{ show.producers|join(', ') if show.producers }}
 
 > {{ show.synopsis|replace('\r\n', '') }}
 
-__*Verdict* :: Verdict__
-
 {% endfor %}

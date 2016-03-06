@@ -8,7 +8,7 @@ Summary: Review of Gakkou Gurashi!
 ![Gakkou Gurashi!]({filename}/images/anime/2015/summer/gakkougurashi_pv.jpg){: .center}
 ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
 
-[Gakkou Gurashi!](https://hummingbird.me/anime/gakkou-gurashi) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star} *School Live!*
+[Gakkou Gurashi!](https://hummingbird.me/anime/gakkou-gurashi) *School Live!*
 
 If you haven't seen this yet, preserve your ignorance a bit longer and at least watch the first few episodes and come on back for an in depth discussion.
 

@@ -8,7 +8,7 @@ Summary: Review of Nagi no Asukara
 ![Nagi no Asukara]({filename}/images/2015/nagi_no_asukara/pv.jpg){: .center}
 ![PA]({filename}/images/anime/studios/pa_works.png){: .studio}
 
-[Nagi no Asukara](https://hummingbird.me/anime/nagi-no-asukara) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star} *Nagi-Asu: A Lull in the Sea*
+[Nagi no Asukara](https://hummingbird.me/anime/nagi-no-asukara) *Nagi-Asu: A Lull in the Sea*
 
 ## tl;dr
 

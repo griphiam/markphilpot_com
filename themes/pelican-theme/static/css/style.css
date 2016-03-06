@@ -722,6 +722,10 @@ img.center, img.studio {
   max-width: 100% !important;
 }
 
+.content .link-nb {
+  border-bottom: 0 !important;
+}
+
 /* Hero Banner -- set Hero: background-image: url($some_url) */
 
 .hero {

@@ -8,7 +8,7 @@ Summary: Review of Boku wa Tomodachi ga Sukunai
 ![Boku wa Tomodachi ga Sukunai]({filename}/images/2015/haganai/pv.jpg "Boku wa Tomodachi ga Sukunai"){: .center}
 ![Anime International Company]({filename}/images/anime/studios/aic.png){: .studio}
 
-[Boku wa Tomodachi ga Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/empty_star.png){: .star} *Haganai*
+[Boku wa Tomodachi ga Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai) *Haganai*
 
 Is this show ecchi? Hell yes. Is a standard harem show? Absolutely.
 

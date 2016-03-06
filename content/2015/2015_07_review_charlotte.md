@@ -8,7 +8,7 @@ Summary: Review of Charlotte
 ![Charlotte]({filename}/images/anime/2015/summer/charlotte_pv2.jpg){: .center}
 ![PA Works]({filename}/images/anime/studios/pa_works.png){: .studio}
 
-[Charlotte](https://hummingbird.me/anime/charlotte) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/empty_star.png){: .star} *Charlotte*
+[Charlotte](https://hummingbird.me/anime/charlotte)
 
 I almost skipped this one. The first few episodes felt like a high school version of *Quantum Leap* (albiet very nice to watch). Not thinking it would end up going anywhere, I put it on hold for about 3/4 of the summer season. A few sites I follow kept posting episode discussions on this show and I couldn't fathom why.
 

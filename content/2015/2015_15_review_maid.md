@@ -8,7 +8,7 @@ Summary: Review of Kaichou wa Maid-sama!
 ![Kaichou wa Maid-sama!]({filename}/images/2015/maid/pv.jpg){: .center}
 ![JC Staff]({filename}/images/anime/studios/jc_staff.png){: .studio}
 
-[Kaichou wa Maid-sama!](https://hummingbird.me/anime/kaichou-wa-maid-sama) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/empty_star.png){: .star} *Maid-Sama!*
+[Kaichou wa Maid-sama!](https://hummingbird.me/anime/kaichou-wa-maid-sama) *Maid-Sama!*
 
 I don't think I've been so conflicted about an anime as I was watching *Maid-Sama!*  On the one hand, I loved the female protagonist -- kicks ass and takes no prisoners. On the other, the male lead is one of the scummiest, aloof jerks I've ever come across in a rom-com. In addition, despite an empowering female lead, there are situations between the two main characters that scream male domination where I actually felt uncomfortable -- it felt like an anime from a previous decade, not 2010.
 
