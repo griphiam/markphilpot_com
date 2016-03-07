@@ -48,6 +48,9 @@
         {% for p in pages %}
         <li {% if p.title == '~/projects' %}class="proj"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}
+        {% if DEBUG %}
+        <li><a href="/drafts">Drafts</a></li>
+        {% endif %}
       </ul>
       <hr>
     </div>
