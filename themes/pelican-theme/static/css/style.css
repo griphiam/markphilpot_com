@@ -830,3 +830,14 @@ div.articles-timeline .previous-article {
 	width: 100%;
 	height: 100%;
 }
+
+.linenos {
+    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-size: 14px;
+}
+.linenodiv {
+    margin-right: 8px;
+}
+.hll {
+    background-color: lightblue;
+}

@@ -9,13 +9,13 @@ status: draft
 ![Bakemonogatari]({filename}/images/anime/2009/bakemonogatari/cover.jpg){: .center}
 ![Shaft]({filename}/images/anime/studios/shaft.png){: .studio}
 
-[Bakemonogatari](https://hummingbird.me/anime/bakemonogatari) ![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star}![star]({filename}/images/rating/full_star.png){: .star} *Bakemonogatari*
+[Bakemonogatari](https://hummingbird.me/anime/bakemonogatari) *Bakemonogatari*
 
 >The smartest ecchi harem show in existence
 
 There should be some consideration made to why the Monogatari series is as highly regarded as it is. On the surface, it's an ecchi, harem comedy -- and if you stopped there, it would be just like any other.  But it doesn't.
 
-Thanks to the writing of Nisio Isin and the animation by Shaft, you have one of the most epic series in the history of anime (and that's no exageration). Bakemonogatari is where it all starts.
+Thanks to the writing of Nisio Isin and the animation by Shaft, you have one of the most epic series in the history of anime (and that's no exaggeration). Bakemonogatari is where it all starts.
 
 While not the exact origin, it is the formation of the group of girls surrounding our protagonist, Koyomi Araragi -- a recovering part-vampire high school student who seems to attract supernatural possessed/haunted girls[ref]Even as I write this synopsis now, someone unfamiliar with Bake would shrug this off as just another harem show[/ref]. Koyomi has the help of Oshino Meme, a Hawaiian-shirt-wearing shaman who helped Koyomi return from full vampire a few months ago.
 

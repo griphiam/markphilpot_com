@@ -119,7 +119,7 @@ SITESUBTITLE = '"You simian-descended, equivocating, pronoun-starved little mort
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING = True
+INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING = False
 HUMMINGBIRD_USERNAME = 'mphilpot'
 HUMMINGBIRD_API_KEY = '0084bb364f1201c86837'
 
