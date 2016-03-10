@@ -5,7 +5,7 @@ Category: anime
 Slug: review_gakkou_gurashi
 Summary: Review of Gakkou Gurashi!
 
-![Gakkou Gurashi!]({filename}/images/anime/2015/summer/gakkougurashi_pv.jpg){: .center}
+![Gakkou Gurashi!]({filename}/images/2015/gakkou_gurashi/gakkougurashi_pv.jpg){: .center}
 ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
 
 [Gakkou Gurashi!](https://hummingbird.me/anime/gakkou-gurashi) *School Live!*
@@ -54,7 +54,7 @@ Anyway, back to Gakkou. Thankfully there are more twists and turns throughout th
 
 ## Story & Characters
 
-![Cast]({filename}/images/anime/2015/summer/gakkou_gurashi/cast.jpg){: .ew1000}
+![Cast]({filename}/images/2015/gakkou_gurashi/cast.jpg){: .ew1000}
 
 On the surface, this appears to be nothing more than a moe inspired high school slice-of-life. We're introduced to the four girls going about their day at school. Only at the end of the first episode does the first twist reveal itself (unfortunatley only for those who managed to avoid the introductory synopsis). The story takes place exclusively at a high school (except for one brief field trip) and surprisingly it doesn't feel boring or claustrophobic.
 
@@ -72,7 +72,7 @@ The opening was a fantastic contrast to the dark nature of the show. The first f
 
 I also loved that they changed up the ending songs in a few episodes to really add punch to the final scene.
 
-![Yuki]({filename}/images/anime/2015/summer/gakkou_gurashi/yuki.jpg){: .ew1000}
+![Yuki]({filename}/images/2015/gakkou_gurashi/yuki.jpg){: .ew1000}
 
 Finally, a special shout out for the sound design when the zombies are on screen. Combined with the visual obscurity, the darkness and zombies gave weight to how scary this situation would be.
 
@@ -80,7 +80,7 @@ Finally, a special shout out for the sound design when the zombies are on screen
 
 The last thought that comes to mind is "Who manages to execute better? Madoka or Gakkou?"  Granted they are very different shows, and I still would give the edge to Madoka, but it really speaks to the strengths of Gakkou it is even a possible comparison.
 
-![Cast Sunset]({filename}/images/anime/2015/summer/gakkou_gurashi/cast_sunset.jpg){: .ew1000}
+![Cast Sunset]({filename}/images/2015/gakkou_gurashi/cast_sunset.jpg){: .ew1000}
 
 The ending had hints there might be more to come, but it could also mean I need to find the manga to see what happens next. This type of ending I love -- wrap it up so there is a satisfying conclusion, but hint there may be more and see if you can drum up support.
 

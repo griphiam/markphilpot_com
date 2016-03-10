@@ -5,7 +5,7 @@ Category: anime
 Slug: review_charlotte
 Summary: Review of Charlotte
 
-![Charlotte]({filename}/images/anime/2015/summer/charlotte_pv2.jpg){: .center}
+![Charlotte]({filename}/images/2015/charlotte/charlotte_pv2.jpg){: .center}
 ![PA Works]({filename}/images/anime/studios/pa_works.png){: .studio}
 
 [Charlotte](https://hummingbird.me/anime/charlotte)
@@ -22,7 +22,7 @@ I'll let Aniplex give the summary:
 
 tl;dr :: [X-Men the Animation](https://youtu.be/itLS__hFqXk?t=346)
 
-![Cast]({filename}/images/anime/2015/summer/charlotte/main_characters.jpg){: .ew1000}
+![Cast]({filename}/images/2015/charlotte/main_characters.jpg){: .ew1000}
 
 Charlotte is a product of a collaboration between PA Works and Key ([Clannad](https://hummingbird.me/anime/clannad), [Angel Beats!](https://hummingbird.me/anime/angel-beats)) so you get a few things off the bat: great visuals, distinctive character design and (usually) a solid soundtrack.
 
@@ -48,6 +48,6 @@ It fits with the mood of the second act and feels very Angel Beats inspired.
 
 Most everyone has pegged the final episode as a complete clusterfuck -- and they aren't too far off. Many rants were born upon that episode airing. There is a shred of payoff at the end, but they could have done a rather awesome second cour with just the contents of the last episode.
 
-![Tomori]({filename}/images/anime/2015/summer/charlotte/tomori.jpg){: .ew1000}
+![Tomori]({filename}/images/2015/charlotte/tomori.jpg){: .ew1000}
 
 Ultimately this show is worth your time. I don't think it's better than Angel Beats, but its in that same vein, and if you enjoyed that one, stick out the first half and you'll definitely be rewarded.

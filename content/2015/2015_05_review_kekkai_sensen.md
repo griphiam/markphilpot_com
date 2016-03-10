@@ -5,7 +5,7 @@ Category: anime
 Slug: review_kekkai_sensen
 Summary: Review of Kekkai Sensen
 
-![Kekkai Sensen]({filename}/images/anime/2015/spring/kekkai_sensen.jpg){: .center}
+![Kekkai Sensen]({filename}/images/2015/kekkai_sensen/kekkai_sensen.jpg){: .center}
 ![Bones]({filename}/images/anime/studios/bones.png){: .studio}
 
 [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) *Blood Blockade Battlefront*
@@ -16,7 +16,7 @@ Was the wait worth it?
 
 ## Story & Characters
 
-![Cast]({filename}/images/anime/2015/spring/kekkai_sensen/cast.jpg){: .ew1000}
+![Cast]({filename}/images/2015/kekkai_sensen/cast.jpg){: .ew1000}
 
 The Rat Pack and aliens set in the 1920's set in a quasi post-apocalyptic New York (now known as Hellsalem's Lot). Interested right? There is a lot to like about the world Bones builds right from the get go. A rift violently opens up in NY dumping aliens and magic creatures along side humans in the worlds most epic melting pot. A band of super human crime fighters known as Libra try to keep the most extreme elements in check. Kekkai Sensen doesn't explain much about the world, instead presenting it fait accompli and weaving characters in and out. The main character, Leonardo Watch seeks out and joins Libra and we follow this chaos as it unfolds.
 
@@ -28,7 +28,7 @@ There isn't much of a story structure either.  Many of the episodes are mostly s
 
 The animation is truly epic at times -- the amount of detail in background shots is just insane. The blend of seemingly normal New York with absolutely twisted demonic realms was at times simply stunning.
 
-![City]({filename}/images/anime/2015/spring/kekkai_sensen/city.jpg){: .ew1000}
+![City]({filename}/images/2015/kekkai_sensen/city.jpg){: .ew1000}
 
 I loved the character designs -- a fantastic blend of absurd and fanciful, especially when combined with all the wild looking aliens cohabiting Hellsalem's Lot.
 
@@ -48,6 +48,6 @@ The [OST](https://www.youtube.com/watch?v=gqAOnG1Pvi0) is movie-epic as well, bl
 
 ## Final Thoughts
 
-![Leonardo]({filename}/images/anime/2015/spring/kekkai_sensen/leonardo.jpg){: .ew1000}
+![Leonardo]({filename}/images/2015/kekkai_sensen/leonardo.jpg){: .ew1000}
 
 Ultimately, I can't imaging them taking the current 12th episode and cutting it in half and doing the show justice, so I'm glad they waited it out to give us a satisfying conclusion. I wish they had gone down the two cour route and I think that would have really helped the pacing (as well as give the writers an opportunity to flesh out the backstory of more of the characters).
