@@ -43,7 +43,9 @@ PATH = 'content'
 PLUGIN_PATHS = [
     'plugins',
 ]
-PLUGINS = ['gzip_cache', 'simple_footnotes', 'sitemap', 'tipue_search', 'neighbors', 'extract_toc']
+
+# Removed 'gzip_cache' since AWS Cloudfront does it for us
+PLUGINS = ['simple_footnotes', 'sitemap', 'neighbors', 'extract_toc']
 
 # Theme Settings
 THEME = 'themes/pelican-theme'
@@ -60,6 +62,12 @@ PAGE_URL = u'pages/{slug}/'
 PAGE_SAVE_AS = u'pages/{slug}/index.html'
 USE_FAVICON = True
 WITH_FUTURE_DATES = True
+PAGINATED_DIRECT_TEMPLATES = []
+
+# Prevent generation of paginated blocks
+AUTHOR_SAVE_AS = False
+CATEGORY_SAVE_AS = False
+TAG_SAVE_AS = False
 
 STATIC_PATHS = ['theme/images', 'images']
 
@@ -79,40 +87,6 @@ SITEMAP = {
 
 #DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 DIRECT_TEMPLATES = (('index',))
-
-PROJECTS = [
-    {
-        'name': 'DaedaFusion OSS',
-        'url': 'https://github.com/daedafusion',
-        'description': 'Plugable component architecture'
-    },
-    {
-        'name': 'TriAxis Editor',
-        'url': 'http://triaxiseditor.com',
-        'description': 'Web config editor for the Mesa Boogie TriAxis'
-    },
-    {
-        'name': 'GCP Editor',
-        'url': 'http://gcproeditor.com',
-        'description': 'Web config editor for the Voodoo Labs GCP'
-    },
-	{
-		'name': 'iSuperGP',
-		'url': 'http://www.isupergp.com',
-		'description': 'Mobile front end to <a href="http://supergenpass.com">SupergenPass</a>'
-	}
-]
-
-LANDING_PAGE_ABOUT = {
-	'title': 'Software Engineer, Photographer, Musician',
-	'details': """
-        <div>
-            <p>So, a little bit about myself...</p>
-            <p>Software :: how I currently make my living.  I'm a full stack engineer -- so everything from databases, backend services and through to the user interface is fair game.</p>
-            <p>Photos &amp; Music :: hobbies, outlets, just fun.</p>
-        </div>
-    """
-}
 
 SITESUBTITLE = '"You simian-descended, equivocating, pronoun-starved little mortal twerp" - The Transcendant Pig'
 

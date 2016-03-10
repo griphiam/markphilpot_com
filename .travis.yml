@@ -4,6 +4,11 @@ python:
 cache:
   - apt
   - pip
+addons:
+  apt:
+    packages:
+      - libjpeg
+      - optipng
 install:
   - "pip install -r requirements.txt"
 script: "pelican -s publishconf.py content/"
