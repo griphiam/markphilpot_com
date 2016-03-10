@@ -6,10 +6,9 @@ Slug: review_{{ slug|replace('-', '_') }}
 Summary: Review of {{ titles.canonical }}
 status: draft
 
-![{{ titles.canonical }}]({filename}/images/{{ year }}/{{ slug|replace('-', '_') }}/pv.jpg "{{ titles.canonical }}"){: .center}
-![{{ titles.canonical }}]({{ poster_image }} "{{ titles.canonical }}"){: .center}
-![{{ studio.name }}]({filename}/{{ studio.logo }}){: .studio}
-Producers :: {{ producers|join(', ') if producers }}
+![{{ titles.canonical }}]({filename}/images/{{ year }}/{{ slug|replace('-', '_') }}/{{ pv_filename }} "{{ titles.canonical }}"){: .center}
+![$STUDIO]({filename}/images/anime/studios/_.png "$STUDIO"){: .center}
+Producers :: {{ show.producers|join(', ') if show.producers }}
 
 [{{ titles.canonical }}](https://hummingbird.me/anime/{{ slug }}) *{{ titles.english }}*
 

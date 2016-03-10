@@ -8,13 +8,12 @@ status: draft
 
 {% for show in shows %}
 
-![{{ show.titles.canonical }}]({filename}/images/anime/{{ year}}/{{ season }}/{{ show.pv }} "{{ show.titles.canonical }}"){: .center}
-![{{ show.titles.canonical }}]({{ show.poster_image }} "{{ show.titles.canonical }}"){: .center}
-![$STUDIO]({filename}/images/anime/studios/_.png "$STUDIO"){: .studio}
+![{{ show.titles.canonical }}]({filename}/images/anime/{{ year}}/{{ season }}/{{ show.pv_filename }} "{{ show.titles.canonical }}"){: .center}
+![$STUDIO]({filename}/images/anime/studios/_.png "$STUDIO"){: .center}
 Producers :: {{ show.producers|join(', ') if show.producers }}
 
 ### [{{ show.titles.canonical }}](https://hummingbird.me/anime/{{ show.slug }})
 
-> {{ show.synopsis|replace('\r\n', '') }}
+> {{ show.synopsis|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
 
 {% endfor %}
