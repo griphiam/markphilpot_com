@@ -11,6 +11,7 @@ DEBUG = True
 if DEBUG:
      CACHE_CONTENT = True
      LOAD_CONTENT_CACHE = True
+     CHECK_MODIFIED_METHOD = 'mtime'
 
 AUTHOR = u'Mark Philpot'
 SITENAME = u'markphilpot.com'
