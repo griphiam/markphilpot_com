@@ -1,18 +1,39 @@
-Title: Anime Winter 2016 First Impressions
-Date: 2016-01-20 20:52:00
-Updated: 2016-03-01 22:46:00
-Tags: anime, first impressions
+Title: Anime Winter 2016 Retrospective
+Date: 2016-03-27 21:41:00
+Tags: anime, retro
 Category: anime
-Slug: anime_2016_winter_first
-Summary: First Impressions of the Anime Winter 2016 Season
+Slug: anime_2016_winter_retro
+Summary: Retrospective of the Anime Winter 2016 Season
 Hero: background-image: url(/images/anime/2016/winter/hero.jpg);
+Status: draft
 
 [TOC]
 
-First off... Just how many concurrent projects can A-1 Pictures handle? The sheer volume is staggering.
+![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){: .center}
+![A-1]({filename}/images/anime/studios/half/a1.png "A-1 Pictures"){: .studio}
 
-What is also shocking is that I haven't dropped a single show after it's first episode! This season is going to be crazy if none of the shows below are drop worthy. There is one show that I *really* hope will be as good as it seems like it could be and the rest coming in solidly average. I'm in for a lot of content this season.
+### [Boku dake ga Inai Machi](https://hummingbird.me/anime/boku-dake-ga-inai-machi)
 
+Wow.
+
+To say that the first episode sucked me in is a significant understatement. By episode 2 I was committed. What a fantastic opening to a show. I really, *really* hope A-1 doesn't do something to screw this one up, because I think it could hands down be the best show of the season.
+
+![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){: .center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png "Studio DEEN"){: .studio}
+
+### [Kono Subarashii Sekai ni Shukufuku wo!](https://hummingbird.me/anime/kono-subarashii-sekai-ni-shukufuku-wo)
+
+Ugh. I can't tell if the animation is bad on purpose or there was just no budget for this show.  The animation is so borderline I might give it up despite there being some great humor and spit balls thrown at traditional "caught in a virtual RPG."  This *almost* feels like a Mel Brooks type spoof of a bunch of related shows ([SAO](https://hummingbird.me/anime/sword-art-online), [Log Horizon](https://hummingbird.me/anime/log-horizon), [Is it Wrong to Try to Pickup Girls in a Dungeon](https://hummingbird.me/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka)). As long as the show never takes itself too seriously, I'll probably keep it in the loop.
+
+
+![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){: .center}
+<div class="studio">Studio 3Hz, Orange</div>
+
+### [Dimension W](https://hummingbird.me/anime/dimension-w)
+
+I can't believe I almost missed out on this one. Not sure why it initially passed my radar. Probably the combination of production studios I had never heard of and what I took to be a vanilla sounding sci-fi plot. I'm glad I decided to give it a chance though, because the first episodes were definitely fun! I think if I keep expectations low, I'll be pleasantly surprised with this one.
+
+-----------------------------
 
 ![Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen]({filename}/images/anime/2016/winter/gate2.jpg "Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen"){: .center}
 ![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){: .studio}
@@ -28,16 +49,6 @@ This means I now get to actually finish the first cour (I usually do that to avo
 ### [Ansatsu Kyoushitsu (TV) 2nd Season](https://hummingbird.me/anime/ansatsu-kyoushitsu-tv-2)
 
 The first cour was fun and entertaining despite some uneven pacing. The only issue is that this is *another* 24 episode run. How much original story can they have? I may let this one marinate for 12 episodes or so to make sure it's living up to the promise of the first season -- specifically does it actually go into the backstory of our main antagonist.
-
-
-![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){: .center}
-![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){: .studio}
-
-### [Boku dake ga Inai Machi](https://hummingbird.me/anime/boku-dake-ga-inai-machi)
-
-Wow.
-
-To say that the first episode sucked me in is a significant understatement. By episode 2 I was committed. What a fantastic opening to a show. I really, *really* hope A-1 doesn't do something to screw this one up, because I think it could hands down be the best show of the season.
 
 
 ![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){: .center}
@@ -108,13 +119,6 @@ Ummm... team parkour... *racing?*
 I'm not sure about this one.  If it wasn't being produced by Madhouse, I don't think I would have even have tried it. I think this will have quite a bit of the hype necessary in a sport anime without going into the shounen super power territory. Let's see how this one plays out.
 
 
-![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){: .center}
-![Deen]({filename}/images/anime/studios/studio_deen.png "Studio DEEN"){: .studio}
-
-### [Kono Subarashii Sekai ni Shukufuku wo!](https://hummingbird.me/anime/kono-subarashii-sekai-ni-shukufuku-wo)
-
-Ugh. I can't tell if the animation is bad on purpose or there was just no budget for this show.  The animation is so borderline I might give it up despite there being some great humor and spit balls thrown at traditional "caught in a virtual RPG."  This *almost* feels like a Mel Brooks type spoof of a bunch of related shows ([SAO](https://hummingbird.me/anime/sword-art-online), [Log Horizon](https://hummingbird.me/anime/log-horizon), [Is it Wrong to Try to Pickup Girls in a Dungeon](https://hummingbird.me/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka)). As long as the show never takes itself too seriously, I'll probably keep it in the loop.
-
 
 ![Shoujo-tachi wa Kouya wo Mezasu]({filename}/images/anime/2016/winter/shoujotachiwakouyawomezasu.jpg "Shoujo-tachi wa Kouya wo Mezasu"){: .center}
 
@@ -129,14 +133,6 @@ Very meta, but not exactly [Shirobako](https://hummingbird.me/anime/shirobako) h
 ### [Shouwa Genroku Rakugo Shinjuu](https://hummingbird.me/anime/shouwa-genroku-rakugo-shinjuu-tv)
 
 Ok, this show will not be for everyone, but give the first episode a try.  The show centers around a style of Japanese storytelling and we actually get to see the full stories.  The comedic ones feel like a one-man Abbot & Costello routine and this is definitely a show where I wish I could understand Japanese because I feel it would be even better.
-
-
-![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){: .center}
-<div class="studio">Studio 3Hz, Orange</div>
-
-### [Dimension W](https://hummingbird.me/anime/dimension-w)
-
-I can't believe I almost missed out on this one. Not sure why it initially passed my radar. Probably the combination of production studios I had never heard of and what I took to be a vanilla sounding sci-fi plot. I'm glad I decided to give it a chance though, because the first episodes were definitely fun! I think if I keep expectations low, I'll be pleasantly surprised with this one.
 
 ![Divider]({filename}/images/dividers/heartbeat_half.png){: .center }
 <div class="divider-title">Shorts</div>

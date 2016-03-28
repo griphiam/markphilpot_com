@@ -713,13 +713,15 @@ a.headerlink {
   border-bottom: 0;
 }
 
-/* studio should be deprecated */
-
-img.center, img.studio {
+img.center, div.center, img.studio, div.studio {
   text-align: center;
   margin: 0 auto !important;
   display: block;
   max-width: 100% !important;
+}
+
+img.studio {
+  margin-top: 8px !important;
 }
 
 .content .link-nb {
