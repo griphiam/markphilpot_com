@@ -10,7 +10,7 @@ status: draft
 
 ![{{ show.titles.canonical }}]({filename}/images/anime/{{ year}}/{{ season }}/{{ show.pv_filename }} "{{ show.titles.canonical }}"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/_.png "$STUDIO"){: .center}
-Producers :: {{ show.producers|join(', ') if show.producers }}
+<div class="center">{{ show.producers|join(', ') if show.producers }}</div>
 
 ### [{{ show.titles.canonical }}](https://hummingbird.me/anime/{{ show.slug }})
 
