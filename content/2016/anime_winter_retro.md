@@ -14,24 +14,33 @@ Status: draft
 
 ### [Boku dake ga Inai Machi](https://hummingbird.me/anime/boku-dake-ga-inai-machi)
 
-Wow.
 
-To say that the first episode sucked me in is a significant understatement. By episode 2 I was committed. What a fantastic opening to a show. I really, *really* hope A-1 doesn't do something to screw this one up, because I think it could hands down be the best show of the season.
+Holy... Mother...
+
+The opening two episodes hooked me so badly I ended up watching each episode as soon as it came out (until ep. 10 where I had to pause and wait for it to finish so I could binge the rest). While this show might not appeal to everyone (specifically if you are disinclined to like anything from A-1 or don't like mysteries) I think it's easily the best show to air in the last few years.
+
+From what I've heard, the manga might be even better since there was quite a few threads dropped in order to fit into a single cour. I'm a few chapters in at the moment and definitely think that consensus might be right.
 
 ![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){: .center}
 ![Deen]({filename}/images/anime/studios/half/studio_deen.png "Studio DEEN"){: .studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo!](https://hummingbird.me/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 
-Ugh. I can't tell if the animation is bad on purpose or there was just no budget for this show.  The animation is so borderline I might give it up despite there being some great humor and spit balls thrown at traditional "caught in a virtual RPG."  This *almost* feels like a Mel Brooks type spoof of a bunch of related shows ([SAO](https://hummingbird.me/anime/sword-art-online), [Log Horizon](https://hummingbird.me/anime/log-horizon), [Is it Wrong to Try to Pickup Girls in a Dungeon](https://hummingbird.me/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka)). As long as the show never takes itself too seriously, I'll probably keep it in the loop.
-
+For me this was the surprise of the season. The humor was consistently good throughout and even the art style while jarring at first meshed well with the humor. The entire production was just *fun*!
 
 ![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){: .center}
 <div class="studio">Studio 3Hz, Orange</div>
 
 ### [Dimension W](https://hummingbird.me/anime/dimension-w)
 
-I can't believe I almost missed out on this one. Not sure why it initially passed my radar. Probably the combination of production studios I had never heard of and what I took to be a vanilla sounding sci-fi plot. I'm glad I decided to give it a chance though, because the first episodes were definitely fun! I think if I keep expectations low, I'll be pleasantly surprised with this one.
+My initial assessment was spot on -- I kept my expectations low and was pleasantly surprised. The characters aren't deep and they have minimal arcs, the character design is OK, and the plot is mildly interesting. That might come across as damming, but the sum of the pieces resulted in something fairly entertaining. If you just want a decent sci-fi show to pass the time, this one isn't too bad.
+
+![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){: .center}
+![Kyoto]({filename}/images/anime/studios/kyoto.png "Kyoto"){: .studio}
+
+### [Musaigen no Phantom World](https://hummingbird.me/anime/musaigen-no-phantom-world)
+
+Oh the disappointment.
 
 -----------------------------
 
@@ -51,14 +60,7 @@ This means I now get to actually finish the first cour (I usually do that to avo
 The first cour was fun and entertaining despite some uneven pacing. The only issue is that this is *another* 24 episode run. How much original story can they have? I may let this one marinate for 12 episodes or so to make sure it's living up to the promise of the first season -- specifically does it actually go into the backstory of our main antagonist.
 
 
-![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){: .center}
-![Kyoto]({filename}/images/anime/studios/kyoto.png "Kyoto"){: .studio}
 
-### [Musaigen no Phantom World](https://hummingbird.me/anime/musaigen-no-phantom-world)
-
-On first glance, this appears to be a more light hearted version of [Beyond the Boundary](). The animation definitely doesn't disappoint -- there are not many studios that can top Kyoto Animation for pure eye candy. That being said, there is a bit too much pandering for my tastes -- too many provocative female poses for no reason other than fan service.
-
-By episode 2, we are still just being introduced to the mechanics of the world. I'm hoping the characters take a front seat soon, or this may end up just being a *meh* show.
 
 
 ![Hai to Gensou no Grimgar]({filename}/images/anime/2016/winter/haitogensounogrimgar.jpg "Hai to Gensou no Grimgar"){: .center}
