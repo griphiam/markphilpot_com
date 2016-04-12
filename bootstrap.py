@@ -158,38 +158,15 @@ def process_hummingbird_upcoming(season, image_dir=None):
     return data
 
 
-# def parse_animutank_preview(url):
-#     response = {
-#         'shows': []
-#     }
-#     r = requests.get(url)
-#     soup = BeautifulSoup(r.text, 'html5lib')
-#
-#     entries = soup.select('h1.main-title')
-#
-#     for e in entries:
-#         show = {
-#             'titles': {
-#                 'canonical': e.get('data-romaji', 'unknown'),
-#                 'english': e.get('data-english', 'unknown')
-#             }
-#         }
-#
-#         siblings = e.find_next_siblings('p')
-#         studio_sibling = siblings[1]
-#         studio_el = studio_sibling.find('a')
-#         show['studio'] = studio_el.string if studio_el else 'uknown'
-#
-#         if len(siblings) > 5:
-#             pv_sibling = siblings[5]
-#             pv_el = pv_sibling.find('a')
-#             show['pv'] = pv_el['href'] if pv_el else 'unknown'
-#
-#         response['shows'].append(show)
-#
-#     return response
-
 if __name__ == '__main__':
+    """
+    Examples:
+
+        python bootstrap.py --season spring -o content/2016/anime_spring_first.md --save_images
+
+        mogrify -resize 320x *.jpg # (revert hero.jpg)
+
+    """
     logging.getLogger().addHandler(logging.StreamHandler())
 
     parser = ArgumentParser('Template bootstrap')
