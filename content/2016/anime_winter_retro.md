@@ -43,7 +43,7 @@ My initial assessment was spot on -- I kept my expectations low and was pleasant
 
 ### [Musaigen no Phantom World](https://hummingbird.me/anime/musaigen-no-phantom-world)
 
-Oh the disappointment.
+Oh the disappointment. The world had so much potential, but the writers seemed content with standalone surface level character pieces. I mean, it's KyotoAni so it's gorgeous to look at, but there was no depth aside from the art. *sigh* Chalk this one up to missed opportunity.
 
 -----------------------------
 
@@ -52,19 +52,14 @@ Oh the disappointment.
 
 ### [Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen](https://hummingbird.me/anime/gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen)
 
-This means I now get to actually finish the first cour (I usually do that to avoid the season ending cliffhanger). My impression of the first cour was *meh* but it was interesting enough that I'm curious if we'll get any more depth in the characters.
-
+Haven't started this one yet, but I will definitely get to it.
 
 ![Ansatsu Kyoushitsu (TV) 2nd Season]({filename}/images/anime/2016/winter/assissantion2.jpg "Ansatsu Kyoushitsu (TV) 2nd Season"){: .center}
 ![Lerche]({filename}/images/anime/studios/lerche.png "Lerche"){: .studio}
 
 ### [Ansatsu Kyoushitsu (TV) 2nd Season](https://hummingbird.me/anime/ansatsu-kyoushitsu-tv-2)
 
-The first cour was fun and entertaining despite some uneven pacing. The only issue is that this is *another* 24 episode run. How much original story can they have? I may let this one marinate for 12 episodes or so to make sure it's living up to the promise of the first season -- specifically does it actually go into the backstory of our main antagonist.
-
-
-
-
+This one too. Given it's a two cour season, I'll probably wait until the end before diving in.
 
 ![Hai to Gensou no Grimgar]({filename}/images/anime/2016/winter/haitogensounogrimgar.jpg "Hai to Gensou no Grimgar"){: .center}
 ![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){: .studio}
@@ -73,64 +68,48 @@ The first cour was fun and entertaining despite some uneven pacing. The only iss
 
 This is [Sword Art Online]() with amnesia and by the opening of episode 2, they definitely make it clear this is not your parents SAO. The killing of the goblin was honestly difficult to take it. It was clear this was essentially murder and seeing how the characters processed that event was striking.  This wasn't like SAO where enemies just went *poof*. I'm really curious to see where this goes.  A final note on episode 2 -- taking almost a full 5 minutes of dialog-less animation with a fantastic song after the killing of the goblin was a gutsy call and in my mind paid off in spades.
 
-
 ![Akagami no Shirayuki-hime 2nd Season]({filename}/images/anime/2016/winter/snow_white2.jpg "Akagami no Shirayuki-hime 2nd Season"){: .center}
 ![Bones]({filename}/images/anime/studios/bones.png "Bones"){: .studio}
 
 ### [Akagami no Shirayuki-hime 2nd Season](https://hummingbird.me/anime/akagami-no-shirayuki-hime-2)
 
-Yay! So happy this got a second cour so soon! My one worry is that the level of tension will make this show unenjoyable for me.  I loved the first season *because* it was so light hearted. My concern with the opening episode is that we have a bunch of *because plot* happenings to separate our main characters, and they are *hinting* at a love triangle, which I will not stand for if they go down that route.
+I seem to do this a lot -- I put off watching the second season of a show I really liked. The reason seems to be split between the urge to watching something *new* versus "completing" something I liked and having no more *new* stuff afterwards.
 
-
+I didn't get around to starting this one either, even though it was one of my favorite shows when the first season aired. It's the curse of the anime fan -- never having a chance to catch up with your "To Watch" queue.
 
 ![Ao no Kanata no Four Rhythm]({filename}/images/anime/2016/winter/aonokanatanofourrhythmv2.jpg "Ao no Kanata no Four Rhythm"){: .center}
 ![Gonzo]({filename}/images/anime/studios/gonzo.png "Gonzo"){: .studio}
 
 ### [Ao no Kanata no Four Rhythm](https://hummingbird.me/anime/ao-no-kanata-no-four-rhythm)
 
-> In a world where flying is as simple as riding a bicycle, there is a popular sport called "Flying Circus."
-
-Ummmm... Ok.
-
-This show hasn't lost me yet, but I might be quick to pull the dropped trigger on this one.
-
-
+I got a few episodes in before putting it on hold. I think I would have been more interested if it had more "sports anime" influences. I don't think it's a bad show, just meh.
 
 ![Dagashi Kashi]({filename}/images/anime/2016/winter/dagashikashi_main.jpg "Dagashi Kashi"){: .center}
 ![Pony Canyon]({filename}/images/anime/studios/pony_canyon.png "Pony Canyon"){: .studio}
 
 ### [Dagashi Kashi](https://hummingbird.me/anime/dagashi-kashi)
 
-*Wierd* doesn't begin to cover this show. I'm sort of assuming dagashi is a Japanese equivalent of Little Debbie Snacks, just with more flavor variety.  I'm not totally sold on this one yet, but the humor seems decent.
-
+Couldn't do it -- mostly because I can't relate to the food he show revolves around. Ultimately there might be a story hidden underneath but I didn't have the patience to find out. 
 
 ![Haruchika: Haruta to Chika wa Seishun Suru]({filename}/images/anime/2016/winter/haruchika.jpg "Haruchika: Haruta to Chika wa Seishun Suru"){: .center}
 ![PA Works]({filename}/images/anime/studios/pa_works.png "PA Works"){: .studio}
 
 ### [Haruchika: Haruta to Chika wa Seishun Suru](https://hummingbird.me/anime/haruchika-haruta-to-chika-wa-seishun-suru)
 
-On the surface looks like [Hibike! Euphonium](https://hummingbird.me/anime/hibike-euphonium) and [Hyouka](https://hummingbird.me/anime/hyouka) had a baby animated by PA Works.  For some reason the level of animation doesn't meet the expectations I usually have for PA Works shows. I wonder if they will stick with a "mystery of the week" style or a longer mystery arc.
-
+This one got moved to the held column pretty quickly because other shows were more interesting. 
 
 ![Prince of Stride: Alternative]({filename}/images/anime/2016/winter/princeofstridealternative.jpg "Prince of Stride: Alternative"){: .center}
 ![Madhouse]({filename}/images/anime/studios/madhouse.png "Madhouse"){: .studio}
 
 ### [Prince of Stride: Alternative](https://hummingbird.me/anime/prince-of-stride-alternative)
 
-A Madhouse sport's anime? Sign me up!
-
-Ummm... team parkour... *racing?*
-
-I'm not sure about this one.  If it wasn't being produced by Madhouse, I don't think I would have even have tried it. I think this will have quite a bit of the hype necessary in a sport anime without going into the shounen super power territory. Let's see how this one plays out.
-
-
+I'm fairly sure I'm going to end up dropping this one. Just not enough there to keep my interest. 
 
 ![Shoujo-tachi wa Kouya wo Mezasu]({filename}/images/anime/2016/winter/shoujotachiwakouyawomezasu.jpg "Shoujo-tachi wa Kouya wo Mezasu"){: .center}
 
 ### [Shoujo-tachi wa Kouya wo Mezasu](https://hummingbird.me/anime/shoujo-tachi-wa-kouya-wo-mezasu)
 
-Very meta, but not exactly [Shirobako](https://hummingbird.me/anime/shirobako) here. Animation is OK and the characters while mostly just filling stereotypical roles have enough weight that I think I'll stay tuned for the first few episodes to see what becomes of them.
-
+I'm half way through this one and will probably end up just an average show. A lot will depend on how much they the characters versus just the process of making this game, which I only find mildly interesting. 
 
 ![Shouwa Genroku Rakugo Shinjuu]({filename}/images/anime/2016/winter/rakugo.jpg "Shouwa Genroku Rakugo Shinjuu"){: .center}
 ![Deen]({filename}/images/anime/studios/studio_deen.png "Deen"){: .studio}
@@ -147,12 +126,11 @@ Ok, this show will not be for everyone, but give the first episode a try.  The s
 
 ### [Ooyasan wa Shishunki!](https://hummingbird.me/anime/ooyasan-wa-shishunki)
 
-Two minute episodes? I end up giving most short series a chance because there is almost no time investment on my part, but two minute episodes are cutting it a little close to the bone.  Looks cute and the humor might make it worth while.
-
+Quirky and fun, but nothing to write home about. The humor is actually decent and the 2 minute run time means you can binge the season in less time than a single normal show.
 
 ![Mahou Shoujo Nante Mou Ii Desukara.]({filename}/images/anime/2016/winter/Mahou-Shoujo-Nante-Mou-Ii-Desukara.jpg "Mahou Shoujo Nante Mou Ii Desukara."){: .center}
 <div class="studio">Pine Jam, FMF</div>
 
 ### [Mahou Shoujo Nante Mou Ii Desukara.](https://hummingbird.me/anime/mahou-shoujo-nante-mou-ii-desukara)
 
-I'm hoping there is enough satire in this to fill 4 minutes. The animation isn't great, but I'm hoping there is enough play on the *Mahou Shoujo* genre to keep me coming back.
+While there was some nice pokes at the typical magical girl tropes, I feel they should have hit a lot harder. Ultimately pass on this one.
