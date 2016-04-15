@@ -1,12 +1,17 @@
 # -*- coding: utf-8 -*-
+import logging
 from argparse import ArgumentParser
 from bs4 import BeautifulSoup
 import requests
 from jinja2 import FileSystemLoader, Environment
 from datetime import datetime
 import sys
+import errno
+import os
 
 from pelicanconf import HUMMINGBIRD_API_KEY
+
+log = logging.getLogger(__name__)
 
 STUDIOS = {
     'a1': {
@@ -79,11 +84,34 @@ STUDIOS = {
     }
 }
 
-def parse_hummingbird(slug):
-    r = requests.get('https://hummingbird.me/api/v2/anime/%s' % slug, headers={'X-Client-Id': HUMMINGBIRD_API_KEY})
-    return r.json()['anime']
 
-def process_hummingbird_upcoming(season, get_studio=False):
+def mkdir_p(path):
+    try:
+        os.makedirs(path)
+    except OSError as exc:  # Python >2.5
+        if exc.errno == errno.EEXIST and os.path.isdir(path):
+            pass
+        else:
+            raise
+
+
+def parse_hummingbird(slug, image_dir=None):
+    r = requests.get('https://hummingbird.me/api/v2/anime/%s' % slug, headers={'X-Client-Id': HUMMINGBIRD_API_KEY})
+    anime = r.json()['anime']
+
+    if image_dir:
+        mkdir_p(image_dir)
+        filename = anime['poster_image'].split('/')[-1].split('?')[0]
+        anime['pv_filename'] = filename
+        img = requests.get(anime['poster_image'])
+        with open('%s/%s' % (image_dir, '%s/%s' % (image_dir, filename)), 'wb') as f:
+            f.write(img.content)
+            f.close()
+
+    return anime
+
+
+def process_hummingbird_upcoming(season, image_dir=None):
     data = {
         'shows': [],
         'season': season
@@ -95,11 +123,15 @@ def process_hummingbird_upcoming(season, get_studio=False):
 
     print('Found %d shows' % len(entries))
 
+    if image_dir:
+        mkdir_p(image_dir)
+
     for e in entries:
         link = e.find('a')['href']
         slug = link[7:]
         try:
-            r = requests.get('https://hummingbird.me/api/v2/anime/%s' % slug, headers={'X-Client-Id': HUMMINGBIRD_API_KEY})
+            r = requests.get('https://hummingbird.me/api/v2/anime/%s' % slug,
+                             headers={'X-Client-Id': HUMMINGBIRD_API_KEY})
             r.raise_for_status()
             show = r.json()['anime']
 
@@ -108,54 +140,42 @@ def process_hummingbird_upcoming(season, get_studio=False):
 
             data['shows'].append(show)
 
-            if get_studio:
-                r = requests.get('https://hummingbird.me/anime/')
+            if image_dir:
+                filename = show['poster_image'].split('/')[-1].split('?')[0]
+                show['pv_filename'] = filename
+                img = requests.get(show['poster_image'])
+                with open('%s/%s' % (image_dir, filename), 'wb') as f:
+                    f.write(img.content)
+                    f.close()
 
-        except:
+        except Exception, e:
+            log.error(e.message, exc_info=True)
             print('Skipped %s' % slug)
+            exit(1)
         sys.stdout.write('.')
         sys.stdout.flush()
 
     return data
 
-# def parse_animutank_preview(url):
-#     response = {
-#         'shows': []
-#     }
-#     r = requests.get(url)
-#     soup = BeautifulSoup(r.text, 'html5lib')
-#
-#     entries = soup.select('h1.main-title')
-#
-#     for e in entries:
-#         show = {
-#             'titles': {
-#                 'canonical': e.get('data-romaji', 'unknown'),
-#                 'english': e.get('data-english', 'unknown')
-#             }
-#         }
-#
-#         siblings = e.find_next_siblings('p')
-#         studio_sibling = siblings[1]
-#         studio_el = studio_sibling.find('a')
-#         show['studio'] = studio_el.string if studio_el else 'uknown'
-#
-#         if len(siblings) > 5:
-#             pv_sibling = siblings[5]
-#             pv_el = pv_sibling.find('a')
-#             show['pv'] = pv_el['href'] if pv_el else 'unknown'
-#
-#         response['shows'].append(show)
-#
-#     return response
 
 if __name__ == '__main__':
+    """
+    Examples:
+
+        python bootstrap.py --season spring -o content/2016/anime_spring_first.md --save_images
+
+        mogrify -resize 320x *.jpg # (revert hero.jpg)
+
+    """
+    logging.getLogger().addHandler(logging.StreamHandler())
+
     parser = ArgumentParser('Template bootstrap')
-    parser.add_argument('--template', '-t')
+    parser.add_argument('--template', '-t', default=None)
     parser.add_argument('--output', '-o')
     parser.add_argument('--hummingbird', '-hb', dest='hummingbird_slug')
     parser.add_argument('--studio', '-s', choices=STUDIOS.keys())
     parser.add_argument('--season')
+    parser.add_argument('--save_images', default=False, action='store_true')
 
     args = parser.parse_args()
 
@@ -163,20 +183,31 @@ if __name__ == '__main__':
     env = Environment(loader=loader)
     data = {}
 
-    if args.hummingbird_slug:
-        data.update(parse_hummingbird(args.hummingbird_slug))
-    if args.season:
-        data.update(process_hummingbird_upcoming(args.season))
-
-    data['studio'] = STUDIOS.get(args.studio, {'name': 'Unknown', 'logo': 'Unknown'})
-    template = env.get_template(args.template)
+    if not args.template and args.season:
+        args.template = 'anime_first.md'
+    elif not args.template and args.hummingbird_slug:
+        args.template = 'anime_review.md'
 
     dt = datetime.now()
     data['timestamp'] = dt.isoformat(" ")[:-7]
     data['year'] = int(data['timestamp'][:4])
 
-    #if args.season and args.season == 'winter':
+    image_dir = None
+    if args.season and args.save_images:
+        image_dir = 'content/images/anime/%d/%s' % (data['year'], args.season)
+    elif args.hummingbird_slug and args.save_images:
+        image_dir = 'content/images/%d/%s' % (data['year'], args.hummingbird_slug.replace('-', '_'))
+
+    # if args.season and args.season == 'winter':
     #    data['year'] += 1
+
+    if args.hummingbird_slug:
+        data.update(parse_hummingbird(args.hummingbird_slug, image_dir))
+    if args.season:
+        data.update(process_hummingbird_upcoming(args.season, image_dir))
+
+    data['studio'] = STUDIOS.get(args.studio, {'name': 'Unknown', 'logo': 'Unknown'})
+    template = env.get_template(args.template)
 
     if args.output:
         with open(args.output, 'wb') as fp:
