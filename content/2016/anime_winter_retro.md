@@ -1,5 +1,5 @@
 Title: Anime Winter 2016 Retrospective
-Date: 2016-03-27 21:41:00
+Date: 2016-04-14 20:51:00
 Tags: anime, retro
 Category: anime
 Slug: anime_2016_winter_retro
@@ -9,15 +9,18 @@ Status: draft
 
 [TOC]
 
+So I was unable to get to the "sequels" for this season (*Gate*, *Ansatsu Kyoushitsu*, and *Akagami no Shirayuki-hime*). All three I will hopefully complete at some point (especially *Shirayuki*) but this was a crazy quarter personally and I ended up really only having time for a few shows.
+
+I've also started reading manga on a regular basis. I have a bunch of series I'm enjoying (some from shows I've watched and some new ones) and as a result my evening time is spread even more.
+
 ![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){: .center}
 ![A-1]({filename}/images/anime/studios/half/a1.png "A-1 Pictures"){: .studio}
 
 ### [Boku dake ga Inai Machi](https://hummingbird.me/anime/boku-dake-ga-inai-machi)
 
-
 Holy... Mother...
 
-The opening two episodes hooked me so badly I ended up watching each episode as soon as it came out (until ep. 10 where I had to pause and wait for it to finish so I could binge the rest). While this show might not appeal to everyone (specifically if you are disinclined to like anything from A-1 or don't like mysteries) I think it's easily the best show to air in the last few years.
+The opening two episodes hooked me so badly I ended up watching each episode as soon as it came out (until episode 10 where I had to pause and wait for it to finish so I could binge the rest). While this show might not appeal to everyone (specifically if you are disinclined to like anything from A-1 or don't like mysteries) I think it's easily the best show to air in the last few years.
 
 From what I've heard, the manga might be even better since there was quite a few threads dropped in order to fit into a single cour. I'm a few chapters in at the moment and definitely think that consensus might be right.
 
