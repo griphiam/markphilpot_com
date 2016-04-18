@@ -9,14 +9,16 @@ status: draft
 
 [TOC]
 
+You'll notice [Boku no Hero Academia](https://hummingbird.me/anime/boku-no-hero-academia) is not listed below. I guess I'm just not as much a fan of the *shoenen* category as everyone else as *Academia* has no draw on me.  I might try it at some point, but I think I'd rather give *Hunter x Hunter* a try instead.
 
 ![Re:Zero kara Hajimeru Isekai Seikatsu]({filename}/images/anime/2016/spring/rezero.jpg "Re:Zero kara Hajimeru Isekai Seikatsu"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/white_fox.png){: .studio}
 
 ### [Re:Zero kara Hajimeru Isekai Seikatsu](https://hummingbird.me/anime/re-zero-kara-hajimeru-isekai-seikatsu)
 
-> Natsuki Subaru, an ordinary high school student, encounters a beautiful silver-haired girl from another world. Subaru wants to stay by her side and help her, but the burden she carries is far beyond anything Subaru imagined. They're faced with one attacking monster after another, betrayal, irrational violence... and finally death. Subaru doesn't want to see her get hurt, so he vows to take down any enemy, any fate that comes his way, to protect her. And so this powerless boy obtains "Return by Death," a unique ability that allows him to turn back time by dying. It becomes the potential to guide all people to a world where everyone can always be smiling, dependent on Subaru's life and loneliness. By using his power, the past can be lost, and memories can be rewritten. Subaru must now fight the fate that dooms him to keep all those forgotten memories hidden within, to be perpetually beaten, to see his own heart wearing down, to wager his life... all to protect the people he cares about. To get back the precious times that he's sure must have happened.<br/><br/>"Even if you forget me, I will never forget you."<br/><br/>(Source: Crunchyroll)
+Umm... This is not at all what I was expecting, but I'd be lying if I said I wasn't already hooked. The show opens with a double length first episode (40 minutes). At the half way point I was about to shrug it off as yet another "Boy trapped in another world" show -- and then the first loot house scene happened.  Yeah. Wasn't expecting that.
 
+This is a two cour show (24 episodes) and I have absolutely *no* idea where this plot will go. There is quite a lot left unexplained about the world and characters that it really could go anywhere.  Keeping my fingers crossed for this one.
 
 
 ![Koutetsujou no Kabaneri]({filename}/images/anime/2016/spring/1458215767_1_1_64ad8812acc3fa6d4127acb8964fc623.jpg "Koutetsujou no Kabaneri"){: .center}
@@ -24,16 +26,12 @@ status: draft
 
 ### [Koutetsujou no Kabaneri](https://hummingbird.me/anime/koutetsujou-no-kabaneri)
 
-> As the world is in the middle of an industrial revolution, a monster appears that cannot be defeated unless its heart, which is protected by a layer of iron, is pierced. By infecting humans with its bite, the monster can create aggressive and undead creatures known as Kabane. On the island Hinomoto, located in the far east, people have built stations to shelter themselves from these creatures. People access the station, as well as transport wares between them, with the help of a locomotive running on steam, called Hayajiro. Ikoma, a boy who lives in the Aragane station and helps to build Hayajiro, creates his own weapon called Tsuranukizutsu in order to defeat the creatures. One day, as he waits for an opportunity to use his weapon, he meets a girl named Mumei, who is excused from the mandatory Kabane inspection. During the night, Ikuma meets Mumei again as he sees Hayajiro going out of control. The staff on the locomotive has turned into the creatures. The station, now under attack by Kabane, is the opportunity Ikoma has been looking for.<br/><br/>(Source: MAL News)
+Two for two in the unexpectedly surprised category.
 
+Essentially this is [Attack on Titan](https://hummingbird.me/anime/attack-on-titan) with zombies but even out of the gate I think I'll like this show a lot more than AoT. For one, it looks like they will avoid the whole "go to school" angle and for two the protagonist is already *much* more likable than Eren ever was.
 
+The animation looks very similar to AoT as well, so they are obviously channeling that vibe.
 
-![Boku no Hero Academia]({filename}/images/anime/2016/spring/yadiyc_bokunoheroacademiav2.jpg "Boku no Hero Academia"){: .center}
-![$STUDIO]({filename}/images/anime/studios/bones.png){: .studio}
-
-### [Boku no Hero Academia](https://hummingbird.me/anime/boku-no-hero-academia)
-
-> People are not born equal, a realization that 14-year-old Midoriya Izuku faced when bullied by his classmates who had unique special powers. Izuku was one of the rare cases where he was born with absolutely no unique powers. This did not stop Izuku from pursuing his dream, a dream of becoming a great hero like the legendary All Might. To become the great hero he hopelessly wants to become, he now will join the ranks of one of the highest rated "Hero Academies" in the country: Yuuei. With the help of his idol All Might, will he be able to claim the ranks and become a true hero?<br/><br/>(Source: MangaHelpers)
 
 
 ![Kanojo to Kanojo no Neko: Everything Flows]({filename}/images/anime/2016/spring/sxnqec_kanojotokanojononekoeverythingflowsv2.jpg "Kanojo to Kanojo no Neko: Everything Flows"){: .center}
@@ -41,7 +39,7 @@ status: draft
 
 ### [Kanojo to Kanojo no Neko: Everything Flows](https://hummingbird.me/anime/kanojo-to-kanojo-no-neko-everything-flows)
 
-> A junior college student is job hunting while living alone with her pet black cat.<br/><br/>(Source: ANN)
+I *want* to watch this one, but it doesn't seem like anyone is picking it up.  I will have to track it down somewhere.
 
 
 
@@ -59,7 +57,9 @@ status: draft
 
 ### [Bungou Stray Dogs](https://hummingbird.me/anime/bungou-stray-dogs)
 
-> Nakajima Atsushi was kicked out of his orphanage, and now he has no place to go and no food. While he is standing by a river, on the brink of starvation, he rescues a man whimsically attempting suicide. That man is Dazai Osamu, and he and his partner Kunikida are members of a very special detective agency. They have supernatural powers, and deal with cases that are too dangerous for the police or the military. They're tracking down a tiger that has appeared in the area recently, around the time Atsushi came to the area. The tiger seems to have a connection to Atsushi, and by the time the case is solved, it is clear that Atsushi's future will involve much more of Dazai and the rest of the detectives!<br/><br/>(Source: MangaHelpers)
+Bones, Bones, Bones. Need I say more?
+
+A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) -- the first episode was definitely entertaining with the humor flowing well with some nice stylized action sequences.  I wonder if this one will have a story arc to it or focus more on individual standalone stories.
 
 
 
@@ -68,7 +68,9 @@ status: draft
 
 ### [Gakusen Toshi Asterisk 2nd Season](https://hummingbird.me/anime/gakusen-toshi-asterisk-2nd-season)
 
-> Second cour of Gakusen Toshi Asterisk.
+Why? *Why?* **Why??**
+
+I finished the first season which really wasn't any good. A coin flip if I get around to this one.
 
 
 
@@ -77,8 +79,7 @@ status: draft
 
 ### [Flying Witch](https://hummingbird.me/anime/flying-witch)
 
-> Aomori, Japan.<br/><br/>In a land blessed by nature’s bountiful beauty, bizarre things begin to take place. Makoto Kowata, 15 years old, is a professional witch. She left Yokohama with Chito, her black cat, to live in the house of her relatives in Aomori. This is where she begins to train as a witch.<br/><br/>Even though Makoto’s powers are still limited to just flying through the sky, she and her second cousins Kei and Chinatsu surely make the most out of each and every day.<br/><br/>(Source: NTV)
-
+This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need something to offset the intensity, and I think *Flying Witch* will suit me nicely.  I'm hoping this fills the role that [Non Non Biyori](https://hummingbird.me/anime/non-non-biyori) did.  I have high hopes for this one.
 
 
 ![Kiznaiver]({filename}/images/anime/2016/spring/main02.jpg "Kiznaiver"){: .center}
@@ -118,28 +119,19 @@ status: draft
 
 
 
-![Mayoiga]({filename}/images/anime/2016/spring/mayoiga.jpg "Mayoiga"){: .center}
-![$STUDIO]({filename}/images/anime/studios/pony_canyon.png){: .studio}
-
-### [Mayoiga](https://hummingbird.me/anime/mayoiga)
-
-> 30 young men and women who came together on a shady bus tour. The tour's destination: an elusive, and possibly non-existent village called Nanakimura. In Nanakimura, one can lead a utopian existence, free of the world's obstacles... or so it was rumored.<br/><br/>The bus headed deep into the mountains, carrying 30 people each harboring their own expectations and wounds in their hearts...<br/><br/>What they had arrived to was an uninhabited village with the lingering faint scents of life, even though it was falling apart.<br/><br/>Just what is the truth of Nanakimura?<br/><br/>(Source: ANN)
-
-
-
-![Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!]({filename}/images/anime/2016/spring/20151217-00000363-oric-000-1-view.jpg "Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!"){: .center}
-![$STUDIO]({filename}/images/anime/studios/a1.png){: .studio}
-
-### [Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!](https://hummingbird.me/anime/gyakuten-saiban)
-
-> Based on the hit Capcom game series, this anime follows the lives of new defense attorney Naruhodou Ryuuichi, his mentor Ayasato Chihiro and her spirit medium sister Mayoi as they work with colorful characters such as Detective Itonokogiri Keisuke to save Ryuuichi's clients from a guilty verdict.
-
-
-
 
 ![Kuromukuro]({filename}/images/anime/2016/spring/exvfec_kuromukurov4.jpg "Kuromukuro"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/pa_works.png){: .studio}
 
 ### [Kuromukuro](https://hummingbird.me/anime/kuromukuro)
 
-> During the construction of the Kurobe Dam, an ancient artifact was discovered, and so the United Nations Kurobe Research Institute was established. Intellectuals from all over the world gathered to study the object, and the children of those researchers attend Mt. Tate International Senior High School, including the institute head's daughter, Yukina Shirahane. In the summer of 2016, a lone samurai once again awakens.<br/><br/>(Source: ANN)
+Netflix picked this one up, but it looks like it will be released much later in the year (no idea why). A bit in the dark on the plot for this one, but I'm usually willing to give shows by PA Works a chance.
+
+
+
+![Shounen Maid]({filename}/images/anime/2016/spring/uyedwa_shounenmaid.jpg "Shounen Maid"){: .center}
+<div class="studio">8bit</div>
+
+### [Shounen Maid](https://hummingbird.me/anime/shounen-maid)
+
+A late addition for me -- I was going to pass this up as the premise seemed ridiculous, but I ended up catching a review of the first episode and decided to give it a try. I ended up enjoying it despite the over the top setup.  It reminded me a little of what I think a modern take on [Kaichou wa Maid-sama!](https://hummingbird.me/anime/kaichou-wa-maid-sama) might look like. The interaction between the two main characters had charm and without one side having power over the other.
