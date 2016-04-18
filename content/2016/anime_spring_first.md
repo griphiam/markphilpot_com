@@ -28,9 +28,7 @@ This is a two cour show (24 episodes) and I have absolutely *no* idea where this
 
 Two for two in the unexpectedly surprised category.
 
-Essentially this is [Attack on Titan](https://hummingbird.me/anime/attack-on-titan) with zombies but even out of the gate I think I'll like this show a lot more than AoT. For one, it looks like they will avoid the whole "go to school" angle and for two the protagonist is already *much* more likable than Eren ever was.
-
-The animation looks very similar to AoT as well, so they are obviously channeling that vibe.
+Essentially this is [Attack on Titan](https://hummingbird.me/anime/attack-on-titan) with zombies but even out of the gate I think I'll like this show a lot more than AoT. For one, it looks like they will avoid the whole "go to school" angle and for two the protagonist is already *much* more likable than Eren ever was. The animation looks very similar to AoT as well, so they are obviously channeling that vibe. I really liked the steampunk atmosphere and train motif. I just hope the character development delivers (I'm already concerned that the main character Ikoma could be very one dimensional).
 
 
 
@@ -59,7 +57,7 @@ I *want* to watch this one, but it doesn't seem like anyone is picking it up.  I
 
 Bones, Bones, Bones. Need I say more?
 
-A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) -- the first episode was definitely entertaining with the humor flowing well with some nice stylized action sequences.  I wonder if this one will have a story arc to it or focus more on individual standalone stories.
+A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) -- the first episode was definitely entertaining with the humor flowing and some nice stylized action sequences.  I wonder if this one will have a story arc to it or focus more on individual standalone stories.
 
 
 
