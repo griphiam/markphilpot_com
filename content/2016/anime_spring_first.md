@@ -46,7 +46,7 @@ I *want* to watch this one, but it doesn't seem like anyone is picking it up.  I
 
 ### [Netoge no Yome wa Onnanoko ja Nai to Omotta?](https://hummingbird.me/anime/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta)
 
-> Our naïve protagonist proposes to a female character in an online game, only to find out that the player is actually a guy. Traumatized by that, he decides to never trust a girl online, but now, two years later, a female player is proposing to him. What will happen?<br/><br/>(Source: Unlimited Novel Failures)
+At the half way point of the first episode, I was *this* close to dropping it. I'm not exactly saying the end redeemed itself, but it at least made me give it a chance. It reminded me a little of [Boku wa Tomodachi ga Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai). Whether or not I watch to the end will completely depend on how much humanity these characters have (and how much they are just harem tropes) -- really could go either way.
 
 
 
@@ -98,21 +98,13 @@ This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need 
 
 
 
-![Sousei no Onmyouji]({filename}/images/anime/2016/spring/fgeoru_souseinoonmyouji.jpg "Sousei no Onmyouji"){: .center}
-<div class="studio">Pierrot</div>
-
-### [Sousei no Onmyouji](https://hummingbird.me/anime/sousei-no-onmyouji)
-
-> Rokuro is from a family of exorcists, but he'd rather be a singer, a soccer player or anything but an exorcist! He's forced to own up to his own incredible potential when new arrival Benio stirs his competitive spirit. But their rivalry gets a twist when they earn the prestigious title of "Twin Star Exorcists"—two supreme fighters fated to marry and birth the ultimate spiritual warrior!<br/><br/>(Source: VIZ Media)
-
-
 
 ![Kuma Miko]({filename}/images/anime/2016/spring/cwjvky_kumamiko.jpg "Kuma Miko"){: .center}
 <div class="studio">Kinema Citrus, EMT²</div>
 
 ### [Kuma Miko](https://hummingbird.me/anime/kuma-miko)
 
-> The manga follows Machi, a middle school student who serves as a shrine maiden at a Shinto shrine and takes care of a bear, who lives on mountain in Japan's northern Tohoku region. The bear, Natsu, has the ability to talk and is Machi's guardian. When Machi explains to Natsu that she will attend a school in the city, he gives Machi a set of trials that she must pass in order to be able to survive city life.<br/><br/>(Source: ANN)
+So, this will sound crazy... but couldn't finish the opening episode because of the Bear's voice actor (I guess not that unusual a statement given The Jungle Book remake, but still). It just prevented me from suspending disbelief.  I'll check back later to see what everyone thinks of the show to see if it's worth it.
 
 
 
