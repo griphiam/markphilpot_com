@@ -1,18 +1,17 @@
 Title: Anime Spring 2016 First Impressions
-Date: 2016-04-11 22:27:11
+Date: 2016-04-22 22:36:00
 Tags: anime, first impressions
 Category: anime
 Slug: anime_2016_spring_first
 Summary: First Impressions of the Anime Spring 2016 Season
 Hero: background-image: url(/images/anime/2016/spring/hero.jpg);
-status: draft
 
 [TOC]
 
 You'll notice [Boku no Hero Academia](https://hummingbird.me/anime/boku-no-hero-academia) is not listed below. I guess I'm just not as much a fan of the *shoenen* category as everyone else as *Academia* has no draw on me.  I might try it at some point, but I think I'd rather give *Hunter x Hunter* a try instead.
 
 ![Re:Zero kara Hajimeru Isekai Seikatsu]({filename}/images/anime/2016/spring/rezero.jpg "Re:Zero kara Hajimeru Isekai Seikatsu"){: .center}
-![$STUDIO]({filename}/images/anime/studios/white_fox.png){: .studio}
+![White Fox]({filename}/images/anime/studios/white_fox.png){: .studio}
 
 ### [Re:Zero kara Hajimeru Isekai Seikatsu](https://hummingbird.me/anime/re-zero-kara-hajimeru-isekai-seikatsu)
 
@@ -22,7 +21,7 @@ This is a two cour show (24 episodes) and I have absolutely *no* idea where this
 
 
 ![Koutetsujou no Kabaneri]({filename}/images/anime/2016/spring/1458215767_1_1_64ad8812acc3fa6d4127acb8964fc623.jpg "Koutetsujou no Kabaneri"){: .center}
-![$STUDIO]({filename}/images/anime/studios/wit.png){: .studio}
+![Wit]({filename}/images/anime/studios/wit.png){: .studio}
 
 ### [Koutetsujou no Kabaneri](https://hummingbird.me/anime/koutetsujou-no-kabaneri)
 
@@ -30,14 +29,7 @@ Two for two in the unexpectedly surprised category.
 
 Essentially this is [Attack on Titan](https://hummingbird.me/anime/attack-on-titan) with zombies but even out of the gate I think I'll like this show a lot more than AoT. For one, it looks like they will avoid the whole "go to school" angle and for two the protagonist is already *much* more likable than Eren ever was. The animation looks very similar to AoT as well, so they are obviously channeling that vibe. I really liked the steampunk atmosphere and train motif. I just hope the character development delivers (I'm already concerned that the main character Ikoma could be very one dimensional).
 
-
-
-![Kanojo to Kanojo no Neko: Everything Flows]({filename}/images/anime/2016/spring/sxnqec_kanojotokanojononekoeverythingflowsv2.jpg "Kanojo to Kanojo no Neko: Everything Flows"){: .center}
-<div class="studio">CoMix Wave Films, Lantis, Liden Films</div>
-
-### [Kanojo to Kanojo no Neko: Everything Flows](https://hummingbird.me/anime/kanojo-to-kanojo-no-neko-everything-flows)
-
-I *want* to watch this one, but it doesn't seem like anyone is picking it up.  I will have to track it down somewhere.
+Side note here -- I found it *very* interesting that Amazon picked this one up as an exclusive. I do love the fact that the Amazon Video iOS app lets you download the videos for offline viewing (*cough* Netflix *cough*).  
 
 
 
@@ -51,7 +43,7 @@ At the half way point of the first episode, I was *this* close to dropping it. I
 
 
 ![Bungou Stray Dogs]({filename}/images/anime/2016/spring/bungoustraydogs.jpg "Bungou Stray Dogs"){: .center}
-![$STUDIO]({filename}/images/anime/studios/bones.png){: .studio}
+![Bones]({filename}/images/anime/studios/bones.png){: .studio}
 
 ### [Bungou Stray Dogs](https://hummingbird.me/anime/bungou-stray-dogs)
 
@@ -62,7 +54,7 @@ A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/
 
 
 ![Gakusen Toshi Asterisk 2nd Season]({filename}/images/anime/2016/spring/ixrjzy_gakusentoshiasterisk2.jpg "Gakusen Toshi Asterisk 2nd Season"){: .center}
-![$STUDIO]({filename}/images/anime/studios/a1.png){: .studio}
+![A1]({filename}/images/anime/studios/a1.png){: .studio}
 
 ### [Gakusen Toshi Asterisk 2nd Season](https://hummingbird.me/anime/gakusen-toshi-asterisk-2nd-season)
 
@@ -73,7 +65,7 @@ I finished the first season which really wasn't any good. A coin flip if I get a
 
 
 ![Flying Witch]({filename}/images/anime/2016/spring/htraii_flyingwitchv2.jpg "Flying Witch"){: .center}
-![$STUDIO]({filename}/images/anime/studios/jc_staff.png){: .studio}
+![JC Staff]({filename}/images/anime/studios/jc_staff.png){: .studio}
 
 ### [Flying Witch](https://hummingbird.me/anime/flying-witch)
 
@@ -81,20 +73,22 @@ This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need 
 
 
 ![Kiznaiver]({filename}/images/anime/2016/spring/main02.jpg "Kiznaiver"){: .center}
-![$STUDIO]({filename}/images/anime/studios/trigger.png){: .studio}
+![Trigger]({filename}/images/anime/studios/trigger.png){: .studio}
 
 ### [Kiznaiver](https://hummingbird.me/anime/kiznaiver)
 
-> The anime's setting is a fictional Japanese city named Sugomori City. One day, Noriko Sonosaki tells her classmate Katsuhira Agata, "You have been selected to be a Kiznaiver." The Kizuna System, which allows Katsuhira to share his wounds, connects him to the classmates whose lives and personalities completely differ from his. The Kizuna System is an incomplete system for the implementation of world peace that connects people through wounds. All those who are connected to this system are called Kiznaivers. When one Kiznaiver is wounded, the system divides and transmits the wound among the other Kiznaivers. Sugomori City is built on reclaimed land, but as the years go by, the city's population is decreasing. The story is set in this town where Katsuhira and the others live.<br/><br/>(Source: ANN)
+I can't believe this is Trigger's first serious outing since [Kill la Kill](https://hummingbird.me/anime/kill-la-kill) -- *SHOCKED*
+
+I'm only an episode in, so I don't know whether or not there will be *any* character development, or only situational lip service to the plot device -- essentially an ensemble cast whose pain (and possibly other emotions?) are linked together. Could be interesting, but I have a sneaking suspicion that I'm ultimately not going to like any of the characters.
 
 
 
 ![Joker Game]({filename}/images/anime/2016/spring/izgylc_jokergame.jpg "Joker Game"){: .center}
-![$STUDIO]({filename}/images/anime/studios/production_ig.png){: .studio}
+![Production IG]({filename}/images/anime/studios/production_ig.png){: .studio}
 
 ### [Joker Game](https://hummingbird.me/anime/joker-game)
 
-> The original novel is set in 1937, before World War II begins in earnest. Lieutenant Colonel Yūki of the Imperial Japanese Army forms the "D Agency," an army intelligence outfit under his command and tutelage. Army General Staff attaches Lieutenant Sakuma to observe the unit's performance. D Agency casts a wide net to find agents beyond Japanese military personnel, and Yūki establishes D Agency's tenets, which go against IJA doctrine: "Don't kill, don't get killed, don't get captured." With this, Yūki trains a team of operatives who conduct missions against domestic and foreign powers.<br/><br/>(Source: ANN)
+I have no idea if I'll ultimately have the patience for this one. The pacing, the premise, the characters (and good god the "identical" character designs) left me a little bored. Will the entire story take place in 1937 or will they skip ahead to after WWII and follow these characters? My guess is the former, but the latter would be more interesting for me.
 
 
 
@@ -111,7 +105,7 @@ So, this will sound crazy... but couldn't finish the opening episode because of 
 
 
 ![Kuromukuro]({filename}/images/anime/2016/spring/exvfec_kuromukurov4.jpg "Kuromukuro"){: .center}
-![$STUDIO]({filename}/images/anime/studios/pa_works.png){: .studio}
+![PA Works]({filename}/images/anime/studios/pa_works.png){: .studio}
 
 ### [Kuromukuro](https://hummingbird.me/anime/kuromukuro)
 

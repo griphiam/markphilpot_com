@@ -103,7 +103,7 @@ What do you get when you cross [Kekkai Sensen](https://hummingbird.me/anime/kekk
 A so-so series from two seasons ago, I held off finishing once I heard there was going to be a second season.
 
 ![Haikuu]({filename}/images/anime/2015/fall/haikyuus2_pv.jpg "Haikuu"){: .center}
-![Production IG]({filename}/images/anime/studios/production_ig.jpg "Production IG"){: .studio}
+![Production IG]({filename}/images/anime/studios/production_ig.png "Production IG"){: .studio}
 
 ### [Haikyuu 2](https://hummingbird.me/anime/haikyuu-2)
 
