@@ -19,11 +19,11 @@ You have A-1 Pictures rolling out yet another "trapped in a alternate/virtual wo
 
 *However...*
 
-Looking beyond the surface, there is something here that is more than the sum of it's tropes. The "trapped in world" is insinuated, but it's mostly used as a plot device to drop a group of people together without having to lay out a backstory as to how they got there. This setup is given passing mention, but this is as far from *SAO*, *Log Horizon*, *Overlord* as you can get while still technically being in the same ballpark. As the show progresses they learn "skills" very reminiscent of game mechanics, but there is never a HUD or any other artifact of a game overlay. This could have just been an adventure/fantasy setup, but you would miss out on the "group of misfit characters" growing as a party and friends from essentially scratch.
+Looking beyond the surface, there is something here that is more than the sum of it's tropes. The "trapped in world" is insinuated, but it's mostly used as a plot device to drop a group of people together without having to lay out a backstory as to how they got there. This setup is given passing mention, but this is as far from *SAO*, *Log Horizon*, *Overlord* as you can get while still technically being in the same ballpark. As the show progresses they learn "skills" very reminiscent of game mechanics, but there is never a HUD or any other artifact of a game overlay. This could have just been an adventure/fantasy setup, but you would miss out on the "group of misfit characters" growing as a party and friends.
 
-The fan service is less excusable, but it at least goes both ways and there are some empowered female characters -- and it definitely isn't a harem (*cough* SAO *cough*).
+The fan service is less excusable, but it at least goes both ways and there are some empowered female characters -- it definitely isn't a harem at least (*cough* SAO *cough*).
 
-From the opening two episodes, it quickly set itself apart from *SAO* (being probably its main source of similarity). When the party takes out a lone goblin, it doesn't just vanish -- sword cuts don't just pass through in a flash representing damage. The weapons and attacks are realistically portrayed (to a point). The goblin is obviously (and viciously) fighting for its life and its death is actually rather shocking -- to the point where I definitely felt empathy toward the foe (which never happened in *SAO*).
+From the opening two episodes, it quickly set itself apart from *SAO* (being probably its main source of similarity). When the party takes out a lone goblin, it doesn't just vanish -- sword cuts don't just pass through in a flash representing damage. The goblin is obviously (and viciously) fighting for its life and its death is actually rather shocking -- to the point where I definitely felt empathy toward the foe (which never happened in *SAO*).
 
 In the second episode, there is a 4 minute montage showing the day-to-day life of these characters, and I was surprised how powerful it was. It's something you would never see in any of its peers. This show is obviously about the characters and them getting to know each other and figuring out how to work together as a party.
 
@@ -35,6 +35,6 @@ The art and animation was spectacular. The backgrounds were soft, almost waterco
 
 The music was dominated by songs from *(K)NoW_NAME* with an overall OST that was extremely pleasing and well suited for the world. The voice casting was even and solid throughout.
 
-Unfortunately, the final disappointment was the ending felt like a total *deus ex machina* even if the writers had attempted to seed the power beforehand. I'm not sure how else I would have ended the show, but I have to image there might have been something a little bit more satisfying.
+Unfortunately, the final disappointment was the ending felt like a total *deus ex machina* even if the writers had attempted to seed the power beforehand. I'm not sure how else I would have ended the show, but I have to imagine there might have been a solution that was little more satisfying.
 
 Despite the criticisms above, I actually really enjoyed watching *Grimgar*. The art alone is worth the price of admission, in my opinion. This show is far from perfect, but I would recommend giving it a shot, even if you might be a little jaded by A-1's recent track record (*Erased* not withstanding).
