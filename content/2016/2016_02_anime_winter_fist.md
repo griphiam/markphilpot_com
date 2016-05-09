@@ -155,3 +155,15 @@ Two minute episodes? I end up giving most short series a chance because there is
 ### [Mahou Shoujo Nante Mou Ii Desukara.](https://hummingbird.me/anime/mahou-shoujo-nante-mou-ii-desukara)
 
 I'm hoping there is enough satire in this to fill 4 minutes. The animation isn't great, but I'm hoping there is enough play on the *Mahou Shoujo* genre to keep me coming back.
+
+<div style="text-align: center">
+<hr style="width: 50%"/>
+</div>
+
+<div style="font-size: 60%">
+Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+The following websites were used as sources of information to create the chart : 
+<a href="http://www.animenewsnetwork.com/">ANN</a>
+<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="http://myanimelist.net/">MAL</a>
+</div>

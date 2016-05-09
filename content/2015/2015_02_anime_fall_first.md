@@ -108,3 +108,15 @@ A so-so series from two seasons ago, I held off finishing once I heard there was
 ### [Haikyuu 2](https://hummingbird.me/anime/haikyuu-2)
 
 Like with [Baby Steps 2](https://hummingbird.me/anime/baby-steps-2) in the spring, I stumbled into a sports anime which I never thought I'd watch.  However, the enthusiasm fans seem to have for this show made me curious so I went back and started with the first season; and I'm very glad I did.  Where as Baby Steps has a single protagonist (because of the sport... but wouldn't you like to see a spin-off with mixed doubles?), this seems like it will be more team dynamics focused which could open a lot of avenues for interesting story telling.  I do think I'm going to miss having any women in the supporting cast (or hell, it might have been better focusing on a women's volleyball team), but only time will tell where they end up going.  All in all, I'm very glad I decided to give season 1 a try and will be making my way through.
+
+<div style="text-align: center">
+<hr style="width: 50%"/>
+</div>
+
+<div style="font-size: 60%">
+Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+The following websites were used as sources of information to create the chart : 
+<a href="http://www.animenewsnetwork.com/">ANN</a>
+<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="http://myanimelist.net/">MAL</a>
+</div>

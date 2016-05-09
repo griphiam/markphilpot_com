@@ -119,3 +119,15 @@ Netflix picked this one up, but it looks like it will be released much later in 
 ### [Shounen Maid](https://hummingbird.me/anime/shounen-maid)
 
 A late addition for me -- I was going to pass this up as the premise seemed ridiculous, but I ended up catching a review of the first episode and decided to give it a try. I ended up enjoying it despite the over the top setup.  It reminded me a little of what I think a modern take on [Kaichou wa Maid-sama!](https://hummingbird.me/anime/kaichou-wa-maid-sama) might look like. The interaction between the two main characters had charm and without one side having power over the other.
+
+<div style="text-align: center">
+<hr style="width: 50%"/>
+</div>
+
+<div style="font-size: 60%">
+Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+The following websites were used as sources of information to create the chart : 
+<a href="http://www.animenewsnetwork.com/">ANN</a>
+<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="http://myanimelist.net/">MAL</a>
+</div>

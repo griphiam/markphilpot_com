@@ -93,3 +93,15 @@ Yeah, this one didn't make it past episode 2 for me. Ugh. Just bad.
 *Incomplete but Held*
 
 This one I'm putting on hold. Apparently they got Gen Urobuchi to write some episodes for the second season (which is already green-lit), so maybe there is something there underneath the weird that I'll discover down the road.
+
+<div style="text-align: center">
+<hr style="width: 50%"/>
+</div>
+
+<div style="font-size: 60%">
+Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+The following websites were used as sources of information to create the chart : 
+<a href="http://www.animenewsnetwork.com/">ANN</a>
+<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="http://myanimelist.net/">MAL</a>
+</div>

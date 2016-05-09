@@ -112,3 +112,15 @@ Quirky and fun, but nothing to write home about. The humor is actually decent an
 ### [Mahou Shoujo Nante Mou Ii Desukara.](https://hummingbird.me/anime/mahou-shoujo-nante-mou-ii-desukara)
 
 While there was some nice pokes at the typical magical girl tropes, I feel they should have hit a lot harder. Ultimately pass on this one.
+
+<div style="text-align: center">
+<hr style="width: 50%"/>
+</div>
+
+<div style="font-size: 60%">
+Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+The following websites were used as sources of information to create the chart : 
+<a href="http://www.animenewsnetwork.com/">ANN</a>
+<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="http://myanimelist.net/">MAL</a>
+</div>
