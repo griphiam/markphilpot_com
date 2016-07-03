@@ -10,11 +10,13 @@ status: draft
 {% for show in shows %}
 
 ![{{ show.titles.canonical }}]({filename}/images/anime/{{ year}}/{{ season }}/{{ show.pv_filename }} "{{ show.titles.canonical }}"){: .center}
-![$STUDIO]({filename}/images/anime/studios/.png){: .studio}
+![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
 <div class="studio">{{ show.producers|join(', ') if show.producers }}</div>
 
 ### [{{ show.titles.canonical }}](https://hummingbird.me/anime/{{ show.slug }})
 
 > {{ show.synopsis|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
+
+[![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
 {% endfor %}

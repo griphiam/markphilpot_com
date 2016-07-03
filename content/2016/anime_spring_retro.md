@@ -12,14 +12,14 @@ status: draft
 TODO: INTRO
 
 ![Boku no Hero Academia]({filename}/images/anime/2016/spring/yadiyc_bokunoheroacademiav2.jpg "Boku no Hero Academia"){: .center}
-![Bones]({filename}/images/anime/studios/bones.png){: .studio}
+![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
 ### [Boku no Hero Academia](https://hummingbird.me/anime/boku-no-hero-academia)
 
 Welp, my thinking that I wouldn't pick this up was definitely off. 
 
 ![Re:Zero kara Hajimeru Isekai Seikatsu]({filename}/images/anime/2016/spring/rezero.jpg "Re:Zero kara Hajimeru Isekai Seikatsu"){: .center}
-![White Fox]({filename}/images/anime/studios/white_fox.png){: .studio}
+![White Fox]({filename}/images/anime/studios/half/white_fox.png){: .studio}
 
 ### [Re:Zero kara Hajimeru Isekai Seikatsu](https://hummingbird.me/anime/re-zero-kara-hajimeru-isekai-seikatsu)
 
@@ -29,7 +29,7 @@ This is a two cour show (24 episodes) and I have absolutely *no* idea where this
 
 
 ![Koutetsujou no Kabaneri]({filename}/images/anime/2016/spring/1458215767_1_1_64ad8812acc3fa6d4127acb8964fc623.jpg "Koutetsujou no Kabaneri"){: .center}
-![Wit]({filename}/images/anime/studios/wit.png){: .studio}
+![Wit]({filename}/images/anime/studios/half/wit.png){: .studio}
 
 ### [Koutetsujou no Kabaneri](https://hummingbird.me/anime/koutetsujou-no-kabaneri)
 
@@ -51,7 +51,7 @@ At the half way point of the first episode, I was *this* close to dropping it. I
 
 
 ![Bungou Stray Dogs]({filename}/images/anime/2016/spring/bungoustraydogs.jpg "Bungou Stray Dogs"){: .center}
-![Bones]({filename}/images/anime/studios/bones.png){: .studio}
+![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
 ### [Bungou Stray Dogs](https://hummingbird.me/anime/bungou-stray-dogs)
 
@@ -62,7 +62,7 @@ A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/
 
 
 ![Gakusen Toshi Asterisk 2nd Season]({filename}/images/anime/2016/spring/ixrjzy_gakusentoshiasterisk2.jpg "Gakusen Toshi Asterisk 2nd Season"){: .center}
-![A1]({filename}/images/anime/studios/a1.png){: .studio}
+![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Gakusen Toshi Asterisk 2nd Season](https://hummingbird.me/anime/gakusen-toshi-asterisk-2nd-season)
 
@@ -73,7 +73,7 @@ I finished the first season which really wasn't any good. A coin flip if I get a
 
 
 ![Flying Witch]({filename}/images/anime/2016/spring/htraii_flyingwitchv2.jpg "Flying Witch"){: .center}
-![JC Staff]({filename}/images/anime/studios/jc_staff.png){: .studio}
+![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
 ### [Flying Witch](https://hummingbird.me/anime/flying-witch)
 
@@ -81,7 +81,7 @@ This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need 
 
 
 ![Kiznaiver]({filename}/images/anime/2016/spring/main02.jpg "Kiznaiver"){: .center}
-![Trigger]({filename}/images/anime/studios/trigger.png){: .studio}
+![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
 
 ### [Kiznaiver](https://hummingbird.me/anime/kiznaiver)
 
@@ -92,7 +92,7 @@ I'm only an episode in, so I don't know whether or not there will be *any* chara
 
 
 ![Joker Game]({filename}/images/anime/2016/spring/izgylc_jokergame.jpg "Joker Game"){: .center}
-![Production IG]({filename}/images/anime/studios/production_ig.png){: .studio}
+![Production IG]({filename}/images/anime/studios/half/production_ig.png){: .studio}
 
 ### [Joker Game](https://hummingbird.me/anime/joker-game)
 
@@ -113,7 +113,7 @@ So, this will sound crazy... but couldn't finish the opening episode because of 
 
 
 ![Kuromukuro]({filename}/images/anime/2016/spring/exvfec_kuromukurov4.jpg "Kuromukuro"){: .center}
-![PA Works]({filename}/images/anime/studios/pa_works.png){: .studio}
+![PA Works]({filename}/images/anime/studios/half/pa_works.png){: .studio}
 
 ### [Kuromukuro](https://hummingbird.me/anime/kuromukuro)
 
