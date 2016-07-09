@@ -9,14 +9,20 @@ status: draft
 
 [TOC]
 
-TODO: INTRO
+A theme you will see begin to develop is I'm now reading manga where there isn't yet an anime adaptation. Early on, I would pick up manga where I had already seen the anime. I wonder how knowing the source material will color my experience of its anime...
+
+Side note: Damn! Did Crunchyroll buy out the entire season?!
 
 ![ReLIFE]({filename}/images/anime/2016/summer/tumblr_o8nli0hkDb1uca4rgo1_1280.jpg "ReLIFE"){: .center}
 ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
 ### [ReLIFE](https://hummingbird.me/anime/relife)
 
-> Arata Kaizaki (27) quit the job he landed after graduation in only three months. His life did not go well after that. Now his parents are threatening to stop sending money, and want him to come back to the country. He has no friend or girlfriend to share his troubles with...as he hits rock bottom a strange man named Ryo Yoake appears. Yoake invites Kaizaki to join a societal rehabilitation program for NEETs called ReLife. This program uses a mysterious drug to make him look younger, and sends him back to high school for a year...<br/><br/>(Source: Crunchyroll)
+Holy crap they dropped all 13 episodes at once!
+
+I'm a huge fan of the manga (which is still going) and it looks like the single cour doesn't come close to the manga's current position (I think I have a good guess where they'll end the season). The first episode was just awesome. Humor was spot on and the OST fit the mood perfectly.
+
+I really hope this gets picked up for a second season. Fingers crossed. (The real question though is do I have enough discipline not to binge it in a weekend)
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/relife){: .link-nb}
 
@@ -26,7 +32,9 @@ TODO: INTRO
 
 ### [orange](https://hummingbird.me/anime/orange)
 
-> Everyone has regrets in life. So who wouldn't take the chance to change the past if given the opportunity? When sixteen-year-old Takamiya Naho receives a mysterious letter, claiming to be from her twenty-seven-year-old self, her life is suddenly thrown into flux. The letter tells her that a new transfer student by the name of Naruse Kakeru will be joining her class, and to keep her eye on him. But why? Naho must decide what to make of the letter and its cryptic warning, and what it means not only for her future, but for Kakeru's as well.<br/><br/>(Source: Seven Seas)
+This is another one where I've read a bit of the manga before. I'm not very far into the story, so the anime should quickly pass by my current place in the manga. This will probably be a test run to see if I'm already familiar with the source material, should I read beyond the anime adaption.
+
+The opening episode was quite good and a faithful adaptation of the manga in my opinion. 
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){: .link-nb}
 
@@ -38,6 +46,7 @@ TODO: INTRO
 
 > Kageyama Shigeo (a.k.a. "Mob") is a 8th grader with psychic abilities. He could bend spoons and lift objects with his mind from a young age, but he slowly began to withhold from using his abilities in public due to the negative attention he kept receiving. Now, the only thing he wants is to become friends with a girl in his class, Tsubomi. With his psychic "mentor" (who has no psychic powers), he continues his daily life, attempting to realize his purpose in life. <br/><br/>(Source: MangaHelpers)
 
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){: .link-nb}
 
 
 ![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){: .center}
@@ -45,7 +54,9 @@ TODO: INTRO
 
 ### [Rewrite](https://hummingbird.me/anime/rewrite)
 
-> Green City Kazamatsuri is a city built on the ideal of a harmonious relationship between civilization and environment. It's where Tennoji Kotaro lives a quiet life with Kanbe Kotori, Yoshino Haruhiko, and his other friends. However, the peaceful Kazamatsuri will soon be faced with its annual commotion, the Harvest Festa at the turn of the year.<br/><br/>It's an event that is much like a massive school festival, and Kotaro decides to head out to research topics for his articles. It's an easy decision for him, because the town is filled with rumors about unidentified creature sightings and various other occult occurrences. At the same time, strange things<br/><br/>start happening to Kotaro himself. He goes to Senri Akane, the president of the school's Occult Research Club, and asks her for help. And then, he drags his friends into his mess and begins investigating all of these events.<br/><br/>To Kotaro, this is supposed to be just a little adventure of sorts. All he wants is to live his life having fun with his friends. But he is yet to realize that this will lead him on a quest to figure out the "truth" that nobody is aware of.<br/><br/>(Source: Crunchyroll)
+Like *Re:Zero* last season, *Rewrite* started with a double length opening episode which felt awkward because the first 80% was essentially filler with not-so-subtle hints of "other things" going on. This show is a VN adaptation and I've only seen rave reviews of the VN. I think I'm on the fence for this one. Even with a 2x opening episode I have no sense of the characters, plot or world (though part of that might be on purpose, I can't tell yet). Contrast this with *Re:Zero*'s which quickly established the characters, even if the world and plot was a complete mystery.
+
+I'll give it a few more episodes to see if it can work itself out.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){: .link-nb}
 
@@ -57,6 +68,7 @@ TODO: INTRO
 
 > His name is Nero, the man who will someday become a mafia boss. He is also the target of revenge by Avilio, whose family was murdered. In order to carry out his revenge, Avilio will have to kill his friend.
 
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){: .link-nb}
 
 
 ![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){: .center}
@@ -64,8 +76,11 @@ TODO: INTRO
 
 ### [Tales of Zestiria the X](https://hummingbird.me/anime/tales-of-zestiria-the-x)
 
-> Sorey is a human youth who grew up among the seraphim, spiritual beings not visible to humans. Sorey believes in the folklore that says "long ago, every human was able to see the seraphim" and dreams of unraveling the ancient mystery to make the world a place where people and seraphim can live together in peace.<br/><br/>One day, Sorey visits the human capital for the very first time. He becomes embroiled in an incident during which he pulls out a holy sword embedded in a rock and ends up becoming a Shepherd, one who casts away calamity from the world. He begins to realize the gravity of his mission, and his dream of coexistence between mankind and the seraphim becomes more intense—<br/><br/>And thus, the Shepherd embarks on an amazing journey with his companions.<br/><br/>(Source: Official site)
+Damn what a hot mess that only ufotable could produce. The first episode is a prologue and really an epic cluster-f*ck of stage setting with little to no context -- all done with ufotable's unique blend of CGI and hand drawn craft.
 
+I can't judge this until we see what follows this prologue. Intriguing setting, but no idea if we'll get characters to match.
+
+[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){: .link-nb}
 
 
 ![Taboo Tattoo]({filename}/images/anime/2016/summer/vyy117y.jpg "Taboo Tattoo"){: .center}
@@ -73,8 +88,11 @@ TODO: INTRO
 
 ### [Taboo Tattoo](https://hummingbird.me/anime/taboo-tattoo)
 
-> Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom.<br/><br/>Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?<br/><br/>(Source: MU)
+*Sigh*
 
+JC Staff, it's like you're not even trying. We have a weird combination of absurd fan service, lazy animation and flat dialog with really well animated fight choreography (with a real sense of weight and realism). If I had to predict, this will be the first one in the drop category this season, but I'm willing to stick it out an episode or two more to see if there are any other redeeming qualities.
+
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/taboo-tattoo){: .link-nb}
 
 
 ![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){: .center}
@@ -82,9 +100,9 @@ TODO: INTRO
 
 ### [Nejimaki Seirei Senki: Tenkyou no Alderamin](https://hummingbird.me/anime/nejimaki-seirei-senki-tenkyou-no-alderamin)
 
-> At war with the adjacent Kioka Republic, the Katjvarna Empire.<br/><br/>In that region, due to certain circumstances, there was a certain youth unwillingly preparing to take the High Grade Military Officer Exam. His name, Ikta. Disliker of war, lazy, admirer of women.<br/><br/>No one predicted that that kind of Ikta would later on become a soldier referred to even as a great commander...<br/><br/>He who survived a world embroiled in war with his superior genius, Ikta. Illustrating his dynamic, dramatic life, a splendid fantasy military history, the curtain is raised at last!<br/><br/>(Source: Baka-Tsuki)
+While not a perfect comparison, this one felt a little like [*Rokka no Yuusha*](https://hummingbird.me/anime/rokka-no-yuusha) but I don't think a season long mystery is in store for us this time. I like the fact there are strong female characters and as long as they do a bit of world building, this might be an interesting series.
 
-
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){: .link-nb}
 
 ![Qualidea Code]({filename}/images/anime/2016/summer/qualideacode.jpg "Qualidea Code"){: .center}
 ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
@@ -101,8 +119,9 @@ TODO: INTRO
 
 ### [New Game!](https://hummingbird.me/anime/new-game)
 
-> Follow Aoba Suzukaze, a fresh highschool graduate that is easily mistaken as a middle school student, as she joins the game company that produced her favorite game as a 3D artist, and her cute antics in this story told through 4koma.<br/><br/>(Source: Doki)
+*Shirobako* this definitely isn't, but just the kind of cute fluff one needs to offset some of the more serious shows.  Let's see if "working on a game" is more than just pretense. I have a feeling however that it will basically shoujo hijinks -- not that there is anything wrong with that (in moderation at least). 
 
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){: .link-nb}
 
 
 ![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){: .center}
@@ -110,8 +129,11 @@ TODO: INTRO
 
 ### [Amaama to Inazuma](https://hummingbird.me/anime/amaama-to-inazuma)
 
-> Kouhei Inuzuka is a teacher who has been caring for his little daughter on his own since his wife's death. He's no good at cooking, so he and his daughter Tsumugi have been eating packaged meals from the convenience store. A series of events lead him one evening to a restaurant run by the mother of one of his students, Kotori. Her mother isn't there, but Kotori does her best to feed them both. It turns out Kotori is often alone since her parents are divorced and her mother is frequently not around. The three of them begin to meet and cook tasty food together.<br/><br/>(Source: MangaHelpers)
+Oh God! This level of cute! It will *destroy* you.
 
+This feels like [*Usagi Drop*](https://hummingbird.me/anime/bunny-drop) with a bit less of the "weird".  The kid is *super* cute (no seriously!) and there appears to be enough feels to go around to make it a compelling story.
+
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){: .link-nb}
 
 
 ![Amanchu!]({filename}/images/anime/2016/summer/sxCDTJ9.jpg "Amanchu!"){: .center}
@@ -119,7 +141,15 @@ TODO: INTRO
 
 ### [Amanchu!](https://hummingbird.me/anime/amanchu)
 
-> Hikari Kohinata is a cheerful 15-year-old girl who lives near the ocean and she spends much of her time diving as a result. On her first day of high school, she meets a teacher who also likes scuba diving. There's also a 16-year-old classmate, Futaba, who gets dragged along in Hikari's maelstrom as soon as they meet at school. Most of the manga so far details the relationship between the two girls, which quickly seems to move into romantic two girl friendship-territory.
+Seriously JC Staff what the hell were you thinking?! Both the main characters spent more than half of the first episode with hyper cartoonish facial expressions.  You should use that effect sparingly, otherwise just do your entire character design that way!
+
+I'll give this one a few more episodes to see if there is any depth to these characters, through frankly I'm not holding my breath...
+
+You see what I did there? "holding my breath..." It's a pun. Get it?
+
+*Sigh*
+
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/amanchu){: .link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>

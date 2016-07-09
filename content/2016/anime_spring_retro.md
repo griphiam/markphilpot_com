@@ -9,23 +9,16 @@ status: draft
 
 [TOC]
 
-TODO: INTRO
+Going into this season I was a little worried there wasn't going to be anything that would really peak my interest. Though I knew of *Academia* through the manga (I haven't ready any), the rest of the shows on the docket were completely unknowns.  All in all it turned out to be a solid season.
+
+There are still a bunch of shows I need to finish (per usual) but I was able to "keep current" with more shows than I usually do.  Just a note, *Re:Zero* was a two cour show, so I'll be reviewing that in my Summer retro (tl;dr -- It's awesome!)
 
 ![Boku no Hero Academia]({filename}/images/anime/2016/spring/yadiyc_bokunoheroacademiav2.jpg "Boku no Hero Academia"){: .center}
 ![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
 ### [Boku no Hero Academia](https://hummingbird.me/anime/boku-no-hero-academia)
 
-Welp, my thinking that I wouldn't pick this up was definitely off. 
-
-![Re:Zero kara Hajimeru Isekai Seikatsu]({filename}/images/anime/2016/spring/rezero.jpg "Re:Zero kara Hajimeru Isekai Seikatsu"){: .center}
-![White Fox]({filename}/images/anime/studios/half/white_fox.png){: .studio}
-
-### [Re:Zero kara Hajimeru Isekai Seikatsu](https://hummingbird.me/anime/re-zero-kara-hajimeru-isekai-seikatsu)
-
-Umm... This is not at all what I was expecting, but I'd be lying if I said I wasn't already hooked. The show opens with a double length first episode (40 minutes). At the half way point I was about to shrug it off as yet another "Boy trapped in another world" show -- and then the first loot house scene happened.  Yeah. Wasn't expecting that.
-
-This is a two cour show (24 episodes) and I have absolutely *no* idea where this plot will go. There is quite a lot left unexplained about the world and characters that it really could go anywhere.  Keeping my fingers crossed for this one.
+Welp, my thinking that I wouldn't pick this up was definitely off. While I have been enjoying it, it hasn't swept me away like it seems to have done for the rest of the community. I don't think that's the fault of Bones, I think I'm just not as into the "superhero" genre as most seem to be.
 
 
 ![Koutetsujou no Kabaneri]({filename}/images/anime/2016/spring/1458215767_1_1_64ad8812acc3fa6d4127acb8964fc623.jpg "Koutetsujou no Kabaneri"){: .center}
@@ -33,11 +26,11 @@ This is a two cour show (24 episodes) and I have absolutely *no* idea where this
 
 ### [Koutetsujou no Kabaneri](https://hummingbird.me/anime/koutetsujou-no-kabaneri)
 
-Two for two in the unexpectedly surprised category.
+> Two for two in the unexpectedly surprised category.
 
-Essentially this is [Attack on Titan](https://hummingbird.me/anime/attack-on-titan) with zombies but even out of the gate I think I'll like this show a lot more than AoT. For one, it looks like they will avoid the whole "go to school" angle and for two the protagonist is already *much* more likable than Eren ever was. The animation looks very similar to AoT as well, so they are obviously channeling that vibe. I really liked the steampunk atmosphere and train motif. I just hope the character development delivers (I'm already concerned that the main character Ikoma could be very one dimensional).
+> Essentially this is [Attack on Titan](https://hummingbird.me/anime/attack-on-titan) with zombies but even out of the gate I think I'll like this show a lot more than AoT. For one, it looks like they will avoid the whole "go to school" angle and for two the protagonist is already *much* more likable than Eren ever was. The animation looks very similar to AoT as well, so they are obviously channeling that vibe. I really liked the steampunk atmosphere and train motif. I just hope the character development delivers (I'm already concerned that the main character Ikoma could be very one dimensional).
 
-Side note here -- I found it *very* interesting that Amazon picked this one up as an exclusive. I do love the fact that the Amazon Video iOS app lets you download the videos for offline viewing (*cough* Netflix *cough*).  
+> Side note here -- I found it *very* interesting that Amazon picked this one up as an exclusive. I do love the fact that the Amazon Video iOS app lets you download the videos for offline viewing (*cough* Netflix *cough*).  
 
 
 
@@ -46,7 +39,7 @@ Side note here -- I found it *very* interesting that Amazon picked this one up a
 
 ### [Netoge no Yome wa Onnanoko ja Nai to Omotta?](https://hummingbird.me/anime/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta)
 
-At the half way point of the first episode, I was *this* close to dropping it. I'm not exactly saying the end redeemed itself, but it at least made me give it a chance. It reminded me a little of [Boku wa Tomodachi ga Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai). Whether or not I watch to the end will completely depend on how much humanity these characters have (and how much they are just harem tropes) -- really could go either way.
+> At the half way point of the first episode, I was *this* close to dropping it. I'm not exactly saying the end redeemed itself, but it at least made me give it a chance. It reminded me a little of [Boku wa Tomodachi ga Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai). Whether or not I watch to the end will completely depend on how much humanity these characters have (and how much they are just harem tropes) -- really could go either way.
 
 
 
@@ -55,20 +48,9 @@ At the half way point of the first episode, I was *this* close to dropping it. I
 
 ### [Bungou Stray Dogs](https://hummingbird.me/anime/bungou-stray-dogs)
 
-Bones, Bones, Bones. Need I say more?
+> Bones, Bones, Bones. Need I say more?
 
-A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) -- the first episode was definitely entertaining with the humor flowing and some nice stylized action sequences.  I wonder if this one will have a story arc to it or focus more on individual standalone stories.
-
-
-
-![Gakusen Toshi Asterisk 2nd Season]({filename}/images/anime/2016/spring/ixrjzy_gakusentoshiasterisk2.jpg "Gakusen Toshi Asterisk 2nd Season"){: .center}
-![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
-
-### [Gakusen Toshi Asterisk 2nd Season](https://hummingbird.me/anime/gakusen-toshi-asterisk-2nd-season)
-
-Why? *Why?* **Why??**
-
-I finished the first season which really wasn't any good. A coin flip if I get around to this one.
+> A super hero detective agency channeling [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) -- the first episode was definitely entertaining with the humor flowing and some nice stylized action sequences.  I wonder if this one will have a story arc to it or focus more on individual standalone stories.
 
 
 
@@ -77,7 +59,7 @@ I finished the first season which really wasn't any good. A coin flip if I get a
 
 ### [Flying Witch](https://hummingbird.me/anime/flying-witch)
 
-This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need something to offset the intensity, and I think *Flying Witch* will suit me nicely.  I'm hoping this fills the role that [Non Non Biyori](https://hummingbird.me/anime/non-non-biyori) did.  I have high hopes for this one.
+> This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need something to offset the intensity, and I think *Flying Witch* will suit me nicely.  I'm hoping this fills the role that [Non Non Biyori](https://hummingbird.me/anime/non-non-biyori) did.  I have high hopes for this one.
 
 
 ![Kiznaiver]({filename}/images/anime/2016/spring/main02.jpg "Kiznaiver"){: .center}
@@ -85,9 +67,9 @@ This one is a fantastic counter balance to *Re:Zero* and *Kabaneri* -- you need 
 
 ### [Kiznaiver](https://hummingbird.me/anime/kiznaiver)
 
-I can't believe this is Trigger's first serious outing since [Kill la Kill](https://hummingbird.me/anime/kill-la-kill) -- *SHOCKED*
+> I can't believe this is Trigger's first serious outing since [Kill la Kill](https://hummingbird.me/anime/kill-la-kill) -- *SHOCKED*
 
-I'm only an episode in, so I don't know whether or not there will be *any* character development, or only situational lip service to the plot device -- essentially an ensemble cast whose pain (and possibly other emotions?) are linked together. Could be interesting, but I have a sneaking suspicion that I'm ultimately not going to like any of the characters.
+> I'm only an episode in, so I don't know whether or not there will be *any* character development, or only situational lip service to the plot device -- essentially an ensemble cast whose pain (and possibly other emotions?) are linked together. Could be interesting, but I have a sneaking suspicion that I'm ultimately not going to like any of the characters.
 
 
 
@@ -96,28 +78,7 @@ I'm only an episode in, so I don't know whether or not there will be *any* chara
 
 ### [Joker Game](https://hummingbird.me/anime/joker-game)
 
-I have no idea if I'll ultimately have the patience for this one. The pacing, the premise, the characters (and good god the "identical" character designs) left me a little bored. Will the entire story take place in 1937 or will they skip ahead to after WWII and follow these characters? My guess is the former, but the latter would be more interesting for me.
-
-
-
-
-![Kuma Miko]({filename}/images/anime/2016/spring/cwjvky_kumamiko.jpg "Kuma Miko"){: .center}
-<div class="studio">Kinema Citrus, EMT²</div>
-
-### [Kuma Miko](https://hummingbird.me/anime/kuma-miko)
-
-So, this will sound crazy... but couldn't finish the opening episode because of the Bear's voice actor (I guess not that unusual a statement given The Jungle Book remake, but still). It just prevented me from suspending disbelief.  I'll check back later to see what everyone thinks of the show to see if it's worth it.
-
-
-
-
-
-![Kuromukuro]({filename}/images/anime/2016/spring/exvfec_kuromukurov4.jpg "Kuromukuro"){: .center}
-![PA Works]({filename}/images/anime/studios/half/pa_works.png){: .studio}
-
-### [Kuromukuro](https://hummingbird.me/anime/kuromukuro)
-
-Netflix picked this one up, but it looks like it will be released much later in the year (no idea why). A bit in the dark on the plot for this one, but I'm usually willing to give shows by PA Works a chance.
+> I have no idea if I'll ultimately have the patience for this one. The pacing, the premise, the characters (and good god the "identical" character designs) left me a little bored. Will the entire story take place in 1937 or will they skip ahead to after WWII and follow these characters? My guess is the former, but the latter would be more interesting for me.
 
 
 
@@ -126,7 +87,7 @@ Netflix picked this one up, but it looks like it will be released much later in 
 
 ### [Shounen Maid](https://hummingbird.me/anime/shounen-maid)
 
-A late addition for me -- I was going to pass this up as the premise seemed ridiculous, but I ended up catching a review of the first episode and decided to give it a try. I ended up enjoying it despite the over the top setup.  It reminded me a little of what I think a modern take on [Kaichou wa Maid-sama!](https://hummingbird.me/anime/kaichou-wa-maid-sama) might look like. The interaction between the two main characters had charm and without one side having power over the other.
+Much better than I thought it was going to be with enough pulling at emotional heartstrings to keep me coming back for the next episode. Each episode was fairly standalone with a light character arc over top.  I wish there was more time spent in the backstories to the characters.  Madoka's relationship with is Mom is only ever implied and it would have been fun to see that relationship explained and evolve with Chihiro finding out. It seems this is based on a manga series. I might dip in there to see if there is a bit more character development.
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
