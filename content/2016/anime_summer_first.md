@@ -1,17 +1,16 @@
 Title: Anime Summer 2016 First Impressions
-Date: 2016-07-02 22:25:51
+Date: 2016-07-12 23:07:00
 Tags: anime, first impressions
 Category: anime
 Slug: anime_2016_summer_first
 Summary: First Impressions of the Anime Summer 2016 Season
 Hero: background-image: url(/images/anime/2016/summer/hero.jpg);
-status: draft
 
 [TOC]
 
 A theme you will see begin to develop is I'm now reading manga where there isn't yet an anime adaptation. Early on, I would pick up manga where I had already seen the anime. I wonder how knowing the source material will color my experience of its anime...
 
-Side note: Damn! Did Crunchyroll buy out the entire season?!
+Side Note: Damn! Did Crunchyroll buy out the entire season?!
 
 ![ReLIFE]({filename}/images/anime/2016/summer/tumblr_o8nli0hkDb1uca4rgo1_1280.jpg "ReLIFE"){: .center}
 ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
@@ -34,7 +33,7 @@ I really hope this gets picked up for a second season. Fingers crossed. (The rea
 
 This is another one where I've read a bit of the manga before. I'm not very far into the story, so the anime should quickly pass by my current place in the manga. This will probably be a test run to see if I'm already familiar with the source material, should I read beyond the anime adaption.
 
-The opening episode was quite good and a faithful adaptation of the manga in my opinion. 
+The opening episode was quite good and a faithful adaptation of the manga in my opinion. What is left unknown is if this show is an upper or downer...
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){: .link-nb}
 
@@ -44,7 +43,7 @@ The opening episode was quite good and a faithful adaptation of the manga in my 
 
 ### [Mob Psycho 100](https://hummingbird.me/anime/mob-psycho-100)
 
-> Kageyama Shigeo (a.k.a. "Mob") is a 8th grader with psychic abilities. He could bend spoons and lift objects with his mind from a young age, but he slowly began to withhold from using his abilities in public due to the negative attention he kept receiving. Now, the only thing he wants is to become friends with a girl in his class, Tsubomi. With his psychic "mentor" (who has no psychic powers), he continues his daily life, attempting to realize his purpose in life. <br/><br/>(Source: MangaHelpers)
+Hmmm. While I throughly enjoyed *One Punch Man*, I'm not sure how I will fair with this one. I'm not going to lie, the humor is going to have to be *really* good to counterbalance the art style.  At least *OPM* moved well between both styles (rough and hyper stylized). I guess I'll take a wait and see attitude.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){: .link-nb}
 
@@ -66,7 +65,7 @@ I'll give it a few more episodes to see if it can work itself out.
 
 ### [91 Days](https://hummingbird.me/anime/ninety-one-days)
 
-> His name is Nero, the man who will someday become a mafia boss. He is also the target of revenge by Avilio, whose family was murdered. In order to carry out his revenge, Avilio will have to kill his friend.
+Damn! Awesome setting (Prohibition Era), great music and a really cool opening setup. As long as there are no one-note-characters (or the number kept to a minimum), I think I will throughly enjoy this one.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){: .link-nb}
 
@@ -79,6 +78,8 @@ I'll give it a few more episodes to see if it can work itself out.
 Damn what a hot mess that only ufotable could produce. The first episode is a prologue and really an epic cluster-f*ck of stage setting with little to no context -- all done with ufotable's unique blend of CGI and hand drawn craft.
 
 I can't judge this until we see what follows this prologue. Intriguing setting, but no idea if we'll get characters to match.
+
+Side Note: My favorite [OP](https://my.mixtape.moe/ingrnl.webm) of the season on this one.
 
 [![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){: .link-nb}
 
@@ -109,7 +110,7 @@ While not a perfect comparison, this one felt a little like [*Rokka no Yuusha*](
 
 ### [Qualidea Code](https://hummingbird.me/anime/qualidea-code)
 
-> The story takes place in a world where people continue their war against the "unknown"—the enemy of humanity. Children who have been evacuated to a cold sleep facility during the invasion by the "unknown" several decades ago wake up from their slumber and learn that their bodies developed some supernatural forces. In order to protect the country from the "unknown" emerging from the Tokyo bay gate, the boys and girls wage battles in the defense the cities of Tokyo, Kanagawa, and Chiba.<br/><br/>(Source: Official site)
+And... nope! Pretty sure there isn't going to be anything redeeming here.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/qualidea-code){: .link-nb}
 
@@ -119,7 +120,7 @@ While not a perfect comparison, this one felt a little like [*Rokka no Yuusha*](
 
 ### [New Game!](https://hummingbird.me/anime/new-game)
 
-*Shirobako* this definitely isn't, but just the kind of cute fluff one needs to offset some of the more serious shows.  Let's see if "working on a game" is more than just pretense. I have a feeling however that it will basically shoujo hijinks -- not that there is anything wrong with that (in moderation at least). 
+*Shirobako* this definitely isn't, but just the kind of cute fluff one needs to offset some of the more serious shows.  Let's see if "working on a game" is more than just pretense. I have a feeling however that it will basically revolve around shoujo hijinks -- not that there is anything wrong with that (in moderation at least). 
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){: .link-nb}
 
@@ -141,7 +142,7 @@ This feels like [*Usagi Drop*](https://hummingbird.me/anime/bunny-drop) with a b
 
 ### [Amanchu!](https://hummingbird.me/anime/amanchu)
 
-Seriously JC Staff what the hell were you thinking?! Both the main characters spent more than half of the first episode with hyper cartoonish facial expressions.  You should use that effect sparingly, otherwise just do your entire character design that way!
+Seriously! JC Staff what the hell were you thinking?! Both main characters spent more than half of the first episode with hyper cartoonish facial expressions.  You should use that effect sparingly, otherwise just do your entire character design that way!
 
 I'll give this one a few more episodes to see if there is any depth to these characters, through frankly I'm not holding my breath...
 
