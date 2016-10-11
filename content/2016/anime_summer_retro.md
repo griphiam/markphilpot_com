@@ -18,7 +18,7 @@ Hero: background-image: url(/images/anime/2016/summer/hero.jpg);
 
 *Holy Shit*
 
-Ok, so this show has it's flaws to be sure, but damn was this a fun ride.  White Fox managed to expore some dark aspects of the main protagonist and really drags the audience around through the muck of dispair. I had hope during each episode that things would come back up... that we were taking this downward trajectory with the expectation that we would come back up after hitting rock bottom (and oh did we hit bottom all right).  Thankfully, the payoff is really good and rewards your investment in the show.
+OK, so this show has it's flaws to be sure, but damn was this a fun ride.  White Fox managed to explore some dark aspects of the main protagonist and really drags the audience around through the muck of despair. I had hope during each episode that things would come back up... that we were taking this downward trajectory with the expectation that we would come back up after hitting rock bottom (and oh did we hit bottom all right).  Thankfully, the payoff is really good and rewards your investment in the show.
 
 Let me take a moment to talk about Episode 18.
 
@@ -100,7 +100,12 @@ So... Mission Successful?
 
 ### [Nejimaki Seirei Senki: Tenkyou no Alderamin](https://hummingbird.me/anime/nejimaki-seirei-senki-tenkyou-no-alderamin)
 
---------- HERE -----------
+*Alderamin* employed a brand of story telling I enjoy immensely. They told their story with out needlessly explaining every detail. They let events unfold naturally without forcing some idiotic exposition to explain to the audience what all the characters would already know. I sincerely appreciated that in this show and I think it's all the better for it.
+
+Characters were quite good with a story that was fairly straight forward -- the opening episode informs you exactly what ultimately happens. It's of course the journey and how they get you there that is worth the price of admission.
+
+Now of course, since this is a Madhouse production, we will never get a sequel, so while the ending is somewhat satisfactory, I went ahead and pulled down the manga where hopefully the rest of the story will be told.
+
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){: .link-nb}
 
