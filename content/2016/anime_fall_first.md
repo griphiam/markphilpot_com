@@ -40,23 +40,7 @@ While you wait, please enjoy the following selection:
 
 ### [Drifters](https://hummingbird.me/anime/drifters-tv)
 
-> Shimazu Toyohisa, whilst involved at the Battle of Sekigahara, manages to mortally wound Ii Naomasa, but is critically wounded in the process. As he walks from the field broken and bleeding, Toyohisa finds himself transported to a corridor of doors, where a bespectacled man at a desk waits for him. This man, Murasaki, sends Toyohisa into the nearest door where he wakes up in another world. There, Toyohisa meets other great warriors like him who have been transported as well, to be part of a group known as "Drifters."<br/><br/>(Source: Wikipedia)
-
------------ HERE -----------
-
-[![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
-
-
-
-![Occultic;Nine]({filename}/images/anime/2016/fall/w646.jpg "Occultic;Nine"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">A-1 Pictures</div>
-
-### [Occultic;Nine](https://hummingbird.me/anime/occultic-nine)
-
-> The "paranormal science" story follows nine idiosyncratic individuals, linked by the "Chōjō Kagaku Kirikiri Basara" occult summary blog run by 17-year-old second-year high school student Yūta Gamon. Little incongruities that occur around these nine eventually lead to a larger, unimaginable event that may alter what is considered common sense in this world.<br/><br/>(Source: ANN)
-
------------ HERE -----------
+Not sure this is the show for me. I'm not a fan of [JoJo's Bizare Adventure]() so I think some of the humor and art style is lost on me. I also thought the pacing and timing of the jokes was really off for the opening episode.  I think I'll give it one more shot to hook me but if I was a betting man I would pre-slot this over to *Dropped*.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -68,23 +52,7 @@ While you wait, please enjoy the following selection:
 
 ### [3-gatsu no Lion](https://hummingbird.me/anime/three-gatsu-no-lion)
 
-> A youth named Kiriyama Rei, who lost his family as a child, endures loneliness to become a professional shogi player. Then, through a chance meeting, he develops a relationship with the three Kawamoto sisters, who hail from a working-class district of the city, and little by little his frozen heart begins to thaw. <br/><br/>(Source: MU)
-
------------ HERE -----------
-
-[![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
-
-
-
-![Touken Ranbu: Hanamaru]({filename}/images/anime/2016/fall/tumblr_ocic3gcTCe1uq3bnuo1_1280.jpg "Touken Ranbu: Hanamaru"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Doga Kobo</div>
-
-### [Touken Ranbu: Hanamaru](https://hummingbird.me/anime/touken-ranbu-hanamaru)
-
-> The year is 2205. The "historical revisionists" have begun attacks on the past in their plot to change history. The Saniwa, who have been charged with protecting history, can imbue life into objects. Strongest among these are the Tōken Danshi. The story centers around their cheerful lives.<br/><br/>(Source: ANN)
-
------------ HERE -----------
+Wow! It's Shaft not doing a [Monogatri]() series. I love the art style, the restrained use of dialog and the OST is fantastic too. I'm firmly sold on this one (and it's a two cour show to boot!)
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -96,9 +64,7 @@ While you wait, please enjoy the following selection:
 
 ### [Yuri!!! on Ice](https://hummingbird.me/anime/yuri-on-ice)
 
-> The story revolves around Yuuri Katsuki, who carried all of Japan's hopes on his shoulders to win at the Gran Prix Finale ice skating competition, but suffered a crushing defeat. He returns home to Kyushu and half feels like he wants to retire, and half feels like he wants to continue ice skating. With those mixed feelings swirling inside him, he confines himself inside his parents house. Suddenly the five-time consecutive world championship ice skater Victor Nikiforov appears before him, and along with him is Yuri Plisetsky, a young Russian figure skater who is already defeating his seniors. Victor and both Yuris take up the challenge on an unprecedented Gran Prix series.<br/><br/>(Source: Anime News Network)
-
------------ HERE -----------
+The strong opening episode really caught me off guard. The comedic timing was superb and there was a level of confidence and sincerity exuding from the show that really hooks you in while the comedy acknowledges not to take the show too seriously. It was a fantastic combination. Give this show a chance even if you would initial balk at the subject. I don't think you will regret it.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -110,9 +76,9 @@ While you wait, please enjoy the following selection:
 
 ### [Shuumatsu no Izetta](https://hummingbird.me/anime/shuumatsu-no-izetta)
 
-> If I am promised to the princess, then I will fight for her sake.<br/>In 1939 C.E., the imperialist nation of Germania invaded a neighboring country. All at once, that war spread throughout Europe, and the era was dragged into a spiral of a great war.<br/><br/>Then, in 1940, Germania's attack turned towards the Principality of Elystadt, a small Alps country abundant with beautiful water and greenery.<br/><br/>(Source: ANN)
+*Sigh*
 
------------ HERE -----------
+I was actually rather enjoying the opening episode right up until the witch Izetta *mounted* the rifle as if it was a broom and started flying. That rather unfortunate shot to the system got me to realize all the other flaws and suddenly I wasn't quite as interested. I will still give this one a few more episodes but frankly I don't have high hopes for this.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -124,23 +90,7 @@ While you wait, please enjoy the following selection:
 
 ### [Trickster: Edogawa Ranpo "Shounen Tanteidan" yori](https://hummingbird.me/anime/trickster-edogawa-ranpo-shounen-tanteidan-yori)
 
-> The time period is the 2030s. Before the mysterious detective Kogorou Akechi, the Boys' Detective Team is assembled. Their actions have led to the resolution of various small and large incidents. One day, team member Kensuke Hanasaki meets a mysterious boy named Yoshio Kobayashi. Kobayashi, who has an undying body because of an "unidentified fog," wishes his own death and refuses contact with others. Hanasaki takes an interest in Kobayashi and invites him to join the Boys' Detective Team. The encounter eventually leads them to the connection between the criminal nicknamed the "Fiend with Twenty Faces" and Kogorou Akechi. The fate of the two begins to move...<br/><br/>(Source: MAL News)
-
------------ HERE -----------
-
-[![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
-
-
-
-![WWW.Working!!]({filename}/images/anime/2016/fall/712Y_2BMmWijL._SL1500_.jpg "WWW.Working!!"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">A-1 Pictures, Aniplex</div>
-
-### [WWW.Working!!](https://hummingbird.me/anime/www-working)
-
-> Daisuke Higashida is a serious first-year student at Higashizaka High School. He lives a peaceful everyday life even though he is not satisfied with the family who doesn't laugh at all and makes him tired. However, his father's company goes bankrupt one day, and he can no longer afford allowances, cellphone bills, and commuter tickets. When his father orders him to take up a part-time job, Daisuke decides to work at a nearby family restaurant in order to avoid traveling 15 kilometers to school by bicycle.
-
------------ HERE -----------
+Another Ranpo adaptation and this one starts off with a kick! Nothing really explained in the first episode but with a two cour show, they can afford to take their time. The animation is top notch and there is every indication the dialog is going to be chalk full of some clever banter. Definitely a keeper.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -152,9 +102,7 @@ While you wait, please enjoy the following selection:
 
 ### [Udon no Kuni no Kiniro Kemari](https://hummingbird.me/anime/udon-no-kuni-no-kiniro-kemari)
 
-> Souta Tawara is a web designer working in Tokyo. When he visits his family's Udon place in his hometown Kagawa Prefecture, he discovers a young boy. Upon confronting the boy, Souta soon learns his secret and decides to quit his job in order to take care of the boy, Poko. The daily adventures of the two slowly enfold as Poco energetically navigates his way through Kagawa, the "Udon Kingdom," along with Souta.
-
------------ HERE -----------
+Literally [Sweetness & Lightning]() meeds [Usgi Drop](). I have my doubts that this will be anywhere near as good as S&L however. Apparently death, food and a cute kid are a winning combination. I'll stick this one out as long as they keep a good level of character development going.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -166,9 +114,7 @@ While you wait, please enjoy the following selection:
 
 ### [Gi(a)rlish Number](https://hummingbird.me/anime/girlish-number)
 
-> The series follows Chitose Karasuma, a university student who aims to become a voice actress (seiyuu). The stage event listing further indicates that it focuses on the profession of idol seiyuu.<br/><br/>(Source: MAL News)
-
------------ HERE ----------- FIND
+Wow. Not at all what I expected. There is quite a lot of not so subtle ribbing going on here. This one feels like [Shirobako]()'s evil twin taking the whole experience down a few notches. Let's see where this one goes.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -180,9 +126,7 @@ While you wait, please enjoy the following selection:
 
 ### [Mahou Shoujo Ikusei Keikaku](https://hummingbird.me/anime/mahou-shoujo-ikusei-keikaku)
 
-> The highly popular social network game "Magical Girl Raising Project" is a miraculous game that produces real Magical Girls with a chance of 1 in 10000 for each person. Girls who are lucky enough to gain the power of magic spend fulfilling days. But one day, the administration arbitrarily announces that "There are too many magical girls so they will be halved". The curtain will now be raised on the relentless and merciless survival game between 16 magical girls.<br/><br/>(Source: Baka-Tsuki)
-
------------ HERE -----------
+How much will this just be a inferior clone of [Madoka Magica]()? I hope it's more than that, but I have my worries. There could be lots of room to play around with this as long as they have the confidance to break out of Madoka's shadow. Not sure if this original or an adaption (not that it really matters, just curious more than anything). Hopefully we get to see a new side of a *Mahou Shoujo* turned on its head.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -208,9 +152,7 @@ While you wait, please enjoy the following selection:
 
 ### [Flip Flappers](https://hummingbird.me/anime/flip-flappers)
 
-> Papika and Cocona hold the keys to open the door. When the two girls meet, their adventures in a different time and different overlapping dimension called "Pure Illusion" begin. Many things in Pure Illusion will stand in the girls' way on their search for the mysterious crystal called the "Shard of Mimi," an item that is said to grant any wish. However, when the girls find themselves in danger, the Shard of Mimi shines, and they are able to transform.<br/><br/>(Source: ANN)
-
------------ HERE -----------
+This one has the potential to be the gem of the season. The animation is georgous and an absolute trip. No idea where this one's going, but I'm definitely in for the ride.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -243,6 +185,9 @@ While you wait, please enjoy the following selection:
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
 
+![Divider]({filename}/images/dividers/heartbeat_half.png){: .center }
+<div class="divider-title">Shorts</div>
+
 
 ![Kiitarou Shounen no Youkai Enikki]({filename}/images/anime/2016/fall/Kiitarou-Shounen-key.jpg "Kiitarou Shounen no Youkai Enikki"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
@@ -250,9 +195,7 @@ While you wait, please enjoy the following selection:
 
 ### [Kiitarou Shounen no Youkai Enikki](https://hummingbird.me/anime/kiitarou-shounen-no-youkai-enikki)
 
-> This is the visual diary of Kiitarou's experience with youkai. He's a boy with a very strong spirit sense, but when he entered a forbidden storehouse, he was kicked out of his home. He soon found a new place to live, where he met a zashiki warashi (house spirit) named Suzu. He and Suzu soon began to attract all kinds of spirit creatures, starting with a nurikabe (appears as a wall that impedes travelers) and mokumokuren (appears as eyes in a torn paper wall). What kind of folkloric creature will he meet next?<br/><br/>(Source: MangaHelpers) 
-
------------ HERE -----------
+Cute and Fun. Definitely give this one a click.
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 
@@ -263,9 +206,7 @@ While you wait, please enjoy the following selection:
 
 ### [Mahou Tsukai no Yome: Hoshi Matsu Hito](https://hummingbird.me/anime/mahou-tsukai-no-yome-hoshi-matsu-hito)
 
-> Chise Hatori, 15 years old. Lost, without hope, and without family, she is bought for money – not by another person, but by a non-human sorcerer named Elias. Though she hesitates, she begins life anew as his apprentice and future wife. She moves on with her new and peaceful life, slowly but surely, until one day, when she finds a Japanese picture book among the many sent to her from London by Angelica. It is a fateful book that discovered her in her younger years, when she was still troubled and lonely. This piece is a prequel to Chise’s encounter with the Thorn Sorcerer.
-
------------ HERE ----------- OVA
+This isn't a short, but a three episode OVA prequel in support of manga. It's a shame because I think this could be a really great full length series. It got me to pick up the manga so, again, it accomplished what it set out to do (provided they were actually selling the English translation...)
 
 [![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
 

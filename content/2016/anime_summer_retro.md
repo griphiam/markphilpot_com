@@ -1,5 +1,5 @@
 Title: Anime Summer 2016 Retrospective
-Date: 2016-09-30 20:39:00
+Date: 2016-10-18 21:22:00
 Tags: anime, retro
 Category: anime
 Slug: anime_2016_summer_retro
@@ -18,7 +18,7 @@ Hero: background-image: url(/images/anime/2016/summer/hero.jpg);
 
 *Holy Shit*
 
-OK, so this show has it's flaws to be sure, but damn was this a fun ride.  White Fox managed to explore some dark aspects of the main protagonist and really drags the audience around through the muck of despair. I had hope during each episode that things would come back up... that we were taking this downward trajectory with the expectation that we would come back up after hitting rock bottom (and oh did we hit bottom all right).  Thankfully, the payoff is really good and rewards your investment in the show.
+OK, so this show has it's flaws to be sure, but damn was this a fun ride.  White Fox managed to explore some dark aspects of the main protagonist and really drags the audience around through the muck of despair. I had hope during each episode that things would come back up -- that we were taking this downward trajectory with the expectation that we would come back up after hitting rock bottom (and oh did we hit bottom all right).  Thankfully, the payoff is really good and rewards your investment in the show.
 
 Let me take a moment to talk about Episode 18.
 
@@ -34,7 +34,7 @@ Binged? ✅ <br/>
 Enjoyed? ✅ <br/>
 Want Second Season? ✅
 
-What a truly fantastic adaption! They were very faithful to the source material while still making it their own. They also managed to end the season with both a resolution and a tease for more that was actually satisfying (though to be fair that might be because I've been reading the manga). I really, **really** hope there is a second season in store for us down the road. 
+What a truly fantastic adaption! They were very faithful to the source material while still making it their own. The characters were fantastic and the humor actually translated very well to the screen. They also managed to end the season with both a resolution and a tease for more that was actually satisfying (though to be fair that might be because I've been reading the manga). I really, **really** hope there is a second season in store for us down the road. 
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/relife){: .link-nb}
 
@@ -44,7 +44,9 @@ What a truly fantastic adaption! They were very faithful to the source material 
 
 ### [orange](https://hummingbird.me/anime/orange)
 
-Ugh. I couldn't even start this because I feared how much of a downer it would be. I probably wasn't wrong given the bits of reactions I managed to hear. I *will* watch this at some point. It just might not be anytime soon.
+I couldn't even start this because I feared how much of a downer it would be. I probably wasn't wrong given the bits of reactions I managed to hear. I *will* watch this at some point. It just might not be anytime soon.
+
+And no, I haven't made any progress through the manga for the same reason. I think I might be scarred by [Shigatsu wa Kimi no Uso](https://hummingbird.me/anime/shigatsu-wa-kimi-no-uso).
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){: .link-nb}
 
@@ -54,7 +56,7 @@ Ugh. I couldn't even start this because I feared how much of a downer it would b
 
 ### [Mob Psycho 100](https://hummingbird.me/anime/mob-psycho-100)
 
-So most people seemed to have loved this show (maybe not quite as much as One Punch Man). It just wasn't my cup of tea. It's on hold rather than dropped as maybe someone will review it and really make me feel that I will be missing out if I don't watch it.
+Most people seemed to have loved this show (maybe not quite as much as One Punch Man). It just wasn't my cup of tea. It's on hold rather than dropped as maybe someone will review it and really make me feel that I missed out by not watching it.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){: .link-nb}
 
@@ -66,7 +68,7 @@ So most people seemed to have loved this show (maybe not quite as much as One Pu
 
 Such. A. Slow. Start.
 
-The problem through really is that once it gets going no one really bothers to tell you where. The characters are no more than cardboard cutouts of anime stereotypes and I really don't see that developing or evolving. Another one on hold -- I think I heard something that there might be a second season? *Shrug*
+The problem through really is that once it gets going no one really bothers to tell you where. The characters are no more than cardboard cutouts of anime stereotypes and I really don't see that developing or evolving. I think I heard something that there might be a second season? *Shrug* 
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){: .link-nb}
 
@@ -76,7 +78,7 @@ The problem through really is that once it gets going no one really bothers to t
 
 ### [91 Days](https://hummingbird.me/anime/ninety-one-days)
 
---------- HERE -----------
+Unfortunately on hold for the time being and through no real fault of the show itself -- I just preferred watching other series. One day!
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){: .link-nb}
 
@@ -90,7 +92,7 @@ This was not a great anime by any stretch of the imagination. It's more or less 
 
 Now, all that being said, I did rather enjoy it.  The music is fantastic and the animation is flat out gorgeous (if you happen to like the ufotable digital style). To top it all of, it got me to buy the game (on sale on Steam) and introduced me to the entire *Tales of* series of games that hadn't crossed my radar prior.
 
-So... Mission Successful?
+So... Mission Accomplished?
 
 [![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){: .link-nb}
 
@@ -100,11 +102,11 @@ So... Mission Successful?
 
 ### [Nejimaki Seirei Senki: Tenkyou no Alderamin](https://hummingbird.me/anime/nejimaki-seirei-senki-tenkyou-no-alderamin)
 
-*Alderamin* employed a brand of story telling I enjoy immensely. They told their story with out needlessly explaining every detail. They let events unfold naturally without forcing some idiotic exposition to explain to the audience what all the characters would already know. I sincerely appreciated that in this show and I think it's all the better for it.
+*Alderamin* employed a brand of story telling I enjoy immensely. They told their story without needlessly explaining every detail. They let events unfold naturally without forcing some idiotic exposition to explain to the audience what all the characters would already know. I sincerely appreciated that in this show and I think it's all the better for it.
 
 Characters were quite good with a story that was fairly straight forward -- the opening episode informs you exactly what ultimately happens. It's of course the journey and how they get you there that is worth the price of admission.
 
-Now of course, since this is a Madhouse production, we will never get a sequel, so while the ending is somewhat satisfactory, I went ahead and pulled down the manga where hopefully the rest of the story will be told.
+Now of course since this is a Madhouse production, we will never get a sequel, so while the ending is somewhat satisfactory, I went ahead and pulled down the manga where hopefully the rest of the story will be told. It's such a striking contrast in tone, at least in the opening few volumes of the manga. The tone of the manga is much more lighthearted than the anime adaptation -- I'm curious when they get to the battles and war will it continue or shift dramatically.
 
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){: .link-nb}
@@ -115,7 +117,7 @@ Now of course, since this is a Madhouse production, we will never get a sequel, 
 
 ### [New Game!](https://hummingbird.me/anime/new-game)
 
---------- HERE -----------
+The epitome of *Slice of Life* anime with a little extra character depth sprinkled in. I ended up saving this until the season had ended so I could binge it in a few days. If you liked [K-On!](https://hummingbird.me/anime/k-on) chances are you will enjoy this one. This isn't [Shirobako](https://hummingbird.me/anime/shirobako) -- you won't be getting an intimate look into the game production process (any studio willing to take that one on? Seems like a slam dunk). Since I wasn't expecting that going in, I wasn't disappointed with the episodic hijinks.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){: .link-nb}
 
@@ -125,19 +127,9 @@ Now of course, since this is a Madhouse production, we will never get a sequel, 
 
 ### [Amaama to Inazuma](https://hummingbird.me/anime/amaama-to-inazuma)
 
---------- HERE -----------
+Enough cute to make you melt and enough food to make your mouth water. It is definitely the same formula repeated twelve times but in the end I didn't mind it at all. All the characters were fantastic and shout out to the child voice actor that plays the little girl. She **nailed** each and every performance and was really the linchpin of the series.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){: .link-nb}
-
-
-![Amanchu!]({filename}/images/anime/2016/summer/sxCDTJ9.jpg "Amanchu!"){: .center}
-![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
-
-### [Amanchu!](https://hummingbird.me/anime/amanchu)
-
---------- HERE -----------
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/amanchu){: .link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
