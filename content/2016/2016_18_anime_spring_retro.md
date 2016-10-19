@@ -12,6 +12,8 @@ Going into this season I was a little worried there wasn't going to be anything 
 
 There are still a bunch of shows I need to finish (per usual) but I was able to "keep current" with more shows than I usually do.  Just a note, *Re:Zero* was a two cour show, so I'll be reviewing that in my Summer retro (tl;dr -- It's awesome!)
 
+**Update** :: The *Re:Zero* retro is included in the [Summer Retro](https://markphilpot.com/posts/2016/XX/XX/anime_2016_summer_retro/)
+
 *Kiznaiver*, *Netoge no Yome wa Onnanoko ja Nai to Omotta?* and *Bungou Stray Dogs* were placed on hold. I will hopefully make my way through these at some point (especially *Kiznaiver* and *Bungou*).
 
 ![Boku no Hero Academia]({filename}/images/anime/2016/spring/yadiyc_bokunoheroacademiav2.jpg "Boku no Hero Academia"){: .center}
