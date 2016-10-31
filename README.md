@@ -5,3 +5,5 @@ brew install libjpeg optipng
 ```
 
 For Hero Images :: https://unsplash.com/
+
+1920x1080

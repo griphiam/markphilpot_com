@@ -6,7 +6,7 @@ Slug: review_anthem
 Summary: Review of Kokoro ga Sakebitagatterunda
 Hero: background-image: url(/images/2016/anthem/hero.jpg);
 
-![Anthem of the Heart]({filename}/images/2016/anthem/title.jpg){: .ew1200}
+![Anthem of the Heart]({filename}/images/2016/anthem/title.jpg){: .ew1920}
 ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 [Kokoro ga Sakebitagatterunda](https://hummingbird.me/anime/kokoro-ga-sakebitagatterunda) *The Anthem of the Heart*
