@@ -574,6 +574,16 @@ td, th {
     margin-left: calc((100vw - 33rem) / -2);
   }
 }
+.content img.ew1280 {
+  max-width: 1280px;
+  margin-left: calc((1280px - 33rem) / -2);
+}
+@media (max-width: 1280px) {
+  .content img.ew1280 {
+    max-width: 100vw;
+    margin-left: calc((100vw - 33rem) / -2);
+  }
+}
 .content img.ew1920 {
   max-width: 1920px;
   margin-left: calc((1920px - 33rem) / -2);
