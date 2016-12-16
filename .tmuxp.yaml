@@ -1,0 +1,18 @@
+session_name: tmuxp
+start_directory: ./
+windows:
+  - window_name: latest
+    focus: True
+    panes:
+      - shell_command:
+          - cd latest
+          - ls
+  - window_name: git
+    panes:
+      - git status
+      - open http://localhost:8000
+  - window_name: devserver
+    shell_command_before:
+      - '[ -d venv -a -f venv/bin/activate ] && source venv/bin/activate'
+    panes:
+      - ./develop_server.sh start
