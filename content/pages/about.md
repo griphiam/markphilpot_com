@@ -4,7 +4,7 @@ Slug: about
 Summary: About Mark Philpot
 Hero: background-image: url(/images/about/hero.jpg);
 
-Some places you can find me on the Internet: [<i class="fa fa-twitter"></i>](https://twitter.com/mark_philpot) [<i class="fa fa-github"></i>](https://github.com/markphilpot) [<i class="fa fa-flickr"></i>](https://www.flickr.com/photos/markphilpot) [<i class="fa fa-header"></i>](https://hummingbird.me/users/mphilpot)
+Some places you can find me on the Internet: [<i class="fa fa-twitter"></i>](https://twitter.com/mark_philpot) [<i class="fa fa-github"></i>](https://github.com/markphilpot) [<i class="fa fa-flickr"></i>](https://www.flickr.com/photos/markphilpot) [<i class="fa fa-firefox" style="transform: scaleX(-1) rotate(90deg);"></i>](https://kitsu.io/users/mphilpot/library)
 
 ### Experience
 
