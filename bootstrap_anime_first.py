@@ -96,12 +96,12 @@ def mkdir_p(path):
             raise
 
 def anilist_authenticate(client_id, client_secret):
-    headers = {
+    params = {
         'grant_type': 'client_credentials',
         'client_id': client_id,
         'client_secret': client_secret,
     }
-    r = requests.post("{}/auth/access_token".format(ANILIST_API), headers=headers)
+    r = requests.post("{}/auth/access_token".format(ANILIST_API), params=params)
     r.raise_for_status()
     return r.json()['access_token']
 
@@ -115,7 +115,16 @@ def anilist_browse_season(access_token, year, season, sort='popularity-desc'):
         'season': season,
         'sort': sort,
     }
-    r = requests.get("{}/browse/anime", params=params, headers=headers)
+    r = requests.get("{}/browse/anime".format(ANILIST_API), params=params, headers=headers)
+    r.raise_for_status()
+    return r.json()
+
+
+def anilist_anime_model_page(access_token, anime_id):
+    headers = {
+        'Authorization': 'Bearer {}'.format(access_token),
+    }
+    r = requests.get("{}/anime/{}/page".format(ANILIST_API, anime_id), headers=headers)
     r.raise_for_status()
     return r.json()
 
@@ -126,9 +135,14 @@ def anilist_save_image(anime_model, image_dir=None):
         filename = anime_model['image_url_lge'].split('/')[-1]
         anime_model['__pv_filename__'] = filename
         img = requests.get(anime_model['image_url_lge'])
-        with open('%s/%s' % (image_dir, '%s/%s' % (image_dir, filename)), 'wb') as f:
+        with open('%s/%s' % (image_dir, filename), 'wb') as f:
             f.write(img.content)
             f.close()
+
+    anime_model['__page__'] = anilist_anime_model_page(access_token, anime_model['id'])
+
+    sys.stdout.write('.')
+    sys.stdout.flush()
 
     return anime_model
 
@@ -212,7 +226,7 @@ if __name__ == '__main__':
     parser.add_argument('--output', '-o')
     # parser.add_argument('--hummingbird', '-hb', dest='hummingbird_slug')
     # parser.add_argument('--studio', '-s', choices=STUDIOS.keys())
-    parser.add_argument('--year')
+    parser.add_argument('--year', type=int)
     parser.add_argument('--season')
     parser.add_argument('--save_images', default=False, action='store_true')
     parser.add_argument('--client_id')

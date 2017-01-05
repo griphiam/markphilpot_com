@@ -9,14 +9,15 @@ status: draft
 
 {% for show in shows %}
 
-![{{ show.titles.canonical }}]({filename}/images/anime/{{ year}}/{{ season }}/{{ show.pv_filename }} "{{ show.titles.canonical }}"){: .center}
+![{{ show.title_romaji }}]({filename}/images/anime/{{ year }}/{{ season }}/{{ show.__pv_filename__ }} "{{ show.title_romaji }}"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">{{ show.producers|join(', ') if show.producers }}</div>
+<div class="studio">{% for studio in show.__page__.studio %}{{ studio.studio_name }}, {% endfor %}
+</div>
 
-### [{{ show.titles.canonical }}](https://hummingbird.me/anime/{{ show.slug }})
+### [{{ show.title_romaji }}](https://anilist.co/anime/{{ show.id }})
 
-> {{ show.synopsis|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
+> {{ show.__page__.description|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
 
-[![Crunchyroll Funimation]({filename}/images/anime/streaming/crunchyroll_funimation_logo.png)](__){: .link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
 {% endfor %}
