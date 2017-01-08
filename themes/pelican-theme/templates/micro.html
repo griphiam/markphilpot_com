@@ -4,7 +4,7 @@
 <ul class="recent-posts">
   {% set last_year = 0 %}
   {% for article in dates %}
-    {% if article.title != "micro" %}
+    {% if article.title == "micro" %}
     {% set year = article.date.strftime('%Y') %}
     {%if last_year != year %}
     <h2 id="{{year }}">{{ year }}</h2>
@@ -16,19 +16,15 @@
     {% set next_article = dates[next] %}
     {% set next_year = next_article.date.strftime('%Y') %}
     {% endif %}
-    
     {% if next_year != year %}
     <li class="last-entry-of-year">
     {% else %}
     <li>
     {% endif %}
-      <a href="{{ SITEURL }}/{{ article.url }}">
-        <div>
-          <span class="title">{{ article.title }}</span>
-          <span class="date"><time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
-          <span class="tags">{{article.tags|join(', ')}}</span>
-        </div>
-      </a>
+      <div class="micro_content">
+        {{ article.content }}
+        <span class="micro_date"><time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%Y-%m-%d %H:%M") }}</time></span>
+      </div>
     </li>
     {% endif %}
   {% endfor %}

@@ -603,6 +603,21 @@ td, th {
   }
 }
 
+/* Micro */
+.micro_content {
+  font-size: 0.7rem;
+  margin-bottom: 1rem;
+}
+.micro_content .micro_date {
+  font-size: 0.5rem;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.5);
+  float: right;
+}
+.micro_content p {
+  margin: 0 !important;
+}
+
 /* Blockquotes */
 
 .content blockquote {
