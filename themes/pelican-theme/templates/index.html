@@ -6,7 +6,7 @@
   {% for article in dates %}
     {% if article.title != "micro" %}
     {% set year = article.date.strftime('%Y') %}
-    {%if last_year != year %}
+    {% if last_year != year %}
     <h2 id="{{year }}">{{ year }}</h2>
     {% set last_year = year %}
     {% endif %}
