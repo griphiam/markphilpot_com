@@ -45,7 +45,7 @@
     <div class="container menu">
       <ul>
         <li><a href="{{ SITEURL }}/">Posts</a></li>
-        <li><a href="{{ SITEURL }}/micro.html">Micro</a></li>
+        <li><a href="{{ SITEURL }}/micro.html">&micro;&beta;</a></li>
         {% for p in pages %}
         <li {% if p.title == '~/projects' %}class="proj"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}
