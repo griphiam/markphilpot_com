@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form id="micro_search" action="" method="post">
+  <input type="text" class="text-input" id="filter" value="" />
+</form>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("#filter").keyup(function(){
+
+      // Retrieve the input field text and reset the count to zero
+      var filter = $(this).val();
+
+      if(filter.length > 0) {
+        $("h2.years").fadeOut();
+      } else {
+        $("h2.years").fadeIn();
+      }
+
+      // Loop through the comment list
+      $(".micro_content").each(function(){
+
+          // If the list item does not contain the text phrase fade it out
+          if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+              $(this).hide();
+          } else {
+              $(this).show();
+          }
+      });
+  });
+});
+</script>
+<ul class="recent-posts">
+  {% set last_year = 0 %}
+  {% for article in dates %}
+    {% if article.title == "micro" %}
+    {% set year = article.date.strftime('%Y') %}
+    {%if last_year != year %}
+    <h2 id="{{year }}" class="years">{{ year }}</h2>
+    {% set last_year = year %}
+    {% endif %}
+    {% set next_year = 0 %}
+    {% if not loop.last %}
+    {% set next = loop.index0 + 1 %}
+    {% set next_article = dates[next] %}
+    {% set next_year = next_article.date.strftime('%Y') %}
+    {% endif %}
+    {% if next_year != year %}
+    <li class="last-entry-of-year">
+    {% else %}
+    <li>
+    {% endif %}
+      <div class="micro_content">
+        {{ article.content }}
+        <span class="micro_date"><a href="{{ article.tweeturl }}" class="micro_tweet_link"><i class="fa fa-twitter"></i></a><time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%Y-%m-%d %H:%M") }}</time></span>
+      </div>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endblock content %}

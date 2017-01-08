@@ -87,41 +87,9 @@ SITEMAP = {
 }
 
 #DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
-DIRECT_TEMPLATES = (('index',))
+DIRECT_TEMPLATES = (('index', 'micro'))
 
 SITESUBTITLE = '"You simian-descended, equivocating, pronoun-starved little mortal twerp" - The Transcendant Pig'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING = False
-HUMMINGBIRD_USERNAME = 'mphilpot'
-HUMMINGBIRD_API_KEY = '0084bb364f1201c86837'
-
-if INCLUDE_HUMMINGBIRD_CURRENTLY_WATCHING:
-    import requests
-
-    r = requests.get('https://hummingbird.me/api/v1/users/%s/library?status=currently-watching' % HUMMINGBIRD_USERNAME)
-    try:
-        r.raise_for_status()
-        shows = r.json()
-        covers = map(lambda x: ( x['anime']['cover_image'], x['anime']['url'] ), shows)
-
-        log.info('Found %d covers' % len(covers))
-
-        img_template = """<a href="%s"><img src="%s" width=75 title="%s"/></a>"""
-        wrapper_template = """
-            <div>
-                <h3>Currently Watching</h3>
-                <p>%s</p>
-            </div>
-        """
-
-        LANDING_PAGE_ABOUT['details'] += wrapper_template % "".join(
-            map(lambda x: img_template % (x['anime']['url'],
-                                          x['anime']['cover_image'],
-                                          x['anime']['title']), shows)
-        )
-
-    except Exception as e:
-        log.error('Error processing currently watched', exc_info=True)
