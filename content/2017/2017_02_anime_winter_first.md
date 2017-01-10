@@ -38,35 +38,16 @@ Seriously.
 
 Anyway... Welcome to 2017.
 
-You'll probably notice that this first impressions post is coming out a bit later than usual. First, I had a few Fall 2016 shows I wanted to finish off before diving into this one. Second, with hummingbird.me transitioning to kitsu.io, my bootstrap script that helps me put this post together became OBE. After a bit of research, I switched over to a very good API provided by [anilist.co](https://anilist.co) -- and to be honest, I'm *this* close to switching my anime tracking to anilist full time (my profile is [here](https://anilist.co/user/mphilpot/animelist))
-
-![SWORD ART ONLINE Movie: Ordinal Scale]({filename}/images/anime/2017/winter/21403-rBoHOcsGt6rM.jpg "SWORD ART ONLINE Movie: Ordinal Scale"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-A-1 Pictures, 
-
-</div>
-
-### [SWORD ART ONLINE Movie: Ordinal Scale](https://anilist.co/anime/21403)
-
-> In 2022, the world of virtual reality was upended by the arrival of a new invention from a genius programmer, Akihiko Kayaba. Called NerveGear, it was the first full-dive system and with it, came endless possibilities to VRMMORPGs.<br><br><br/><br/>In 2026, a new machine called the Augma is developed to compete against the NerveGear and its successor, the Amusphere. A next-gen wearable device, the Augma doesn't have a full-dive function like its predecessors. Instead, it uses Augmented Reality to get players into the game. It is safe, user-friendly and lets users play while they are conscious, making it an instant hit on the market. The most popular game on the system is “Ordinal Scale” (aka: OS), an ARMMORPG developed exclusively for the Augma.<br><br><br/><br/>Asuna and the gang have already been playing OS for a while, by the time Kirito decides to join them. They’re about to find out that Ordinal Scale isn’t all fun and games…<br><br><br/><br/>(Source: Official website)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+You'll probably notice that this first impressions post is coming out a bit later than usual (and probably before the fall retrospective). First, I had a few shows from last season I wanted to finish off before diving into this one. Second, with hummingbird.me transitioning to kitsu.io, my bootstrap script that helps me put this post together became OBE. After a bit of research, I switched over to a very good API provided by [anilist.co](https://anilist.co) -- and to be honest, I'm *this* close to switching my anime tracking to anilist full time (my profile is [here](https://anilist.co/user/mphilpot/animelist)) (*Update:* Done and done).
 
 
 
 ![Kono Subarashii Sekai ni Shukufuku wo! 2]({filename}/images/anime/2017/winter/21699-HIHYbtV0djlW.jpg "Kono Subarashii Sekai ni Shukufuku wo! 2"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Studio Deen, 
-
-</div>
+![Deen]({filename}/images/anime/studios/half/deen.png){: .studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo! 2](https://anilist.co/anime/21699)
 
-> The second season of Kono Subarashii Sekai ni Shukufuku wo!<br><br/><br><br/><br><br/>The popular "alternate world home comedy" centers around Kazuma Satou, a hikikomori (shut-in) die-hard fan of games, anime, and manga. A traffic accident brings his disappointingly brief life to an end … or it should have, but he wakes up and sees a beautiful girl who introduces herself as a goddess. "Hey, I have some good news — would you like to go to an alternate world? You may only bring one thing you like with you."<br><br/><br><br/>He responds, "…So, I'll bring you." With that, he is transported to another world and his great adventure subjugating the demon king begins … but first the hard work of finding food, clothing, and shelter begins. Kazuma wants to live in peace, but the goddess raises one problem after another, and then the demon king's army has its eyes set on him.<br><br/><br><br/>(Source: ANN)
+Season 1 came out of nowhere and for many was the best show of 2016 (and easily the best comedy). I'm a *little* concerned about what they have planned this time around. It was clear they didn't know what they had the first time, so I hope they don't end up ruining it because of the unexpected popularity.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -74,15 +55,11 @@ Studio Deen,
 
 ![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Silver Link, 
-
-</div>
+<div class="studio">Silver Link</div>
 
 ### [Masamune-kun no Revenge](https://anilist.co/anime/21857)
 
-> As an overweight child, Makabe Masamune was mercilessly teased and bullied by one particular girl, Adagaki Aki. Determined to one day exact his revenge upon her, Makabe begins a rigorous regimen of self-improvement and personal transformation.<br/><br/>Years later, Masamune re-emerges as a new man. Handsome, popular, with perfect grades and good at sports, Masamune-kun transfers to Aki's school, and is unrecognizable to her. Now, Masamune-kun is ready to confront the girl who bullied him so many years ago and humiliate her at last. But will revenge be as sweet as he thought?<br><br><br/><br/>(Source: Seven Seas Entertainment)
+There are a few ways this one could go. I feel it's a bit like a Monty Hall problem -- we could very easily end up with a goat. The opening wasn't half bad, but we'll have to give it a few more episodes to prove itself.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -107,12 +84,7 @@ Manglobe,
 
 
 ![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Trigger, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/trigger.png){: .studio}
 
 ### [Little Witch Academia (TV)](https://anilist.co/anime/21858)
 
@@ -139,19 +111,27 @@ Lerche,
 
 
 ![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-NUT, 
-
-</div>
+<div class="studio">NUT</div>
 
 ### [Youjo Senki](https://anilist.co/anime/21613)
 
-> The novel series centers on a young girl who fights on the frontlines in war. She has blonde hair, blue eyes, and nearly transparent white skin, and she flies through the air and mercilessly strikes down her opponents. Her name is Tanya Degurechaff, and she speaks with a young girl's lisp and commands the army. Tanya used to be one of Japan's elite office workers, but because of a wrathful god, was reborn as a little girl. Tanya prioritizes optimization and career advancement above all, and she will become the most dangerous entity among the Imperial Army's sorcerers.<br><br/><br><br/>(Source: ANN)
+What. The Hell. Did I Just Watch.
+
+Despite the character designs, I'm slightly intreagued after the first episode reveal at the end. There are quite a few interesting ways this could go, and it probably won't go down any of those.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
+
+
+![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){: .center}
+![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
+<div class="studio">diomedea</div>
+
+### [Fuuka](https://anilist.co/anime/21887)
+
+I almost passed this one by. Based on the description, I completely guessed wrong on what I thought it was going to be. The first episode is endeering, even if it does roll out a whole slew of tropes and fan service. I'm really hoping there is more to the story and characters, and I think I'm willing to give it a shot.
+
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
 
 ![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){: .center}
@@ -187,16 +167,11 @@ Madhouse Studios,
 
 
 ![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Studio Deen, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/deen.png){: .studio}
 
 ### [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://anilist.co/anime/21733)
 
-> Second season of Shouwa Genroku Rakugo Shinjuu.
+Last year's first season was anime of the year in my opinion. Not everyone's cup of tea, but it was just *so good* at what it set out to do. I'm even more excited for this cour since (hopefully) will be focusing on the new student, *Yotaro*.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -220,16 +195,11 @@ AXsiZ,
 
 
 ![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-A-1 Pictures, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Demi-chan wa Kataritai](https://anilist.co/anime/97592)
 
-> Succubus, Dullahan and Vampire. They are known as Ajin, or "demi"s and are slightly different than the average human. They have lived alongside humans for ages under persecution. However, in recent years, they have become accepted as members of society. This manga follows a high school biology teacher who has a great interest in demis and his interaction with the various demis in his school, each with their own cute problems.<br/><br></br><br/>(Source: MU)
+Ok, this one is going to my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch]() and [Sweetness and Lightning]() filled last year.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 

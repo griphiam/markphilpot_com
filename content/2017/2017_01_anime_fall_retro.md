@@ -5,6 +5,7 @@ Category: anime
 Slug: anime_2016_fall_retrospective
 Summary: Retrospective of the Anime Fall 2016 Season
 Hero: background-image: url(/images/anime/2016/fall/hero.jpg);
+Status: draft
 
 
 [TOC]
