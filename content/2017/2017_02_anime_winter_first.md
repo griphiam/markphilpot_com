@@ -43,7 +43,7 @@ You'll probably notice that this first impressions post is coming out a bit late
 
 
 ![Kono Subarashii Sekai ni Shukufuku wo! 2]({filename}/images/anime/2017/winter/21699-HIHYbtV0djlW.jpg "Kono Subarashii Sekai ni Shukufuku wo! 2"){: .center}
-![Deen]({filename}/images/anime/studios/half/deen.png){: .studio}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png){: .studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo! 2](https://anilist.co/anime/21699)
 
@@ -54,7 +54,7 @@ Season 1 came out of nowhere and for many was the best show of 2016 (and easily 
 
 
 ![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
+![$STUDIO]({filename}/images/anime/studios/half/silver_link.png){: .studio}
 <div class="studio">Silver Link</div>
 
 ### [Masamune-kun no Revenge](https://anilist.co/anime/21857)
@@ -95,12 +95,7 @@ Manglobe,
 
 
 ![Kuzu no Honkai]({filename}/images/anime/2017/winter/21701-17ZLfVknEPAV.jpg "Kuzu no Honkai"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Lerche, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Kuzu no Honkai](https://anilist.co/anime/21701)
 
@@ -124,8 +119,7 @@ Despite the character designs, I'm slightly intreagued after the first episode r
 
 
 ![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">diomedea</div>
+![$STUDIO]({filename}/images/anime/studios/half/diomedea.png){: .studio}
 
 ### [Fuuka](https://anilist.co/anime/21887)
 
@@ -135,12 +129,7 @@ I almost passed this one by. Based on the description, I completely guessed wron
 
 
 ![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-ufotable, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/ufotable.png){: .studio}
 
 ### [Tales of Zestiria the X 2](https://anilist.co/anime/97645)
 
@@ -151,12 +140,7 @@ ufotable,
 
 
 ![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Madhouse Studios, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/madhouse.png){: .studio}
 
 ### [ACCA: 13-ku Kansatsu-ka](https://anilist.co/anime/21823)
 
@@ -167,7 +151,7 @@ Madhouse Studios,
 
 
 ![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/deen.png){: .studio}
+![$STUDIO]({filename}/images/anime/studios/half/studio_deen.png){: .studio}
 
 ### [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://anilist.co/anime/21733)
 
@@ -206,12 +190,7 @@ Ok, this one is going to my not-so-secret favorite of the season. Heartwarming &
 
 
 ![Urara Meirochou]({filename}/images/anime/2017/winter/21696-EOV4geUx6vKE.jpg "Urara Meirochou"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-J.C. Staff, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
 ### [Urara Meirochou](https://anilist.co/anime/21696)
 
@@ -222,12 +201,7 @@ J.C. Staff,
 
 
 ![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Kyoto Animation, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/kyoto.png){: .studio}
 
 ### [Kobayashi-san Chi no Maidragon](https://anilist.co/anime/21776)
 
