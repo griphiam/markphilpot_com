@@ -212,16 +212,11 @@ Ok, this one is going to my not-so-secret favorite of the season. Heartwarming &
 
 
 ![Gabriel DropOut]({filename}/images/anime/2017/winter/21878-G5sVkEbSgnfu.jpg "Gabriel DropOut"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Dogakobo, 
-
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/dogakobo.png){: .studio}
 
 ### [Gabriel DropOut](https://anilist.co/anime/21878)
 
-> The comedy follows Gabriel White, who graduated at the top of the class at angel school and attends a human school on earth in pursuit of knowledge, but then gets engrossed in a web game and decides its too much trouble to go anywhere.<br><br><br/><br/>(Source: ANN)
+There is going to be some comedy gold in this one. I'm a sucker for the timing employed in this one, which feels much more like a anime short than a full length show. I never saw [Himouto! Umaru-Chan](http://anilist.co/anime/20987/HIMOUTOUMARUCHAN) a few seasons ago, but this feels a bit like I imagine that one would be (just in a slightly reverse fashion... almost like [Hataraku Maou-sama!](http://anilist.co/anime/15809/HatarakuMaousama) (*Devil is a Part-Timer*)).
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
