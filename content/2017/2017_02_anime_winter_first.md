@@ -55,29 +55,10 @@ Season 1 came out of nowhere and for many was the best show of 2016 (and easily 
 
 ![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/half/silver_link.png){: .studio}
-<div class="studio">Silver Link</div>
 
 ### [Masamune-kun no Revenge](https://anilist.co/anime/21857)
 
-There are a few ways this one could go. I feel it's a bit like a Monty Hall problem -- we could very easily end up with a goat. The opening wasn't half bad, but we'll have to give it a few more episodes to prove itself.
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
-
-
-![Gyakusatsu Kikan]({filename}/images/anime/2017/winter/20919-M2rDCso4xCZb.jpg "Gyakusatsu Kikan"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Geno Studio, 
-
-Manglobe, 
-
-</div>
-
-### [Gyakusatsu Kikan](https://anilist.co/anime/20919)
-
-> The war on terror exploded, literally, the day Sarajevo was destroyed by a homemade nuclear device. The leading democracies have transformed into total surveillance states, and the developing world has drowned under a wave of genocides. The mysterious American John Paul seems to be behind the collapse of the world system, and it’s up to intelligence agent Clavis Shepherd to track John Paul across the wreckage of civilizations and to find the true heart of darkness—a genocidal organ.<br><br/><br><br/>(Source: Viz)
+There are a few ways this one could go. I feel it's a bit like a Monty Hall problem -- we could very easily end up with a goat. The opening wasn't half bad, but we'll have to give it a few more episodes to prove itself. The show seemingly avoided a few pitfalls in it's debut and managed to make the two main characters slightly more than one dimensional. Fingers crossed?
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -90,8 +71,7 @@ Manglobe,
 
 > TV series of Little Witch Academia.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
+Netflix
 
 
 ![Kuzu no Honkai]({filename}/images/anime/2017/winter/21701-17ZLfVknEPAV.jpg "Kuzu no Honkai"){: .center}
@@ -101,8 +81,7 @@ Manglobe,
 
 > Hanabi and Mugi are bathed in envious gazers from all around as a beautiful couple with excellent moral conduct. But these two apparently perfect people in an apparently perfect relationship share a secret they can't tell anyone.<br><br><br/><br/>(Source: Crunchyroll)
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
+Amazon Prime
 
 
 ![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){: .center}
@@ -112,7 +91,7 @@ Manglobe,
 
 What. The Hell. Did I Just Watch.
 
-Despite the character designs, I'm slightly intreagued after the first episode reveal at the end. There are quite a few interesting ways this could go, and it probably won't go down any of those.
+I will give it at least one more episode, but I'm not sure I can get over the rather unfortunate character designs. The overall animation didn't strike me as great either (although I was too distracted by the characters to really take notice). A season after another medocre war anime in [Izetta](http://anilist.co/anime/21838/ShuumatsunoIzetta) I sincerely doubt I'll be up for this one.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -123,7 +102,7 @@ Despite the character designs, I'm slightly intreagued after the first episode r
 
 ### [Fuuka](https://anilist.co/anime/21887)
 
-I almost passed this one by. Based on the description, I completely guessed wrong on what I thought it was going to be. The first episode is endeering, even if it does roll out a whole slew of tropes and fan service. I'm really hoping there is more to the story and characters, and I think I'm willing to give it a shot.
+I almost passed this one by, but Crunchyroll picked it up, so I thought I'd give the first episode a chance. It was ever-so *slightly* endearing, even if it does roll out a whole slew of tropes and fan service. I'm really hoping there is more to the story and characters that what we see on the surface, but I won't be surprised if we continue a mediocre romcom plot with needless fan service and an abundance of tropes.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -162,18 +141,11 @@ Last year's first season was anime of the year in my opinion. Not everyone's cup
 
 
 ![Seiren]({filename}/images/anime/2017/winter/97730-Hg72XZPqC2VO.jpg "Seiren"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Studio Gokumi, 
-
-AXsiZ, 
-
-</div>
+<div class="studio">Studio Gokumi</div>
 
 ### [Seiren](https://anilist.co/anime/97730)
 
-> Shouichi Kamita is an ordinary high school boy, who is faced with university entrance exams and worries about his future. This campus romantic comedy, “SEIREN” (Seiren means honest in Japanese), depicts his pure relationship with three different heroines. Each story is the unique and mutual memory between him and the heroine.<br><br><br/><br/>(Source: ANN)
+From the staff who brought us [Amagami SS](http://anilist.co/anime/8676/AmagamiSS) (if not the studio). I honestly rather enjoyed Amagami, but I'm going to at least wait so I can binge each heroine's arc rather than waiting week to week.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -183,7 +155,7 @@ AXsiZ,
 
 ### [Demi-chan wa Kataritai](https://anilist.co/anime/97592)
 
-Ok, this one is going to my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch]() and [Sweetness and Lightning]() filled last year.
+Ok, this one is going to my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch](http://anilist.co/anime/21284/flyingwitch) and [Sweetness and Lightning](http://anilist.co/manga/86044/AmaamatoInazuma) filled last year. I couldn't help but smile throughout the entire first episode. Kudos to A1 if they can pull this one off.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
@@ -221,36 +193,6 @@ There is going to be some comedy gold in this one. I'm a sucker for the timing e
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
 
-
-![Hirune Hime: Shiranai Watashi no Monogatari]({filename}/images/anime/2017/winter/21788-fGJzbRAyW8nO.jpg "Hirune Hime: Shiranai Watashi no Monogatari"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Signal.MD, 
-
-</div>
-
-### [Hirune Hime: Shiranai Watashi no Monogatari](https://anilist.co/anime/21788)
-
-> The film will follow Morikawa Kokone, a high school girl who encounters a strange robot named Hearts.
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
-
-
-![One Room]({filename}/images/anime/2017/winter/97857-Zpmrg2WCPtQI.jpg "One Room"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">
-
-Typhoon Graphics, 
-
-</div>
-
-### [One Room](https://anilist.co/anime/97857)
-
-> The series will tell "three stories raised in your (one) room."
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
