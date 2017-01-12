@@ -52,7 +52,17 @@ PLUGINS = ['simple_footnotes', 'sitemap', 'neighbors', 'extract_toc']
 THEME = 'themes/pelican-theme'
 TWITTER_USERNAME='mark_philpot'
 
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)', 'markdown.extensions.attr_list']
+#MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc(permalink=true)', 'markdown.extensions.attr_list']
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.headerid': {},
+        'markdown.extensions.toc': {'permalink': 'true'}
+    },
+    'output_format': 'html5',
+}
 
 TYPOGRIFY = True
 RELATED_POSTS_LABEL = 'keep reading...'
