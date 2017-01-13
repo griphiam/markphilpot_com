@@ -114,8 +114,7 @@ I almost passed this one by, but Crunchyroll picked it up, so I thought I'd give
 
 > The second season of Tales of Zestiria the X.<br><br><br/><br/>Sorey is a human youth who grew up among the seraphim, spiritual beings not visible to humans.<br/>Sorey believes in the folklore that says “long ago, every human was able to see the seraphim" and dreams of unraveling the ancient mystery to make the world a place where people and seraphim can live together in peace.<br><br><br/><br/>One day, Sorey visits the human capital for the very first time. He becomes embroiled in an incident during which he pulls out a holy sword embedded in a rock and ends up becoming a Shepherd, one who casts away calamity from the world.<br/>He begins to realize the gravity of his mission, and his dream of coexistence between mankind and the seraphim becomes more intense—<br><br><br/><br/>And thus, the Shepherd embarks on a journey with his companions.<br><br><br/><br/>(Source: Official Website)
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
+Daisuki
 
 
 ![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){: .center}
@@ -167,8 +166,6 @@ Ok, this one is going to my not-so-secret favorite of the season. Heartwarming &
 ### [Urara Meirochou](https://anilist.co/anime/21696)
 
 > The story is set in Meiro-chou, a town where all-female diviners (uranaishi) live and where girls from all over the country yearn to become the top diviner — "Urara." Today, a solitary girl named Chiya enters the town's gates. However, she has another purpose coming here, besides becoming the Urara. Chiya's days as an apprentice diviner begin as she meets three friends — the earnest Kon, Koume who is a fan of Western culture, and the shy Nono.<br><br><br/>(Source: ANN)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
 
 

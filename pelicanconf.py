@@ -64,7 +64,7 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-TYPOGRIFY = True
+TYPOGRIFY = False 
 RELATED_POSTS_LABEL = 'keep reading...'
 USE_FOLDER_AS_CATEGORY = False
 ARTICLE_URL = u'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
