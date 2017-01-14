@@ -42,11 +42,11 @@ DEFAULT_PAGINATION = 10
 
 PATH = 'content'
 PLUGIN_PATHS = [
-    'plugins',
+    'plugins', 'plugins_custom',
 ]
 
 # Removed 'gzip_cache' since AWS Cloudfront does it for us
-PLUGINS = ['simple_footnotes', 'sitemap', 'neighbors', 'extract_toc']
+PLUGINS = ['simple_footnotes', 'sitemap', 'neighbors_filtered', 'extract_toc']
 
 # Theme Settings
 THEME = 'themes/pelican-theme'
@@ -63,6 +63,7 @@ MARKDOWN = {
     },
     'output_format': 'html5',
 }
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.loopcontrols']}
 
 TYPOGRIFY = False 
 RELATED_POSTS_LABEL = 'keep reading...'
