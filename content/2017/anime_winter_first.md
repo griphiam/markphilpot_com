@@ -42,7 +42,7 @@ You'll probably notice that this first impressions post is coming out a bit late
 
 My first impression of this season seems to be *understated* but *solid*. There is a wide variety with comedies taking the lead. With the holidays I fell behind last season, so I'll be playing catch up and hopefully try to stay more current for this one.
 
-One "shocking" bit of news before we dive in is Amazon's new pay-for anime channel called [Anime Strike](http://www.animenewsnetwork.com/news/2017-01-12/amazon-u.s-launches-anime-strike-paid-streaming-service/.110924) as part of their paid streaming service. I don't know what to think of this -- to say their catalog is bare bones is significantly understating the situation. As a happy paying subscriber of Crunchyroll, Funimation & Netflix, I'm not sure I dive into this one unless they start buying up enough shows to really deprive CR. Will be interesting to see what shows they pick up this coming year. If I had to bet, I'd say they might go aggressively after [Shingeki no Kyojin 2](http://anilist.co/anime/20958/ShingekinoKyojin2) as an exclusive. That would be quite the steal.
+One "shocking" bit of news before we dive in is Amazon's new pay-for anime channel called [Anime Strike](http://www.animenewsnetwork.com/news/2017-01-12/amazon-u.s-launches-anime-strike-paid-streaming-service/.110924) as part of their paid streaming service. I don't know what to think of this -- to say their catalog is bare bones is significantly understating the situation. As a happy paying subscriber of Crunchyroll, Funimation & Netflix, as well as an Amazon Prime member, I'm not sure I will be diving into yet another pay-for stream service one unless they start buying up enough shows to really deprive CR. Will be interesting to see what shows they pick up this coming year. If I had to bet, I'd say they might go aggressively after [Shingeki no Kyojin 2](http://anilist.co/anime/20958/ShingekinoKyojin2) as an exclusive. That would be quite the steal.
 
 Anyway, let's dive in...
 
@@ -51,7 +51,7 @@ Anyway, let's dive in...
 
 ### [Kono Subarashii Sekai ni Shukufuku wo! 2](https://anilist.co/anime/21699)
 
-Season 1 came out of nowhere and for many was the best show of 2016 (and easily the best comedy). I'm a *little* concerned about what they have planned this time around. It was clear they didn't know what they had the first time, so I hope they don't end up ruining it because of the unexpected popularity.
+Season 1 came out of nowhere and for many was the best show of 2016 (and easily the best comedy). I'm a *little* concerned about what they have planned this time around. It was clear they didn't know what they had the first time, so I hope they don't end up ruining it because of the unexpected popularity. After seeing the first episode, I have a second concern: the animation budget. The first cour was rough, but it felt on purpose and for the most part was balanced out with decent effort and framerates. This time around, there was so much of the "rough edges" it felt like someone thought that was part of the aesthetic success of the first season (which in my opinion was not a positive factor the first time). The humor seemed to build from where they left off, but overall I'm left with more concerns than before -- usually not a good sign.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world){: .link-nb}
 
@@ -73,7 +73,7 @@ There are a few ways this one could go. I feel it's a bit like a Monty Hall prob
 
 ### [Little Witch Academia (TV)](https://anilist.co/anime/21858)
 
-Netflix suposedly has picked this up, but I can't find definite confirmation. I thought the short and movie were fun and entertaining in a very Trigger-like way.
+Netflix supposedly has picked this up, but for some inexplicable reason they haven't aired either of the first two episodes. This is a manifestation of a concern I have with Netflix and Amazon trying to wade into the anime space -- I have no confidence about their stewardship or attention to the anime community. I'm not saying Crunchyroll, Funimation and the rest are angels in this regard, but they are definitely more responsive due to the fact that anime is their main business. 
 
 
 ![Kuzu no Honkai]({filename}/images/anime/2017/winter/21701-17ZLfVknEPAV.jpg "Kuzu no Honkai"){: .center}
@@ -81,7 +81,9 @@ Netflix suposedly has picked this up, but I can't find definite confirmation. I 
 
 ### [Kuzu no Honkai](https://anilist.co/anime/21701)
 
-I have reservations with this one. I managed to figure out that "Oni-chan" in this instance is just a family friend rather than her actual brother, but it's hard to dispell the thought given Japan's propencity for that story line. I thought the animation style was nice and different. The use of split screen and overall editing style was actually really refreshing. My worry is that this will have the possibility for an absolute crushing ending. There are very few "happy" resolutions for a plot started this way. Like [orange](http://anilist.co/anime/21647/orange) last year, I may have to stay away until I figure out what kind of ending it has for my own emotional sanity.
+Like watching an emotional train wreck in slow motion. 
+
+I have reservations with this one. I managed to figure out that "Oni-chan" in this instance is just a family friend rather than her actual brother, but it's hard to dispel the thought given Japan's propensity for that story line. I thought the animation style was nice and different. The use of split screen and overall editing style was actually really refreshing. My worry is that this will have the possibility for an absolute crushing ending. There are very few "happy" resolutions for a plot started this way. Like [orange](http://anilist.co/anime/21647/orange) last year, I may have to stay away until I figure out what kind of ending it has for my own emotional sanity.
 
 
 ![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){: .center}
@@ -91,7 +93,7 @@ I have reservations with this one. I managed to figure out that "Oni-chan" in th
 
 What. The Hell. Did I Just Watch.
 
-I will give it at least one more episode, but I'm not sure I can get over the rather unfortunate character designs. The overall animation didn't strike me as great either (although I was too distracted by the characters to really take notice). A season after another medocre war anime in [Izetta](http://anilist.co/anime/21838/ShuumatsunoIzetta) I sincerely doubt I'll be up for this one.
+I will give it at least one more episode, but I'm not sure I can get over the rather unfortunate character designs. The overall animation didn't strike me as great either (although I was too distracted by the characters to really take notice). A season after another mediocre war anime in [Izetta](http://anilist.co/anime/21838/ShuumatsunoIzetta) I sincerely doubt I'll be up for this one.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/saga-of-tanya-the-evil){: .link-nb}
 
@@ -112,15 +114,18 @@ I almost passed this one by, but Crunchyroll picked it up, so I thought I'd give
 
 ### [Tales of Zestiria the X 2](https://anilist.co/anime/97645)
 
-> The second season of Tales of Zestiria the X.<br><br><br/><br/>Sorey is a human youth who grew up among the seraphim, spiritual beings not visible to humans.<br/>Sorey believes in the folklore that says “long ago, every human was able to see the seraphim" and dreams of unraveling the ancient mystery to make the world a place where people and seraphim can live together in peace.<br><br><br/><br/>One day, Sorey visits the human capital for the very first time. He becomes embroiled in an incident during which he pulls out a holy sword embedded in a rock and ends up becoming a Shepherd, one who casts away calamity from the world.<br/>He begins to realize the gravity of his mission, and his dream of coexistence between mankind and the seraphim becomes more intense—<br><br><br/><br/>And thus, the Shepherd embarks on a journey with his companions.<br><br><br/><br/>(Source: Official Website)
+Given the source material (JRPG) there was obviously plenty of material for a second cour for *Tales* but I'm a little suprised it's getting one (which probably means it was planned to be a 2 cour series from the start). The first cour was entertaining, but nothing special (though if you enjoy ufotable's animation, then the story was really a perfect complement). Keep your expectations low and enjoy the animation.
 
+Thanks to the [ReLIFE](http://anilist.co/anime/21049/ReLIFE) dub from Funimation, I discovered the greatness of [Alexis Tipton](https://myanimelist.net/people/9091/Alexis_Tipton). She also does the voice for Alisha in the *Tales* dub, so I've added that to my queue. Depending on the strength of that dub, I might continue this series on that side of the divide.
 
 ![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){: .center}
 ![Madhouse]({filename}/images/anime/studios/half/madhouse.png){: .studio}
 
 ### [ACCA: 13-ku Kansatsu-ka](https://anilist.co/anime/21823)
 
-> The kingdom of Dowa, which is subdivided into 13 states, is celebrating its monarch's 99th birthday. These 13 states have many agencies that are controlled by the giant organization known as ACCA. Within ACCA, Jean Otis is the second-in-command of the inspection agency. His agency has ten people placed in each of the 13 states, with a central office in the capital city. They keep track of all the activities of ACCA across the kingdom, and keep data on each state's ACCA office flowing toward the central office. Jean also often has business trips from the capital to the other districts to check on the situation and personnel there.<br><br><br/><br/>(Source: MangaHelpers)
+*zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz*
+
+Wow. So Madhouse can release a dud. I'm not sure I understand *who* would be interested in a tale spun around a bureaucracy, but to combine it with this particular character design seems to me like an absolute recipe for disaster
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/acca-13-territory-inspection-dept){: .link-nb}
 
@@ -152,7 +157,7 @@ From the staff who brought us [Amagami SS](http://anilist.co/anime/8676/AmagamiS
 
 ### [Demi-chan wa Kataritai](https://anilist.co/anime/97592)
 
-Ok, this one is going to my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch](http://anilist.co/anime/21284/flyingwitch) and [Sweetness and Lightning](http://anilist.co/manga/86044/AmaamatoInazuma) filled last year. I couldn't help but smile throughout the entire first episode. Kudos to A1 if they can pull this off.
+Ok, this one is going to be my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch](http://anilist.co/anime/21284/flyingwitch) and [Sweetness and Lightning](http://anilist.co/manga/86044/AmaamatoInazuma) filled last year. I couldn't help but smile throughout the entire first episode. Kudos to A1 if they can pull this off.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/interviews-with-monster-girls){: .link-nb}
 
@@ -163,7 +168,7 @@ Ok, this one is going to my not-so-secret favorite of the season. Heartwarming &
 
 ### [Kobayashi-san Chi no Maidragon](https://anilist.co/anime/21776)
 
-This one got quite a few chuckles out of me. It feels like an anime short in the body of a full length series. Episodic hyjinx, here we come.
+This one got quite a few chuckles out of me. It feels like an anime short in the body of a full length series. Episodic hijinks, here we come.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/miss-kobayashis-dragon-maid){: .link-nb}
 
