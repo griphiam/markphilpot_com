@@ -34,7 +34,7 @@ $(document).ready(function(){
 <ul class="recent-posts">
   {% set last_year = 0 %}
   {% for article in dates %}
-    {% if article.title == "micro" %}
+    {% if article.category.name == "micro" %}
     {% set year = article.date.strftime('%Y') %}
     {% if last_year != year %}
     <h2 id="{{year }}" class="years">{{ year }}</h2>

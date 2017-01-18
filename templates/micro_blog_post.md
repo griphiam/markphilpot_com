@@ -1,4 +1,4 @@
-Title: micro
+Title: 
 Category: micro
 Date: {{ filename }}
 Slug: {{ filename }}
