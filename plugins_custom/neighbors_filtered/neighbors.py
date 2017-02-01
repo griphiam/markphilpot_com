@@ -13,7 +13,7 @@ def iter3(seq):
     nxt = None
     cur = next(it)
     for prv in it:
-        if prv.title == 'micro':
+        if prv.category.name == 'micro':
             continue
         yield nxt, cur, prv
         nxt, cur = cur, prv
