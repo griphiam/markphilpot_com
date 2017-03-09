@@ -27,6 +27,9 @@ deploy:
 notifications:
   email:
     on_failure: always
+  slack:
+    rooms:
+      - $SLACK_ACCOUNT:$SLACK_TOKEN$SLACK_ROOM
 branches:
   only:
     - master
