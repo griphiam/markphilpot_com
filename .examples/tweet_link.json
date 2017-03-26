@@ -1,0 +1,28 @@
+{
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 22, 45 ],
+      "url" : "https:\/\/t.co\/5Z7235VPo7",
+      "expanded_url" : "http:\/\/magnet.crowdcafe.com\/",
+      "display_url" : "magnet.crowdcafe.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "843183178688823296",
+  "text" : "Really loving Magnet (https:\/\/t.co\/5Z7235VPo7) Definitely the best window manager assistant I've tried to date.",
+  "id" : 843183178688823296,
+  "created_at" : "2017-03-18 19:31:50 +0000",
+  "user" : {
+    "name" : "Mark Philpot",
+    "screen_name" : "mark_philpot",
+    "protected" : false,
+    "id_str" : "12621072",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509099943940726784\/qUIYzpdr_normal.jpeg",
+    "id" : 12621072,
+    "verified" : false
+  }
+}

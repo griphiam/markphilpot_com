@@ -5,6 +5,7 @@
   <input type="text" class="text-input" id="filter" value="" />
 </form>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/unveil/1.3.0/jquery.unveil.min.js"></script>
 <script>
 $(document).ready(function(){
   $("#filter").keyup(function(){
@@ -29,6 +30,7 @@ $(document).ready(function(){
           }
       });
   });
+  $("img").unveil();
 });
 </script>
 <ul class="recent-posts">
@@ -53,7 +55,11 @@ $(document).ready(function(){
     {% endif %}
       <div class="micro_content">
         {{ article.content }}
-        <span class="micro_date"><a href="{{ article.tweeturl }}" class="micro_tweet_link"><i class="fa fa-twitter"></i></a><time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%Y-%m-%d %H:%M") }}</time></span>
+        <span class="micro_date">
+          {% if article.retweetuser %}<a href="https://twitter.com/{{ article.retweetuser }}" style="border-bottom: 0;">@{{ article.retweetuser }}</a>{% endif %}
+          <a href="{{ article.tweeturl }}" class="micro_tweet_link"><i class="fa fa-twitter"></i></a>
+          <time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%Y-%m-%d %H:%M") }}</time>
+        </span>
       </div>
     </li>
     {% endif %}
