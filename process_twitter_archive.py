@@ -5,6 +5,7 @@ import logging
 import os
 import re
 from argparse import ArgumentParser
+import codecs
 
 import errno
 from datetime import datetime
@@ -13,6 +14,7 @@ from jinja2 import Environment
 from jinja2 import FileSystemLoader
 
 log = logging.getLogger('process_twitter_archive')
+
 
 def mkdir_p(path):
     try:
@@ -42,18 +44,27 @@ def mkdir_p(path):
 
 
 def tweet_to_markdown(tweet):
-    raw = tweet['text'].decode('utf8')
+    is_retweet = False
+
+    if 'retweeted_status' in tweet:
+        is_retweet = True
+        tweet['retweet_user'] = tweet['retweeted_status']['user']['screen_name']
+        raw = tweet['retweeted_status']['text']
+        entities = tweet['retweeted_status']['entities']
+    else:
+        raw = tweet['text']
+        entities = tweet['entities']
 
     # Find all replaceable elements
     replaceable_elements = []
-    for url_element in tweet['entities']['urls']:
+    for url_element in entities['urls']:
         replaceable_elements.append({
             'start': url_element['indices'][0],
             'end': url_element['indices'][1],
             'type': 'url',
             'element': url_element,
         })
-    for media_element in tweet['entities']['media']:
+    for media_element in entities['media']:
         replaceable_elements.append({
             'start': media_element['indices'][0],
             'end': media_element['indices'][1],
@@ -65,14 +76,18 @@ def tweet_to_markdown(tweet):
 
     for rep in replaceable_elements:
         if rep['type'] == 'url':
-            raw = raw[0:rep['start']] + "[{}]({})".format(rep['element']['display_url'], rep['element']['expanded_url']) + raw[rep['end']+1:]
+            raw = raw[0:rep['start']] + u"[{}]({})".format(rep['element']['display_url'], rep['element']['expanded_url']) + raw[rep['end']:]
         elif rep['type'] == 'media':
-            raw = raw[0:rep['start']] + "![{}]({})".format(rep['element']['display_url'], rep['element']['media_url_https']) + raw[rep['end']+1:]
+            #raw = raw[0:rep['start']] + u"\n\n![{}]({}){{: .center}}\n\n".format(rep['element']['display_url'], rep['element']['media_url_https']) + raw[rep['end']:]
+            raw = raw[0:rep['start']] + u'\n\n<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="{}" data-src="{}" class="center"/>\n\n'.format(rep['element']['display_url'], rep['element']['media_url_https']) + raw[rep['end']:]
 
     p = re.compile(r'@(\w+)')
     markdown = re.sub(p, r'[@\1](https://twitter.com/\1)', raw, 10)
 
-    tweet['markdown'] = markdown
+    if is_retweet:
+        tweet['markdown'] = u'<i class="fa fa-retweet" aria-hidden="true"></i> {}'.format(markdown)
+    else:
+        tweet['markdown'] = markdown
 
     return tweet
 
@@ -92,11 +107,12 @@ if __name__ == '__main__':
     JS_PATH = 'data/js/tweets/'
 
     for js_file in os.listdir('%s/%s' % (args.input_dir, JS_PATH)):
-        lines = js_file.readlines()
-        # Need to drop the first one
-        json_string = lines[1:]
-        json_array = json.loads(json_string)
-        tweets.extend(json_array)
+        with codecs.open('%s/%s/%s' % (args.input_dir, JS_PATH, js_file), encoding='utf8') as f:
+            lines = f.readlines()
+            # Need to drop the first one
+            json_string = '\n'.join(lines[1:])
+            json_array = json.loads(json_string)
+            tweets.extend(json_array)
 
     loader = FileSystemLoader('templates/')
     env = Environment(loader=loader)
