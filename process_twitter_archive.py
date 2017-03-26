@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import csv
+import json
 import logging
 import os
 import re
@@ -24,17 +24,53 @@ def mkdir_p(path):
             raise
 
 
+# def tweet_to_markdown(tweet):
+#     raw = tweet['text'].decode('utf8')
+#
+#     # Replace @user with [@user](https://twitter.com/user)
+#     p = re.compile(r'@(\w+)')
+#     markdown = re.sub(p, r'[@\1](https://twitter.com/\1)', raw, 10)
+#
+#     links = tweet['expanded_urls'].split(',')
+#
+#     for link in links:
+#         markdown = re.sub(r'http[s]?://t.co/[\w\d]+', '[%s](%s)' % (link,link), markdown)
+#
+#     tweet['markdown'] = markdown
+#
+#     return tweet
+
+
 def tweet_to_markdown(tweet):
     raw = tweet['text'].decode('utf8')
 
-    # Replace @user with [@user](https://twitter.com/user)
+    # Find all replaceable elements
+    replaceable_elements = []
+    for url_element in tweet['entities']['urls']:
+        replaceable_elements.append({
+            'start': url_element['indices'][0],
+            'end': url_element['indices'][1],
+            'type': 'url',
+            'element': url_element,
+        })
+    for media_element in tweet['entities']['media']:
+        replaceable_elements.append({
+            'start': media_element['indices'][0],
+            'end': media_element['indices'][1],
+            'type': 'media',
+            'element': media_element
+        })
+
+    replaceable_elements.sort(key=lambda x: x['start'], reverse=True)
+
+    for rep in replaceable_elements:
+        if rep['type'] == 'url':
+            raw = raw[0:rep['start']] + "[{}]({})".format(rep['element']['display_url'], rep['element']['expanded_url']) + raw[rep['end']+1:]
+        elif rep['type'] == 'media':
+            raw = raw[0:rep['start']] + "![{}]({})".format(rep['element']['display_url'], rep['element']['media_url_https']) + raw[rep['end']+1:]
+
     p = re.compile(r'@(\w+)')
     markdown = re.sub(p, r'[@\1](https://twitter.com/\1)', raw, 10)
-
-    links = tweet['expanded_urls'].split(',')
-
-    for link in links:
-        markdown = re.sub(r'http[s]?://t.co/[\w\d]+', '[%s](%s)' % (link,link), markdown)
 
     tweet['markdown'] = markdown
 
@@ -46,26 +82,28 @@ if __name__ == '__main__':
 
     parser = ArgumentParser('Twitter Archive To Markdown Micro')
     parser.add_argument('--output_dir', '-o', default='content/micro')
-    parser.add_argument('--input', '-i', help='Twitter archive csv')
+    parser.add_argument('--input_dir', '-i', help='Path to root of twitter archive')
     parser.add_argument('--overwrite', action='store_true', default=False)
 
     args = parser.parse_args()
 
     tweets = []
 
-    with open(args.input) as csv_file:
-        csv_reader = csv.reader(csv_file)
-        fields = csv_reader.next()
+    JS_PATH = 'data/js/tweets/'
 
-        for row in csv_reader:
-            tweets.append(dict(zip(fields, row)))
+    for js_file in os.listdir('%s/%s' % (args.input_dir, JS_PATH)):
+        lines = js_file.readlines()
+        # Need to drop the first one
+        json_string = lines[1:]
+        json_array = json.loads(json_string)
+        tweets.extend(json_array)
 
     loader = FileSystemLoader('templates/')
     env = Environment(loader=loader)
     template = env.get_template('micro_blog_post.md')
 
     for tweet in tweets:
-        timestamp = datetime.strptime(tweet['timestamp'], "%Y-%m-%d %H:%M:%S +0000")
+        timestamp = datetime.strptime(tweet['created_at'], "%Y-%m-%d %H:%M:%S +0000")
         year = timestamp.year
         filename = timestamp.strftime("%Y-%m-%dT%H:%M:%S")
 
@@ -73,6 +111,7 @@ if __name__ == '__main__':
 
         tweet['ts'] = timestamp
         tweet['filename'] = filename
+        tweet['tweet_id'] = tweet['id_str']
 
         tweet = tweet_to_markdown(tweet)
 
