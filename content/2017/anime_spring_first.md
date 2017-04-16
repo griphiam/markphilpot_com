@@ -12,8 +12,6 @@ status: draft
 
 ![Shingeki no Kyojin 2]({filename}/images/anime/2017/spring/20958-OvqJZf8GNno3.jpg "Shingeki no Kyojin 2"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/half/wit.png){: .studio}
-<div class="studio">Wit Studio, 
-</div>
 
 ### [Shingeki no Kyojin 2](https://anilist.co/anime/20958)
 
@@ -25,8 +23,6 @@ status: draft
 
 ![Boku no Hero Academia 2]({filename}/images/anime/2017/spring/21856-I9rVZElYPVUE.png "Boku no Hero Academia 2"){: .center}
 ![$STUDIO]({filename}/images/anime/studios/half/bones.png){: .studio}
-<div class="studio">BONES, 
-</div>
 
 ### [Boku no Hero Academia 2](https://anilist.co/anime/21856)
 
@@ -37,9 +33,7 @@ status: draft
 
 
 ![Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria]({filename}/images/anime/2017/spring/21676-WsArzi2eHqZu.jpg "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">J.C. Staff, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
 ### [Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria](https://anilist.co/anime/21676)
 
@@ -50,9 +44,7 @@ status: draft
 
 
 ![CLOCKWORK PLANET]({filename}/images/anime/2017/spring/21563-yDcdKgOW9i4z.jpg "CLOCKWORK PLANET"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Xebec, 
-</div>
+<div class="studio">Xebec</div>
 
 ### [CLOCKWORK PLANET](https://anilist.co/anime/21563)
 
@@ -63,9 +55,7 @@ status: draft
 
 
 ![GRANBLUE FANTASY The Animation]({filename}/images/anime/2017/spring/21361-8gQWpTE5AJpz.jpg "GRANBLUE FANTASY The Animation"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">A-1 Pictures, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [GRANBLUE FANTASY The Animation](https://anilist.co/anime/21361)
 
@@ -76,9 +66,7 @@ status: draft
 
 
 ![Rokudenashi Majutsu Koushi to Kinki Kyouten]({filename}/images/anime/2017/spring/21700-h2zIexGqGW9U.jpg "Rokudenashi Majutsu Koushi to Kinki Kyouten"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">LIDENFILMS, 
-</div>
+<div class="studio">LIDENFILMS</div>
 
 ### [Rokudenashi Majutsu Koushi to Kinki Kyouten](https://anilist.co/anime/21700)
 
@@ -89,9 +77,7 @@ status: draft
 
 
 ![eromanga sensei]({filename}/images/anime/2017/spring/21685-bJOXiEOxIew0.jpg "eromanga sensei"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">A-1 Pictures, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [eromanga sensei](https://anilist.co/anime/21685)
 
@@ -101,23 +87,8 @@ status: draft
 
 
 
-![sin Nanatsu no Taizai]({filename}/images/anime/2017/spring/20705-Yob9CBc9NK0w.jpg "sin Nanatsu no Taizai"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Artland, TNK, 
-</div>
-
-### [sin Nanatsu no Taizai](https://anilist.co/anime/20705)
-
-> In the story, the prideful archangel Lucifer disobeys God and is cast into the lowest level of hell as a fallen angel. On her way to hell, Lucifer happens to meet a high school girl on Earth named Maria, who helps her. In hell, Lucifer meets Leviathan, and Leviathan explains to Lucifer about The Seven Deadly Sins, the seven demon king rulers of hell. After The Seven Deadly Sins seal Lucifer's powers, Lucifer goes on a journey with Maria and Leviathan to defeat them.<br><br><br/><br/>(Source: Official Website)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
-
-
 ![Zero kara Hajimeru Mahou no Sho]({filename}/images/anime/2017/spring/97682-YRhTwV979zSr.jpg "Zero kara Hajimeru Mahou no Sho"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">White Fox, Infinite, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/white_fox.png){: .studio}
 
 ### [Zero kara Hajimeru Mahou no Sho](https://anilist.co/anime/97682)
 
@@ -127,23 +98,8 @@ status: draft
 
 
 
-![Renai Boukun]({filename}/images/anime/2017/spring/21517-LZipZcb5kEXT.png "Renai Boukun"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">EMT Squared, 
-</div>
-
-### [Renai Boukun](https://anilist.co/anime/21517)
-
-> The story begins when Guri, an angel with a mysterious item which turns any two people who kiss into a couple, appears before a high school boy named Seiji Aino. However, there is a yandere high school girl named Akane who loves Seiji.<br><br/><br><br/>(Source: ANN)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
-
-
 ![SAGRADA RESET]({filename}/images/anime/2017/spring/97660-82E7nL8irvuF.jpg "SAGRADA RESET"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">David Production, 
-</div>
+<div class="studio">David Production</div>
 
 ### [SAGRADA RESET](https://anilist.co/anime/97660)
 
@@ -154,9 +110,7 @@ status: draft
 
 
 ![Re:CREATORS]({filename}/images/anime/2017/spring/97980-MVa6bwEU1aBm.jpg "Re:CREATORS"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">TROYCA, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/troyca.png){: .studio}
 
 ### [Re:CREATORS](https://anilist.co/anime/97980)
 
@@ -167,9 +121,7 @@ status: draft
 
 
 ![Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?]({filename}/images/anime/2017/spring/21860-9uW17VK0afyY.jpg "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Satelight, 
-</div>
+<div class="studio">Satelight</div>
 
 ### [Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?](https://anilist.co/anime/21860)
 
@@ -180,9 +132,7 @@ status: draft
 
 
 ![Fukumenkei Noise]({filename}/images/anime/2017/spring/21773-k1b0HzcHaaAd.jpg "Fukumenkei Noise"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Brains Base, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/brains_base.png){: .studio}
 
 ### [Fukumenkei Noise](https://anilist.co/anime/21773)
 
@@ -193,9 +143,7 @@ status: draft
 
 
 ![SAKURA QUEST]({filename}/images/anime/2017/spring/97903-Q50eYGCP5YQO.jpg "SAKURA QUEST"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">P.A. Works, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/pa_works.png){: .studio}
 
 ### [SAKURA QUEST](https://anilist.co/anime/97903)
 
@@ -206,9 +154,7 @@ status: draft
 
 
 ![Tsuki ga Kirei]({filename}/images/anime/2017/spring/98202-6tcO8jd0Pwj4.jpg "Tsuki ga Kirei"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">feel., 
-</div>
+<div class="studio">feel.</div>
 
 ### [Tsuki ga Kirei](https://anilist.co/anime/98202)
 
@@ -219,9 +165,7 @@ status: draft
 
 
 ![Alice to Zouroku]({filename}/images/anime/2017/spring/97821-2AcwSXsBGsos.jpg "Alice to Zouroku"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">J.C. Staff, 
-</div>
+![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
 ### [Alice to Zouroku](https://anilist.co/anime/97821)
 
@@ -232,9 +176,7 @@ status: draft
 
 
 ![Hinako Note]({filename}/images/anime/2017/spring/87517-YXjXeLO0eDul.jpg "Hinako Note"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Passione, 
-</div>
+<div class="studio">Passione</div>
 
 ### [Hinako Note](https://anilist.co/anime/87517)
 
@@ -245,9 +187,7 @@ status: draft
 
 
 ![Oushitsu Kyoushi Haine]({filename}/images/anime/2017/spring/97932-mIhBEmGhR6uB.jpg "Oushitsu Kyoushi Haine"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">Bridge, 
-</div>
+<div class="studio">Bridge</div>
 
 ### [Oushitsu Kyoushi Haine](https://anilist.co/anime/97932)
 
@@ -255,3 +195,14 @@ status: draft
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
+<div style="text-align: center">
+<hr style="width: 50%"/>
+</div>
+
+<div style="font-size: 60%">
+Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+The following websites were used as sources of information to create the chart : 
+<a href="http://www.animenewsnetwork.com/">ANN</a>
+<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="http://myanimelist.net/">MAL</a>
+</div>
