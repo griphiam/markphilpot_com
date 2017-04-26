@@ -9,8 +9,6 @@ import sys
 import errno
 import os
 
-from pelicanconf import HUMMINGBIRD_API_KEY
-
 log = logging.getLogger(__name__)
 
 STUDIOS = {
@@ -145,70 +143,7 @@ def anilist_save_image(anime_model, image_dir=None):
     sys.stdout.flush()
 
     return anime_model
-
-
-# def parse_hummingbird(slug, image_dir=None):
-#     r = requests.get('https://hummingbird.me/api/v2/anime/%s' % slug, headers={'X-Client-Id': HUMMINGBIRD_API_KEY})
-#     anime = r.json()['anime']
-#
-#     if image_dir:
-#         mkdir_p(image_dir)
-#         filename = anime['poster_image'].split('/')[-1].split('?')[0]
-#         anime['pv_filename'] = filename
-#         img = requests.get(anime['poster_image'])
-#         with open('%s/%s' % (image_dir, '%s/%s' % (image_dir, filename)), 'wb') as f:
-#             f.write(img.content)
-#             f.close()
-#
-#     return anime
-
-
-# def process_hummingbird_upcoming(season, image_dir=None):
-#     data = {
-#         'shows': [],
-#         'season': season
-#     }
-#     r = requests.get('https://hummingbird.me/anime/upcoming/%s' % season)
-#     soup = BeautifulSoup(r.text, 'html5lib')
-#
-#     entries = soup.find('ul', class_='large-block-grid-5').select('li.card')
-#
-#     print('Found %d shows' % len(entries))
-#
-#     if image_dir:
-#         mkdir_p(image_dir)
-#
-#     for e in entries:
-#         link = e.find('a')['href']
-#         slug = link[7:]
-#         try:
-#             r = requests.get('https://hummingbird.me/api/v2/anime/%s' % slug,
-#                              headers={'X-Client-Id': HUMMINGBIRD_API_KEY})
-#             r.raise_for_status()
-#             show = r.json()['anime']
-#
-#             if 'producers' not in show or show['producers'] is None:
-#                 show['producers'] = []
-#
-#             data['shows'].append(show)
-#
-#             if image_dir:
-#                 filename = show['poster_image'].split('/')[-1].split('?')[0]
-#                 show['pv_filename'] = filename
-#                 img = requests.get(show['poster_image'])
-#                 with open('%s/%s' % (image_dir, filename), 'wb') as f:
-#                     f.write(img.content)
-#                     f.close()
-#
-#         except Exception, e:
-#             log.error(e.message, exc_info=True)
-#             print('Skipped %s' % slug)
-#             exit(1)
-#         sys.stdout.write('.')
-#         sys.stdout.flush()
-#
-#     return data
-
+    
 
 if __name__ == '__main__':
     """
