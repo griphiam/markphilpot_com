@@ -5,7 +5,6 @@ Category: anime
 Slug: anime_2017_spring_first
 Summary: First Impressions of the Anime Spring 2017 Season
 Hero: background-image: url(/images/anime/2017/spring/hero.jpg);
-status: draft
 
 [TOC]
 
