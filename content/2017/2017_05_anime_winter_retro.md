@@ -1,6 +1,6 @@
 Title: Anime Winter 2017 Retrospective
 Date: 2017-04-25 21:19:00
-Tags: anime, first impressions
+Tags: anime, retro
 Category: anime
 Slug: anime_2017_winter_retro
 Summary: Anime Winter 2017 Season Retrospective
