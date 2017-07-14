@@ -14,7 +14,9 @@ Status: draft
 
 ### [No Game No Life -Zero-](https://anilist.co/anime/21875)
 
-It took me a while to figure out that Vol 6 was actually a prequel story about the world of *Disboard*. The original anime was only an adaptation of Volumes 1 and 2.
+I don't usually include movies on this list but wanted to mention this one:
+
+It took me a while to figure out that this movie prequel story about the world of *Disboard* despite it being an adaption of Volume 6. The original anime was only an adaptation of Volumes 1 and 2 (and to rub salt in the wound, they've only released a single volume of the manga adaptation).
 
 *Sigh*
 
@@ -27,13 +29,13 @@ I still want a continuation, but I guess I'll have to settle for this. It's at l
 
 ### [Katsugeki Touken Ranbu](https://anilist.co/anime/21742)
 
-Not being familiar *at all* with Touken Ranbu the game, I went into this story cold -- I mean it's ufotable, which means there was no way I wouldn't give it a shot. Doesn't disappoint. Great fight sequences, groundwork for some good character dynamics, and the hinting of orchestrated conflict sells it for me.
+Not being familiar *at all* with Touken Ranbu the game, I went into this story cold -- I mean it's ufotable, which means there was no way I wasn't going to give it a shot. I can easily say that it doesn't disappoint. Great fight sequences, groundwork for some good character dynamics, and the hinting of an orchestrated conflict sells it for me.
 
 
 
 
 ![The Reflection Wave One]({filename}/images/anime/2017/summer/21461-uMKVoLchuwUK.jpg "The Reflection Wave One"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/studio_deen.png){: .studio}
+![Studio Deen]({filename}/images/anime/studios/half/studio_deen.png){: .studio}
 
 ### [The Reflection Wave One](https://anilist.co/anime/21461)
 
@@ -43,24 +45,16 @@ Not being familiar *at all* with Touken Ranbu the game, I went into this story c
 
 
 
-
-![Kimi no Koe wo Todoketai]({filename}/images/anime/2017/summer/21683-sHlhzB34VIHq.jpg "Kimi no Koe wo Todoketai"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/madhouse.png){: .studio}
-
-### [Kimi no Koe wo Todoketai](https://anilist.co/anime/21683)
-
-> The story depicts of the worries, conflicts, and dreams of a high school girl in Shōnan. Nagisa, a girl who is a little impatient because she cannot find her future calling, wanders into a mini FM radio station that has been disused for several years. On impulse, she tries to become a DJ, and her broadcasted words by chance unexpectedly reaches people.<br><br><br/><br/>(Source: ANN)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
-
 ![Princess Principal]({filename}/images/anime/2017/summer/98505-TSRbOdDsp5jT.jpg "Princess Principal"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/studio_3hz.png){: .studio}
+![Studio 3Hz]({filename}/images/anime/studios/half/studio_3hz.png){: .studio}
 
 ### [Princess Principal](https://anilist.co/anime/98505)
 
-HOLY SHIT.
+HOLY SHIT
 
+From the studio that brought you [Flip Flappers](https://anilist.co/anime/21714/FlipFlappers)... Wow! I was not expecting any of that based on the previews.
+
+I must commend 3Hz in adapting original stories. It's very risky but I hope (*hope hope hope*) that they are rewarded for their work and that *Princess* becomes more than an under-appreciated gem.
 
 
 ![Netsuzou Trap -NTR-]({filename}/images/anime/2017/summer/97833-abG4ciT52q37.jpg "Netsuzou Trap -NTR-"){: .center}
@@ -68,43 +62,38 @@ HOLY SHIT.
 
 ### [Netsuzou Trap -NTR-](https://anilist.co/anime/97833)
 
-> Yuma and Hotaru have been friends since childhood. It is only natural that when Yuma is nervous about her new boyfriend, she asks Hotaru along with her boyfriend for a double date. But when Hotaru offers herself to Yuma as "practice," both girls realize that they're more interested in each other than they are in their own boyfriends.<br><br><br/><br/>(Source: Seven Seas)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+If they ditch the boyfriends completely rather than continually having them loom, I might stick with it. The violent boyfriend angle in episode 2 is a sure fire way to get dropped if not addressed quickly.  It's a short anyway so minimal investment required.
 
 
 
 
 ![Fate/Apocrypha]({filename}/images/anime/2017/summer/98035-g3D2miwA9dSd.jpg "Fate/Apocrypha"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
+![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Fate/Apocrypha](https://anilist.co/anime/98035)
 
-> There was once a Holy Grail War waged by Mages and Heroic Spirits in a town of Fuyuki. However, one Mage took advantage of the chaos of World War II to steal a Holy Grail. Several decades have passed, and the Yggdmillennia family, who took upon the Holy Grail as its symbol, defected from the Mages' Association. Furious, the Association sent forces to deal with the Yggdmillennia, but were defeated. With the Holy Grail system changed, war at an unprecedented scale breaks out. <br><br>(Source: ANN, edited)
+Ok, this is my chance to **RANT** on how poorly Netflix have treated the anime properties they've acquired. OH MY FOR THE LOVE OF GOD JUST RELEASE THE DAMN EPISODES IN REAL TIME! WHAT ARE YOU DOING? DO YOU NOT UNDERSTAND HOW THIS COMMUNITY WORKS?
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+And while I have the soap box: Amazon
 
+WORKOUT YOUR FREAKING PRICING! WHAT THE HELL IS WITH THE DOUBLE PAY WALL?
 
 
 ![New Game!!]({filename}/images/anime/2017/summer/98292-MjBqoQt8fjzF.png "New Game!!"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/dogakobo.png){: .studio}
+![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){: .studio}
 
 ### [New Game!!](https://anilist.co/anime/98292)
 
-> The second season of New Game! Continuing to show the daily grind of the game development studio, Eagle Jump.
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+It feels like they never left. *New Game!!* (literally) Onwards!
 
 
 
 ![Gamers!]({filename}/images/anime/2017/summer/97766-PtVldOnUhEcQ.jpg "Gamers!"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/pine_jam.png){: .studio}
+![Pine Jam]({filename}/images/anime/studios/half/pine_jam.png){: .studio}
 
 ### [Gamers!](https://anilist.co/anime/97766)
 
-> Centering on the gaming lives of various high school students who play video games, including: Keita Amano, a lonely young man who loves video games; Karen Tendou, the beautiful president of the video game club; Chiaki Hoshinomori, who constantly fights with Keita; and Tasuku Uehara, who puts on a facade of being satisfied with his life in the real world, but he in truth loves video games.<br><br/><br><br/>(Source: ANN)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+About half way through the opening episode I thought I had written off the show -- I thought I knew where it was going. The ending kind of threw me for a loop. If it's just a hook and it goes back to a club show playing it by the books, I'll probably drop it. If it goes to some new places and remains genuine, I think this show might be a pleasant surprise.
 
 
 
@@ -114,77 +103,76 @@ HOLY SHIT.
 
 ### [Hajimete no Gal](https://anilist.co/anime/97863)
 
-> The romantic comedy begins with Junichi "Jun" Hashiba, an uncool high school student who frets about wanting to lose his virginity. Egged on by his friends, Jun goes on his knees and confesses his love to a classmate named Yukana Yame. The confession surprisingly works and the couple goes out. However, Jun finds himself in uncharted waters with Yame, a trendy and fashion-conscious "gal" (gyaru).<br><br/><br><br/>(Source: ANN)<br><br/><br><br/><i>The first two episodes get an advance airing on June 25, 2017.</i>
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+Ugh, I felt contaminated after watching this. Could have been good if treated with respect, but the writing is just flat out disgusting. There is a chance this was just a bad opening episode, but somehow I doubt it.
 
 
 
 
 ![Koi to Uso]({filename}/images/anime/2017/summer/98320-S6WtpgeZIs6v.jpg "Koi to Uso"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/lidenfilms.png){: .studio}
+![Liden Films]({filename}/images/anime/studios/half/lidenfilms.png){: .studio}
 
 ### [Koi to Uso](https://anilist.co/anime/98320)
 
-> Lies are forbidden and love moreso. In the near future, when you turn sixteen, you are assigned a marriage partner by the government.  Yukari Nejima is a below average fifteen year old, but in within him, hides a heart burning with passion! In this world in which love is forbidden, what will happen to him?<br><br>(Source: MangaBox, edited)
+What a waste of a premise. Maybe I'm judging too quickly, but it was hard to get over the whole: "I've loved you for five years but I've never talked to you once... Oh you've liked me too? What a coincidence"
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+And the eyes! It's like an entire cast modeled after [Visha](https://anilist.co/character/121057/ViktoriyaIvanovnaSerebryakova) from [Youjo Senki](https://anilist.co/anime/21613/YoujoSenki)!
 
-
-
-![Uchiage Hanabi, Shita Kara Miru ka? Yoko Kara Miru ka?]({filename}/images/anime/2017/summer/97908-CD9HTDWy8V21.jpg "Uchiage Hanabi, Shita Kara Miru ka? Yoko Kara Miru ka?"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/shaft.png){: .studio}
-
-### [Uchiage Hanabi, Shita Kara Miru ka? Yoko Kara Miru ka?](https://anilist.co/anime/97908)
-
-> The film is set on one day during summer vacation, and follows a group of boys who try to view a fireworks display from the town lighthouse to see if they look round or flat when viewed from the side. Meanwhile, one of the boys, Norimichi, receives an invitation from his crush Nazuna to run away with her.<br><br><br/><br/>(Source: ANN)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
 
 
 
 ![Isekai Shokudou]({filename}/images/anime/2017/summer/97617-TmRRraupfbT5.jpg "Isekai Shokudou"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/silver_link.png){: .studio}
+![Silver Link]({filename}/images/anime/studios/half/silver_link.png){: .studio}
 
 ### [Isekai Shokudou](https://anilist.co/anime/97617)
 
-> At the bottom floor of the building with a dog signboard, in the shopping district near the office street, there lies a cafeteria called 'Youshoku no Nekoya'. Open for fifty years and has satisfied the various salarymen from nearby offices. Despite it being called a Western cuisine cafeteria, it also provides other varieties of menus. For the people of this certain world, it’s their one-and-only special cafeteria.<br/><br><br/>There is, however, one secret to 'Nekoya.' The cafeteria is closed to the public every Saturday in order to make way for special guests. <br/><br><br/><br><br/>(Source: Official site)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+There has got to be something more than just food every week. At least with a show like [Death Parade](https://anilist.co/anime/20931/DeathParade) where the main characters where secondary to the weekly story and conflict, there was a gripping, dramatic scenario playing out. Making out with food just isn't going to do it for me without some sort of character development.  I'll give it another episode or two, but it's going to have to turn things around to keep my interest.
 
 
 
 
 ![Kakegurui]({filename}/images/anime/2017/summer/98314-BWpNNKOmiUoe.jpg "Kakegurui"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/mappa.png){: .studio}
+![Mappa]({filename}/images/anime/studios/half/mappa.png){: .studio}
 
 ### [Kakegurui](https://anilist.co/anime/98314)
 
-> Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. It's not athletic prowess or book smarts that keep you ahead. It's reading your opponent. What better way to hone those skills than with a rigorous curriculum of gambling? Here, the winners live like kings, and the losers are put through the wringer. <br><br>(Source: Yen Press)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+Yep. This is bat-shit-crazy. I'm sold.
 
 
 
 
 ![Tsurezure Children]({filename}/images/anime/2017/summer/98291-rr8vlG8ZQ1zB.jpg "Tsurezure Children"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/studio_gokumi.png){: .studio}
+![Studio Gokumi]({filename}/images/anime/studios/half/studio_gokumi.png){: .studio}
 
 ### [Tsurezure Children](https://anilist.co/anime/98291)
 
-> Various short stories. From a boy, crippled by his absolute lack of confidence in himself, that cannot accept the fact that the girl of his dreams actually asked him out on a date, to the near-psychotic girl that pours her own blood into her homemade chocolate in order to win his heart.<br><br><br/><br/>(Source: MangaHelpers, edited)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+I'm actually caught up on the manga/comic with this one. The stories are really funny and the studio has done a good job of blending the stories together so it feels like it occupies one world (rather than just disconnected skits).
 
 
 
 
 ![Aho-Girl]({filename}/images/anime/2017/summer/98251-RAgDWqnspedR.jpg "Aho-Girl"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/diomedea.png){: .studio}
+![Diomedea]({filename}/images/anime/studios/half/diomedea.png){: .studio}
 
 ### [Aho-Girl](https://anilist.co/anime/98251)
 
-> Yoshiko, a truly clueless high school girl, is never far from over the top hijinks. Her childhood friend has no choice but to look out for her!<br><br><br/><br/>(Source: Kodansha Comics)
+This show is really, really stupid... But *really* funny.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+
+
+
+![Centaur no Nayami]({filename}/images/anime/2017/summer/98519-WOOg7YxxktWt.jpg "Centaur no Nayami"){: .center}
+<div class="studio">Emon</div>
+
+### [Centaur no Nayami](https://anilist.co/anime/98519)
+
+Think [Demi-chan wa Kataritai](https://anilist.co/anime/97592/DemichanwaKataritai) with an opportunity to explore racial divisions because there aren't any humans and there are 4 (at least... something to do with 6 rather than for main appendages...) distinct racial groups. I don't yet know if they will actually explore those angles and what the conflicts will be, but they have definitely set themselves up to dive into those if they want. I'm hoping they do, and not just dance around the edges with it.
+
+
+
+![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]({filename}/images/anime/2017/summer/98659-8vvB0aTeZhHc.png "Centaur no Nayami"){: .center}
+![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
+
+### [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://anilist.co/anime/98659/YoukosoJitsuryokuShijouShuginoKyoushitsue)
+
+Initially, I didn't have this on my list. From the makers of [Assassination Classroom](https://anilist.co/anime/20755/AnsatsuKyoushitsuTV) comes yet another worst-class-against-the-world story, with a little less of the hijinx. It could still prove to be a dud, but as long as the soft-spoken protagonist has another gear or two, my gut says this could bet good.
 
