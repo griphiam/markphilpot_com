@@ -1,11 +1,10 @@
 Title: Anime Summer 2017 First Impressions
-Date: 2017-07-13 14:01:00
+Date: 2017-07-16 16:29:00
 Tags: anime, first impressions
 Category: anime
 Slug: anime_2017_summer_first
 Summary: First Impressions of the Anime Summer 2017 Season
 Hero: background-image: url(/images/anime/2017/summer/montage.jpg);
-Status: draft
 
 [TOC]
 
@@ -39,9 +38,7 @@ Not being familiar *at all* with Touken Ranbu the game, I went into this story c
 
 ### [The Reflection Wave One](https://anilist.co/anime/21461)
 
-> After THE REFLECTION, some of the people in all parts of the world are discovered with super powers.<br><br/>Some become heroes, and others villains.<br><br/>How did the Reflection happen? What was the cause of it?<br><br/>With many unsolved mysteries, the world is lead into turmoil.<br><br/><br><br/>(Source: ANN)
-
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
+Don't know why this one is airing so late but it's at least on my radar. Really don't know much about it to be honest.
 
 
 
@@ -52,7 +49,7 @@ Not being familiar *at all* with Touken Ranbu the game, I went into this story c
 
 HOLY SHIT
 
-From the studio that brought you [Flip Flappers](https://anilist.co/anime/21714/FlipFlappers)... Wow! I was not expecting any of that based on the previews.
+From the studio that brought you [Flip Flappers](https://anilist.co/anime/21714/FlipFlappers)... Wow! I was not expecting any of that based on the previews. The animation and backgrounds were incredible and the dialog hints at some very interesting characters.
 
 I must commend 3Hz in adapting original stories. It's very risky but I hope (*hope hope hope*) that they are rewarded for their work and that *Princess* becomes more than an under-appreciated gem.
 
@@ -174,5 +171,16 @@ Think [Demi-chan wa Kataritai](https://anilist.co/anime/97592/DemichanwaKatarita
 
 ### [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://anilist.co/anime/98659/YoukosoJitsuryokuShijouShuginoKyoushitsue)
 
-Initially, I didn't have this on my list. From the makers of [Assassination Classroom](https://anilist.co/anime/20755/AnsatsuKyoushitsuTV) comes yet another worst-class-against-the-world story, with a little less of the hijinx. It could still prove to be a dud, but as long as the soft-spoken protagonist has another gear or two, my gut says this could bet good.
+Initially, I didn't have this on my list. From the makers of [Assassination Classroom](https://anilist.co/anime/20755/AnsatsuKyoushitsuTV) comes yet another worst-class-against-the-world story, with a little less of the hijinx. It could still prove to be a dud, but as long as the soft-spoken protagonist has another gear or two, my gut says this could be good.
 
+
+
+
+![Made in Abyss]({filename}/images/anime/2017/summer/97986-ZL0DkAyNWyxG.jpg "Made in Abyss"){: .center}
+<div class="studio">Kinema Citrus</div>
+
+### [Made in Abyss](https://anilist.co/anime/97986/MadeinAbyss)
+
+Another "season first impressions" post had good things to say about this one so I decided to give it a shot -- Really could be a great adventure series! Some good world building combined with some nice animation and interesting characters (and good voice acting to be honest) and you can count me in for a few episodes.
+
+I have no idea where the story can go but it really was a great opening episode. Fingers crossed this falls into the "weekly adventure" category.
