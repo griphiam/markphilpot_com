@@ -12,24 +12,30 @@ addons:
 install:
   - "pip install -r requirements.txt"
 script: "pelican -s publishconf.py content/"
+before_deploy:
+  - pip install --user awscli
 deploy:
-  provider: s3
-  access_key_id: $AWS_ACCESS_KEY # Env
-  secret_access_key: $AWS_SECRET_KEY # Env
-  bucket: markphilpot.com
-  endpoint: markphilpot.com.s3-website-us-west-2.amazonaws.com
-  region: us-west-2
+  provider: script
+  script: ~/.local/bin/aws s3 sync output s3://markphilpot.com --region=us-west-2 --delete --cache-control="max-age=600" --acl="public-read"
   skip_cleanup: true
-  local-dir: output
-  acl: public_read
-  detect_encoding: true
-  cache_control: "max-age=600"
-notifications:
-  email:
-    on_failure: always
-  slack:
-    rooms:
-      - $SLACK_ACCOUNT:$SLACK_TOKEN$SLACK_ROOM
+# deploy:
+#   provider: s3
+#   access_key_id: $AWS_ACCESS_KEY # Env
+#   secret_access_key: $AWS_SECRET_KEY # Env
+#   bucket: markphilpot.com
+#   endpoint: markphilpot.com.s3-website-us-west-2.amazonaws.com
+#   region: us-west-2
+#   skip_cleanup: true
+#   local-dir: output
+#   acl: public_read
+#   detect_encoding: true
+#   cache_control: "max-age=600"
+# notifications:
+#   email:
+#     on_failure: always
+#   slack:
+#     rooms:
+#       - $SLACK_ACCOUNT:$SLACK_TOKEN$SLACK_ROOM
 branches:
   only:
     - master
