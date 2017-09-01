@@ -16,7 +16,7 @@ before_deploy:
   - pip install awscli
 deploy:
   provider: script
-  script: aws s3 sync output s3://markphilpot.com --region=us-west-2 --delete --cache-control="max-age=600" --acl="public-read"
+  script: AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY AWS_SECRET_ACCESS_KEY=$AWS_SECRET_KEY aws s3 sync output s3://markphilpot.com --region=us-west-2 --delete --cache-control="max-age=600" --acl="public-read"
   skip_cleanup: true
 # deploy:
 #   provider: s3
