@@ -5,3 +5,12 @@
   margin-bottom: 120px;
   font-weight: bold;
 }
+
+.spoiler {
+    filter: blur(10px);
+    transition-property: filter;
+    transition-duration: .2s;
+}
+.spoiler:hover, .spoiler:focus {
+    filter: blur(0px);
+}
