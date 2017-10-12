@@ -18,6 +18,4 @@ status: draft
 
 > {{ show.__page__.description|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](__){: .link-nb}
-
 {% endfor %}
