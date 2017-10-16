@@ -1,11 +1,10 @@
 Title: Anime Fall 2017 First Impressions
-Date: 2017-10-10 20:25:00
+Date: 2017-10-15 18:41:00
 Tags: anime, first impressions
 Category: anime
 Slug: anime_2017_fall_first
 Summary: First Impressions of the Anime Fall 2017 Season
 Hero: background-image: url(/images/anime/2017/fall/hero.jpg);
-status: draft
 
 [TOC]
 
@@ -72,14 +71,18 @@ Ugh. Wasn't really expecting much going into it and I know I technically only wa
 
 
 ![Inuyashiki]({filename}/images/anime/2017/fall/97922-seJC6kFXjBFS.jpg "Inuyashiki"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/.png){: .studio}
-<div class="studio">MAPPA, 
-</div>
+![MAPPA]({filename}/images/anime/studios/half/mappa.png){: .studio}
 
 ### [Inuyashiki](https://anilist.co/anime/97922)
 
-> Ichiro Inuyashiki is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he's constantly ignored and disrespected by his family despite all that he's done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn't get any worse, a blinding light in the night sky strikes the earth where Ichiro stands. He later wakes up to find himself unscathed, but he soon starts to notice that there's something…different about himself.<br><br><br/><br/>(Source: Crunchyroll)
+A few notes:
 
+1. The kids and wife are assholes
+2. We don't deserve dogs
+3. ... *Interesting?* ...
+4. Nice to hear a *Man with a Mission* OP again
+
+I feel like this was an episode 0 -- the origin story if you will -- and that we'll get a better idea of the show in the next two episodes. I was encouraged to read (after the fact) that the VA for the MC is a 68 year old.
 
 
 ![Juuni Taisen]({filename}/images/anime/2017/fall/98443-1d7qImgzb6Dj.jpg "Juuni Taisen"){: .center}
@@ -169,7 +172,7 @@ I'm on the fence for this one. I think it was because there was no villain intro
 
 ### [Houseki no Kuni](https://anilist.co/anime/98707)
 
-I'm going to go into this one with an open mind. While I still think this would be better hand drawn, the full CGI treatment isn't an immediate disqualification -- they at least picked the right story/characters to do it with CGI -- Anthropomorphize metals.
+I'm going to go into this one with an open mind. While I still think this would be better hand drawn, the full CGI treatment isn't an immediate disqualification -- they at least picked the right story/characters to do it with CGI -- Anthropomorphize gemstones.
 
 There could be some very interesting world building here, so I'm going to stick around and see if my interest is rewarded. The one gripe I will air is the eyes in the characters. It's the one key aspect that anime can utilize to its full extent and I feel like the eyes are a let down with these characters -- they feel flat and unexpressive.
 
@@ -243,4 +246,4 @@ It's very different to say the least. It kind of reminded me of [Flip Flappers](
 
 Initially reminded me of _Gamers!_ and then there was a very weird turn at the end. Another show that will take a few episodes to sort everything out.
 
-Definitely failed to get all the references though.
+Trying to follow all the references was fun.
