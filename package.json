@@ -10,11 +10,5 @@
     "husky": "^0.14.3",
     "lint-staged": "^4.3.0",
     "prettier": "^1.8.1"
-  },
-  "scripts": {
-    "precommit": "lint-staged"
-  },
-  "lint-staged": {
-    "*.md": ["prettier --parser markdown --write", "git add"]
   }
 }
