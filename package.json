@@ -1,0 +1,20 @@
+{
+  "name": "markphilpot_com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:markphilpot/markphilpot_com.git",
+  "author": "Mark Philpot <mark.philpot@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^4.3.0",
+    "prettier": "^1.8.1"
+  },
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.md": ["prettier --parser markdown --write", "git add"]
+  }
+}
