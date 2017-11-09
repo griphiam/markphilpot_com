@@ -2,6 +2,7 @@
 
 ```bash
 brew install libjpeg optipng
+yarn install
 ```
 
 For Hero Images :: https://unsplash.com/
