@@ -45,8 +45,7 @@ While you (and I) wait, please enjoy the following selection:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z2pRHJYU9QQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sound-euphonium){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sound-euphonium){:.link-nb}
 
 ![Drifters]({filename}/images/anime/2016/fall/drifters.jpg "Drifters"){:.center}
 
@@ -61,8 +60,7 @@ and timing of the jokes was really off for the opening episode. I think I'll
 give it one more shot to hook me but if I was a betting man I would pre-slot
 this over to _Dropped_.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/drifters){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/drifters){:.link-nb}
 
 ![3-gatsu no Lion]({filename}/images/anime/2016/fall/comment_LCHX2PGlH5dntysUdbxfGoihNl8wp13e.jpg "3-gatsu no Lion"){:.center}
 ![$STUDIO]({filename}/images/anime/studios/half/shaft.png){: .studio}
@@ -74,8 +72,7 @@ Wow! It's Shaft not doing a
 art style, the restrained use of dialog and the OST is fantastic too. I'm firmly
 sold on this one (and it's a two cour show to boot).
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/march-comes-in-like-a-lion){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/march-comes-in-like-a-lion){:.link-nb}
 
 ![Yuri!!! on Ice]({filename}/images/anime/2016/fall/1469966970123686541.jpg "Yuri!!! on Ice"){:.center}
 
@@ -89,8 +86,7 @@ that really hooks you in while the comedy acknowledges not to take the show too
 seriously. It was a fantastic combination. Give this show a chance even if you
 would initial balk at the subject. I don't think you will regret it.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/yuri-on-ice){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/yuri-on-ice){:.link-nb}
 
 ![Shuumatsu no Izetta]({filename}/images/anime/2016/fall/a44c00288a0bea7fdf38780b094b6dd41473614598_full.jpg "Shuumatsu no Izetta"){:.center}
 
@@ -106,8 +102,7 @@ unfortunate shot to the system got me to realize all the other flaws and
 suddenly I wasn't quite as interested. I will still give this one a few more
 episodes but frankly I don't have high hopes for this.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/izetta-the-last-witch){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/izetta-the-last-witch){:.link-nb}
 
 ![Trickster: Edogawa Ranpo "Shounen Tanteidan" yori]({filename}/images/anime/2016/fall/tumblr_ob0e72M2is1uq3bnuo1_1280.jpg
 "Trickster: Edogawa Ranpo "Shounen Tanteidan" yori"){: .center}
@@ -120,8 +115,7 @@ explained in the first episode but with a two cour show, they can afford to take
 their time. The animation is top notch and there is every indication the dialog
 is going to be chock full of some clever banter. Definitely a keeper.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/trickster){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/trickster){:.link-nb}
 
 ![Udon no Kuni no Kiniro Kemari]({filename}/images/anime/2016/fall/tumblr_oanqk99K6L1uq3bnuo4_1280.jpg "Udon no Kuni no Kiniro Kemari"){:.center}
 
@@ -136,8 +130,7 @@ be anywhere near as good as S&L. Apparently death, food and a cute kid are a
 winning combination. I'll stick this one out as long as they keep a good level
 of character development going.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/pocos-udon-world){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/pocos-udon-world){:.link-nb}
 
 ![Gi(a)rlish Number]({filename}/images/anime/2016/fall/CqwPjoiUIAAV5a4.jpg "Gi(a)rlish Number"){:.center}
 
@@ -150,8 +143,7 @@ going on here. This one feels like
 [Shirobako](https://hummingbird.me/anime/shirobako)'s evil twin taking the whole
 experience down a few notches. Let's see where this one goes.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/girlish-number){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/girlish-number){:.link-nb}
 
 ![Mahou Shoujo Ikusei Keikaku]({filename}/images/anime/2016/fall/Cn2lnaNUAAArho1.jpg "Mahou Shoujo Ikusei Keikaku"){:.center}
 ![$STUDIO]({filename}/images/anime/studios/half/lerche.png){: .studio}
@@ -167,8 +159,7 @@ just curious more than anything). Hopefully we get to see a new side of a _Mahou
 Shoujo_ turned on its head rather than yet another exploitive magical girl
 torture porn series.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/magical-girl-raising-project){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/magical-girl-raising-project){:.link-nb}
 
 ![Fune wo Amu]({filename}/images/anime/2016/fall/5538f775be106a31e7592cb8b20a085d.jpg "Fune wo Amu"){:.center}
 
@@ -193,8 +184,7 @@ This one has the potential to be the gem of the season. The animation is
 gorgeous and an absolute trip. No idea where this one's going, but I'm
 definitely in for the ride.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/flip-flappers){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/flip-flappers){:.link-nb}
 
 ![Divider]({filename}/images/dividers/heartbeat_half.png){: .center }
 
@@ -206,8 +196,7 @@ definitely in for the ride.
 
 Cute and Fun. Definitely give this one a click.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/kiitaros-yokai-picture-diary){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/kiitaros-yokai-picture-diary){:.link-nb}
 
 ![Mahou Tsukai no Yome: Hoshi Matsu Hito]({filename}/images/anime/2016/fall/magus.jpg "Mahou Tsukai no Yome: Hoshi Matsu Hito"){:.center}
 ![Wit]({filename}/images/anime/studios/half/wit.png){: .studio}
@@ -219,8 +208,7 @@ shame because I think this could be a really great full length series. It got me
 to pick up the manga so, again, it accomplished what it set out to do (provided
 they were actually selling the English translation...)
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/the-ancient-magus-bride){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/the-ancient-magus-bride){:.link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>

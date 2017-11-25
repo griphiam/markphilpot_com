@@ -87,8 +87,7 @@ success of the first season (which in my opinion was not a positive factor the
 first time). The humor seemed to build from where they left off, but overall I'm
 left with more concerns than before -- usually not a good sign.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world){:.link-nb}
 
 ![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){:.center}
 ![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:.studio}
@@ -101,8 +100,7 @@ but we'll have to give it a few more episodes to prove itself. The show
 seemingly avoided a few pitfalls in it's debut and managed to make the two main
 characters slightly more than one dimensional. Fingers crossed?
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/masamune-kuns-revenge){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/masamune-kuns-revenge){:.link-nb}
 
 ![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){:.center}
 ![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
@@ -149,8 +147,7 @@ notice). A season after another mediocre war anime in
 [Izetta](http://anilist.co/anime/21838/ShuumatsunoIzetta) I sincerely doubt I'll
 be up for this one.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/saga-of-tanya-the-evil){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/saga-of-tanya-the-evil){:.link-nb}
 
 ![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){:.center}
 ![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:.studio}
@@ -164,8 +161,7 @@ to the story and characters that what we see on the surface, but I won't be
 surprised if we continue a mediocre romcom plot with needless fan service and an
 abundance of tropes.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/fuuka){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/fuuka){:.link-nb}
 
 ![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){:.center}
 ![ufotable]({filename}/images/anime/studios/half/ufotable.png){:.studio}
@@ -197,8 +193,7 @@ Wow. So Madhouse can release a dud. I'm not sure I understand _who_ would be
 interested in a tale spun around a bureaucracy, but to combine it with this
 particular character design seems to me like an absolute recipe for disaster
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/acca-13-territory-inspection-dept){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/acca-13-territory-inspection-dept){:.link-nb}
 
 ![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){:.center}
 ![Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
@@ -210,8 +205,7 @@ of tea, but it was just _so good_ at what it set out to do. I'm even more
 excited for this cour since (hopefully) will be focusing on the new student,
 _Yotaro_.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/showa-genroku-rakugo-shinju){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/showa-genroku-rakugo-shinju){:.link-nb}
 
 ![Seiren]({filename}/images/anime/2017/winter/97730-Hg72XZPqC2VO.jpg "Seiren"){:.center}
 
@@ -224,8 +218,7 @@ SS](http://anilist.co/anime/8676/AmagamiSS) (if not the studio). I honestly
 rather enjoyed Amagami, but I'm going to at least wait so I can binge each
 heroine's arc rather than waiting week to week.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/seiren){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/seiren){:.link-nb}
 
 ![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){:.center}
 ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
@@ -239,8 +232,7 @@ Lightning](http://anilist.co/manga/86044/AmaamatoInazuma) filled last year. I
 couldn't help but smile throughout the entire first episode. Kudos to A1 if they
 can pull this off.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/interviews-with-monster-girls){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/interviews-with-monster-girls){:.link-nb}
 
 ![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){:.center}
 ![Kyoto]({filename}/images/anime/studios/half/kyoto.png){: .studio}
@@ -250,8 +242,7 @@ can pull this off.
 This one got quite a few chuckles out of me. It feels like an anime short in the
 body of a full length series. Episodic hijinks, here we come.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/miss-kobayashis-dragon-maid){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/miss-kobayashis-dragon-maid){:.link-nb}
 
 ![Gabriel DropOut]({filename}/images/anime/2017/winter/21878-G5sVkEbSgnfu.jpg "Gabriel DropOut"){:.center}
 ![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){:.studio}
@@ -265,8 +256,7 @@ reverse fashion... almost like [Hataraku
 Maou-sama!](http://anilist.co/anime/15809/HatarakuMaousama) (_Devil is a
 Part-Timer_)).
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/gabriel-dropout){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/gabriel-dropout){:.link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>

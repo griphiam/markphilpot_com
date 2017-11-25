@@ -49,8 +49,7 @@ with both a resolution and a tease for more that was actually satisfying (though
 to be fair that might be because I've been reading the manga). I really,
 **really** hope there is a second season in store for us down the road.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/relife){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/relife){:.link-nb}
 
 ![orange]({filename}/images/anime/2016/summer/key.jpg "orange"){: .center}
 ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
@@ -65,8 +64,7 @@ And no, I haven't made any progress through the manga for the same reason. I
 think I might be scarred by [Shigatsu wa Kimi no
 Uso](https://hummingbird.me/anime/shigatsu-wa-kimi-no-uso).
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){:.link-nb}
 
 ![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:.center}
 ![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
@@ -78,8 +76,7 @@ Man). It just wasn't my cup of tea. It's on hold rather than dropped as maybe
 someone will review it and really make me feel that I missed out by not watching
 it.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){:.link-nb}
 
 ![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:.center}
 
@@ -94,8 +91,7 @@ tell you where. The characters are no more than cardboard cutouts of anime
 stereotypes and I really don't see that developing or evolving. I think I heard
 something that there might be a second season? _Shrug_
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){:.link-nb}
 
 ![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:.center}
 
@@ -106,8 +102,7 @@ something that there might be a second season? _Shrug_
 Unfortunately on hold for the time being and through no real fault of the show
 itself -- I just preferred watching other series. One day!
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){:.link-nb}
 
 ![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:.center}
 ![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:.studio}
@@ -127,8 +122,7 @@ radar prior.
 
 So... Mission Accomplished?
 
-[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){:
-.link-nb}
+[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){:.link-nb}
 
 ![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:.center}
 ![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:.studio}
@@ -152,8 +146,7 @@ contrast in tone, at least in the opening few volumes of the manga. The tone of
 the manga is much more lighthearted than the anime adaptation -- I'm curious
 when they get to the battles and war will it continue or shift dramatically.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){:.link-nb}
 
 ![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:.center}
 
@@ -170,8 +163,7 @@ intimate look into the game production process (any studio willing to take that
 one on? Seems like a slam dunk). Since I wasn't expecting that going in, I
 wasn't disappointed with the episodic hijinks.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){:.link-nb}
 
 ![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:.center}
 ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
@@ -184,8 +176,7 @@ it at all. All the characters were fantastic and shout out to the child voice
 actor that plays the little girl. She **nailed** each and every performance and
 was really the linchpin of the series.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){:
-.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){:.link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
