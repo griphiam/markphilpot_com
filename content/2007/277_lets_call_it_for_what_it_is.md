@@ -1,9 +1,11 @@
-Title: lets call it for what it is
-Date: 2007-08-17 12:31:53
-Tags: imported
-Category: updates
-Slug: lets_call_it_for_what_it_is
-
+---
+title: "lets call it for what it is"
+date: "2007-08-17 12:31:53"
+tags: [imported]
+category: updates
+slug: lets_call_it_for_what_it_is
+---
+	
 Basically this is on hiatus until the middle of September (when we finally settle into our apartment on campus).  I have a bunch of posts queued up, but no time/energy to follow up with them on a regular basis.  I promise this will become lively again soon =) (hell, its only a few weeks anyway).
 
 We're down in Monterey this weekend, Tahoe next weekend, Philadelphia the following, moving/wedding in Yuba City the following, GSB events the following... basically we're booked.  Hopefully things will feel less stressed here once we can settle into a routine.

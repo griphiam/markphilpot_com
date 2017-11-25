@@ -1,9 +1,11 @@
-Title: Delicious Linkroll -- Canvas Plugin
-Date: 2006-06-29 21:12:40
-Tags: imported, delicious
-Category: software
-Slug: delicious_linkroll_canvas_plugin
-
+---
+title: "Delicious Linkroll -- Canvas Plugin"
+date: "2006-06-29 21:12:40"
+tags: [imported, delicious]
+category: software
+slug: delicious_linkroll_canvas_plugin
+---
+	
 
 My little contribution to the <a title="Canvas for Wordpress" href="http://www.freshpursuits.com/canvas/">Canvas</a> community. This plugin uses the Del.icio.us javascript link roll interface to display your del.icio.us links as a block in Canvas.
 <h4>Download</h4>

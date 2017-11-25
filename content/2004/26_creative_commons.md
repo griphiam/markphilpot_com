@@ -1,9 +1,11 @@
-Title: Creative Commons
-Date: 2004-04-14 17:22:05
-Tags: imported, creative commons, lessig
-Category: thoughts
-Slug: creative_commons
-
+---
+title: "Creative Commons"
+date: "2004-04-14 17:22:05"
+tags: [imported, creative commons, lessig]
+category: thoughts
+slug: creative_commons
+---
+	
 I just finished reading Lawrence Lessig's new book <a href="http://free-culture.cc/">Free Culture</a>, available under a <a href="http://creativecommons.org/">Creative Commons License</a>.  You can download the <a href="http://cyberlaw-temp.stanford.edu/freeculture.pdf">PDF</a> or buy it <a href="http://www.amazon.com/exec/obidos/ASIN/1594200068/lessigorg-20?creative=125581&camp=2321&link_code=as1">here</a>.
 
 My senior year at <a href="http://www.duke.edu">Duke</a>, I took a seminar on Information Technology and the Internet and how they affect different aspects of society.  There, I first read Lessig's <a href="http://www.code-is-law.org/">Code</a>.  Before delving into the book, I want to start with a story.

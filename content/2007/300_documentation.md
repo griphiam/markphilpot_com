@@ -1,9 +1,11 @@
-Title: documentation
-Date: 2007-10-11 16:30:51
-Tags: imported
-Category: rant
-Slug: documentation
-
+---
+title: "documentation"
+date: "2007-10-11 16:30:51"
+tags: [imported]
+category: rant
+slug: documentation
+---
+	
 <em>&lt;rant&gt;</em>
 
 If you are going to document your software/middle-ware/project... hell anything, it does no good to document values without telling us what those values are!!

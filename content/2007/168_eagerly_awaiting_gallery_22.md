@@ -1,9 +1,11 @@
-Title: eagerly awaiting gallery 2.2
-Date: 2007-02-26 14:16:11
-Tags: imported
-Category: software
-Slug: eagerly_awaiting_gallery_22
-
+---
+title: "eagerly awaiting gallery 2.2"
+date: "2007-02-26 14:16:11"
+tags: [imported]
+category: software
+slug: eagerly_awaiting_gallery_22
+---
+	
 
 Two <a href="http://gallery.menalto.com/gallery_2.2_RC1_released" title="release candidate 1">features</a> that have been a long time coming --
 <ul>

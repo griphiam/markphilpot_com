@@ -1,9 +1,11 @@
-Title: enjoying olympic coverage
-Date: 2008-08-10 09:50:07
-Tags: imported
-Category: tv
-Slug: enjoying_olympic_coverage
-
+---
+title: "enjoying olympic coverage"
+date: "2008-08-10 09:50:07"
+tags: [imported]
+category: tv
+slug: enjoying_olympic_coverage
+---
+	
 I actually think NBC is doing a rather decent job thus far.  And I have 3 HD channels covering it (NBC HD, USA HD, and UHD).  I get all my mainstream sports on NBC, and can also flip over to USA or UHD to grab some of the obscure ones (handball, sabre, badminton...  Badminton is simply awesome, btw).  The road race was awesome to watch...  One of the few times the cameras will traverse the countryside.
 
 We'll see if this quality continues as we get further into the games, and hopefully sensationalist stories don't begin to take over.

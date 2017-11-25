@@ -1,9 +1,11 @@
-Title: Upcoming Releases
-Date: 2006-03-16 21:32:55
-Tags: imported, sierra
-Category: games
-Slug: upcoming_releases
-
+---
+title: "Upcoming Releases"
+date: "2006-03-16 21:32:55"
+tags: [imported, sierra]
+category: games
+slug: upcoming_releases
+---
+	
 A nice laundry list of all the games I'm looking forward to in (hopefully) the near future.  Unfortunately, almost none listed have concrete dates.  Oh well.
 
 <strong>Quest For Glory II (<a href="http://www.agdinteractive.com">AGD Interactive</a>)</strong>

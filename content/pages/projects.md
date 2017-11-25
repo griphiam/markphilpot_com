@@ -1,10 +1,10 @@
 ---
 title: ~/projects
-date: 2016-03-02 22:23:00
+date: "2016-03-02 22:23:00"
 slug: projects
 summary: My Projects
 ---
-
+	
 ## TriAxis &amp; Ground Control Pro Web Apps
 
 [triaxiseditor.com](https://triaxiseditor.com)

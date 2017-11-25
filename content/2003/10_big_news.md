@@ -1,9 +1,11 @@
-Title: Big News
-Date: 2003-11-02 11:49:51
-Tags: imported
-Category: updates
-Slug: big_news
-
+---
+title: "Big News"
+date: "2003-11-02 11:49:51"
+tags: [imported]
+category: updates
+slug: big_news
+---
+	
 So the big news...
 
 Ann and I got engaged on Friday, October 17th, 2003.

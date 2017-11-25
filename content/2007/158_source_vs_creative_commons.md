@@ -1,9 +1,11 @@
-Title: source vs creative commons
-Date: 2007-02-16 07:09:35
-Tags: imported, creative commons, lessig
-Category: thoughts
-Slug: source_vs_creative_commons
-
+---
+title: "source vs creative commons"
+date: "2007-02-16 07:09:35"
+tags: [imported, creative commons, lessig]
+category: thoughts
+slug: source_vs_creative_commons
+---
+	
 
 Mark Pilgrim has an <a title="dive into mark" href="http://diveintomark.org/archives/2007/02/15/cc-vs-gpl">interesting take</a> on the <a href="http://creativecommons.org/" title="Founded by Lawrence Lessig">Creative Common's</a> license. The <a href="http://en.wikipedia.org/wiki/Creative_Commons" title="CC">CC license</a> is a <a href="http://en.wikipedia.org/wiki/Copyleft" title="GPL is from the same family">copyleft</a> framework that allows content creators to choose what rights to retain, and what to grant explicitly, rather than the all assuming copyright &copy;. The GPL was designed for source code. Applying it to other media runs the gamut of success stories. CC was intended for all possible works... from written text, images, video... anything that you would traditionally stick a &copy; on.
 

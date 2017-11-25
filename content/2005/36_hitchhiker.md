@@ -1,9 +1,11 @@
-Title: Hitchhiker
-Date: 2005-05-01 09:24:26
-Tags: imported, hitchhiker, star wars
-Category: movies
-Slug: hitchhiker
-
+---
+title: "Hitchhiker"
+date: "2005-05-01 09:24:26"
+tags: [imported, hitchhiker, star wars]
+category: movies
+slug: hitchhiker
+---
+	
 I didn't have high hopes going in.  I had seen the trailers.. I had caught a few of the reviews on Friday... But I <em>wanted</em> to like the movie!  I went in thinking, "It might not be great, but its still Hitchhiker's Guide".  I don't do that with many movies.
 
 Unfortunately it wasn't worth the price of admission.  Frankly, save the money and go out and buy the books if you haven't read them.  If you have read them, go out and buy the unabridged books on CD.  They are read by Douglas Adams himself, and the books are even funnier with a British accent.

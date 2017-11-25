@@ -1,10 +1,12 @@
-Title: Disaster Recovery (Passwords)
-Date: 2015-11-29 11:27:00
-Tags: recovery, 1password
-Category: thoughts
-Slug: disaster_recovery
-Summary: How would you go about recovering from a disaster
-
+---
+title: "Disaster Recovery (Passwords)"
+date: "2015-11-29 11:27:00"
+tags: [recovery, 1password]
+category: thoughts
+slug: disaster_recovery
+summary: How would you go about recovering from a disaster
+---
+	
 *Imagine a disaster situation where you no longer have access to **any** personal electronic device. No phone, none of your laptops, desktops, etc. They've all been destroyed in a fire/earthquake/flood/alien invasion. Does your password system allow you to regain access to your online accounts?*
 
 It occurred to me that unfortunately my answer to this scenario is no.

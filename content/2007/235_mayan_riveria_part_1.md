@@ -1,9 +1,11 @@
-Title: Mayan Riveria (part 1)
-Date: 2007-05-06 00:18:38
-Tags: imported
-Category: travel
-Slug: mayan_riveria_part_1
-
+---
+title: "Mayan Riveria (part 1)"
+date: "2007-05-06 00:18:38"
+tags: [imported]
+category: travel
+slug: mayan_riveria_part_1
+---
+	
 This trip was planned a little last minute.  The resort was offering all inclusive stays at a steep discount, so we decided what the hell and jumped.  However, what that meant is that we were pretty unprepared than we normally would have been.  At the last minute a few days before we were supposed to leave, we decided that we should rent a car.  This ultimately was the right decision, but it meant leaving without maps or guide books to help us.  So after failing to find any maps or good guide books of Mexico in either Borders or Barnes & Nobel out here (ridiculous), I got on Amazon and placed an order and shipped it using one-day shipping.  Well take Amazon's guarantee's with a grain of salt... it didn't arrive in time before we left.  Whether it was coincidence or not, it ended up at a transfer point in Washington, Ohio...  We were just fine without them, but still.
 
 When we arrived, we waded through the feeding frenzy outside the international arrivals area outside Cancun airport.  For anyone who hasn't been, it's basically a 100m strip with about 300 people trying to get you to go in their van or bus, sign you up for a trip or tour, take you to their hotel -- when really all we wanted was to get to the Hertz building across the street.  Quite amusing actually.

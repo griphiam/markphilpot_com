@@ -1,10 +1,12 @@
-Title: Command Line Ninja
-Date: 2011-03-21 14:45:00
-Tags: linux, cli
-Category: linux
-Slug: cli_ninja
-Summary: CLI customizations
-
+---
+title: "Command Line Ninja"
+date: "2011-03-21 14:45:00"
+tags: [linux, cli]
+category: linux
+slug: cli_ninja
+summary: CLI customizations
+---
+	
 _This post was migrated from my old blog_
 
 Navigating maven projects (or any java project for that matter) on the command line can be an incredible pain.  Package structures 8 or 10 levels deep aren't that uncommon, especially in large enterprise level projects. Below are two hooks that I use to hop around that I find really useful.
@@ -61,7 +63,8 @@ __showlevel (alias l='showlevel')__
        }
     }
 
-    print "\n";
+    print "
+";
 
 __~/.profile or ~/.bashrc__
 

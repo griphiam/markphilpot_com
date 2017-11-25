@@ -1,10 +1,12 @@
-Title: Diane Duane - A Wizard of Mars
-Date: 2010-04-16 15:17:01
-Tags: review
-Category: books
-Slug: wizard_of_mars
-Summary: A review of "A Wizard of Mars"
-
+---
+title: "Diane Duane - A Wizard of Mars"
+date: "2010-04-16 15:17:01"
+tags: [review]
+category: books
+slug: wizard_of_mars
+summary: A review of "A Wizard of Mars"
+---
+	
 _This post was migrated from my old blog_
 
 <img alt="A Wizard of Mars (Young Wizards, #9)" border="0" src="https://d.gr-assets.com/books/1272379484l/1583121.jpg" /></a>

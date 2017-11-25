@@ -1,10 +1,12 @@
-Title: Induced Tears
-Date: 2015-11-04 12:00:00
-Tags: anime,
-Category: anime
-Slug: tears
-Summary: Anime that have made a grown man weep
-
+---
+title: "Induced Tears"
+date: "2015-11-04 12:00:00"
+tags: [anime,]
+category: anime
+slug: tears
+summary: Anime that have made a grown man weep
+---
+	
 Any medium has the potential. So submerged in the story & characters you find yourself totally taken emotionally.
 
 I'm not one of those people who claim "I cry at nothing." Certain things will definitely get me choked up by just the weight of the emotion involved -- even things that you wouldn't necessarily think would do so.  An example would be ESPN's [20th Century Montage](https://youtu.be/jlmxHvOWKB0?t=32). Even though it's entirely sports related, there are moments in that were I get choked up because of the sheer emotional punch those moments represent. Part of that is knowing the context and why, but that is beside the point for the current discussion.

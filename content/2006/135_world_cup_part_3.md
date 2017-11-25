@@ -1,9 +1,11 @@
-Title: World Cup (Part 3)
-Date: 2006-06-28 21:14:56
-Tags: imported
-Category: soccer
-Slug: world_cup_part_3
-
+---
+title: "World Cup (Part 3)"
+date: "2006-06-28 21:14:56"
+tags: [imported]
+category: soccer
+slug: world_cup_part_3
+---
+	
 ## Round of 16
 
 As we conclude Group Play and almost conclude the knock out round, a bit of reflection is in order before we get to the recaps. I personally don't like FIFA's blanket stance on trying to cut down on aggressive play with the abundance of yellow/red cards. There have been two refs that I've noted that area really good -- the first transgression they take the player aside and issue a warning, and then only after repeated offenses or really dangerous tackles do you issue a yellow. The problem is as soon as you issue a yellow for a questionable tackle, you've set a precedent for the rest of the game. To their credit (for good or for ill) the refs have been consistent (either really bad or good). When you set that yellow card standard low early on, I think it has the opposite effect they want it to have (and the Portugal v. Netherlands game was a prime example).

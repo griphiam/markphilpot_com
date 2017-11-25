@@ -1,10 +1,12 @@
-Title: Computers and Privilege
-Date: 2014-09-24 08:50:45
-Tags: thoughts, linux, open source
-Category: thoughts
-Slug: computer_privilege
-Summary: Computers are the privilege, not open source
-
+---
+title: "Computers and Privilege"
+date: "2014-09-24 08:50:45"
+tags: [thoughts, linux, open source]
+category: thoughts
+slug: computer_privilege
+summary: Computers are the privilege, not open source
+---
+	
 
 Hat tip to [Luis Villa](http://lu.is/) who tweeted a [link](http://twitter.com/tieguy/status/514786756777242624) to an old blog [post](http://gandre.ws/blog/blog/2013/11/15/harry-potter-and-the-system-of-privilege/) by [Gus Andrews](https://twitter.com/gusandrews).  The post is the last in a four part series about Gus' experiences with Linux (specifically Ubuntu) and his thoughts on open source software.  The post rings true in a lot of ways for me, but I wanted to suggest a refinement to his central thesis.
 

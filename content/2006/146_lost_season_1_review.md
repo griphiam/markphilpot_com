@@ -1,9 +1,11 @@
-Title: Lost -- Season 1 Review
-Date: 2006-09-04 12:50:32
-Tags: imported, lost
-Category: tv
-Slug: lost_season_1_review
-
+---
+title: "Lost -- Season 1 Review"
+date: "2006-09-04 12:50:32"
+tags: [imported, lost]
+category: tv
+slug: lost_season_1_review
+---
+	
 Yes, yes, I know this is just a tad late, but I finally got around to watching the series. First of all, let me get a few points out of the way.
 
 <ul>

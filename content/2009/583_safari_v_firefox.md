@@ -1,9 +1,11 @@
-Title: Safari v. Firefox
-Date: 2009-06-11 11:07:13
-Tags: imported
-Category: software
-Slug: safari_v_firefox
-
+---
+title: "Safari v. Firefox"
+date: "2009-06-11 11:07:13"
+tags: [imported]
+category: software
+slug: safari_v_firefox
+---
+	
 Apple recently released Safari 4. Being the model geek, I decided to give it a spin -- and I liked what I saw.  But here's the problem: at this point I have a deeply ingrained web browsing workflow.  Whether it's a habit or a plugin, there are certain things that are this point muscle memory (and for a good reason, because it usually is the most efficient).
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/93755244@N00/3444838707/" title="Screen Shot" target="_blank"><img src="http://farm4.static.flickr.com/3628/3444838707_d47a0c67c2_m.jpg" alt="Screen Shot" border="0" /></a></div>

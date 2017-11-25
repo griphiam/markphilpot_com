@@ -1,9 +1,11 @@
-Title: Ubuntu (Kubuntu)
-Date: 2005-04-25 20:15:15
-Tags: imported, ubuntu, winehq, gnome, kde
-Category: linux
-Slug: ubuntu_kubuntu
-
+---
+title: "Ubuntu (Kubuntu)"
+date: "2005-04-25 20:15:15"
+tags: [imported, ubuntu, winehq, gnome, kde]
+category: linux
+slug: ubuntu_kubuntu
+---
+	
 I know... Linux distributions and their funky names.  But this one is a quality distribution.  I had never tried <a href="http://www.debian.org">Debian</a> or a Debian-based distribution before, and I have to say I'm impressed.  Debian itself is an interesting community.  It has three "releases" (stable, testing, unstable).  Stable is always incredibly out of date, while unstable takes new updates as they are available.
 
 The key to any Linux distribution (IMO) is the packaging method.  My first experience with Linux was with <a href="http://fedora.redhat.com">Red Hat</a> and Mandrake (now <a href="http://www.mandriva.com">Mandriva</a>) which are RPM based.  It was incredibly frustrating and a pain to sort out dependancies.  I then recently tried <a href="http://www.gentoo.org">Gentoo</a>, which is a source based distribution (basically you download the raw source and compile it for your specific machine).  This was better, however much slower to get things running.  You also had to know lots of the inner workings of Linux and whatever window manager you were using (<a href="http://www.kde.org">KDE</a> in my case).  This was a good experience as it taught me a lot, but it wasn't "it."  It took too much effort to get things to work.  If I wanted to do Linux as a primary system, it need to "just work" but also be customizable... Linux's bread and butter.

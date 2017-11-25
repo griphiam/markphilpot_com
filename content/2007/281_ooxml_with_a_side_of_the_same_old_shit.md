@@ -1,9 +1,11 @@
-Title: OOXML with a side of the same old shit
-Date: 2007-09-25 23:12:25
-Tags: imported
-Category: rant
-Slug: ooxml_with_a_side_of_the_same_old_shit
-
+---
+title: "OOXML with a side of the same old shit"
+date: "2007-09-25 23:12:25"
+tags: [imported]
+category: rant
+slug: ooxml_with_a_side_of_the_same_old_shit
+---
+	
 (Note: I'm cleaning out some topics I wanted to get to... so these aren't necessarily timely thoughts I'm exposing here.  This trend will probably continue until I actually get caught up.)
 
 It literally is amazing how far Microsoft has sunk under its own weight.   I know there have been a lot of examples of late to choose from, but <a href="http://www.arstdesign.com/articles/OOXML-is-defective-by-design.html">this</a> struck me as particularly appalling.  The fact that Microsoft's attempt at standardizing this crap has met with significant resistance is really a testament to how low they have sunk (and how often of late they have resorted to this sort of thing).  I don't remember how many <em>thousands </em>of pages the spec is but the fact that everyone <em>knows </em>they won't even follow their own (there really is no way they could from a sheer engineering perspective) makes some of their outrageous antics (like trying to buy off the standards commission) laughable.

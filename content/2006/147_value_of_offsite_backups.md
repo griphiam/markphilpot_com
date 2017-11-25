@@ -1,9 +1,11 @@
-Title: value of offsite backups
-Date: 2006-08-29 10:05:31
-Tags: imported, backups
-Category: updates
-Slug: value_of_offsite_backups
-
+---
+title: "value of offsite backups"
+date: "2006-08-29 10:05:31"
+tags: [imported, backups]
+category: updates
+slug: value_of_offsite_backups
+---
+	
 
 The fire alarm went off last night, and instead of being a quick leave-the-building-shut-off-the-alarm-go-back routine, an impressive array of firetrucks (complete with a ladder being raised to the roof of our building) greeted us outside.
 

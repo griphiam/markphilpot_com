@@ -1,10 +1,12 @@
-Title: 2016 Anime Carousel
-Date: 2016-12-04 22:00:00
-Tags: anime, carousel
-Category: anime
-Slug: anime_2016_carousel
-Summary: Carousel of all the anime I watched this year
-
+---
+title: "2016 Anime Carousel"
+date: "2016-12-04 22:00:00"
+tags: [anime, carousel]
+category: anime
+slug: anime_2016_carousel
+summary: Carousel of all the anime I watched this year
+---
+	
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css" rel="stylesheet" property="stylesheet">
 
 <a href="{filename}/images/2016/carousel/01.jpg" data-lightbox="carousel" data-title="Boku Dake go Inai Machi (Winter)" style="border-bottom: none;">

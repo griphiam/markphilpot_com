@@ -1,9 +1,11 @@
-Title: trips down memory lane
-Date: 2007-02-28 12:34:45
-Tags: imported, cartoons
-Category: tv
-Slug: trips_down_memory_lane
-
+---
+title: "trips down memory lane"
+date: "2007-02-28 12:34:45"
+tags: [imported, cartoons]
+category: tv
+slug: trips_down_memory_lane
+---
+	
 
 Related to a <a href="http://blog.mcstudios.net/2006/03/26/cartoon-nostalgia/">previous post</a> regarding great 80's cartoons, I stumbled upon a great <a title="Relax for a spell and enjoy" href="http://www.youtube.com/watch?v=Bto7l3cKhvk">30 minute mix</a> of 80's cartoon intros. Needless to say it was a fantastic trip. You quickly realize there was a lot of great stuff that you remember very fondly, and then a bunch of stuff you've never heard of and think, "Someone must really have been on something to come up with this." And the name Don Schimer keeps popping up as the producer for many of the early 80's shows... I'll have to look him up later. Anyway, on to the recap.
 

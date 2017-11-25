@@ -1,11 +1,13 @@
-Title: Bakemonogatari
-Date: 2016-03-09 23:52:00
-Tags: anime, review
-Category: anime
-Slug: review_bakemonogatari
-Summary: Review of Bakemonogatari
+---
+title: "Bakemonogatari"
+date: "2016-03-09 23:52:00"
+tags: [anime, review]
+category: anime
+slug: review_bakemonogatari
+summary: Review of Bakemonogatari
 status: draft
-
+---
+	
 ![Bakemonogatari]({filename}/images/2016/bakemonogatari/cover.jpg){: .center}
 ![Shaft]({filename}/images/anime/studios/shaft.png){: .studio}
 

@@ -1,9 +1,11 @@
-Title: supermassive black hole
-Date: 2008-04-06 10:58:49
-Tags: imported
-Category: music
-Slug: supermassive_black_hole
-
+---
+title: "supermassive black hole"
+date: "2008-04-06 10:58:49"
+tags: [imported]
+category: music
+slug: supermassive_black_hole
+---
+	
 On the UK release of Threshold's Dead Reckoning album, they included a cover of the Muse song Supermassive Black Hole.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/DH6y7LD2GG0" frameborder="0" allowfullscreen></iframe>

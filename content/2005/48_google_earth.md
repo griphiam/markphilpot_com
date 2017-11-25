@@ -1,9 +1,11 @@
-Title: Google Earth
-Date: 2005-07-12 19:35:58
-Tags: imported, google
-Category: software
-Slug: google_earth
-
+---
+title: "Google Earth"
+date: "2005-07-12 19:35:58"
+tags: [imported, google]
+category: software
+slug: google_earth
+---
+	
 You don't often see revolutionary, killer-apps...  <em><a href="http://earth.google.com/">Google Earth</a></em> might just be one.
 
 Coming off of Google's acquisition of <a href="http://www.google.com/press/pressrel/keyhole.html">Keyhole software</a> (this is the software the news agencies used to bring you satellite images of Iraq during the most recent war), there was much speculation about what Google might be able to do with the technology.  What they have produced is an incredible piece of software that combines their <a href="http://www.google.com">search engine</a> and resources and their recent <a href="http://maps.google.com/">map</a> product into a slick product that you have never seen before.  This product is limitless!

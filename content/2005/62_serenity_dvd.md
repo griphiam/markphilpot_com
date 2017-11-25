@@ -1,9 +1,11 @@
-Title: Serenity DVD
-Date: 2005-11-10 14:29:34
-Tags: imported, serenity
-Category: movies
-Slug: serenity_dvd
-
+---
+title: "Serenity DVD"
+date: "2005-11-10 14:29:34"
+tags: [imported, serenity]
+category: movies
+slug: serenity_dvd
+---
+	
 As Sim pointed out (and which I've been meaning to post on =) the <a href="http://www.amazon.com/gp/product/B000BW7QWW/103-3482693-3975003?v=glance&#038;n=130&#038;n=507846&#038;s=dvd&#038;v=glance">Serenity</a> DVD is out December 20th. Needless to say, it will be in my hands on the 20th =)
 
 I did want to comment on something though...  When you look at the cover "art" for the DVD.

@@ -1,9 +1,11 @@
-Title: happy new year
-Date: 2008-01-03 23:19:17
-Tags: imported
-Category: updates
-Slug: happy_new_year
-
+---
+title: "happy new year"
+date: "2008-01-03 23:19:17"
+tags: [imported]
+category: updates
+slug: happy_new_year
+---
+	
 <a href="http://www.flickr.com/photos/46803213@N00/2164582603/" title="photo sharing"><img src="http://farm3.static.flickr.com/2304/2164582603_a20722c538.jpg" class="flickr-photo" /></a>
 
 <a href="http://www.flickr.com/photos/46803213@N00/2164582603/">Family @ Northstar</a>, originally uploaded by <a href="http://www.flickr.com/people/46803213@N00/">griphiam</a>.

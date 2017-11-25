@@ -1,11 +1,13 @@
-Title: Anime Summer 2016 First Impressions
-Date: 2016-07-12 23:07:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2016_summer_first
-Summary: First Impressions of the Anime Summer 2016 Season
-Hero: background-image: url(/images/anime/2016/summer/hero.jpg);
-
+---
+title: "Anime Summer 2016 First Impressions"
+date: "2016-07-12 23:07:00"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2016_summer_first
+summary: First Impressions of the Anime Summer 2016 Season
+Hero: "background-image: url(/images/anime/2016/summer/hero.jpg);"
+---
+	
 [TOC]
 
 A theme you will see begin to develop is I'm now reading manga where there isn't yet an anime adaptation. Early on, I would pick up manga where I had already seen the anime. I wonder how knowing the source material will color my experience of its anime...

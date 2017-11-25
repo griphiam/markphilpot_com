@@ -1,9 +1,11 @@
-Title: fascinating
-Date: 2008-02-26 12:54:16
-Tags: imported
-Category: movies
-Slug: fascinating
-
+---
+title: "fascinating"
+date: "2008-02-26 12:54:16"
+tags: [imported]
+category: movies
+slug: fascinating
+---
+	
 An absolutely <a href="http://www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html">fascinating graphic</a> produced by the NY Times....
 
 Who would have thought National Treasure would be that eclipsing.  There was a piece on BBC regarding how producers and executives in the film industry recognize that they need to put out "popular" projects (eye-candy, popcorn matinées, etc) to support the truly "great" films that they want to do...  Basically Oscar "worthy" films can't carry a studio alone.  (Note that all the quotations are conveying mass relativism).

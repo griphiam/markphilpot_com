@@ -1,10 +1,12 @@
-Title: Blog Import - Lessons Learned
-Date: 2015-11-29 10:25:00
-Tags: blog, lessons learned, pelican, wordpress
-Category: thoughts
-Slug: blog_import
-Summary: Lessons learned importing a 12 year old blog
-
+---
+title: "Blog Import - Lessons Learned"
+date: "2015-11-29 10:25:00"
+tags: [blog, lessons learned, pelican, wordpress]
+category: thoughts
+slug: blog_import
+summary: Lessons learned importing a 12 year old blog
+---
+	
 So I have been blogging (very irregulary) since 2003.  If I remember correctly, I dabbled with [Movable Type's](https://movabletype.org/) platform before eventually settling on [Wordpress](https://wordpress.org/).  When I recently transitioned to using [Pelican]() as a static blogging engine, I didn't bother to import posts from my wordpress installation (for one thing, the Pelican import tool only operates on a wordpress XML export and I just had a database backup).
 
 Over the holidays, I decided to make an attempt at converting all that content to markdown.  It's been a challenge, but I was able to pull over most of it.
@@ -29,14 +31,21 @@ def write_post(row):
             os.makedirs('content/%s' % year)
 
         with open('content/%s/%s_%s.md' % (year, row['ID'], row['post_name'].replace('-', '_')), 'wb') as fp:
-            fp.write('Title: %s\n' % row['post_title'])
-            fp.write('Date: %s\n' % row['post_date'])
-            fp.write('Tags: imported\n')
-            fp.write('Category: \n')
-            fp.write('Slug: %s\n' % row['post_name'].replace('-', '_'))
-            fp.write('\n')
+            fp.write('Title: %s
+' % row['post_title'])
+            fp.write('Date: %s
+' % row['post_date'])
+            fp.write('Tags: imported
+')
+            fp.write('Category: 
+')
+            fp.write('Slug: %s
+' % row['post_name'].replace('-', '_'))
+            fp.write('
+')
             fp.write(row['post_content'])
-            fp.write('\n')
+            fp.write('
+')
     except Exception, e:
         print(e)
         traceback.print_exec()

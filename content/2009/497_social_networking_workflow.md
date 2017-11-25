@@ -1,9 +1,11 @@
-Title: social networking workflow
-Date: 2009-04-25 00:54:54
-Tags: imported
-Category: thoughts
-Slug: social_networking_workflow
-
+---
+title: "social networking workflow"
+date: "2009-04-25 00:54:54"
+tags: [imported]
+category: thoughts
+slug: social_networking_workflow
+---
+	
 So I'm trying to figure out how to use this space now.  Most "content" is being pushed through various social networking outlets (FriendFeed, Twitter, Facebook), that this space has been sorely neglected.  I've been trying to integrate my "workflow" so to speak and I haven't yet figured out yet what this blog means (it also doesn't help that I haven't had time to put fingers to keys other than short bursts that are better suited to FriendFeed or Twitter).
 
 I want to get back to writing some longer pieces, because I think it helps in other areas of life to practice writing more than 140 characters.  Below is my current social networking workflow:

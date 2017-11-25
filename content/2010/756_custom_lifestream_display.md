@@ -1,9 +1,11 @@
-Title: Custom Lifestream Display
-Date: 2010-02-15 22:28:26
-Tags: imported
-Category: development
-Slug: custom_lifestream_display
-
+---
+title: "Custom Lifestream Display"
+date: "2010-02-15 22:28:26"
+tags: [imported]
+category: development
+slug: custom_lifestream_display
+---
+	
 Necessity is the mother of invention, and that's especially true for software.
 
 For a long time, I've wanted to display my lifestream as a single page (and on my own domain) in a way I could customize to match my own aesthetics. I tried <a href="http://code.google.com/p/sweetcron/">Sweetcron</a>, <a href="http://github.com/dominiek/kakuteru">Kakuteru</a>, and a few custom scripts for pulling data from Friendfeed.  Everything was either too complex or lacked the ability to customize the way I wanted.  For a while, I had been collecting my lifestream events using the <a href="http://www.enthropia.com/labs/wp-lifestream/">Lifestream Plugin for Wordpress</a> and was really impressed in it's stability and functionality.  I wanted to display this data but outside of my Wordpress installation, so I decided some PHP was necessary.

@@ -1,9 +1,11 @@
-Title: this weekend made more difficult
-Date: 2007-09-17 09:31:04
-Tags: imported, setup
-Category: updates
-Slug: this_weekend_made_more_difficult
-
+---
+title: "this weekend made more difficult"
+date: "2007-09-17 09:31:04"
+tags: [imported, setup]
+category: updates
+slug: this_weekend_made_more_difficult
+---
+	
 This weekend was quite literally a gut check.  Summarized in spectacular powerpoint fashion...
 
 <ul>

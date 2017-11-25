@@ -1,9 +1,11 @@
-Title: wonders of customer service
-Date: 2007-05-31 22:44:37
-Tags: imported
-Category: rant
-Slug: wonders_of_customer_service
-
+---
+title: "wonders of customer service"
+date: "2007-05-31 22:44:37"
+tags: [imported]
+category: rant
+slug: wonders_of_customer_service
+---
+	
 It really should be a fundamental business principle, but it's amazing how little attention it really gets.  Occasionally we here about abysmal service (AOL, any outsourced phone support, etc), but rarely does good customer service get great exposure.
 
 More often than not I'll bring lunch from home, but when I don't, my lunch stop of choice is the Quiznos down the street.  Unlike other tech "areas" there aren't a lot of lunch eateries around the Gaithersburg office.  I am also a creature of habit.  Once I find something I like, I don't usually feel the need to order something different just for the sake of being different -- so I usually order the same sandwich (Cabo chicken, which they unfortunately just discontinued).   After four years, the staff of this Quiznos know me.  They know what I always order.  Even if I'm in the back of the line before ordering, if they see me, they will go ahead and start making my sandwich before I get to the front.  On more than one occasion, they have just given me the sandwich for free.  I have no reason to go anywhere else and I enjoy going to lunch there.  But it really makes a difference when you treat your frequent customers like that -- they will want to frequent your business.

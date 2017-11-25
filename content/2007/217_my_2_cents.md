@@ -1,9 +1,11 @@
-Title: my 2 cents
-Date: 2007-04-17 00:39:48
-Tags: imported
-Category: tv
-Slug: my_2_cents
-
+---
+title: "my 2 cents"
+date: "2007-04-17 00:39:48"
+tags: [imported]
+category: tv
+slug: my_2_cents
+---
+	
 I have a argument to present for the few TV executives out there who happen to stumble across this.
 
 Given the following:

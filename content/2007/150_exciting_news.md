@@ -1,9 +1,11 @@
-Title: Exciting News
-Date: 2007-01-24 19:03:51
-Tags: imported
-Category: updates
-Slug: exciting_news
-
+---
+title: "Exciting News"
+date: "2007-01-24 19:03:51"
+tags: [imported]
+category: updates
+slug: exciting_news
+---
+	
 
 So the fantastic news is that Ann has been accepted to the Stanford Business School!! We are so excited and I'm incredibly proud of her (I know exactly how much work she put into it). Which means that indeed 2007 will be a year of very good change and transition.
 

@@ -1,9 +1,11 @@
-Title: waiting game
-Date: 2008-02-29 13:04:53
-Tags: imported
-Category: thoughts
-Slug: waiting_game
-
+---
+title: "waiting game"
+date: "2008-02-29 13:04:53"
+tags: [imported]
+category: thoughts
+slug: waiting_game
+---
+	
 So the current set of rumors (I never thought I'd sink this low... it won't happen again) is that the iPhone SDK will be tightly controlled (Bad) and that a 3G revision is due sometime this summer.  Ugh.
 
 First of all, the fact that the iPhone didn't ship with a native SDK (or that Steve Jobs thought Safari web-applications were good enough) is incredibly stupid. On so many levels... I can't even begin to express my frustration.  Here you have a revolutionary computing platform and you lock everyone out of it.  The development community was tripping over themselves (and some still are now) to embrace this platform, and Apple killed it.

@@ -1,9 +1,11 @@
-Title: a series of unfortunate frustrations
-Date: 2009-05-07 13:43:37
-Tags: imported, ubuntu, ati
-Category: linux
-Slug: a_series_of_unfortunate_frustrations
-
+---
+title: "a series of unfortunate frustrations"
+date: "2009-05-07 13:43:37"
+tags: [imported, ubuntu, ati]
+category: linux
+slug: a_series_of_unfortunate_frustrations
+---
+	
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/37136574@N00/56910709/" title="On my desk" target="_blank"><img src="http://farm1.static.flickr.com/29/56910709_211b54674e_m.jpg" alt="On my desk" border="0" /></a></div>
 
 Kubuntu 09.04 (Jaunty) has been an absolute pleasure to use on my home desktop.  Everything just works, and works really well.  I happen to choose an Nvidia graphics card when I put it together.  Turns out that was a very good decision.

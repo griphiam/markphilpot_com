@@ -1,9 +1,11 @@
-Title: HDR Photography
-Date: 2007-05-29 16:47:32
-Tags: imported
-Category: photography
-Slug: hdr_photography
-
+---
+title: "HDR Photography"
+date: "2007-05-29 16:47:32"
+tags: [imported]
+category: photography
+slug: hdr_photography
+---
+	
 All I can say is... Wow!
 
 <a href="http://www.flickr.com/photos/stuckincustoms/459418289/in/photostream/">

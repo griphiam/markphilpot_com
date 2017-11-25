@@ -1,9 +1,11 @@
-Title: online booking a vacation
-Date: 2007-04-13 00:53:27
-Tags: imported
-Category: rant
-Slug: online_booking_a_vacation
-
+---
+title: "online booking a vacation"
+date: "2007-04-13 00:53:27"
+tags: [imported]
+category: rant
+slug: online_booking_a_vacation
+---
+	
 
 Has anyone else experienced this?
 

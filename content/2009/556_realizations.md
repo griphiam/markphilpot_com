@@ -1,9 +1,11 @@
-Title: realizations
-Date: 2009-05-09 13:11:25
-Tags: imported, ubuntu
-Category: linux
-Slug: realizations
-
+---
+title: "realizations"
+date: "2009-05-09 13:11:25"
+tags: [imported, ubuntu]
+category: linux
+slug: realizations
+---
+	
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/87955432@N00/3512658989/" title="not quite sure" target="_blank"><img src="http://farm4.static.flickr.com/3071/3512658989_11cfc563f3_m.jpg" alt="not quite sure" border="0" /></a></div>
 
 If you need to install linux on a laptop, choose Ubuntu over the other derivations.  There is simply more time and people working on the Gnome version of Ubuntu versus the KDE or Fluxbox derivations.  When I installed Kubuntu 09.04 (Jaunty) things weren't "just working" like they do on my desktop.  Having always preferred KDE to Gnome, I have never really tried the pure "Ubuntu" experience.  I have to say, especially for laptops, the experience is radically different and ultimately superior.

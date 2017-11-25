@@ -1,9 +1,11 @@
-Title: when it rains... it pours
-Date: 2009-05-30 22:54:38
-Tags: imported
-Category: updates
-Slug: when_it_rains_it_pours
-
+---
+title: "when it rains... it pours"
+date: "2009-05-30 22:54:38"
+tags: [imported]
+category: updates
+slug: when_it_rains_it_pours
+---
+	
 <div style="margin: 15px; float: left"><a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="Hail Storm - Made it to the truck just in time... almost" target="_blank"><img src="http://farm4.static.flickr.com/3647/3569402984_8ac4ae2009_m.jpg" alt="Hail Storm - Made it to the truck just in time... almost" border="0" /></a></div>
 
 What a rough weekend.

@@ -1,9 +1,11 @@
-Title: the best always get canceled
-Date: 2007-04-18 00:27:04
-Tags: imported
-Category: tv
-Slug: the_best_always_get_canceled
-
+---
+title: "the best always get canceled"
+date: "2007-04-18 00:27:04"
+tags: [imported]
+category: tv
+slug: the_best_always_get_canceled
+---
+	
 For those of of you that are emotionally strong, TubeWad as a good <a href="http://www.tubewad.com/13-tv-shows-that-should-never-have-been-cancelled-1340-p.html">breakdown</a> of some shows that have had the brightest candles but the shortest wicks -- shows that got canceled well before their time.  Its really sad actually how much good stuff there is on the list (and how much I'm more than intimately familiar with).  Before I add a few thoughts, let me point that while we have potentially numerous squandered classics here, we are now suffering through the 14<sup>th</sup> season of <em>Survivor</em> (I shit you not)!  Anyway, after that depressing thought... onward.
 
 ## Firefly

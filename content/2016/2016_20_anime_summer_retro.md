@@ -1,11 +1,13 @@
-Title: Anime Summer 2016 Retrospective
-Date: 2016-10-18 21:22:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2016_summer_retro
-Summary: Retrospective of the Anime Summer 2016 Season
-Hero: background-image: url(/images/anime/2016/summer/hero.jpg);
-
+---
+title: "Anime Summer 2016 Retrospective"
+date: "2016-10-18 21:22:00"
+tags: [anime, retro]
+category: anime
+slug: anime_2016_summer_retro
+summary: Retrospective of the Anime Summer 2016 Season
+Hero: "background-image: url(/images/anime/2016/summer/hero.jpg);"
+---
+	
 [TOC]
 
 

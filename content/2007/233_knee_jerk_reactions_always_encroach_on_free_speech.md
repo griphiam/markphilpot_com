@@ -1,9 +1,11 @@
-Title: knee-jerk reactions always encroach on free speech
-Date: 2007-05-17 00:32:28
-Tags: imported
-Category: thoughts
-Slug: knee_jerk_reactions_always_encroach_on_free_speech
-
+---
+title: "knee-jerk reactions always encroach on free speech"
+date: "2007-05-17 00:32:28"
+tags: [imported]
+category: thoughts
+slug: knee_jerk_reactions_always_encroach_on_free_speech
+---
+	
 This post was originally going to be in reference to <a href="http://arstechnica.com/news.ars/post/20070502-student-creates-counter-strike-map-gets-kicked-out-of-school.html">this revelation</a> that a student had been kicked out of school for creating a Counter Strike map closely resembling his school.  This was all in the wake of the tragedy at Virginia Tech, when self-possessed individuals were trying to (yet again) blame video games.  Thankfully this time around there wasn't nearly as much traction as there was with the tragedy at Columbine.  However, it still doesn't prevent people from encroaching on free speech and rational behavior to try to correct what they see as wrong in society that might have (in their belief) contributed to the atrocities.
 
 First of all, this student couldn't have been the first or the last to do something like this.  I know even I have thought it would be cool to create within a first person shooter video game a real life place (rather than fictitious) -- one that I was familiar with.   We're stepping dangerously close to thought crimes here.

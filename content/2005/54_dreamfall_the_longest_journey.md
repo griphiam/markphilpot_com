@@ -1,9 +1,11 @@
-Title: Dreamfall : The Longest Journey
-Date: 2005-07-20 20:00:17
-Tags: imported, longest journey, dreamfall, final fantasy
-Category: games
-Slug: dreamfall_the_longest_journey
-
+---
+title: "Dreamfall : The Longest Journey"
+date: "2005-07-20 20:00:17"
+tags: [imported, longest journey, dreamfall, final fantasy]
+category: games
+slug: dreamfall_the_longest_journey
+---
+	
 Back in the summer of my sophomore year in college (2000 or 2001) while Jeff and I were working at Vialta, one lunch time we stumbled upon a review of a new game from Finland.  It hadn't yet been released in the US (I don't think they had yet secured a US publisher).  It was a rave review.  Harking back to the classic puzzle & character driven adventure game that had made the Sierra classics so popular so many years ago.  This was released when Quake, Unreal, and the rest of the FPS genre was <em>huge</em>, so a pure adventure game stuck out.  Not knowing if it would ever reach the US (I should have known better... about 8 months after I caved it was released... but I did get it 8 months early), I went ahead and imported the English version.  <a href="http://www.longestjourney.com/">The Longest Journey</a> was a great ride though a genre that I thought had been abandoned.
 
 ![TLJ]({filename}/images/2005/tlj.jpg){: .center}

@@ -1,9 +1,11 @@
-Title: woes of modern mixing
-Date: 2007-06-05 22:31:56
-Tags: imported
-Category: rant
-Slug: woes_of_modern_mixing
-
+---
+title: "woes of modern mixing"
+date: "2007-06-05 22:31:56"
+tags: [imported]
+category: rant
+slug: woes_of_modern_mixing
+---
+	
 
 The unfortunate thing is that this is so true.
 

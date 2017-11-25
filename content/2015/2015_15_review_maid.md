@@ -1,10 +1,12 @@
-Title: Kaichou wa Maid-sama!
-Date: 2015-12-21 12:00:00
-Tags: anime, review
-Category: anime
-Slug: review_kaichou_wa_maid_sama
-Summary: Review of Kaichou wa Maid-sama!
-
+---
+title: "Kaichou wa Maid-sama!"
+date: "2015-12-21 12:00:00"
+tags: [anime, review]
+category: anime
+slug: review_kaichou_wa_maid_sama
+summary: Review of Kaichou wa Maid-sama!
+---
+	
 ![Kaichou wa Maid-sama!]({filename}/images/2015/maid/pv.jpg){: .center}
 ![JC Staff]({filename}/images/anime/studios/jc_staff.png){: .studio}
 

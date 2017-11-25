@@ -1,10 +1,12 @@
-Title: Stephenie Meyer - The Host
-Date: 2016-02-21 20:19:00
-Tags: books, review
-Category: books
-Slug: the_host
-Summary: Review of Stephenie Meyer's "The Host"
-
+---
+title: "Stephenie Meyer - The Host"
+date: "2016-02-21 20:19:00"
+tags: [books, review]
+category: books
+slug: the_host
+summary: Review of Stephenie Meyer's "The Host"
+---
+	
 ![The Host]({filename}/images/2016/the_host.jpg){: .ew1200 }
 
 A few disclosures before I start:

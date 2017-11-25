@@ -1,9 +1,11 @@
-Title: fixing wordpress -- editor removing div tags
-Date: 2007-03-19 12:55:51
-Tags: imported, wordpress
-Category: software
-Slug: fixing_wordpress_editor_removing_div_tags
-
+---
+title: "fixing wordpress -- editor removing div tags"
+date: "2007-03-19 12:55:51"
+tags: [imported, wordpress]
+category: software
+slug: fixing_wordpress_editor_removing_div_tags
+---
+	
 Wordpress has (or rather had) an annoying habit -- When you used it as a <a href="http://en.wikipedia.org/wiki/Content_management_system" title="Content management system">CMS</a>, the built in editor graciously removed all div tags from your post. I really can't see why anyone in their right mind would wish this. After digging through the support forums, came upon the following:
 
 2.1 version tinyMCE will replace &lt;div&gt; by &lt;p&gt; when saving post, you may change this by hacking file: wp-includes/js/tinymce/tiny_mce_config.php

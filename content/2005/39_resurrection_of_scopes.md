@@ -1,9 +1,11 @@
-Title: Resurrection of Scopes
-Date: 2005-05-06 08:42:07
-Tags: imported
-Category: politics
-Slug: resurrection_of_scopes
-
+---
+title: "Resurrection of Scopes"
+date: "2005-05-06 08:42:07"
+tags: [imported]
+category: politics
+slug: resurrection_of_scopes
+---
+	
 Anyone looking for direct evidence that history repeats itself can stop.  Go pick up a newspaper, read, and weep.
 
 Why is this country in the state its in right now?  What explains this incredible push by the religious right?  Is this the way its going to be, or is this just a phase and the backlash is coming?

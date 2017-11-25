@@ -1,11 +1,13 @@
-Title: Anime Spring 2016 First Impressions
-Date: 2016-04-22 22:36:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2016_spring_first
-Summary: First Impressions of the Anime Spring 2016 Season
-Hero: background-image: url(/images/anime/2016/spring/hero.jpg);
-
+---
+title: "Anime Spring 2016 First Impressions"
+date: "2016-04-22 22:36:00"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2016_spring_first
+summary: First Impressions of the Anime Spring 2016 Season
+Hero: "background-image: url(/images/anime/2016/spring/hero.jpg);"
+---
+	
 [TOC]
 
 You'll notice [Boku no Hero Academia](https://hummingbird.me/anime/boku-no-hero-academia) is not listed below. I guess I'm just not as much a fan of the *shoenen* category as everyone else as *Academia* has no draw on me.  I might try it at some point, but I think I'd rather give *Hunter x Hunter* a try instead.

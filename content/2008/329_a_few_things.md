@@ -1,9 +1,11 @@
-Title: a few things
-Date: 2008-01-14 23:38:45
-Tags: imported
-Category: tv
-Slug: a_few_things
-
+---
+title: "a few things"
+date: "2008-01-14 23:38:45"
+tags: [imported]
+category: tv
+slug: a_few_things
+---
+	
 Currently a television kick...
 
 If you haven't seen the first two Terminator episodes... <a href="http://www.fox.com">go now</a>!  I'm so sad the writer's strike is on!  I want a full season damn it!  Summer Glau is awesome and steels the entire show!  She really is amazingly well cast for this role.  I think they have the flexibility to develop some really great plots...

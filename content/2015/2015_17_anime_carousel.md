@@ -1,10 +1,12 @@
-Title: 2015 Anime Carousel
-Date: 2015-12-28 12:30:00
-Tags: anime, carousel
-Category: anime
-Slug: anime_2015_carousel
-Summary: Carousel of all the anime I watched this year
-
+---
+title: "2015 Anime Carousel"
+date: "2015-12-28 12:30:00"
+tags: [anime, carousel]
+category: anime
+slug: anime_2015_carousel
+summary: Carousel of all the anime I watched this year
+---
+	
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css" rel="stylesheet" property="stylesheet">
 
 <a href="{filename}/images/2015/carousel/02_death_parade.jpg" data-lightbox="carousel" data-title="Death Parade (Winter)">

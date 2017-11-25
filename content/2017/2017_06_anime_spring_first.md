@@ -1,11 +1,13 @@
-Title: Anime Spring 2017 First Impressions
-Date: 2017-06-04 20:22:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2017_spring_first
-Summary: First Impressions of the Anime Spring 2017 Season
-Hero: background-image: url(/images/anime/2017/spring/hero.jpg);
-
+---
+title: "Anime Spring 2017 First Impressions"
+date: "2017-06-04 20:22:00"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2017_spring_first
+summary: First Impressions of the Anime Spring 2017 Season
+Hero: "background-image: url(/images/anime/2017/spring/hero.jpg);"
+---
+	
 [TOC]
 
 Crap! This is late! New job put this distinctly on the backburner! I'm just going to get this out now while I still can...

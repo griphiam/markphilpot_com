@@ -1,9 +1,11 @@
-Title: sloppy handwriting or transcription issue?
-Date: 2007-10-17 11:56:00
-Tags: imported
-Category: thoughts
-Slug: sloppy_handwriting_or_transcription_issue
-
+---
+title: "sloppy handwriting or transcription issue?"
+date: "2007-10-17 11:56:00"
+tags: [imported]
+category: thoughts
+slug: sloppy_handwriting_or_transcription_issue
+---
+	
 
 <table border="1" cellpadding="3" width="100%">
 <tr>

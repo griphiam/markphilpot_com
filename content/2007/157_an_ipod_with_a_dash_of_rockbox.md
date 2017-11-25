@@ -1,9 +1,11 @@
-Title: an ipod with a dash of rockbox
-Date: 2007-02-21 17:45:27
-Tags: imported, apple, jailbreak
-Category: software
-Slug: an_ipod_with_a_dash_of_rockbox
-
+---
+title: "an ipod with a dash of rockbox"
+date: "2007-02-21 17:45:27"
+tags: [imported, apple, jailbreak]
+category: software
+slug: an_ipod_with_a_dash_of_rockbox
+---
+	
 
 As I indicated in a previous post, this past Christmas I was gifted a 30GB Video iPod. I had bought one for Ann (a Nano) almost a year earlier, and had "borrowed" it on occasion. Its interface was much better than almost anything else out there (hence its incredible success in the marketplace), but I was hesitant. Being firmly against DRM the integration with iTunes Store did nothing for me. I also didn't want to be tied to a platform (be it AAC, or anything else). But there is simply no denying what Apple has put together with its iPod line.
 

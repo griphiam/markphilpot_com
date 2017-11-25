@@ -1,9 +1,11 @@
-Title: Firefox Extensions
-Date: 2005-11-20 08:09:57
-Tags: imported, setup
-Category: software
-Slug: firefox_extensions
-
+---
+title: "Firefox Extensions"
+date: "2005-11-20 08:09:57"
+tags: [imported, setup]
+category: software
+slug: firefox_extensions
+---
+	
 
 In case you were curious, I thought I'd give a run down of the Firefox extensions that I use. Its extension system is quite impressive, keeping bloat away from the main executable, while at the same time letting users have full control over customizations. With IE being <span style="font-style: italic;">so incredibly</span> stagnant, Firefox has stepped in and filled the void. It has also given developers hope that you can code to standards! Though unfortunately, you inevitably have to include some hacks to get IE to work (but that is the reverse of what it was even a year ago). Anyway, enough of the drawl.
 

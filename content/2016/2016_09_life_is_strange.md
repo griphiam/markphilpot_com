@@ -1,11 +1,13 @@
-Title: Life is Strange
-Date: 2016-03-10 12:33:00
-Tags: review, games
-Category: games
-Slug: life_is_strange
-Summary: Review of Dontnod's "Life is Strange"
-Hero: background-image: url(/images/2016/life_is_strange/hero.jpg);
-
+---
+title: "Life is Strange"
+date: "2016-03-10 12:33:00"
+tags: [review, games]
+category: games
+slug: life_is_strange
+summary: Review of Dontnod's "Life is Strange"
+Hero: "background-image: url(/images/2016/life_is_strange/hero.jpg);"
+---
+	
 ![Life is Strange]({filename}/images/2016/life_is_strange/title.jpg){: .ew1000}
 
 Narrative-focused games are few and far between. There are seemingly hundreds of *Battlefront* or *Destiny* style games for every story-based game. Given the absolute shit show that is the gaming community right now, this game embodies everything "the GG side" seem to despise: character driven story based game led by a duo of female protagonists.

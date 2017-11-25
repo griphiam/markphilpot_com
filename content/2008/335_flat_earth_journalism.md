@@ -1,9 +1,11 @@
-Title: "flat earth" journalism
-Date: 2008-02-24 22:30:36
-Tags: imported
-Category: politics
-Slug: flat_earth_journalism
-
+---
+title: "flat earth journalism"
+date: "2008-02-24 22:30:36"
+tags: [imported]
+category: politics
+slug: flat_earth_journalism
+---
+	
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/markphilpot/2272318808/" title="photo sharing"><img src="http://farm3.static.flickr.com/2226/2272318808_f6cf4e0543.jpg" class="flickr-photo" /></a>
 

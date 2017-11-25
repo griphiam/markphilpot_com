@@ -1,9 +1,11 @@
-Title: Flight to Europe Part 2
-Date: 2003-08-28 15:50:44
-Tags: imported, story, europe
-Category: travel
-Slug: flight_to_europe_part_2
-
+---
+title: "Flight to Europe Part 2"
+date: "2003-08-28 15:50:44"
+tags: [imported, story, europe]
+category: travel
+slug: flight_to_europe_part_2
+---
+	
 Yeah, Yeah, I know you've all been waiting with anticipation, but I got a little distracted.  I'm back.
 
 Part 2 - Arriving in London

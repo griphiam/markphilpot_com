@@ -1,9 +1,11 @@
-Title: GNU Screen Cheat Sheet
-Date: 2009-05-03 22:41:23
-Tags: imported
-Category: linux
-Slug: gnu_screen_cheat_sheet
-
+---
+title: "GNU Screen Cheat Sheet"
+date: "2009-05-03 22:41:23"
+tags: [imported]
+category: linux
+slug: gnu_screen_cheat_sheet
+---
+	
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/63987143@N00/136624928/" title="night rising" target="_blank"><img src="http://farm1.static.flickr.com/53/136624928_291b73cbe8_m.jpg" alt="night rising" border="0" /></a></div>
 
 My normal modus operandi is to heavily use tabs with Konsole.  My strategy gets pretty hectic when you have a Konsole per machine with multiple tabs, trying to juggle everything...  It's basically reached it's scalability threshold.  I'm hoping injecting <a href="http://www.gnu.org/software/screen/screen.html">GNU Screen</a> into my workflow will simplify things a little bit (though I'm not completely sold yet).  But what I need a quick reference for all the shortcuts, which is where this page comes in.  I will expand this as I pick up new commands.

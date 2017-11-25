@@ -1,9 +1,11 @@
-Title: almost... there...
-Date: 2007-09-06 12:11:55
-Tags: imported, uhaul
-Category: updates
-Slug: almost_there
-
+---
+title: "almost... there..."
+date: "2007-09-06 12:11:55"
+tags: [imported, uhaul]
+category: updates
+slug: almost_there
+---
+	
 We just need to get through this weekend...
 
 We took keys to our new apartment on campus on Tuesday.  Definitely a rollercoaster ride though.  We had called the housing office last week and they said our apartment was in this other highrise that wasn't mentioned as a couples housing location, so we were concerned we were just going to get stuck with a bunch of underclassmen (no offense). It also wasn't a building that had a balcony and was even smaller than the other floor plans (if that was even possible).  So we were pretty bummed about that (you know that feeling of getting screwed by a random chance you have no control over?)

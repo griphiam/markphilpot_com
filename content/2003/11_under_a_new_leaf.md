@@ -1,9 +1,11 @@
-Title: Under a New Leaf
-Date: 2003-11-02 11:52:32
-Tags: imported, visor, linux
-Category: updates
-Slug: under_a_new_leaf
-
+---
+title: "Under a New Leaf"
+date: "2003-11-02 11:52:32"
+tags: [imported, visor, linux]
+category: updates
+slug: under_a_new_leaf
+---
+	
 Well, as Jeff kindly pointed out, this space has been sorely neglected.  Lets just say its been a "busy" couple of months.
 
 Under this new leaf, I found a new philosophy of numerous small updates, rather than get bogged down in large ones.  This may reduce the "Why do I care" factor, but so be it.  At least when someone stops by, there's something new.  Now the trick is to see how long it lasts.

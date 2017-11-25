@@ -1,9 +1,11 @@
-Title: HTML 5 Video Prep
-Date: 2010-05-04 17:13:00
-Tags: imported
-Category: software
-Slug: html_5_video_prep
-
+---
+title: "HTML 5 Video Prep"
+date: "2010-05-04 17:13:00"
+tags: [imported]
+category: software
+slug: html_5_video_prep
+---
+	
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/36983395@N00/513636061/" title="HTML5 fist, after A List Apart" target="_blank"><img src="http://farm1.static.flickr.com/191/513636061_98d07f7966_m.jpg" alt="HTML5 fist, after A List Apart" border="0" /></a></div>
 
 So what caused me to be up till 2 in the morning? Struggling with video encoding, conversion and HTML5 fickleness.  Essentially, this is not a process for mere mortals.  While video in general is complicated enough, most will and should rely on a site like youtube to share their videos (at least basic creators).  However due to certain, ummm... how shall we say, "ambitious" music labels, music video remixes get flagged and punted immediately.  It will be nice if we can get a universally supported video codec (stay tuned for Google I/O) as it will greatly streamline this process (or should in theory).

@@ -1,9 +1,11 @@
-Title: Harry Potter
-Date: 2005-11-27 11:11:40
-Tags: imported, harry potter
-Category: movies
-Slug: harry_potter
-
+---
+title: "Harry Potter"
+date: "2005-11-27 11:11:40"
+tags: [imported, harry potter]
+category: movies
+slug: harry_potter
+---
+	
 Quick and dirty: If you've seen the other 3 films, this one is <span style="font-style: italic;">much</span> better. I give Mike Newel a lot of credit. There is a lot of material to cover and he did it very well (I'll touch on that later). Great start to what looks like an excellent few weeks of movies.
 
 <span style="font-style: italic;">The Goblet of Fire</span> is my favorite of the series thus far. It really the evolution of the series from children's novels to young adult. The movie portrays this very well. Newel deviates from the novel in a few places, but I believe it comes across on the screen as necessary for a film adaptation. The movie skips over Winky, who was a pivotal character in the novel. The "mystery" surrounding the house elf was too much ambiguity for the screen, which makes sense. All and all, I think you'll enjoy this one.

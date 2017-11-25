@@ -1,9 +1,11 @@
-Title: photography workflow
-Date: 2007-04-11 00:42:59
-Tags: imported
-Category: photography
-Slug: photography_workflow
-
+---
+title: "photography workflow"
+date: "2007-04-11 00:42:59"
+tags: [imported]
+category: photography
+slug: photography_workflow
+---
+	
 Is it not so simple to ask for one integrated photography workflow tool?  It really is about as bad as finding a good photography bag -- the people designing them have such a narrow focus, they completely miss the boat.
 
 Let me define a few terms:

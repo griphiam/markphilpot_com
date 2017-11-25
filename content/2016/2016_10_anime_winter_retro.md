@@ -1,11 +1,13 @@
-Title: Anime Winter 2016 Retrospective
-Date: 2016-04-14 20:51:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2016_winter_retro
-Summary: Retrospective of the Anime Winter 2016 Season
-Hero: background-image: url(/images/anime/2016/winter/hero.jpg);
-
+---
+title: "Anime Winter 2016 Retrospective"
+date: "2016-04-14 20:51:00"
+tags: [anime, retro]
+category: anime
+slug: anime_2016_winter_retro
+summary: Retrospective of the Anime Winter 2016 Season
+Hero: "background-image: url(/images/anime/2016/winter/hero.jpg);"
+---
+	
 [TOC]
 
 So I was unable to get to the "sequels" for this season (*Gate*, *Ansatsu Kyoushitsu*, and *Akagami no Shirayuki-hime*). All three I will hopefully complete at some point (especially *Shirayuki*) but this was a crazy quarter personally and I ended up really only having time for a few shows.

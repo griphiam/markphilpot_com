@@ -1,9 +1,11 @@
-Title: How not to program a user interface
-Date: 2007-04-16 15:37:03
-Tags: imported
-Category: rant
-Slug: how_not_to_program_a_user_interface
-
+---
+title: "How not to program a user interface"
+date: "2007-04-16 15:37:03"
+tags: [imported]
+category: rant
+slug: how_not_to_program_a_user_interface
+---
+	
 The following is a description on using the Clearquest 2003 windows application.
 
 <ul>

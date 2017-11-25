@@ -1,9 +1,11 @@
-Title: KDE & Dolphin
-Date: 2007-02-24 23:40:04
-Tags: imported, kde
-Category: linux
-Slug: kde_dolphin
-
+---
+title: "KDE & Dolphin"
+date: "2007-02-24 23:40:04"
+tags: [imported, kde]
+category: linux
+slug: kde_dolphin
+---
+	
 
 Some <a href="http://dot.kde.org/1172249109/" title="Looking forward to it">great news</a> out of the KDE 4 development: Dolphin will replace/coexist with Konqueror as the main file manager. One of my few issues with KDE is Konqueror -- trying to be both a web browser and a file manager, when it really is more a web browser. All the options are basically exclusively oriented toward web browsing and its incredibly convoluted "Profile" system. Its truly indicative of feature creep.
 

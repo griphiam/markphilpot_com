@@ -1,9 +1,11 @@
-Title: TGI gorram F
-Date: 2009-06-05 11:11:42
-Tags: imported
-Category: updates
-Slug: tgi_gorram_f
-
+---
+title: "TGI gorram F"
+date: "2009-06-05 11:11:42"
+tags: [imported]
+category: updates
+slug: tgi_gorram_f
+---
+	
 What a week.  June is going to be rough.  I we can get to the 4th of July weekend without permanent scarring, that will be a heroic accomplishment.
 
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/9993075@N06/3596141767/" title="Electric Skies" target="_blank"><img src="http://farm3.static.flickr.com/2478/3596141767_fa613f634f_m.jpg" alt="Electric Skies" border="0" /></a></div>

@@ -1,9 +1,11 @@
-Title: Question
-Date: 2006-06-30 20:10:52
-Tags: imported, java, c++
-Category: development
-Slug: question
-
+---
+title: "Question"
+date: "2006-06-30 20:10:52"
+tags: [imported, java, c++]
+category: development
+slug: question
+---
+	
 
 Anyone who isn't a full fledged computer nut (or someone who does this for a living... I at least fit both categories) can move on to some of my other posts below (<a title="Knockout Round Review" href="http://blog.mcstudios.net/2006/06/28/world-cup-part-3/">World Cup Part 3</a> for example). However, if you aren't phased, please continue.
 

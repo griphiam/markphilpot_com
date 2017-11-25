@@ -1,10 +1,12 @@
-Title: 2 vs 3
-Date: 2014-04-05 21:46:23
-Tags: workspace, setup
-Category: workspace
-Slug: 2vs3
-Summary: Considering the jump to a tri monitor setup?
-
+---
+title: "2 vs 3"
+date: "2014-04-05 21:46:23"
+tags: [workspace, setup]
+category: workspace
+slug: 2vs3
+summary: Considering the jump to a tri monitor setup?
+---
+	
 ![Three Monitors](https://farm5.staticflickr.com/4118/5439996103_74727f61a5_b_d.jpg "Three Monitors"){: .ew1000} <br/> <small class="caption-text muted"><img src="/images/cc/cc.png" width="16" height="16" style="border: none;"/> <a href="https://www.flickr.com/photos/42736403@N08/5439996103">Photo</a> by <a href="https://www.flickr.com/photos/42736403@N08/">Chance Reecher</a></small>
 
 

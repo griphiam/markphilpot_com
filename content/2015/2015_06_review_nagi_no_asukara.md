@@ -1,10 +1,12 @@
-Title: Nagi no Asukara
-Date: 2015-10-21 12:00:00
-Tags: anime, review
-Category: anime
-Slug: review_nagi_no_asukara
-Summary: Review of Nagi no Asukara
-
+---
+title: "Nagi no Asukara"
+date: "2015-10-21 12:00:00"
+tags: [anime, review]
+category: anime
+slug: review_nagi_no_asukara
+summary: Review of Nagi no Asukara
+---
+	
 ![Nagi no Asukara]({filename}/images/2015/nagi_no_asukara/pv.jpg){: .center}
 ![PA]({filename}/images/anime/studios/pa_works.png){: .studio}
 

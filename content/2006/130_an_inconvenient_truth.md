@@ -1,9 +1,11 @@
-Title: An Inconvenient Truth
-Date: 2006-06-05 17:58:12
-Tags: imported
-Category: movies
-Slug: an_inconvenient_truth
-
+---
+title: "An Inconvenient Truth"
+date: "2006-06-05 17:58:12"
+tags: [imported]
+category: movies
+slug: an_inconvenient_truth
+---
+	
 I believe Ebert's quote sums it up nicely.
 
 >In 39 years, I have never written these words in a movie review, but here they are: You owe it to yourself to see this film. If you do not, and you have grandchildren, you should explain to them why you decided not to.

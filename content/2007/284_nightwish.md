@@ -1,9 +1,11 @@
-Title: Nightwish
-Date: 2007-09-15 00:15:21
-Tags: imported
-Category: music
-Slug: nightwish
-
+---
+title: "Nightwish"
+date: "2007-09-15 00:15:21"
+tags: [imported]
+category: music
+slug: nightwish
+---
+	
 
 A virtual unknown here in the States, <a href="http://www.nightwish.com">Nightwish</a> is a huge act in Europe.  Hailing from Finland, their first singer gave them a very unique sound -- a very operatic voice prevented them sounding like Evanescence (even though they predated the US act by almost a decade).  Tarja Turunen was quite literally an opera singer fronting a heavy metal band.  They split ways two years ago due to creative differences, and Nightwish spent a year and a half looking for a new female front (wo)man.  Looks like they finally found one... Their new album Dark Passion Play was released this week in Europe and their single Amaranth is #1 in a few countries.  I don't have the album yet, but I like the single.  Unfortunately a little close to Evanescence, but better sounding IMO (a little like <a href="http://www.within-temptation.com/">Within Temptation</a>).  I think their new singer Anette Olzo will be much more palatable to a larger audience (and being pretty damn cute at the same time... always key).  I don't like the video all that much, but the song is definitely catchy.
 

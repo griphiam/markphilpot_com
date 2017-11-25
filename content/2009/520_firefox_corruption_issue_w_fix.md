@@ -1,9 +1,11 @@
-Title: firefox corruption issue (w/ fix)
-Date: 2009-04-27 22:17:00
-Tags: imported
-Category: linux
-Slug: firefox_corruption_issue_w_fix
-
+---
+title: "firefox corruption issue (w/ fix)"
+date: "2009-04-27 22:17:00"
+tags: [imported]
+category: linux
+slug: firefox_corruption_issue_w_fix
+---
+	
 If you are seeing the following error:
 
 `Error: uncaught exception: [Exception... "Component returned failure code:

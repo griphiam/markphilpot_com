@@ -1,9 +1,11 @@
-Title: More and more impressed with Gentoo
-Date: 2004-04-10 11:06:38
-Tags: imported, gentoo, winehq
-Category: linux
-Slug: more_and_more_impressed_with_gentoo
-
+---
+title: "More and more impressed with Gentoo"
+date: "2004-04-10 11:06:38"
+tags: [imported, gentoo, winehq]
+category: linux
+slug: more_and_more_impressed_with_gentoo
+---
+	
 KDE ended up taking <em>30</em> hours to compile.  Which I guess on a 600MHz laptop isn't that bad.  Modern systems should be much better.  But the more and more I've played with it, the better it is.
 
 The Portage system is <em>the</em> way to install software.  It is slower, because often you have to compile the software on your machine (but this is better anyway, because then its specifically tailored to your architecture and optomizations).  Since the Gentoo community are the ones who write the ebuild install scripts, they know how to do it intelligently (rather than the original software creator, who has to take into account many distributions).

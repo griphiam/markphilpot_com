@@ -1,11 +1,13 @@
-Title: MacBook Pro Thoughts
-Date: 2017-01-18 20:13:00
-Tags: apple, macbook, thoughts
-Category: computers
-Slug: mbp_thoughts
-Summary: Some thoughts on Apple's new MacBook Pro
-Hero: background-image: url(/images/2017/mbp_thoughts/hero.jpg);
-
+---
+title: "MacBook Pro Thoughts"
+date: "2017-01-18 20:13:00"
+tags: [apple, macbook, thoughts]
+category: computers
+slug: mbp_thoughts
+summary: Some thoughts on Apple's new MacBook Pro
+Hero: "background-image: url(/images/2017/mbp_thoughts/hero.jpg);"
+---
+	
 Needed a bit more than 120 characters for this.
 
 ## Rationale

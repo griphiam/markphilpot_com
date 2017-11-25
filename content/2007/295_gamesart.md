@@ -1,9 +1,11 @@
-Title: games|art
-Date: 2007-10-01 12:07:49
-Tags: imported, longest journey, dreamfall
-Category: games
-Slug: gamesart
-
+---
+title: "games|art"
+date: "2007-10-01 12:07:49"
+tags: [imported, longest journey, dreamfall]
+category: games
+slug: gamesart
+---
+	
 The debate on whether video games could be art has been held at a low simmer for quite some time.  Roger Ebert <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=ANSWERMAN&date=20051127">threw down</a> the gauntlet on which many picked up, including recently Clive Barker, who <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20070721/COMMENTARY/70721001">stirred the pot again</a>.  In what I deem is a "final thought" on this issue, Ragnar Tournquist (of Dreamfall fame) invited <a href="http://www.waynesantos.com/">Wayne Santos</a> to deliver a <a href="http://ragnartornquist.com/?p=380">very well written essay</a> on the state of the question "can video games be art?"
 
 I don't think the transition of video games will mirror that of film as closely as Santos believes.  The video game industry became saturated (many times over) much more quickly than the film industry.  You really didn't have the notion of "summer blockbusters" when Citizen Kane was released (yes, you had serials of various sorts, but nothing that garnered any significant budget).  Because film had a much slower progression to popular emergence, you had true art endeavors, which really set the tone of the industry.  While you have games that I feel qualify for the discussion (Longest Journey/Dreamfall, Final Fantasy VII, and much more that I can't think of at the moment), you really quickly moved into EA's Madden Football and FPS from Doom through Quake to Halo3 dominating the scene.

@@ -1,9 +1,11 @@
-Title: Testing out upgraded Gallery
-Date: 2007-03-31 22:59:52
-Tags: imported
-Category: updates
-Slug: testing_out_upgraded_gallery
-
+---
+title: "Testing out upgraded Gallery"
+date: "2007-03-31 22:59:52"
+tags: [imported]
+category: updates
+slug: testing_out_upgraded_gallery
+---
+	
 So I took the plunge.  Couldn't help my self.  Things look good so far.  I'll keep you posted.  I really like the keyword based galleries.  I'll now have to update all the images.  The crappy part is that I've already categorized all my images in iMatch... I wish I could just export that.
 
 <em>Update</em> -- Yay!  I got things working.  Now clicking on the image brings up a lightbox version of the image (looks actually quite nice).  Clicking on the title sends you to the gallery.

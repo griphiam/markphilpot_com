@@ -1,9 +1,11 @@
-Title: writers on strike... what to do?
-Date: 2007-11-12 09:40:32
-Tags: imported
-Category: tv
-Slug: writers_on_strike_what_to_do
-
+---
+title: "writers on strike... what to do?"
+date: "2007-11-12 09:40:32"
+tags: [imported]
+category: tv
+slug: writers_on_strike_what_to_do
+---
+	
 You  know what this means right?  More Survivor, American Idol, Amazing Race... Reality TV! [Shudder]  Its going to be bad folks.  In addition, the contracts for Director's Guild and Actor's Guild are due up in June!  The hope is that the work that goes into the WGA contract can be applied to the DGA and AGA.  Technically we're still in the first week, but the repeated breakdowns in progress doesn't exactly lend to optimism.
 
 The only recipe for right now is to go back an catch up on all those shows you missed!   With a brand new Netflix account in hand, I begin to build up a queue that will satisfy my need for "quality" TV in between college basketball games.  The following is a breakdown on what I'm hoping to catch up on.

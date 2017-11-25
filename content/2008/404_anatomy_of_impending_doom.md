@@ -1,9 +1,11 @@
-Title: Anatomy of impending doom
-Date: 2008-07-01 21:53:58
-Tags: imported
-Category: rant
-Slug: anatomy_of_impending_doom
-
+---
+title: "Anatomy of impending doom"
+date: "2008-07-01 21:53:58"
+tags: [imported]
+category: rant
+slug: anatomy_of_impending_doom
+---
+	
 Evolution of a doomed conversation...
 
 <ul>

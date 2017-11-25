@@ -1,11 +1,13 @@
-Title: Kokoro Connect
-Date: 2016-11-20 18:16:00
-Tags: anime, review
-Category: anime
-Slug: kokoro_connect
-Summary: Review of the anime series Kokoro Connect
-Hero: background-image: url(/images/2016/kokoro/hero.jpg);
-
+---
+title: "Kokoro Connect"
+date: "2016-11-20 18:16:00"
+tags: [anime, review]
+category: anime
+slug: kokoro_connect
+summary: Review of the anime series Kokoro Connect
+Hero: "background-image: url(/images/2016/kokoro/hero.jpg);"
+---
+	
 ![Title]({filename}/images/2016/kokoro/title.jpg){: .ew1280}
 
 > Don't forget that kindness can hurt people too

@@ -1,9 +1,11 @@
-Title: What Amazon needs to do about books & Kindle
-Date: 2009-01-12 13:32:02
-Tags: imported
-Category: thoughts
-Slug: what_amazon_needs_to_do_about_books_kindle
-
+---
+title: "What Amazon needs to do about books & Kindle"
+date: "2009-01-12 13:32:02"
+tags: [imported]
+category: thoughts
+slug: what_amazon_needs_to_do_about_books_kindle
+---
+	
 Given Kindle's wifi features and the ability to pull down newspapers (if I could get the Economist and the Washington Post I would be a very happy man), I'm very close to sold.  However, there is one thing I wish they did:
 
 For the price of the book + $1 or $2, I get the book AND the kindle version.  For people who don't want the physical book, charge half the price of the physical book.

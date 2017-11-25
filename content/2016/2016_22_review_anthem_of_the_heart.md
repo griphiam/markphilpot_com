@@ -1,11 +1,13 @@
-Title: Kokoro ga Sakebitagatterunda
-Date: 2016-10-27 19:07:00
-Tags: anime, review
-Category: anime
-Slug: review_anthem
-Summary: Review of Kokoro ga Sakebitagatterunda
-Hero: background-image: url(/images/2016/anthem/hero.jpg);
-
+---
+title: "Kokoro ga Sakebitagatterunda"
+date: "2016-10-27 19:07:00"
+tags: [anime, review]
+category: anime
+slug: review_anthem
+summary: Review of Kokoro ga Sakebitagatterunda
+Hero: "background-image: url(/images/2016/anthem/hero.jpg);"
+---
+	
 ![Anthem of the Heart]({filename}/images/2016/anthem/title.jpg){: .ew1920}
 ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 

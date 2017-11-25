@@ -1,9 +1,11 @@
-Title: Awakened from the depths of slumber
-Date: 2007-01-19 15:31:22
-Tags: imported
-Category: updates
-Slug: awakened_from_the_depths_of_slumber
-
+---
+title: "Awakened from the depths of slumber"
+date: "2007-01-19 15:31:22"
+tags: [imported]
+category: updates
+slug: awakened_from_the_depths_of_slumber
+---
+	
 
 Wow, has it been this long? Anyone who ever checked this must have given up by now. Talk about killing your audience through inactivity.
 

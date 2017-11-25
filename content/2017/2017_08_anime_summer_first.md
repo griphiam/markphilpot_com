@@ -1,11 +1,13 @@
-Title: Anime Summer 2017 First Impressions
-Date: 2017-07-16 16:29:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2017_summer_first
-Summary: First Impressions of the Anime Summer 2017 Season
-Hero: background-image: url(/images/anime/2017/summer/montage.jpg);
-
+---
+title: "Anime Summer 2017 First Impressions"
+date: "2017-07-16 16:29:00"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2017_summer_first
+summary: First Impressions of the Anime Summer 2017 Season
+Hero: "background-image: url(/images/anime/2017/summer/montage.jpg);"
+---
+	
 [TOC]
 
 ![No Game No Life -Zero-]({filename}/images/anime/2017/summer/21875-xF6gR9paLC7C.jpg "No Game No Life -Zero-"){: .center}

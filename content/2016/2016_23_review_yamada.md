@@ -1,11 +1,13 @@
-Title: Yamada-kun to 7-nin no Majo
-Date: 2016-10-31 21:55:00
-Tags: anime, review
-Category: anime
-Slug: review_yamada_kun
-Summary: Review of Yamada-kun to 7-nin no Majo
-Hero: background-image: url(/images/2016/yamada/hero.jpg);
-
+---
+title: "Yamada-kun to 7-nin no Majo"
+date: "2016-10-31 21:55:00"
+tags: [anime, review]
+category: anime
+slug: review_yamada_kun
+summary: Review of Yamada-kun to 7-nin no Majo
+Hero: "background-image: url(/images/2016/yamada/hero.jpg);"
+---
+	
 ![Yamada-kun to 7-nin no Majo (TV)]({filename}/images/2016/yamada/pv.jpg "Yamada-kun to 7-nin no Majo (TV)"){: .center}
 <div class="studio">Liden Films</div>
 

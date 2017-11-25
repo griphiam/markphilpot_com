@@ -1,9 +1,11 @@
-Title: Nerdfighterlike
-Date: 2010-04-14 21:46:27
-Tags: imported
-Category: creative
-Slug: nerdfighterlike
-
+---
+title: "Nerdfighterlike"
+date: "2010-04-14 21:46:27"
+tags: [imported]
+category: creative
+slug: nerdfighterlike
+---
+	
 <em>Update: 2010-04-20</em> -- Fixed some timing and EQ issues. Also programed some new drums.  Still working on solo.
 
 Below is a rough cut of my rendition of <a href="http://www.youtube.com/user/devilishlypure">devilishlypure</a>'s song <em><a href="http://www.youtube.com/watch?v=6YonOpkx6K8">Nerdfighterlike</a></em> which was then done by Hank & Katherine Green <a href="http://www.youtube.com/watch?v=SjzG0mPXwxo">here</a> (of the <a href="http://www.youtube.com/user/vlogbrothers">vlogbrothers</a>).

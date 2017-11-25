@@ -1,12 +1,14 @@
-Title: The Longest Journey
-Date: 2017-11-09 20:12:00
-Tags: games
-Category: games
-Slug: tjl
-Summary: Retrospective of the Longest Journey
-Hero: background-image: url(/images/2017/tlj/hero.jpg);
+---
+title: "The Longest Journey"
+date: "2017-11-09 20:12:00"
+tags: [games]
+category: games
+slug: tjl
+summary: Retrospective of the Longest Journey
+Hero: "background-image: url(/images/2017/tlj/hero.jpg);"
 Status: draft
-
+---
+	
 In the summer of 2000 I stumbled upon a review of this new point-&-click adventure game by this Norwegian game studio I had never heard of. The UK release had gone out in the spring with no word of a US release. So desperate for a story focused adventure game, I decided to pay a hefty premium and import the game so I could play it. The US release ultimately came a few months later, but not knowing that at the time, I thought I had discovered gaming gold.
 
 By way of stage setting, King's Quest VI came out in the fall of 1992. Space Quest V came out in the spring of 1993. Full Throttle in the spring of 1995. The late 80's/early 90's was the golden age of adventure gaming -- right smack center of my gaming adolescence.  But the late 90's saw this all dry up. The gaming landscape had pivoted to 3D and FPS. It was clear, even by 1999 that story-driven adventure games were all but dead, at least from main stream gaming. So when I heard of this ambitious new project, The Longest Journey appeared from nowhere, I was A) shocked and B) like a dehydrated man stumbling upon an oasis.

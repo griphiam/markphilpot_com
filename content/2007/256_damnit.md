@@ -1,9 +1,11 @@
-Title: Damnit
-Date: 2007-06-13 09:38:00
-Tags: imported
-Category: updates
-Slug: damnit
-
+---
+title: "Damnit"
+date: "2007-06-13 09:38:00"
+tags: [imported]
+category: updates
+slug: damnit
+---
+	
 That was so much harder than it needed to be.  It does not help when the rest of the world's DNS servers refresh every four hours and your own ISP (damn RCN) refreshes every <strong>30 hours</strong> (son of a bitch).
 
 Anyway.  I've moved hosts, so hopefully things will be nicer now... more responsive and less unknown internal server errors.  The marching band website got a new domain (<a href="http://www.dukeband.org">www.dukeband.org</a>) and a face lift in the process.

@@ -1,9 +1,11 @@
-Title: Prince of Persia -- The Movie
-Date: 2007-05-04 00:34:21
-Tags: imported
-Category: movies
-Slug: prince_of_persia_the_movie
-
+---
+title: "Prince of Persia -- The Movie"
+date: "2007-05-04 00:34:21"
+tags: [imported]
+category: movies
+slug: prince_of_persia_the_movie
+---
+	
 
 When it comes to successful rebirths of a video game franchise, the most recent stellar performer must be Prince of Persia.  It came a long way from its primitive beginnings on early Macintosh platforms.  Even then it was still a great game.  Ubisoft did a remarkable job with the original remake (<em>The Sands of Time</em>) and eventually put out one of the most successful video game trilogy's of all time (<em>Warrior Within</em> and <em>Two Thrones</em>) -- all three of which I throughly enjoyed.
 

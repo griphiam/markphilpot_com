@@ -1,9 +1,11 @@
-Title: more summer movies
-Date: 2007-05-08 00:15:34
-Tags: imported
-Category: movies
-Slug: more_summer_movies
-
+---
+title: "more summer movies"
+date: "2007-05-08 00:15:34"
+tags: [imported]
+category: movies
+slug: more_summer_movies
+---
+	
 I thought I needed to get this review out soon before I missed all the release dates.  Some of these I've already covered but I stumbled across this "complete" <a href="http://geeksofdoom.com/2007/04/23/summer-07-movie-mayhem/">list</a>, and I thought I'd take a gander.
 
 <strong>Spider Man 3</strong>

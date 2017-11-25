@@ -1,9 +1,11 @@
-Title: Windows 7 & Kubuntu 10.04
-Date: 2010-05-03 15:20:25
-Tags: imported
-Category: linux
-Slug: windows_7_kubuntu_10_04
-
+---
+title: "Windows 7 & Kubuntu 10.04"
+date: "2010-05-03 15:20:25"
+tags: [imported]
+category: linux
+slug: windows_7_kubuntu_10_04
+---
+	
 So over the weekend I refreshed my desktop with both Windows 7 and the latest Kubuntu release.  While I have been religiously upgrading the linux side of my dual boot system every 6 months with the [k]ubuntu release schedule, I was still running Windows XP which hadn't been reinstalled in about 3 years (it was quite sluggish and desperately needed a spring cleaning).  While I didn't do a live blogging of the process, I thought I'd recap some highlights.
 
 <h3>Windows 7</h3>

@@ -1,9 +1,11 @@
-Title: Hello... I'm Mac... & I'm a PC
-Date: 2007-02-05 09:05:29
-Tags: imported
-Category: computers
-Slug: hello_im_mac_im_a_pc
-
+---
+title: "Hello... I'm Mac... & I'm a PC"
+date: "2007-02-05 09:05:29"
+tags: [imported]
+category: computers
+slug: hello_im_mac_im_a_pc
+---
+	
 
 Prior to getting started, regardless of which camp you support, you have to appreciate <a title="Reminds me on how much I miss Douglas Adams" href="http://www.guardian.co.uk/commentisfree/story/0,,2006031,00.html">great British humor</a> on the current discussion. Now with that out of the way.
 

@@ -1,11 +1,13 @@
-Title: Hai to Gensou no Grimgar
-Date: 2016-04-25 23:34:00
-Tags: anime, review
-Category: anime
-Slug: review_grimgar
-Summary: Review of Hai to Gensou no Grimgar (Grimgar of Fantasy and Ash)
-Hero: background-image: url(/images/2016/grimgar/hero.jpg);
-
+---
+title: "Hai to Gensou no Grimgar"
+date: "2016-04-25 23:34:00"
+tags: [anime, review]
+category: anime
+slug: review_grimgar
+summary: Review of Hai to Gensou no Grimgar (Grimgar of Fantasy and Ash)
+Hero: "background-image: url(/images/2016/grimgar/hero.jpg);"
+---
+	
 ![Grimgar]({filename}/images/2016/grimgar/title.jpg){: .ew1200}
 ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 

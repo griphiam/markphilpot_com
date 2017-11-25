@@ -1,11 +1,13 @@
-Title: Anime Spring 2016 Retrospective
-Date: 2016-07-31 22:01:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2016_spring_retro
-Summary: Retrospective of the Anime Spring 2016 Season
-Hero: background-image: url(/images/anime/2016/spring/hero.jpg);
-
+---
+title: "Anime Spring 2016 Retrospective"
+date: "2016-07-31 22:01:00"
+tags: [anime, retro]
+category: anime
+slug: anime_2016_spring_retro
+summary: Retrospective of the Anime Spring 2016 Season
+Hero: "background-image: url(/images/anime/2016/spring/hero.jpg);"
+---
+	
 [TOC]
 
 Going into this season I was a little worried there wasn't going to be anything that would really peak my interest. Though I knew of *Academia* through the manga (I haven't ready any), the rest of the shows on the docket were completely unknowns.  All in all it turned out to be a solid season.

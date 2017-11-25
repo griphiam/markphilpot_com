@@ -1,9 +1,11 @@
-Title: beautiful engineering
-Date: 2007-03-04 15:52:38
-Tags: imported
-Category: engineering
-Slug: beautiful_engineering
-
+---
+title: "beautiful engineering"
+date: "2007-03-04 15:52:38"
+tags: [imported]
+category: engineering
+slug: beautiful_engineering
+---
+	
 Its actually fairly rare that you can call engineering beautiful.  Engineering can produce <a href="http://antwrp.gsfc.nasa.gov/apod/ap070218.html" title="Long live Hubble">beautiful things</a>, but the widget or construction itself doesn't often come to mind.  However, you must check <a href="http://thrillingwonder.blogspot.com/2007/02/construction-of-worlds-highest-bridge.html" title="Bridge above the clouds">this</a> out.  A new bridge in France that is really breath taking.  We'll ignore the question of "why" for a moment (it does seem a bit excessive), but it really is a photogenic bridge.
 
 In the same vein, can you imagine the span between San Francisco and Marin County without the Golden Gate?

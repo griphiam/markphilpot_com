@@ -1,9 +1,11 @@
-Title: busy as hell
-Date: 2007-05-10 13:02:04
-Tags: imported, basketball
-Category: updates
-Slug: busy_as_hell
-
+---
+title: "busy as hell"
+date: "2007-05-10 13:02:04"
+tags: [imported, basketball]
+category: updates
+slug: busy_as_hell
+---
+	
 I have no idea what it is about this week, but both Ann and I are swamped, which has disrupted my normal schedule (also the time decompression time in the evenings has been devoted to watch NBA playoffs).  In any case, I'll try to get a few posts out soon, including part two of Riveria Maya.  We're heading up to Philly this weekend to visit my cousin and see Sam -- one among a large list of "things we should have done the past four years while we were here in DC but never did so now we have to cram everything into the last month."  Oh the irony.
 
 I don't follow any NBA teams...  I guess I used to follow the Warriors when I was growing up when it was Mullin, Hardaway, and company.  I'm much more of a college basketball fan.  The NBA regular season is too long and each individual game doesn't mean a whole lot.  However the NBA playoffs, are usually very entertaining.  In place of rooting for teams, I usually root for former Duke player's teams.  The Utah Jazz (with Carlos Boozer) have been incredibly fun to watch and pull for (even though it unfortunately means its against the Warriors at the moment, since they traded Dunleavy).  The Warriors-Mavericks series was great, though I was gone without TV for many of the games.  Chicago (with Loul Deng and Chris Duhon) are unfortunately going to get killed by the Pistons, and Huston (with Shane Battier) was beaten by Utah.

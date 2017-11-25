@@ -1,9 +1,11 @@
-Title: dreamfall episodic (or chapters, if you will)
-Date: 2007-03-06 18:21:56
-Tags: imported, longest journey, dreamfall
-Category: games
-Slug: dreamfall_episodic_or_chapters_if_you_will
-
+---
+title: "dreamfall episodic (or chapters, if you will)"
+date: "2007-03-06 18:21:56"
+tags: [imported, longest journey, dreamfall]
+category: games
+slug: dreamfall_episodic_or_chapters_if_you_will
+---
+	
 <a href="http://ragnartornquist.com/?p=291" title="Creator of TLJ & Dreamfall">Ragnar</a> let spill the very happy <a href="http://www.funcom.com/wsp/funcom/frontend.cgi?session=v0ogjj5npfodbrc0bijdl3rig9efbm&func=publish.show&func_id=1191&table=CONTENT&item=1004" title="Official announcement">news</a> that Dreamfall's story will continue.  He's already fended off nay-sayers of the episodic format with a follow up <a href="http://ragnartornquist.com/?p=293" title="I must say he gets a little feisty">Q&A</a>.
 
 First of all I'm ecstatic that Funcom decided to continue the story.   TLJ and Dreamfall represent the equivalent of a very good independent film that was meant to tell a very long story, and you keep hoping they continue to fund it (see Firefly).  Even more so than TLJ, Dreamfall ended abruptly, obviously wrapping up a small part of a much larger story.  Most criticism directed at it stemmed from this abrupt ending, and many were worried that the story would die out, never to be told.

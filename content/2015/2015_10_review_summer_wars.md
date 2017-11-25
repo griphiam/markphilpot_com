@@ -1,10 +1,12 @@
-Title: Summer Wars
-Date: 2015-11-11 09:00:00
-Tags: anime, review
-Category: anime
-Slug: review_summer_wars
-Summary: Review of Summer Wars
-
+---
+title: "Summer Wars"
+date: "2015-11-11 09:00:00"
+tags: [anime, review]
+category: anime
+slug: review_summer_wars
+summary: Review of Summer Wars
+---
+	
 ![Summer Wars]({filename}/images/2015/summer_wars/pv.jpg){: .center}
 ![Madhouse]({filename}/images/anime/studios/madhouse.png){: .studio}
 

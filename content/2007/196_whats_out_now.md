@@ -1,9 +1,11 @@
-Title: what's out now
-Date: 2007-03-30 00:10:15
-Tags: imported
-Category: music
-Slug: whats_out_now
-
+---
+title: "what's out now"
+date: "2007-03-30 00:10:15"
+tags: [imported]
+category: music
+slug: whats_out_now
+---
+	
 
 First off, for anyone who listens to Foo Fighters, I'm hooked on their song 'Best of You'.  How does this relate to the rest of their music?  I've probably heard their songs on XM, but nothing really stands out.  'Best of You' is a great song -- I'm curious if I should pick up an album.  And ironically, I also really like Nelly Furtado's 'Say it Right'... its not a great song but the melody is definitely catchy.
 

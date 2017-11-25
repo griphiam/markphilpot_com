@@ -1,9 +1,11 @@
-Title: coit tower
-Date: 2008-01-21 11:09:49
-Tags: imported
-Category: photography
-Slug: coit_tower
-
+---
+title: "coit tower"
+date: "2008-01-21 11:09:49"
+tags: [imported]
+category: photography
+slug: coit_tower
+---
+	
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/markphilpot/2208197902/" title="photo sharing"><img src="http://farm3.static.flickr.com/2397/2208197902_1e2bb16bcb.jpg" class="flickr-photo" /></a>
 

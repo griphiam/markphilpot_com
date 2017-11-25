@@ -1,9 +1,11 @@
-Title: Gaming Old School... (You do remember Sierra right?)
-Date: 2004-04-12 17:55:30
-Tags: imported, IIgs, emulator
-Category: games
-Slug: gaming_old_school_you_do_remember_sierra_right
-
+---
+title: "Gaming Old School... (You do remember Sierra right?)"
+date: "2004-04-12 17:55:30"
+tags: [imported, IIgs, emulator]
+category: games
+slug: gaming_old_school_you_do_remember_sierra_right
+---
+	
 Back when I was but a wee lad, I was lucky enough that my family got an Apple IIgs for our home (this is back when you practiced typing at school on an Apple IIe and thought it was so incredible, loading everything on the disk drives).  There were some simple games that came for the Apple IIgs (Marble Madness, Crystal Quest, and even that demo-car-game-thing that came with the IIgs, which I was really disappointed when the disk died).
 
 One day my mom brought home the "laptop" of the day (a monster 30lb Compaq, complete with its own CRT display and built-in full sized keyboard for the lid...  I think we still have it in a closet somewhere, though I don't think it works anymore).  The first game I played on that thing (being an IBM PC with DOS onboard) was the original Quest for Glory : So you want to be a hero?

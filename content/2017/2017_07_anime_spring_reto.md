@@ -1,11 +1,13 @@
-Title: Anime Spring 2017 Retrospective
-Date: 2017-07-07 13:29:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2017_spring_retro
-Summary: Anime Spring 2017 Season Retrospective
-Hero: background-image: url(/images/anime/2017/spring/hero.jpg);
-
+---
+title: "Anime Spring 2017 Retrospective"
+date: "2017-07-07 13:29:00"
+tags: [anime, retro]
+category: anime
+slug: anime_2017_spring_retro
+summary: Anime Spring 2017 Season Retrospective
+Hero: "background-image: url(/images/anime/2017/spring/hero.jpg);"
+---
+	
 [TOC]
 
 This season was particularly enjoyable. Great variety of genres and more shows above threshold than I could watch in real time. Additionally, we got a bunch of two cour shows (whose thoughts I will leave until next seasons retro).

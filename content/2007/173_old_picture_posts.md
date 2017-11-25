@@ -1,9 +1,11 @@
-Title: old picture posts
-Date: 2007-03-02 21:25:38
-Tags: imported
-Category: photography
-Slug: old_picture_posts
-
+---
+title: "old picture posts"
+date: "2007-03-02 21:25:38"
+tags: [imported]
+category: photography
+slug: old_picture_posts
+---
+	
 After resorting all my posts into new categories, I realize every single one of my old posts that included a picture from my gallery don't work anymore.  If I remember correctly, I had some sort of plugin that took care of that and its no longer installed.  I'm going to try to go back and fix them this weekend.
 
 Right now I'm testing out a new plugin (<a href="http://http://wpg2.galleryembedded.com/" title="Nifty integration, I must say">WPG2</a>) to help embed gallery images into posts.  It has also forced me to abandon my FCKeditor (Chenpress) for the default TinyMCE editor that comes with Wordpress.  So far, I can't say its nearly as reliable, but I'll give it a chance for a while.

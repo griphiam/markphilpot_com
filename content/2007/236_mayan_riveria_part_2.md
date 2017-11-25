@@ -1,9 +1,11 @@
-Title: Mayan Riveria (part 2)
-Date: 2007-05-20 23:05:55
-Tags: imported
-Category: travel
-Slug: mayan_riveria_part_2
-
+---
+title: "Mayan Riveria (part 2)"
+date: "2007-05-20 23:05:55"
+tags: [imported]
+category: travel
+slug: mayan_riveria_part_2
+---
+	
 Let me clarify a few things first -- Mexico has species of speed bumps.  In addition the domestic species we have in the US, one large long bump with varying degrees of altitude, Mexico has the dastardly two-rows-of-7in-metal-half-spheres.  Additionally, monster traditional ones much taller than our domestic breeds.  The catch is that they put these not on roads where the speed limit is say 20mph and they want you to slow down for a stop sign or a cross walk.  No... these are smack in the middle of a freeway going 100kmph!  It would be like Danville putting a set of speed bumps on 680.  Thankfully we didn't do any night driving.
 
 On Monday we did most of our driving, first heading down to the Mayan ruins at Tulum.  Ruins of an old fortress on the cliffs overlooking the ocean, with a fantastic little beach at the base.  Unfortunately we didn't come prepared to take advantage of it, but definitely plan to next time.  I'm not sure how the age of the Mayan ruins compare to the Roman ruins in Italy, but they definitely looked older -- but that might have been due to the fact that it was so remote.  Local iguanas definitely drew a lot of attention from the tourists making the rounds.  Its shocking when you compare them to our local variety of lizards.   The ocean was so calm and a fantastic shade of blue.  Its really a stark contrast to the beaches of the west coast of the America continent with the oceanic shelf.

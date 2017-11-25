@@ -1,9 +1,11 @@
-Title: On a Date with Java
-Date: 2006-01-19 10:13:25
-Tags: imported, java
-Category: development
-Slug: on_a_date_with_java
-
+---
+title: "On a Date with Java"
+date: "2006-01-19 10:13:25"
+tags: [imported, java]
+category: development
+slug: on_a_date_with_java
+---
+	
 To start, I really like <a title="Cup of Jo" href="http://www.java.com/en/">Java</a> as a programming language.  Because of its "library," it is very is to be productive quickly, without having to reinvent the wheel each time.  When you combine that with an IDE like <a title="A godsend..." href="http://www.eclipse.org/">Eclipse</a> and a graphics library like <a title="The only Java glib" href="http://www.eclipse.org/swt/">SWT</a>, Java is amazingly powerful.
 
 Now that I've got that out of the way, let me bitch for a bit.  If anything I say is wrong, please let me know as it will relieve much toil.

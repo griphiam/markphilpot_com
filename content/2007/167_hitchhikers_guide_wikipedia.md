@@ -1,9 +1,11 @@
-Title: hitchhiker's guide === wikipedia
-Date: 2007-03-20 00:04:06
-Tags: imported, hitchhiker
-Category: thoughts
-Slug: hitchhikers_guide_wikipedia
-
+---
+title: "hitchhiker's guide === wikipedia"
+date: "2007-03-20 00:04:06"
+tags: [imported, hitchhiker]
+category: thoughts
+slug: hitchhikers_guide_wikipedia
+---
+	
 
 There is of little doubt in my mind that <a href="http://www.wikipedia.org/" title="Might as well have ">Wikipedia</a> is the living incarnation of the Hitchhiker's Guide to the Galaxy.
 

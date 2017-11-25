@@ -1,10 +1,12 @@
-Title: Charlotte
-Date: 2015-10-26 12:00:00
-Tags: anime, review
-Category: anime
-Slug: review_charlotte
-Summary: Review of Charlotte
-
+---
+title: "Charlotte"
+date: "2015-10-26 12:00:00"
+tags: [anime, review]
+category: anime
+slug: review_charlotte
+summary: Review of Charlotte
+---
+	
 ![Charlotte]({filename}/images/2015/charlotte/charlotte_pv2.jpg){: .center}
 ![PA Works]({filename}/images/anime/studios/pa_works.png){: .studio}
 

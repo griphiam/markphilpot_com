@@ -1,9 +1,11 @@
-Title: yet another slip
-Date: 2008-10-13 23:31:12
-Tags: imported
-Category: updates
-Slug: yet_another_slip
-
+---
+title: "yet another slip"
+date: "2008-10-13 23:31:12"
+tags: [imported]
+category: updates
+slug: yet_another_slip
+---
+	
 Why is it hard trying to keep a habit of writing a bit every day.  Seriously, you think this would be a bit easier... Lots of people do it now.
 
 I must confess, its been a lot harder to keep motivated to get things done (GTD) in the hobby sense when I get home from work...  Quite a few things are contributing factors:

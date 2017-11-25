@@ -1,9 +1,11 @@
-Title: damn you ie
-Date: 2007-04-16 13:59:39
-Tags: imported, css
-Category: rant
-Slug: damn_you_ie
-
+---
+title: "damn you ie"
+date: "2007-04-16 13:59:39"
+tags: [imported, css]
+category: rant
+slug: damn_you_ie
+---
+	
 Obviously do one who reads this uses Internet Explorer or they would have mentioned (hopefully) that my little drop case trick doesn't work in IE.  This is the CSS I'm currently using:
 
 ```css

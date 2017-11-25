@@ -1,9 +1,11 @@
-Title: Pismo Beach
-Date: 2007-04-14 00:19:10
-Tags: imported
-Category: updates
-Slug: pismo_beach
-
+---
+title: "Pismo Beach"
+date: "2007-04-14 00:19:10"
+tags: [imported]
+category: updates
+slug: pismo_beach
+---
+	
 
 I was lucky enough to get out of work early today.  Everything went pretty well on the AFB in prep for tomorrow's testing, so I managed to head out to Pismo Beach, grab some BBQ, and walk around the beach for a bit.  I hadn't packed anything appropriate (didn't think I'd have any daylight downtime), so I headed over to the local outlets, bought a new swimsuit and sandals, and enjoyed the sunshine.
 

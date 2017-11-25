@@ -1,9 +1,11 @@
-Title: stanford GSB admit weekend
-Date: 2007-03-18 19:35:34
-Tags: imported
-Category: stanford
-Slug: stanford_gsb_admit_weekend
-
+---
+title: "stanford GSB admit weekend"
+date: "2007-03-18 19:35:34"
+tags: [imported]
+category: stanford
+slug: stanford_gsb_admit_weekend
+---
+	
 
 It really was an exhausting, intimidating, and fun weekend (bookended by two days).  A couple of points to get across before some highlights.
 

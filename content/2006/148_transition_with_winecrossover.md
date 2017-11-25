@@ -1,9 +1,11 @@
-Title: Transition with Wine/Crossover
-Date: 2006-09-17 10:13:45
-Tags: imported, winehq, ubuntu
-Category: linux
-Slug: transition_with_winecrossover
-
+---
+title: "Transition with Wine/Crossover"
+date: "2006-09-17 10:13:45"
+tags: [imported, winehq, ubuntu]
+category: linux
+slug: transition_with_winecrossover
+---
+	
 
 <a title="Wine Is Not an Emulator" href="http://www.winehq.com/">Wine</a> is the open source Windows emulator program for Linux -- A very handy thing to have working well if you ever want to make the transition. I have already determined that when I put together my next desktop which will hopefully be some time next year, I will run Kubuntu (If any of this sounds familiar, I already blogged about it =) <a title="For Linux... They also have a OSX version" href="http://www.codeweavers.com/products/cxoffice/">Cossover Office</a> is a program put out by <a href="http://www.codeweavers.com/">Codeweavers</a> that is based on Wine. What it adds is the configuration management that IMO is almost impossible without. A perfect example of making a business off of open source software.
 

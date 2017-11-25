@@ -1,9 +1,11 @@
-Title: new job
-Date: 2007-04-24 01:18:35
-Tags: imported
-Category: updates
-Slug: new_job
-
+---
+title: "new job"
+date: "2007-04-24 01:18:35"
+tags: [imported]
+category: updates
+slug: new_job
+---
+	
 We are now both set for our transitions back to California.  I accepted a job with the TMOS project at the San Jose Lockheed office (more on the project later...)
 
 ![GPS IIR]({filename}/images/2007/gps2rart.jpg){: .center}

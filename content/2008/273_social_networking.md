@@ -1,9 +1,11 @@
-Title: social networking
-Date: 2008-01-17 13:02:27
-Tags: imported
-Category: thoughts
-Slug: social_networking
-
+---
+title: "social networking"
+date: "2008-01-17 13:02:27"
+tags: [imported]
+category: thoughts
+slug: social_networking
+---
+	
 A few older posts and links to clean out... I was assuming Jeff was going to comment on some of these.
 
 Recently, facebook did something I'd never thought they would do: They joined Google and a collection of other social network providers in participating in <a href="http://www.dataportability.org/">Data Portability</a> (yes, I know, joining and actually doing something are two completely different things).

@@ -1,11 +1,13 @@
-Title: Teramaze - Her Halo
-Date: 2016-03-05 12:29:00
-Tags: music, review
-Category: music
-Slug: teramaze_her_halo
-Summary: Review of Teramaze's new album 'Her Halo'
-Hero: background-image: url(/images/2016/teramaze/hero.jpg);
-
+---
+title: "Teramaze - Her Halo"
+date: "2016-03-05 12:29:00"
+tags: [music, review]
+category: music
+slug: teramaze_her_halo
+summary: Review of Teramaze's new album 'Her Halo'
+Hero: "background-image: url(/images/2016/teramaze/hero.jpg);"
+---
+	
 ![Her Halo]({filename}/images/2016/teramaze/album.jpg){: .ew1000}
 
 I've never thought much of Amazon's Recommendations. I never thought they were very accurate, even though the amount of information they must have about my musical tastes should be staggering. However, I happen to check out what they had for recommended new releases and a few rows down the cover caught my eye. I had never heard of Teramaze and knew nothing about them. After listening to the sample (in all its bad audio quality) I pulled up youtube and checked out their video single

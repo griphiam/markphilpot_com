@@ -1,9 +1,11 @@
-Title: oh the irony
-Date: 2008-07-25 17:17:42
-Tags: imported
-Category: politics
-Slug: oh_the_irony
-
+---
+title: "oh the irony"
+date: "2008-07-25 17:17:42"
+tags: [imported]
+category: politics
+slug: oh_the_irony
+---
+	
 <img src='http://graphics.jsonline.com/graphics/photographer/20/20534_large.jpg' alt='definition of irony' class='aligncenter' />
 
 Most of the major efforts have appeared to die down -- It looks like things might go off without much of a protest.  But I guess we'll see.

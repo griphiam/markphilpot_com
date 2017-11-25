@@ -1,9 +1,11 @@
-Title: pale blue dot
-Date: 2007-06-18 18:28:46
-Tags: imported
-Category: space
-Slug: pale_blue_dot
-
+---
+title: "pale blue dot"
+date: "2007-06-18 18:28:46"
+tags: [imported]
+category: space
+slug: pale_blue_dot
+---
+	
 
 <img src="http://upload.wikimedia.org/wikipedia/en/9/91/Cosmos_book.gif" title="Carl Sagan's Cosmos" alt="Carl Sagan's Cosmos" class="flickr reflect rheight20" height="193" width="150" />
 

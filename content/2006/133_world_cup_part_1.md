@@ -1,9 +1,11 @@
-Title: World Cup (Part 1)
-Date: 2006-06-14 22:19:37
-Tags: imported
-Category: soccer
-Slug: world_cup_part_1
-
+---
+title: "World Cup (Part 1)"
+date: "2006-06-14 22:19:37"
+tags: [imported]
+category: soccer
+slug: world_cup_part_1
+---
+	
 ##"But the hour cometh, and now is" - John 4:23
 
 March Madness is like Christmas come early. I get goose bumps with the build up of the conference tournaments. March is a special month. The 65-team single elimination format is one of the most exciting things in sports. However, I side with the rest of the world when it comes to the World Cup... one of the most fantastic and celebrated events in sports. This event is only once every four years, which makes it so much more meaningful and special. It really is what the Olympics wished it were.

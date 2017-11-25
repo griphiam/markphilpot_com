@@ -1,9 +1,11 @@
-Title: purge
-Date: 2007-07-09 13:37:35
-Tags: imported
-Category: updates
-Slug: purge
-
+---
+title: "purge"
+date: "2007-07-09 13:37:35"
+tags: [imported]
+category: updates
+slug: purge
+---
+	
 So this weekend was spent purging my mom's house of basically 15 years of crap buildup between three brothers.   When you try to visualize the numbers, remember, the bags I'm referring to are the hug Hefty black trash bags...
 
 <ul>

@@ -1,9 +1,11 @@
-Title: team fortress 2 (initial)
-Date: 2007-10-12 08:06:26
-Tags: imported
-Category: games
-Slug: team_fortress_2_initial
-
+---
+title: "team fortress 2 (initial)"
+date: "2007-10-12 08:06:26"
+tags: [imported]
+category: games
+slug: team_fortress_2_initial
+---
+	
 Oh... My... God.
 
 Absolutely and utterly fantastic.

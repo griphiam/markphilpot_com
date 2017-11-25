@@ -1,11 +1,13 @@
-Title: Anime Fall 2016 First Impressions
-Date: 2016-10-24 20:44:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2016_fall_first
-Summary: First Impressions of the Anime Fall 2016 Season
-Hero: background-image: url(/images/anime/2016/fall/hero.jpg);
-
+---
+title: "Anime Fall 2016 First Impressions"
+date: "2016-10-24 20:44:00"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2016_fall_first
+summary: First Impressions of the Anime Fall 2016 Season
+Hero: "background-image: url(/images/anime/2016/fall/hero.jpg);"
+---
+	
 
 [TOC]
 

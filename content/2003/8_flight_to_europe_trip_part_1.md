@@ -1,9 +1,11 @@
-Title: Flight to Europe Trip Part 1
-Date: 2003-08-11 11:55:48
-Tags: imported, story, europe
-Category: travel
-Slug: flight_to_europe_trip_part_1
-
+---
+title: "Flight to Europe Trip Part 1"
+date: "2003-08-11 11:55:48"
+tags: [imported, story, europe]
+category: travel
+slug: flight_to_europe_trip_part_1
+---
+	
 Summary - The trip was wonderful!  So much fun!  So much good food!  Sights!!  A really great European trip.  However, there were a few notable "hurdles" along the way that gave this trip more than its share of memorable stories to tack on to make it that much more memorable (in hindsight).
 
 Part 1 - Leaving the US

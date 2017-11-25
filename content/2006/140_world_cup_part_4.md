@@ -1,9 +1,11 @@
-Title: World Cup (Part 4)
-Date: 2006-07-03 20:45:58
-Tags: imported
-Category: soccer
-Slug: world_cup_part_4
-
+---
+title: "World Cup (Part 4)"
+date: "2006-07-03 20:45:58"
+tags: [imported]
+category: soccer
+slug: world_cup_part_4
+---
+	
 ## Quarter Finals
 
 <strong>Germany 1 - Argentina 1 (Germany wins on PK)</strong>

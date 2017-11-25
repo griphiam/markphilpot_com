@@ -1,9 +1,11 @@
-Title: Install Adobe AIR Linux 1.5 on 64-bit Linux distributions
-Date: 2009-04-27 00:45:53
-Tags: imported
-Category: linux
-Slug: install_adobe_air_linux_15_on_64_bit_linux_distributions
-
+---
+title: "Install Adobe AIR Linux 1.5 on 64-bit Linux distributions"
+date: "2009-04-27 00:45:53"
+tags: [imported]
+category: linux
+slug: install_adobe_air_linux_15_on_64_bit_linux_distributions
+---
+	
 So Adobe has this knowledge base article -- <a href='http://kb.adobe.com/selfservice/viewContent.do?externalId=kb408084'>Install Adobe AIR Linux 1.5 on 64-bit Linux distributions</a> -- to describe how to install Adobe Air on 64 bit linux systems.  Do yourself a favor -- just install <a href="http://www.winehq.org/">wine</a> from the standard repositories, and then execute the last line in the instructions:
 
 ```bash

@@ -1,9 +1,11 @@
-Title: why no dogs?
-Date: 2008-01-28 20:52:10
-Tags: imported
-Category: photography
-Slug: why_no_dogs
-
+---
+title: "why no dogs?"
+date: "2008-01-28 20:52:10"
+tags: [imported]
+category: photography
+slug: why_no_dogs
+---
+	
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/markphilpot/2207403459/" title="photo sharing"><img src="http://farm3.static.flickr.com/2251/2207403459_d20bc3f340.jpg" class="flickr-photo" /></a>
 

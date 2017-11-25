@@ -1,9 +1,11 @@
-Title: Pilot in the Sky of Dreams
-Date: 2007-04-05 19:01:09
-Tags: imported
-Category: music
-Slug: pilot_in_the_sky_of_dreams
-
+---
+title: "Pilot in the Sky of Dreams"
+date: "2007-04-05 19:01:09"
+tags: [imported]
+category: music
+slug: pilot_in_the_sky_of_dreams
+---
+	
 
 Threshold's new video from their latest album, Dead Reckoning.
 

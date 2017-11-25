@@ -1,10 +1,12 @@
-Title: Boku wa Tomodachi ga Sukunai
-Date: 2015-12-22 18:40:01
-Tags: anime, review
-Category: anime
-Slug: review_boku_wa_tomodachi_ga_sukunai
-Summary: Review of Boku wa Tomodachi ga Sukunai
-
+---
+title: "Boku wa Tomodachi ga Sukunai"
+date: "2015-12-22 18:40:01"
+tags: [anime, review]
+category: anime
+slug: review_boku_wa_tomodachi_ga_sukunai
+summary: Review of Boku wa Tomodachi ga Sukunai
+---
+	
 ![Boku wa Tomodachi ga Sukunai]({filename}/images/2015/haganai/pv.jpg "Boku wa Tomodachi ga Sukunai"){: .center}
 ![Anime International Company]({filename}/images/anime/studios/aic.png){: .studio}
 

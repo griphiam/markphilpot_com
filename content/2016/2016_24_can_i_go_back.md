@@ -1,11 +1,13 @@
-Title: Can I Go Back?
-Date: 2016-10-31 22:39:00
-Tags: mac, linux
-Category: computers
-Slug: can_i_go_back
-Summary: Can I go back to linux full time?
-Hero: background-image: url(/images/2016/go_back/hero.jpg);
-
+---
+title: "Can I Go Back?"
+date: "2016-10-31 22:39:00"
+tags: [mac, linux]
+category: computers
+slug: can_i_go_back
+summary: Can I go back to linux full time?
+Hero: "background-image: url(/images/2016/go_back/hero.jpg);"
+---
+	
 For many years I rocked an old IBM [Thinkpad](http://www.thinkwiki.org/wiki/Category:X61) running Ubuntu and my own blend of [AwesomeWM](https://awesome.naquadah.org/). This laptop was underpowered, but it extremely small and had no trackpad -- instead the famous/infamous red nub in the middle of the keyboard. It was perfect for me and I loved it. At home or work I was using a huge desktop workstation (with as much RAM as I could afford/get work to pay for), so I only needed the laptop for light usage.
 
 On my home desktop I had to bend over backwards fighting linux audio drivers and [jackd](http://www.jackaudio.org/) to try to get any sort of music recording done. At some point, I just decided it wasn't worth the time I spent fighting it -- I barely had enough to musically doodle as it was. So I took the plunge and got a Mac Pro in 2010 (which solved that issue at the time).  The Thinkpad kept chugging until a fateful incident with a beer bottle finally did the laptop in.  Thankfully, Apple released a revamped MacBook Air (2012) and I fell into a homogenous platform with Apple.

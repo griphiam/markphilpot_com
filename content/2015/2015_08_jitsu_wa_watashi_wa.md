@@ -1,10 +1,12 @@
-Title: Jitsu wa Watashi wa
-Date: 2015-10-27 12:00:00
-Tags: anime, review
-Category: anime
-Slug: review_jitsu_wa_watashi_wa
-Summary: Review of Jitsu wa Watashi wa
-
+---
+title: "Jitsu wa Watashi wa"
+date: "2015-10-27 12:00:00"
+tags: [anime, review]
+category: anime
+slug: review_jitsu_wa_watashi_wa
+summary: Review of Jitsu wa Watashi wa
+---
+	
 ![Jitsu]({filename}/images/2015/jitsu/jitsuwa_pv.jpg){: .center}
 ![TBS Entertainment]({filename}/images/anime/studios/tbs.png){: .studio}
 

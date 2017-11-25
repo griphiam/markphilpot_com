@@ -1,9 +1,11 @@
-Title: Serenity Sales Rank on Amazon
-Date: 2006-01-08 16:41:49
-Tags: imported, serenity
-Category: tv
-Slug: serenity_sales_rank_on_amazon
-
+---
+title: "Serenity Sales Rank on Amazon"
+date: "2006-01-08 16:41:49"
+tags: [imported, serenity]
+category: tv
+slug: serenity_sales_rank_on_amazon
+---
+	
 
 <a title="Serenity Rank" href="http://www.fireflyfans.net/amazonserenity.asp">Check this out.</a>
 

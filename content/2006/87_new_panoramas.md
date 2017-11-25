@@ -1,9 +1,11 @@
-Title: New Panoramas
-Date: 2006-01-26 21:03:20
-Tags: imported
-Category: photography
-Slug: new_panoramas
-
+---
+title: "New Panoramas"
+date: "2006-01-26 21:03:20"
+tags: [imported]
+category: photography
+slug: new_panoramas
+---
+	
 I haven't uploaded any of the panorama's I did in the past few months, so I thought I'd do some processing and get it up.  Here's the <a title="Panoramas - Page 2" href="http://gallery.mcstudios.net/v/photography/pano/?g2_page=2">ablum</a>
 <table width="100%" cellpadding="2" border="0" align="center">
 <tr>

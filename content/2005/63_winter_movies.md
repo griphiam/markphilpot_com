@@ -1,9 +1,11 @@
-Title: Winter Movies
-Date: 2005-11-10 17:16:14
-Tags: imported
-Category: movies
-Slug: winter_movies
-
+---
+title: "Winter Movies"
+date: "2005-11-10 17:16:14"
+tags: [imported]
+category: movies
+slug: winter_movies
+---
+	
 I'm really excited... there are a bunch of movies coming out in the next two months that look really good!
 
 <a href="http://www.imdb.com/title/tt0294870/">Rent</a> - I was a huge fan of the Broadway Production.  I love the music, and I love the characters.  From all the buzz, it seems like they treated it well.

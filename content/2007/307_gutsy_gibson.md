@@ -1,9 +1,11 @@
-Title: gutsy gibson
-Date: 2007-10-18 11:44:56
-Tags: imported, ubuntu
-Category: linux
-Slug: gutsy_gibson
-
+---
+title: "gutsy gibson"
+date: "2007-10-18 11:44:56"
+tags: [imported, ubuntu]
+category: linux
+slug: gutsy_gibson
+---
+	
 [K]ubuntu 7.10 was released today.  This will be my first attempt at a serious linux upgrade (which is complicated by the fact that I'm not running a vanilla Feisty at the moment).  So we'll see how this process goes. (Backup, backup, backup)
 
 Gutsy has a lot of great stuff in it -- Built in compiz, restricted driver management that (supposedly) works, Dolphin as default file manager, new debian package manager, and more.  Won't have KDE4 till probably next release unfortunately (KDE4 Beta 3 just dropped yesterday).  So if I had to guess, KDE4 will be out by year's end, and then the Kubuntu team will have to customize things to incorporate it into the distribution (which definitely won't be straight forward).

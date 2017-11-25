@@ -1,9 +1,11 @@
-Title: why we |should| do it
-Date: 2007-11-01 13:20:35
-Tags: imported
-Category: space
-Slug: why_we_should_do_it
-
+---
+title: "why we |should| do it"
+date: "2007-11-01 13:20:35"
+tags: [imported]
+category: space
+slug: why_we_should_do_it
+---
+	
 For whatever reason, I am often posed the following question...
 
 "Why should we continue to fund space exploration?  Why should we continue to fund NASA?"

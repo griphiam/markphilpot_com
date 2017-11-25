@@ -1,9 +1,11 @@
-Title: lessig's new career
-Date: 2007-10-30 08:40:32
-Tags: imported, lessig
-Category: thoughts
-Slug: lessigs_new_career
-
+---
+title: "lessig's new career"
+date: "2007-10-30 08:40:32"
+tags: [imported, lessig]
+category: thoughts
+slug: lessigs_new_career
+---
+	
 About a month ago now, <a href="http://lessig.org">Lessig</a> rebooted his career.  Once the champion of copyright reform and founder of the Creative Commons (where he will still have a role), he has now decided to focus on "corruption."
 
 Corruption not in the sense of blatant bribery, and the stereotypical corruption prevalent a few generations ago (though still occasionally still peeks its shunned head out once in a while).   I think he has correctly defined the problem to be the "undo influence of money in political, scientific, corporate, legal, medical (et al) decision making."  That's probably an oversimplification of it, but checkout his "alpha" version of his lecture <a href="http://lessig.org/blog/2007/10/corruption_lecture_alpha_versi_1.html">here</a>.  Also his review of Supercapitalism <a href="http://lessig.org/blog/2007/10/supercapitalism_super_1.html">here</a>.

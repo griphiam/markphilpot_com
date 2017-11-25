@@ -1,11 +1,13 @@
-Title: Mesa Boogie :: TriAxis/2:Ninety
-Date: 2014-04-03 22:28:26
-Modified: 2014-04-03 22:28:30
-Tags: triaxis, mesa boogie, guitar
-Category: music
-Slug: mesa-boogie
-Summary: Mesa Boogie Deep Dive
-
+---
+title: "Mesa Boogie :: TriAxis/2:Ninety"
+date: "2014-04-03 22:28:26"
+modified: "2014-04-03 22:28:30"
+tags: [triaxis, mesa boogie, guitar]
+category: music
+slug: mesa-boogie
+summary: Mesa Boogie Deep Dive
+---
+	
 
 ![Mesa Boogie TriAxis]({filename}/images/triaxis.jpg "Mesa Boogie TriAxis"){: .ew1200} <br/> <small class="caption-text muted">Photo by <a href="https://www.flickr.com/photos/markphilpot/">Mark Philpot</a></small>
 
@@ -25,7 +27,8 @@ So what does that leave us with?  Well, thankfully, the file format he used isn'
 
 Additionally, you can use [ievms](https://github.com/xdissent/ievms) to pull down a 32 bit version of Windows 7 where you can load up his software, build your own set of presets, then save it.  You can then run the following to truncate the file down to 2746 bytes:
 
-    :::bash
-    head -c 2746 my_presets.tri > my_presets.syx
+```bash
+head -c 2746 my_presets.tri > my_presets.syx
+```
 
 I highly recommend trying the Wade presets on Tony's site.  Its essentially a "best of" collection of presets that will really highlight the breadth of the TriAxis and 2:Ninety.

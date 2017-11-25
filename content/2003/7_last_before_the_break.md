@@ -1,9 +1,11 @@
-Title: Last before the break
-Date: 2003-07-14 12:44:28
-Tags: imported
-Category: updates
-Slug: last_before_the_break
-
+---
+title: "Last before the break"
+date: "2003-07-14 12:44:28"
+tags: [imported]
+category: updates
+slug: last_before_the_break
+---
+	
 Summer is supposed to be a relaxing time, where you can do all the things you've been putting off because, hey!  Summer is comming!
 
 Well that's not how it works =)  I've been swamped with interviews (which actually paid off! yay) and chores, and getting ready for vacation, and getting ready to move out to the east coast, and...

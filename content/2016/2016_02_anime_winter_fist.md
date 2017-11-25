@@ -1,12 +1,14 @@
-Title: Anime Winter 2016 First Impressions
-Date: 2016-01-20 20:52:00
+---
+title: "Anime Winter 2016 First Impressions"
+date: "2016-01-20 20:52:00"
 Updated: 2016-03-01 22:46:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2016_winter_first
-Summary: First Impressions of the Anime Winter 2016 Season
-Hero: background-image: url(/images/anime/2016/winter/hero.jpg);
-
+tags: [anime, first impressions]
+category: anime
+slug: anime_2016_winter_first
+summary: First Impressions of the Anime Winter 2016 Season
+Hero: "background-image: url(/images/anime/2016/winter/hero.jpg);"
+---
+	
 [TOC]
 
 First off... Just how many concurrent projects can A-1 Pictures handle? The sheer volume is staggering.

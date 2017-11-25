@@ -1,9 +1,11 @@
-Title: family albums
-Date: 2008-07-27 13:56:54
-Tags: imported
-Category: photography
-Slug: family_albums
-
+---
+title: "family albums"
+date: "2008-07-27 13:56:54"
+tags: [imported]
+category: photography
+slug: family_albums
+---
+	
 I uploaded some of my parents pictures (since they weren't about to do it themselves =)  These aren't my photos, but deserves some exposure, none the less.
 
 <a href="http://www.flickr.com/photos/markphilpot/sets/72157606404770745/"><img src="http://farm4.static.flickr.com/3058/2707776768_9db17b6157.jpg?v=0" alt="ken and angela" class="aligncenter" /></a>

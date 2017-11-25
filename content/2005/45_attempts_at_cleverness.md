@@ -1,9 +1,11 @@
-Title: Attempts at cleverness
-Date: 2005-06-16 08:43:14
-Tags: imported, setup, thinkpad
-Category: updates
-Slug: attempts_at_cleverness
-
+---
+title: "Attempts at cleverness"
+date: "2005-06-16 08:43:14"
+tags: [imported, setup, thinkpad]
+category: updates
+slug: attempts_at_cleverness
+---
+	
 So this post was supposed to go out last weekend.  I had turned on Wordpress's feature of scanning a POP3 email account  to add posts.  Needless to say it looks like it doesn't work, so I'm just going back to manual postings.  So much for that feature.
 
 Anyway, the exciting news of the day is that my new laptop arrived. =) Multiple things prompted this - the primary reason is that a few weeks ago, my Fujitsu (which had faithfully served me for almost 4 years) just

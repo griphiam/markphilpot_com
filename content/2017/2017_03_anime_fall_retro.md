@@ -1,11 +1,13 @@
-Title: Anime Fall 2016 Retrospective
-Date: 2017-01-22 22:27:00
-Tags: anime, retrospective
-Category: anime
-Slug: anime_2016_fall_retrospective
-Summary: Retrospective of the Anime Fall 2016 Season
-Hero: background-image: url(/images/anime/2016/fall/hero.jpg);
-
+---
+title: "Anime Fall 2016 Retrospective"
+date: "2017-01-22 22:27:00"
+tags: [anime, retrospective]
+category: anime
+slug: anime_2016_fall_retrospective
+summary: Retrospective of the Anime Fall 2016 Season
+Hero: "background-image: url(/images/anime/2016/fall/hero.jpg);"
+---
+	
 
 [TOC]
 

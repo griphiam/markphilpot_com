@@ -1,12 +1,14 @@
-Title: Anime Fall 2015 Retrospective
-Date: 2016-01-18 09:45:00
+---
+title: "Anime Fall 2015 Retrospective"
+date: "2016-01-18 09:45:00"
 Updated: 2016-03-01 22:47:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2015_fall_retro
-Summary: Retrospective of the Fall 2015 Anime Season
-Hero: background-image: url(/images/anime/2015/fall/hero.jpg);
-
+tags: [anime, retro]
+category: anime
+slug: anime_2015_fall_retro
+summary: Retrospective of the Fall 2015 Anime Season
+Hero: "background-image: url(/images/anime/2015/fall/hero.jpg);"
+---
+	
 [TOC]
 
 This season had a lot fewer shows that I was interested in when compared to the outstanding Summer season. I ended up dropping more shows then I usually would.  I only ended up watching four shows to their conclusion this season (a significant drop from Summer's count of eight).  I used the extra time to catch up on some movies and older shows that had been sitting in my queue for a while.

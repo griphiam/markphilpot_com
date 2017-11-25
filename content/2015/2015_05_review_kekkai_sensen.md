@@ -1,10 +1,12 @@
-Title: Kekkai Sensen
-Date: 2015-10-18 12:00:00
-Tags: anime, review
-Category: anime
-Slug: review_kekkai_sensen
-Summary: Review of Kekkai Sensen
-
+---
+title: "Kekkai Sensen"
+date: "2015-10-18 12:00:00"
+tags: [anime, review]
+category: anime
+slug: review_kekkai_sensen
+summary: Review of Kekkai Sensen
+---
+	
 ![Kekkai Sensen]({filename}/images/2015/kekkai_sensen/kekkai_sensen.jpg){: .center}
 ![Bones]({filename}/images/anime/studios/bones.png){: .studio}
 

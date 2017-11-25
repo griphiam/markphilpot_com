@@ -1,9 +1,11 @@
-Title: Eclipse is Awesome!
-Date: 2005-06-20 19:57:05
-Tags: imported, eclipse, java, c++
-Category: software
-Slug: eclipse_is_awesome
-
+---
+title: "Eclipse is Awesome!"
+date: "2005-06-20 19:57:05"
+tags: [imported, eclipse, java, c++]
+category: software
+slug: eclipse_is_awesome
+---
+	
 If you write code, and you haven't tried <a href="http://www.eclipse.org">Eclipse</a>, you haven't experienced a truly great IDE.  I'm currently trying to set it up to do my Web development, Java Development, and if I can figure out how to get a compiler to work, C++ development (that will be last, since I don't have any @home C++ work to be doing... I get enough of that at work).  (I'm going to update this post as the IDE setup continues.  I'll actually get links to the plugins shortly)
 
 The following currently makes up my IDE:

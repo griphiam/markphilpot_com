@@ -1,9 +1,11 @@
-Title: Planet Earth (Or the reason I need HDTV)
-Date: 2007-04-16 22:39:52
-Tags: imported
-Category: tv
-Slug: planet_earth_or_the_reason_i_need_hdtv
-
+---
+title: "Planet Earth (Or the reason I need HDTV)"
+date: "2007-04-16 22:39:52"
+tags: [imported]
+category: tv
+slug: planet_earth_or_the_reason_i_need_hdtv
+---
+	
 Holy... Shit.
 
 This show is amazing!  The Discovery channel blows everything else out of the water with this new mini-series! In a 40 minute show, my jaw is literally on the floor the entire time.  There are shots you have just never seen before and may never again.  Words are failing me.

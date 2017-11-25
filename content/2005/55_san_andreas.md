@@ -1,9 +1,11 @@
-Title: San Andreas
-Date: 2005-07-21 08:52:41
-Tags: imported
-Category: games
-Slug: san_andreas
-
+---
+title: "San Andreas"
+date: "2005-07-21 08:52:41"
+tags: [imported]
+category: games
+slug: san_andreas
+---
+	
 Jeff has a good <a href="http://jeff.specular.org/archives/2005/07/21/hot-coffee/">post</a> on controversial <em>Hot Coffee</em> mod that has for some mind-blowing reason made its way to Washington where crass old politicians decide
 
 <blockquote>Hey, I'm going to look out for the children and appeal to all the other old crass voters out there that I'm taking a stand on this <em>evil</em> culture that is... umm.. fucking shit up?</blockquote>

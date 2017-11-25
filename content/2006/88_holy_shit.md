@@ -1,9 +1,11 @@
-Title: HOLY SHIT!
-Date: 2006-01-30 17:56:35
-Tags: imported, IIgs
-Category: games
-Slug: holy_shit
-
+---
+title: "HOLY SHIT!"
+date: "2006-01-30 17:56:35"
+tags: [imported, IIgs]
+category: games
+slug: holy_shit
+---
+	
 <strong>What a fucking trip down memory lane!</strong>
 
 Way, way, way back when... my very first computer was an Apple IIgs.  An evolutionary step up from the Apple II or IIe.  It marked the last "Apple" Apple computer before it went entirely with Macintosh.  Anyway, there were lots of... how shall I put this... <em>classic</em> games released for it.  I still have my IIgs, though I haven't connected it up in years, and I have to imagine all my old discs are shot at this point...

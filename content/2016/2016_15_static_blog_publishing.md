@@ -1,11 +1,13 @@
-Title: Static Blog Publishing To S3
-Date: 2016-05-06 23:47:00
-Tags: s3, travis, pelican
-Category: blog
-Slug: static_blog_publishing
-Summary: How to publish a static blog
-Hero: background-image: url(/images/2016/blog_publish_workflow/hero.jpg);
-
+---
+title: "Static Blog Publishing To S3"
+date: "2016-05-06 23:47:00"
+tags: [s3, travis, pelican]
+category: blog
+slug: static_blog_publishing
+summary: How to publish a static blog
+Hero: "background-image: url(/images/2016/blog_publish_workflow/hero.jpg);"
+---
+	
 [TOC]
 
 This quick tutorial will take a static blogging engine ([jekyll](https://jekyllrb.com/), [pelican](http://blog.getpelican.com/), [hugo](http://www.gohugo.io/)) and publish it to S3 automatically. I'm making the following assumptions:
@@ -134,4 +136,3 @@ After clicking save, you will have to wait 15-20 minutes for the distribution to
 The final step is to point your domain to either the Cloudfront distribution url or your S3 url (depending on which path you took above).
 
 Create a `Hosted Zone` for your domain and then create an A record that points to the correct resource.  AWS should pre-populate values from your account (either your Cloudfront distribution or your S3 bucket)
-

@@ -1,9 +1,11 @@
-Title: computer specs
-Date: 2007-08-17 13:17:41
-Tags: imported, setup
-Category: computers
-Slug: computer_specs
-
+---
+title: "computer specs"
+date: "2007-08-17 13:17:41"
+tags: [imported, setup]
+category: computers
+slug: computer_specs
+---
+	
 Desktop
 
 Dual booting -- Kubuntu Feisty 7, Windows XP

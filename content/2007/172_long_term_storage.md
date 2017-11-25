@@ -1,9 +1,11 @@
-Title: long-term storage
-Date: 2007-03-28 00:17:41
-Tags: imported, backups
-Category: computers
-Slug: long_term_storage
-
+---
+title: "long-term storage"
+date: "2007-03-28 00:17:41"
+tags: [imported, backups]
+category: computers
+slug: long_term_storage
+---
+	
 
 How much data do you generate per year?  I am not including things that you download (music, movies, applications, etc).  I'm referring to things you produce yourself... This could be pictures, movies, documents -- anything that if you lost it, it would be gone forever.
 

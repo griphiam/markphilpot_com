@@ -1,9 +1,11 @@
-Title: Grand Canyon (part 1)
-Date: 2007-10-03 10:58:40
-Tags: imported
-Category: photography
-Slug: grand_canyon_part_1
-
+---
+title: "Grand Canyon (part 1)"
+date: "2007-10-03 10:58:40"
+tags: [imported]
+category: photography
+slug: grand_canyon_part_1
+---
+	
 Well I know its been a long wait, but I'm finally getting around to processing all those pictures taken in the last 4 months.  Expect quite a bit of new stuff coming soon.
 
 We'll start with two great panorama vistas: The first taken at the 'Grand View' vista point and the second taken at the 'Desert View' tower.  Remember, these are really scaled down (the full size posted in the gallery is 25% of the original, so the detail in the full size is remarkable -- click on the title to head to the gallery page).  I'm anxious to print these.

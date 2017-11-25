@@ -1,9 +1,11 @@
-Title: Walmart Can Fuck Itself!
-Date: 2006-01-31 15:55:51
-Tags: imported
-Category: rant
-Slug: walmart_can_fuck_itself
-
+---
+title: "Walmart Can Fuck Itself!"
+date: "2006-01-31 15:55:51"
+tags: [imported]
+category: rant
+slug: walmart_can_fuck_itself
+---
+	
 I had downloaded the Sevendust album I had spoke of earlier via bittorrent.  I liked it.  As I believe P2P helps artists, this prompted me to go buy the album.
 
 I was in Walmart doing some household shopping (cleaning stuff, toilet paper, etc) when I saw they had the Sevendust album on sale.  I was a little surprised, because its Walmart and the album does have explicit lyrics.  It didn't have an EL sticker on it (though other albums did).  It was less expensive than it would have been through Amazon, so I decided to pick it up -- Only to discover they had sold me a CD with all the explicit lyrics warped out!  WTF!?  There was no indication on the packaging.  Nothing to indicate it was different.  Even when I got home I went to Walmart's website to look at the exact CD and it specified that its an "un-edited" version!

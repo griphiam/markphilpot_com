@@ -1,9 +1,11 @@
-Title: Serenity Malcolm Reynolds Browncoat Replica
-Date: 2010-03-01 10:28:00
-Tags: imported, serenity
-Category: tv
-Slug: serenity_malcolm_reynolds_browncoat_replica_abbyshot_fireflyserenity_clothing_at_entertainment_earth
-
+---
+title: "Serenity Malcolm Reynolds Browncoat Replica"
+date: "2010-03-01 10:28:00"
+tags: [imported, serenity]
+category: tv
+slug: serenity_malcolm_reynolds_browncoat_replica_abbyshot_fireflyserenity_clothing_at_entertainment_earth
+---
+	
 Squeee!  <a href='http://www.entertainmentearth.com/prodinfo.asp?number=ABROWNCOAT%20SMALL'>Serenity Malcolm Reynolds Browncoat Replica</a>.  Awesome!  
 
 <img alt="Replica Browncoat" src="http://www.entertainmentearth.com/images/%5CAUTOIMAGES%5CABROWNCOATlg.jpg" title="Replica Browncoat" class="alignright" width="500" height="500" />

@@ -1,9 +1,11 @@
-Title: my next phone
-Date: 2008-02-27 14:19:16
-Tags: imported
-Category: thoughts
-Slug: my_next_phone
-
+---
+title: "my next phone"
+date: "2008-02-27 14:19:16"
+tags: [imported]
+category: thoughts
+slug: my_next_phone
+---
+	
 Next month my contract with <s>Cingular</s> AT&T, at which point I can either switch providers or get a discount on a phone upgrade.  I can't see any compelling reason to switch to either Sprint, Verizon or Tmobile.  Most people I'd call are on the AT&T network (so you get the mobile to mobile feature to offset minutes), and I'm pretty sure I want to stick with a GSM phone.  So unless anyone can think of something I've missed, I think I'll end up sticking with AT&T.
 
 Now, the phone I <a href="http://www.openmoko.com/products-index.html">really want</a> won't be mature enough for another year in the best case.  Is Android worth the wait?  No, probably not... while the first Android enabled phones will be out this year, I suspect it will be a year or two before things are mature enough.  I've also determined that I need something a bit more than a basic flip phone.

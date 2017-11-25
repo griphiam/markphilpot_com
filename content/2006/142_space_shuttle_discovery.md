@@ -1,9 +1,11 @@
-Title: Space Shuttle Discovery
-Date: 2006-07-06 06:26:36
-Tags: imported, space shuttle
-Category: space
-Slug: space_shuttle_discovery
-
+---
+title: "Space Shuttle Discovery"
+date: "2006-07-06 06:26:36"
+tags: [imported, space shuttle]
+category: space
+slug: space_shuttle_discovery
+---
+	
 <a title="Launch Video" href="http://mfile.akamai.com/18565/wmv/etouchsyst2.download.akamai.com/18355//wm.nasa-global/sts-121/STS-121_launch.asx"><img alt="STS-121 -- Shuttle Discovery Takeoff" src="http://www.nasa.gov/images/content/151570main_best-top.jpg" /></a>
 
 <em>STS-121 -- Shuttle Discovery (<a title="Launch" href="http://www.nasa.gov/mp4/151590main_121_launch_fixed_vodcast.mp4">download video</a>)</em>

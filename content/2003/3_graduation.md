@@ -1,9 +1,11 @@
-Title: Graduation!
-Date: 2003-05-08 14:46:43
-Tags: imported
-Category: duke
-Slug: graduation
-
+---
+title: "Graduation!"
+date: "2003-05-08 14:46:43"
+tags: [imported]
+category: duke
+slug: graduation
+---
+	
 Wow... so I'm finally done.  No more school (at least at this point).
 
 Finals ended pretty well, with the prospect of an incredible beach weekend in Myrtle...   Well Mother Nature tweaked an adjective or two, and it turned out to be overcast and windy with evening thunderstorms, and it even hailed the first night (which was pretty incredible in its own right.  Watching the hail come down and then the lightning light up the ocean was really breathtaking).  But despite the adversity, we managed to get out to the beach almost every day.  The last day was great... not exactly blue sky, but much warmer than before.  Did a little body surfing... which is just not the same on the East coast (as the ocean science people adeptly pointed out is due to the continental shelf), but it was still fun cause I hadn't been in at least 3 years.

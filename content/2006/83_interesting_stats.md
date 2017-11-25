@@ -1,9 +1,11 @@
-Title: Interesting Stats...
-Date: 2006-01-23 17:07:31
-Tags: imported
-Category: updates
-Slug: interesting_stats
-
+---
+title: "Interesting Stats..."
+date: "2006-01-23 17:07:31"
+tags: [imported]
+category: updates
+slug: interesting_stats
+---
+	
 So I decided to take a peek at the stats they my webhost keeps about my domain.  Lots of interesting things I never new (all numbers are rounded down to a nice even number).
 <ul>
 	<li>Between January 2005 and January 2006, my domain (everything under mcstudios.net) had 51,000 visits</li>

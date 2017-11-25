@@ -1,9 +1,11 @@
-Title: Random Web Links
-Date: 2005-06-10 16:45:06
-Tags: imported
-Category: links
-Slug: random_web_links
-
+---
+title: "Random Web Links"
+date: "2005-06-10 16:45:06"
+tags: [imported]
+category: links
+slug: random_web_links
+---
+	
 Some cool things I've stumbled upon lately
 
 <ul>

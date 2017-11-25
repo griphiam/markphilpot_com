@@ -1,11 +1,13 @@
-Title: Myrath - Legacy
-Date: 2016-05-04 21:35:00
-Tags: music, review
-Category: music
-Slug: myrath_legacy
-Summary: Review of Myrath's new album 'Legacy'
-Hero: background-image: url(/images/2016/myrath/hero.jpg);
-
+---
+title: "Myrath - Legacy"
+date: "2016-05-04 21:35:00"
+tags: [music, review]
+category: music
+slug: myrath_legacy
+summary: Review of Myrath's new album 'Legacy'
+Hero: "background-image: url(/images/2016/myrath/hero.jpg);"
+---
+	
 ![Her Halo]({filename}/images/2016/myrath/legacy.jpg){: .ew1000}
 
 I really can't believe it. Amazon's recommendations are two for two in successive months. This time based on my purchase of *Her Halo* by Teramaze, the number one recommendation was this album. Damn I feel lucky.
@@ -17,4 +19,3 @@ I really can't believe it. Amazon's recommendations are two for two in successiv
 This album reminds me of how I viewed Angra's *Holy Land* album back in the day. The influence of traditional Brazilian sounds with heavy power metal riffs really set it apart from everything else I was listening to at the time. After numerous listens I don't feel the use of the double harmonic scales and associated modes are over used. All the songs utilize them but not to the point you would hear from say a typical medieval folk metal, which I usually tend to avoid because all the songs sound too much the same.
 
 I will definitely go and pick up their other studio albums and I hope they can come close to the quality of sound that *Legacy* delivers. I'm definitely hooked.
-

@@ -1,11 +1,13 @@
-Title: Anime Winter 2017 Retrospective
-Date: 2017-04-25 21:19:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2017_winter_retro
-Summary: Anime Winter 2017 Season Retrospective
-Hero: background-image: url(/images/anime/2017/winter/hero.jpg);
-
+---
+title: "Anime Winter 2017 Retrospective"
+date: "2017-04-25 21:19:00"
+tags: [anime, retro]
+category: anime
+slug: anime_2017_winter_retro
+summary: Anime Winter 2017 Season Retrospective
+Hero: "background-image: url(/images/anime/2017/winter/hero.jpg);"
+---
+	
 
 [TOC]
 

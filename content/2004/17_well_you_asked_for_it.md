@@ -1,9 +1,11 @@
-Title: Well, you asked for it
-Date: 2004-04-05 23:39:21
-Tags: imported
-Category: linux
-Slug: well_you_asked_for_it
-
+---
+title: "Well, you asked for it"
+date: "2004-04-05 23:39:21"
+tags: [imported]
+category: linux
+slug: well_you_asked_for_it
+---
+	
 So Jeff was making fun of my Blog... cause it hadn't been updated since the beginning of February.  Well... fine... here's a new one =)
 
 I decided to try Linux again.  Though this time on my laptop (rather than desktop).  The point being I really think having linux experience helps at work, because the entire system is Unix (Solaris to be exact).  But I never liked any of the commercial distributions...  SuSE is looking better and better, but there are draw backs to it as well because it is similar to Mandrake and Red Had (in draw backs at least).  So I've decided to test my Linux fortitude and go with Gentoo.

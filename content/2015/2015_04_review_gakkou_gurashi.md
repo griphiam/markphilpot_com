@@ -1,10 +1,12 @@
-Title: Gakkou Gurashi!
-Date: 2015-10-14 12:30:00
-Tags: anime, review
-Category: anime
-Slug: review_gakkou_gurashi
-Summary: Review of Gakkou Gurashi!
-
+---
+title: "Gakkou Gurashi!"
+date: "2015-10-14 12:30:00"
+tags: [anime, review]
+category: anime
+slug: review_gakkou_gurashi
+summary: Review of Gakkou Gurashi!
+---
+	
 ![Gakkou Gurashi!]({filename}/images/2015/gakkou_gurashi/gakkougurashi_pv.jpg){: .center}
 ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
 

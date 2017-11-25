@@ -1,9 +1,11 @@
-Title: one step closer
-Date: 2009-04-26 23:43:02
-Tags: imported, ubuntu, winehq
-Category: linux
-Slug: one_step_closer
-
+---
+title: "one step closer"
+date: "2009-04-26 23:43:02"
+tags: [imported, ubuntu, winehq]
+category: linux
+slug: one_step_closer
+---
+	
 <div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/36642717@N00/280573813/" title="UbuntuTux" target="_blank"><img src="http://farm1.static.flickr.com/94/280573813_65536fd936_m.jpg" alt="UbuntuTux" border="0" /></a></div>
 
 So I discovered that Guitar Pro 5 "works" with wine (after installing Kubuntu 64 09.04).  I say "works" because the MIDI part doesn't (though there are lots of guides to wrap timidly around wine), but GP5 uses RSE (real sound engine I think), so some of the instruments don't use MIDI.  It's close enough to practice against.

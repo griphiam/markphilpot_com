@@ -1,9 +1,11 @@
-Title: copyright run amok -- guitar tabs
-Date: 2007-04-15 00:36:26
-Tags: imported
-Category: rant
-Slug: copyright_run_amok_guitar_tabs
-
+---
+title: "copyright run amok -- guitar tabs"
+date: "2007-04-15 00:36:26"
+tags: [imported]
+category: rant
+slug: copyright_run_amok_guitar_tabs
+---
+	
 
 I fully believe fan created guitar TABs are fair use.  Someone might try to argue that the equivalent is someone going to see a play over and over and providing the transcript of the play on the internet.  I would even fully entertain the argument that even that is fair use.
 The music publishing industry has in the past year or so really cracked down on sites that provided guitar TABs.  I was (and still am) incensed by this.  How is someone transcribing some chords considered copyrighted?  Hell, the same set of chords can be applied to a huge percentage of music out there.  If U2 or Journey used the same chord progression that say the Beatles used, are they guilty of copyright infringement?  Of course not!

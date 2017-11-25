@@ -1,9 +1,11 @@
-Title: comments in limbo, new amp
-Date: 2007-06-21 15:56:04
-Tags: imported, mesa boogie
-Category: updates
-Slug: comments_in_limbo
-
+---
+title: "comments in limbo, new amp"
+date: "2007-06-21 15:56:04"
+tags: [imported, mesa boogie]
+category: updates
+slug: comments_in_limbo
+---
+	
 Sorry about that.  When I changed hosts, I was able to start using Wordpress' Akismet plugin for spam, and didn't realize that it had different rules for comment moderation.  All comments should be out there now =)
 
 Things are still crazy here... adjusting to a new job, acclimated to a new apartment... you know, the works.

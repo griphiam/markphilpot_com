@@ -1,10 +1,12 @@
-Title: Quoting a Sunset
-Date: 2010-01-29 13:23:00
-Tags: thoughts
-Category: thoughts
-Slug: sunset
-Summary: Quoting a Sunset
-
+---
+title: "Quoting a Sunset"
+date: "2010-01-29 13:23:00"
+tags: [thoughts]
+category: thoughts
+slug: sunset
+summary: Quoting a Sunset
+---
+	
 _This post was migrated from my old blog_
 
 From [Adam Pash](http://lifehacker.com/5458690/the-problem-with-the-apple-ipad) from Lifehacker:

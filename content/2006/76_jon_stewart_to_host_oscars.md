@@ -1,9 +1,11 @@
-Title: Jon Stewart to host Oscars
-Date: 2006-01-05 06:48:15
-Tags: imported
-Category: tv
-Slug: jon_stewart_to_host_oscars
-
+---
+title: "Jon Stewart to host Oscars"
+date: "2006-01-05 06:48:15"
+tags: [imported]
+category: tv
+slug: jon_stewart_to_host_oscars
+---
+	
 <a href="http://www.cnn.com/2006/SHOWBIZ/Movies/01/05/film.oscars.reut/index.html">CNN.com - Jon Stewart set to host Oscars - Jan 5, 2006</a>
 
 Oh this is going to be good!  As long as the network lets him have fun, there should be loads of fun for the rest of us.  At least it will be an Oscars worth watching.

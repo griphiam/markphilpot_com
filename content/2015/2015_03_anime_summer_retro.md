@@ -1,10 +1,12 @@
-Title: Anime Summer 2015 Retrospective
-Date: 2015-10-12 09:30:00
-Tags: anime, retro
-Category: anime
-Slug: anime_2015_summer_retro
-Summary: Retrospective of the Summer 2015 Anime Season
-
+---
+title: "Anime Summer 2015 Retrospective"
+date: "2015-10-12 09:30:00"
+tags: [anime, retro]
+category: anime
+slug: anime_2015_summer_retro
+summary: Retrospective of the Summer 2015 Anime Season
+---
+	
 [TOC]
 
 Welcome to my first attempt at an anime season retrospective. Some ground rules before we get started.

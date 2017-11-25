@@ -1,9 +1,11 @@
-Title: Little Miss Sunshine
-Date: 2006-08-29 09:52:38
-Tags: imported
-Category: movies
-Slug: little_miss_sunshine
-
+---
+title: "Little Miss Sunshine"
+date: "2006-08-29 09:52:38"
+tags: [imported]
+category: movies
+slug: little_miss_sunshine
+---
+	
 
 This is such a fantastic movie, and really shows (I think) where the industry is going with film -- smaller, independent productions with quality actors. The recent success of films by Liongate Films and Fox Searchlight seems to be catching on.
 

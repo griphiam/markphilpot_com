@@ -1,11 +1,13 @@
-Title: Anime Fall 2017 First Impressions
-Date: 2017-10-15 18:41:00
-Tags: anime, first impressions
-Category: anime
-Slug: anime_2017_fall_first
-Summary: First Impressions of the Anime Fall 2017 Season
-Hero: background-image: url(/images/anime/2017/fall/hero.jpg);
-
+---
+title: "Anime Fall 2017 First Impressions"
+date: "2017-10-15 18:41:00"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2017_fall_first
+summary: First Impressions of the Anime Fall 2017 Season
+Hero: "background-image: url(/images/anime/2017/fall/hero.jpg);"
+---
+	
 [TOC]
 
 Ummm... And here I thought that my watch list would be light this season.

@@ -1,9 +1,11 @@
-Title: "Done the Impossible"
-Date: 2005-11-15 15:39:47
-Tags: imported, firefly
-Category: tv
-Slug: done_the_impossible
-
+---
+title: "\"Done the Impossible\""
+date: "2005-11-15 15:39:47"
+tags: [imported, firefly]
+category: tv
+slug: done_the_impossible
+---
+	
 <a href="http://www.donetheimpossible.com/">Done the Impossible</a>
 
 This is why I love <em>Firefly</em>.  This a fan-oreinted, fan-made documentary about <em>Firefly</em> and <em>Serenity</em>.  It is focused on the fan base and contains interviews from the cast, crew and Joss (even Orson Scott Card, writer of the great novel "Ender's Game").  There are two clips available now... definitely check them out.  Its very professional looking, and the fans making it are donating a percentage to Joss's favorite charity.

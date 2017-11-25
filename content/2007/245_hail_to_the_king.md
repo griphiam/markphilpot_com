@@ -1,9 +1,11 @@
-Title: Hail to the King
-Date: 2007-05-15 22:12:31
-Tags: imported
-Category: tv
-Slug: hail_to_the_king
-
+---
+title: "Hail to the King"
+date: "2007-05-15 22:12:31"
+tags: [imported]
+category: tv
+slug: hail_to_the_king
+---
+	
 
 Check out these commercials for Old Spice.  Bruce Campbell is the man (both literally and figuratively).
 

@@ -1,9 +1,11 @@
-Title: making a radio/video edit
-Date: 2007-05-05 13:42:43
-Tags: imported
-Category: music
-Slug: making_a_radiovideo_edit
-
+---
+title: "making a radio/video edit"
+date: "2007-05-05 13:42:43"
+tags: [imported]
+category: music
+slug: making_a_radiovideo_edit
+---
+	
 Question -- How do you take a 10 minute song and edit it down to a 3 minute video?
 
 The obvious answers are either "cut 7 minutes" or "very carefully."

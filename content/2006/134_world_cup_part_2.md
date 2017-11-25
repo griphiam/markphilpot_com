@@ -1,9 +1,11 @@
-Title: World Cup (Part 2)
-Date: 2006-06-17 19:59:58
-Tags: imported
-Category: soccer
-Slug: world_cup_part_2
-
+---
+title: "World Cup (Part 2)"
+date: "2006-06-17 19:59:58"
+tags: [imported]
+category: soccer
+slug: world_cup_part_2
+---
+	
 ## Round 1 - Part 1 (Continued)
 
 <strong>Spain 4 - Ukraine 0</strong>

@@ -1,9 +1,11 @@
-Title: proprietary markup
-Date: 2007-05-12 00:04:37
-Tags: imported
-Category: thoughts
-Slug: proprietary_markup
-
+---
+title: "proprietary markup"
+date: "2007-05-12 00:04:37"
+tags: [imported]
+category: thoughts
+slug: proprietary_markup
+---
+	
 This past week has <a href="http://diveintomark.org/archives/2007/05/02/silly-season">seen</a> an <a href="http://arstechnica.com/news.ars/post/20070501-microsofts-flash-killer-steals-the-show-at-mix07.html">explosion</a> of new... um... let call it web 3.0 toolkits for lack of a better term.  AJAX replacements basically.  In addition to Adobe and Microsoft's early contenders (Apollo and Silverlight respectively), Sun announced JavaFX as a third contender.  Sun's announcement comes on the heels of their initial follow through to open source the Java VM with the SDK coming soon.
 
 My understanding of these frameworks is very limited, other than Apollo is based on Flash, Silverlight on C# and JavaFX on... well... Java.

@@ -1,9 +1,11 @@
-Title: Cherry Blossom Festival
-Date: 2007-04-01 17:26:40
-Tags: imported
-Category: photography
-Slug: cherry_blossom_festival
-
+---
+title: "Cherry Blossom Festival"
+date: "2007-04-01 17:26:40"
+tags: [imported]
+category: photography
+slug: cherry_blossom_festival
+---
+	
 
 This weekend saw the annual explosion of white and pink around the Tidal Basin and National Mall -- blooming of the Cherry Blossoms.  We when down on Friday evening, which was a good plan because it avoided most of the tourists that flock to the city for this weekend.  I would say it was mostly locals roaming the mall.
 

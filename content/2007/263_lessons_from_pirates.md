@@ -1,9 +1,11 @@
-Title: lessons from pirates
-Date: 2007-10-26 11:38:32
-Tags: imported
-Category: thoughts
-Slug: lessons_from_pirates
-
+---
+title: "lessons from pirates"
+date: "2007-10-26 11:38:32"
+tags: [imported]
+category: thoughts
+slug: lessons_from_pirates
+---
+	
 Old link, but I'm still trying to catch up...
 
 Mark hit the nail on the head <a href="http://diveintomark.org/archives/2007/06/26/piracy-lessons">here</a>...  Though I think the blame is shared between the retailers and the content owners, this is more to do with retailers than the latter.  But there is a new world emerging... Streaming Video.  And I'm not talking about digital downloads -- I'm talking about things similar to what NBC does with its shows*.

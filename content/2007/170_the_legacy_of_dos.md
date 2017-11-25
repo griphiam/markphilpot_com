@@ -1,9 +1,11 @@
-Title: the legacy of dos
-Date: 2007-03-22 00:39:07
-Tags: imported, java, c++
-Category: software
-Slug: the_legacy_of_dos
-
+---
+title: "the legacy of dos"
+date: "2007-03-22 00:39:07"
+tags: [imported, java, c++]
+category: software
+slug: the_legacy_of_dos
+---
+	
 Let me just say that developing cross-platform software is one of the more royal pains out there.  Java, built from the ground up with cross-platform in mind does a better job than most to maintain a level of abstraction for the developer.  However, a universal sticking point is what character the directory separator is.
 
 Unix, the Web, and the rest of the sane world use '/' to separate directories.  This makes sense, since in most modern (hell, nearly all) programming languages, the '\' is used as a prefix to an escape character.  So the following looks acceptable:
@@ -17,7 +19,7 @@ However, Windows, tipping its hat to is DOS legacy, has retained the '\' for dir
 The result is, that if your platform is windows, the above code turns into:
 
 ```c
-char * file = "C:\\home\\mark\\input.txt";
+char * file = "C:\home\mark\input.txt";
 ```
 
 You might think, "Hey that's not that bad..." However, if you need to make it cross platform, you end up with something like this (Using a C++ pseudo code example)
@@ -27,7 +29,7 @@ You might think, "Hey that's not that bad..." However, if you need to make it cr
 #define DIRSEP  "/"
 #define ROOT "/"
 #else
-#define ROOT "C:\\"
+#define ROOT "C:\"
 #define DIRSEP "/"
 #endif
 

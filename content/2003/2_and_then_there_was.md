@@ -1,9 +1,11 @@
-Title: and then there was...
-Date: 2003-04-29 22:16:43
-Tags: imported, first
-Category: updates
-Slug: and_then_there_was
-
+---
+title: "and then there was..."
+date: "2003-04-29 22:16:43"
+tags: [imported, first]
+category: updates
+slug: and_then_there_was
+---
+	
 Yes, this is the first entry in my weblog (blog).  Though I guess I'm kind of late, since "everyone must be doing this."  Well, in all  likelihood, this will get very few views (and fewer comments), but hell, why not right?
 
 This will probably be "updated" more often then my main website.  I'm going to try to convert that into a showcase, and make parts of it dynamic.  I made a very cool JSP web service in my web programming class that allows me to query freedb (a royalty-free equivalent to cddb) and get back CD information that I can then put in a MySQL database.  So over the summer I'm going to try to improve that, and make it so I can use that to keep track of my CD collection.  I wish IMDB had a similar capability.  Had I not been redoing the <a href="http://www.duke.edu/web/DUMB/">marching band website</a> I would have done that as my final project in the class.

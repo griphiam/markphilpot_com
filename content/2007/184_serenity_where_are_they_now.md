@@ -1,9 +1,11 @@
-Title: Serenity -- where are they now
-Date: 2007-03-21 00:36:19
-Tags: imported, firefly, serenity
-Category: tv
-Slug: serenity_where_are_they_now
-
+---
+title: "Serenity -- where are they now"
+date: "2007-03-21 00:36:19"
+tags: [imported, firefly, serenity]
+category: tv
+slug: serenity_where_are_they_now
+---
+	
 
 To anyone who watched Firefly & <a href="http://www.imdb.com/title/tt0379786/">Serenity</a>, you understand how I feel about the actors.  I loved the characters they portrayed, and once it went riding off into the sunset on the silver screen (well before its time), I want the actors to at least go on to bigger projects... hoping to see them once again on screen.  I thought I would gather up some information on what they've been up to (mostly via <a href="http://www.imdb.com/">imdb</a>, albeit).
 

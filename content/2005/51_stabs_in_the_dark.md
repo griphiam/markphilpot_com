@@ -1,9 +1,11 @@
-Title: Stabs in the Dark
-Date: 2005-07-14 20:49:12
-Tags: imported, css
-Category: updates
-Slug: stabs_in_the_dark
-
+---
+title: "Stabs in the Dark"
+date: "2005-07-14 20:49:12"
+tags: [imported, css]
+category: updates
+slug: stabs_in_the_dark
+---
+	
 There is nothing quite like flailing away with CSS.  Its not quite the most frustrating thing in the world, but it would give most annoyances a run for their money.
 
 OK... Its pretty close for now, though its going to need a lot more tweaks, and that will probably take 10 times as long to accomplish.  Though I'm actually impressed how just flailing turned out.

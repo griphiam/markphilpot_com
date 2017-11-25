@@ -1,9 +1,11 @@
-Title: King's Mountain to Skyline
-Date: 2009-08-02 17:58:06
-Tags: imported
-Category: updates
-Slug: kings_mountain_to_skyline
-
+---
+title: "King's Mountain to Skyline"
+date: "2009-08-02 17:58:06"
+tags: [imported]
+category: updates
+slug: kings_mountain_to_skyline
+---
+	
 More more doable than heading up Page Mill.  Unfortunately the part down 92 has no bike lane, all downhill and quite a lot of traffic.  However, the drip down Skyline was amazing.  Wish I brought my camera.  I will have to head up there via car soon with my camera and a tripod.
 
 Unfortunately, I can't tell how to set the default zoom in the google map below, so you'll have to zoom out to see the entire route.  If anyone knows a better way to embed a bike route, let me know.

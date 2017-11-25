@@ -1,9 +1,11 @@
-Title: Trip Cross Country
-Date: 2003-05-23 14:19:08
-Tags: imported, driving
-Category: updates
-Slug: trip_cross_country
-
+---
+title: "Trip Cross Country"
+date: "2003-05-23 14:19:08"
+tags: [imported, driving]
+category: updates
+slug: trip_cross_country
+---
+	
 I'm just finally starting to settle down after nearly two weeks of straight driving.  I first went up to DC to visit my uncle and walk around downtown.  I'm <i>really</i> looking forward to moving out there.  It really looks like a great city, and now the only hitch is finding a job (but more on that later).
 
 So, the trip cross country... Paul and I started Friday morning and got into LA late Sunday evening.  I then drove up to the Bay Area on Monday.  Let me give you a state by state breakdown.

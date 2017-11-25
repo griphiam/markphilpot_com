@@ -1,7 +1,9 @@
-Title: happy memories
-Date: 2009-07-31 13:23:51
-Tags: imported
-Category: photography
-Slug: happy_memories
-
+---
+title: "happy memories"
+date: "2009-07-31 13:23:51"
+tags: [imported]
+category: photography
+slug: happy_memories
+---
+	
 <img src='http://farm3.static.flickr.com/2453/3752737967_cbbe1dc722.jpg' class='imgserie' alt='Carmel Highlands'/>

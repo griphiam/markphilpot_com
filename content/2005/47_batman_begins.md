@@ -1,9 +1,11 @@
-Title: Batman Begins
-Date: 2005-06-25 15:40:00
-Tags: imported, batman
-Category: movies
-Slug: batman_begins
-
+---
+title: "Batman Begins"
+date: "2005-06-25 15:40:00"
+tags: [imported, batman]
+category: movies
+slug: batman_begins
+---
+	
 Growing up, there were three "comic" series that I enjoyed most... <em>Batman</em>, <em>Spider Man</em>, and <em>X-men</em>.  The first on the movie scene was <em>Batman</em>, under the careful eyes of Tim Burton.  He gave it the appropriate "dark" treatment Batman needed.  However, it still had a "comic" feel to it.  Burton followed it up with <em>Batman Returns</em>, which again I thought stayed true to the comic while maintaining  a serious treatment.  Things then started spiraling down hill.  <em>Batman Forever</em> might have been good, but Val Kilmer is not Batman (don't get me started on who followed... too late).  <em>Batman & Robin</em> just blows chunks on so many levels, I will not bore you here (I will not consider <em>Catwoman</em> part of the series... that was just a pathetic attempt to sell eye-candy... though if you were going to sell it, they did choose quality eye-candy in Halle Berry).  When you took Burton off of the project, things didn't have the feel it should...  They weren't tales of the Dark Knight - they were tales of the circus (literally in some cases).
 
 When I heard Christopher Nolan was picked for <em>Batman Begins</em> I was incredibly happy, but I didn't quite know what to expect.  I thought <em>Memento</em> and <em>Insomia</em> where fantastic films.  He proved he could create and direct quality characters and performances.  This would be his first foray into the "action" genre.  Despite this, I was excited to see a serious treatment of <em>Batman</em> again.

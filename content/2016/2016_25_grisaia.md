@@ -1,10 +1,12 @@
-Title: Grisaia no Kajitsu VN
-Date: 2016-11-13 23:20:00
-Tags: visual novel, review
-Category: vns
-Slug: grisaia_vn
-Summary: Review of the visual novel Grisaia no Kajitsu
-
+---
+title: "Grisaia no Kajitsu VN"
+date: "2016-11-13 23:20:00"
+tags: [visual novel, review]
+category: vns
+slug: grisaia_vn
+summary: Review of the visual novel Grisaia no Kajitsu
+---
+	
 ![Cast]({filename}/images/2016/grisaia/cast.jpg){: .ew1920}
 
 ![Logo]({filename}/images/2016/grisaia/logo.jpg){: .center}

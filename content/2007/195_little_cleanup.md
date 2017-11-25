@@ -1,9 +1,11 @@
-Title: little cleanup
-Date: 2007-03-29 00:01:04
-Tags: imported, ubuntu
-Category: updates
-Slug: little_cleanup
-
+---
+title: "little cleanup"
+date: "2007-03-29 00:01:04"
+tags: [imported, ubuntu]
+category: updates
+slug: little_cleanup
+---
+	
 I did a little clean up on the <a href="http://wpg2.galleryembedded.com/index.php?title=Main_Page" title="nifty">wpg2 plugin</a> so now all the links go to my <a href="http://gallery.mcstudios.net" title="MCS Photography">gallery</a> rather than an embedded page (much better now) as well as clean up a little security issue =)
 
 FYI, <a href="http://gallery.menalto.com/gallery_2.2.1_released">Gallery 2.2.1</a> was just released, however I haven't upgraded yet.  Things are settled now (even though there are quite a few features I would like to use now), I think I'll let the release simmer for a before taking the plunge.  Ultimately I want to setup a store front where people can buy custom framed prints.  However, I have no delusions that will happen any time soon.

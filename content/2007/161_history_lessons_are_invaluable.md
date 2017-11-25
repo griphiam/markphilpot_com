@@ -1,9 +1,11 @@
-Title: history lessons are invaluable
-Date: 2007-02-22 09:57:06
-Tags: imported
-Category: thoughts
-Slug: history_lessons_are_invaluable
-
+---
+title: "history lessons are invaluable"
+date: "2007-02-22 09:57:06"
+tags: [imported]
+category: thoughts
+slug: history_lessons_are_invaluable
+---
+	
 *Those who don't learn from history are doomed to repeat it*
 
 **Mark's Corollary**

@@ -1,9 +1,11 @@
-Title: holy crap
-Date: 2007-09-12 16:07:32
-Tags: imported, driving
-Category: updates
-Slug: holy_crap
-
+---
+title: "holy crap"
+date: "2007-09-12 16:07:32"
+tags: [imported, driving]
+category: updates
+slug: holy_crap
+---
+	
 oh... my... $DEITY
 
 This post is more a laundry list of this past weekend, but ugh... totally nuts.

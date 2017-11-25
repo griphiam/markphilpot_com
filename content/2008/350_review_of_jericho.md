@@ -1,9 +1,11 @@
-Title: review of Jericho
-Date: 2008-03-10 20:16:00
-Tags: imported
-Category: tv
-Slug: review_of_jericho
-
+---
+title: "review of Jericho"
+date: "2008-03-10 20:16:00"
+tags: [imported]
+category: tv
+slug: review_of_jericho
+---
+	
 I don't know how I first heard about Jericho.  It definitely was not through normal advertising channels (which says quite about CBS's anemic promotion).  I think it was a combination of <a href="http://io9.com/">io9</a> coverage with <a href="http://www.netflix.com">netfix</a> recommendations.  In any regard, I'm so glad I discovered the show and now I have a chance to support it before CBS tries to cancel it for a second time.  I discovered Firefly too late (a year or so after Fox canceled it... actually same with Family Guy).  These studios have to realize they have to give these shows a chance.  I've put my money where my mouth is and purchased  season 1 and I urge you to buy or rent it as well.
 
 The great thing about this show is that the plot does not seem absurd to me.  Whether its 9/11, Katrina or this administration, but in the late 90's, this would have seemed more fantastical that it does now.  They do a good job of walking a fine line between what is constructed to make it a good show and what might actually happen.

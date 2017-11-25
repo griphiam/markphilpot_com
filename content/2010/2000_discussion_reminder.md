@@ -1,10 +1,12 @@
-Title: Reminder of a Discussion
-Date: 2010-01-29 13:49:01
-Tags: thoughts
-Category: thoughts
-Slug: discussion
-Summary: Reminder of a Discussion
-
+---
+title: "Reminder of a Discussion"
+date: "2010-01-29 13:49:01"
+tags: [thoughts]
+category: thoughts
+slug: discussion
+summary: Reminder of a Discussion
+---
+	
 _This post was migrated from my old blog_
 
 There has been a lot of musings in the wake of Apple's iPad announcement.  The conversation below took place in 2006.  It would be interesting to hear a rehashed version given the state of the industry today, but I thought I'd refresh my memory by rereading.
@@ -22,4 +24,3 @@ And Mark's [counter](http://diveintomark.org/archives/2006/06/16/juggling-orange
 >I’m not claiming that either Free Software or open formats are a silver bullet. There are many risk factors, and Free Software mitigates some of them some of the time. There are many layers — data on top of applications on top of operating systems on top of hardware — and open formats can reduce the friction between some of them some of the time. They’re both lubricants that help you to slide out one layer and replace it without the whole thing toppling down. Apple would prefer that I not replace any of their layers, and they have gone out of their way to increase the friction between them.
 >
 >Which brings us back to John Gruber’s oranges. His counter-argument — that lock-in hasn’t been a problem for me yet, so why all the fuss now — could not be further from the truth. It’s been a constant problem for 22 years. Much of the data I’ve spent my life creating has been lost or seriously degraded through a series of proprietary formats and forced migrations. This is why I felt so betrayed, in particular, by Mail.app “upgrading” me away from mbox format. It took a lot of forethought on my part, not to mention actual time and effort, to convert all my disparate mail archives from all those different mail programs. I finally got everything into a single archive in an open, stable format… and just 3 short years later, Apple found a way to screw me one last time. It’ll be the last time they get the chance.
-

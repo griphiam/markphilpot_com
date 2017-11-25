@@ -1,9 +1,11 @@
-Title: I couldn't resist -- Best Nigerian spam *ever*
-Date: 2009-01-14 23:33:57
-Tags: imported
-Category: humor
-Slug: i_couldnt_resist_best_nigerian_spam_ever
-
+---
+title: "I couldn't resist -- Best Nigerian spam *ever*"
+date: "2009-01-14 23:33:57"
+tags: [imported]
+category: humor
+slug: i_couldnt_resist_best_nigerian_spam_ever
+---
+	
 I mean seriously!  How can you write this!  And from the "FBI" no less!
 
 <blockquote>Federal Bureau of Investigation (FBI)
