@@ -5,10 +5,9 @@ tags: [imported]
 category: updates
 slug: round_trip
 ---
-	
 
 ![Map]({filename}/images/2007/cross2.png){: .center}
 
 <em>Fly out... Pack-Move... Drive back</em>
 
-I'm out the next two weeks.  Catch you on the flip side...
+I'm out the next two weeks. Catch you on the flip side...

@@ -5,7 +5,7 @@ tags: [imported]
 category: games
 slug: kings_quest_vi_playthrough
 ---
-	
+
 <object width="530" height="370"><param name="movie" value="http://www.youtube.com/p/9E675515953A304B"></param><embed src="http://www.youtube.com/p/9E675515953A304B" type="application/x-shockwave-flash" width="530" height="370"></embed></object>
 
 Enjoy!

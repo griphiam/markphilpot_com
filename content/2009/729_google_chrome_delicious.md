@@ -5,8 +5,13 @@ tags: [imported, delicious]
 category: software
 slug: google_chrome_delicious
 ---
-	
-While there are a few fledgling Chrome extensions that add the standard Delicious buttons to the user interface.  However, that's not what I really need.  I need the Delicious toolbar that Firefox's plugin has so I can pull up my bookmarks with my favorite tags into the toolbar.  As a stop gap, <a href="http://fernandoacorreia.wordpress.com/2008/09/05/delicious-in-google-chrome/">this</a> post has a way to add a search engine.
+
+While there are a few fledgling Chrome extensions that add the standard
+Delicious buttons to the user interface. However, that's not what I really need.
+I need the Delicious toolbar that Firefox's plugin has so I can pull up my
+bookmarks with my favorite tags into the toolbar. As a stop gap,
+<a href="http://fernandoacorreia.wordpress.com/2008/09/05/delicious-in-google-chrome/">this</a>
+post has a way to add a search engine.
 
 <strong>Searching pages</strong>
 

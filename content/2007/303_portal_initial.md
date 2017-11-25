@@ -5,9 +5,12 @@ tags: [imported]
 category: games
 slug: portal_initial
 ---
-	
+
 The cake is a lie...
 
-What a fantastic game!  Original and great fun (I chose to beat it over playing TF2!)  Little too short, but there looks to be some extras (as well as downloadable) maps...  I can't wait to replay it, actually.
+What a fantastic game! Original and great fun (I chose to beat it over playing
+TF2!) Little too short, but there looks to be some extras (as well as
+downloadable) maps... I can't wait to replay it, actually.
 
-And <a href="http://www.jonathancoulton.com/">Jonathan Coulton</a> is my hero! (And I'm still alive...)
+And <a href="http://www.jonathancoulton.com/">Jonathan Coulton</a> is my hero!
+(And I'm still alive...)

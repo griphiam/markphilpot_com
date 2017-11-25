@@ -6,12 +6,15 @@ category: linux
 slug: cli_ninja
 summary: CLI customizations
 ---
-	
+
 _This post was migrated from my old blog_
 
-Navigating maven projects (or any java project for that matter) on the command line can be an incredible pain.  Package structures 8 or 10 levels deep aren't that uncommon, especially in large enterprise level projects. Below are two hooks that I use to hop around that I find really useful.
+Navigating maven projects (or any java project for that matter) on the command
+line can be an incredible pain. Package structures 8 or 10 levels deep aren't
+that uncommon, especially in large enterprise level projects. Below are two
+hooks that I use to hop around that I find really useful.
 
-__showlevel (alias l='showlevel')__
+**showlevel (alias l='showlevel')**
 
     :::perl
     #!/bin/perl -w
@@ -64,9 +67,10 @@ __showlevel (alias l='showlevel')__
     }
 
     print "
+
 ";
 
-__~/.profile or ~/.bashrc__
+**~/.profile or ~/.bashrc**
 
     :::bash
     function k

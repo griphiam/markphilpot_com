@@ -5,9 +5,10 @@ tags: [imported]
 category: thoughts
 slug: history_lessons_are_invaluable
 ---
-	
-*Those who don't learn from history are doomed to repeat it*
+
+_Those who don't learn from history are doomed to repeat it_
 
 **Mark's Corollary**
 
-*Those who learn yet still insist on make the same mistakes are uniquely qualified to predict the future*
+_Those who learn yet still insist on make the same mistakes are uniquely
+qualified to predict the future_

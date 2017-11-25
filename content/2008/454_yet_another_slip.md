@@ -5,10 +5,13 @@ tags: [imported]
 category: updates
 slug: yet_another_slip
 ---
-	
-Why is it hard trying to keep a habit of writing a bit every day.  Seriously, you think this would be a bit easier... Lots of people do it now.
 
-I must confess, its been a lot harder to keep motivated to get things done (GTD) in the hobby sense when I get home from work...  Quite a few things are contributing factors:
+Why is it hard trying to keep a habit of writing a bit every day. Seriously, you
+think this would be a bit easier... Lots of people do it now.
+
+I must confess, its been a lot harder to keep motivated to get things done (GTD)
+in the hobby sense when I get home from work... Quite a few things are
+contributing factors:
 
 <ul>
 	<li>Conserving Power -- I no longer keep my desktop powered 24x7 since we moved into our new place.  It's just enough inertia to actually have an effect.  Sure I use my laptop, but it doesn't have the same horse power for the heavy lifting tasks.</li>
@@ -17,4 +20,6 @@ I must confess, its been a lot harder to keep motivated to get things done (GTD)
 	<li>Wolfi -- First thing I do when I get home is run around with him, take him for a walk and feed him.  Don't get me wrong -- I love it!  But its a few hours tacked on to the end of the day.</li>
 </ul>
 
-I know, excuses, excuses.  I have a few post ideas brewing and I have a two week business trip coming up which means plenty of idle hotel time to write.  Hopefully I'll get the juices flowing again.
+I know, excuses, excuses. I have a few post ideas brewing and I have a two week
+business trip coming up which means plenty of idle hotel time to write.
+Hopefully I'll get the juices flowing again.

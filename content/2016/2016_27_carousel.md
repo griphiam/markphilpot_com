@@ -6,7 +6,7 @@ category: anime
 slug: anime_2016_carousel
 summary: Carousel of all the anime I watched this year
 ---
-	
+
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css" rel="stylesheet" property="stylesheet">
 
 <a href="{filename}/images/2016/carousel/01.jpg" data-lightbox="carousel" data-title="Boku Dake go Inai Machi (Winter)" style="border-bottom: none;">
@@ -44,6 +44,7 @@ summary: Carousel of all the anime I watched this year
 <a href="{filename}/images/2016/carousel/30.jpg" data-lightbox="carousel" data-title="Yuri!!! on ICE (Fall)"></a>
 <a href="{filename}/images/2016/carousel/31.jpg" data-lightbox="carousel" data-title="Kiitarou Shounen no Youkai Enikki (Fall)"></a>
 
-Click on the image above to start the carousel of the anime I was able to enjoy that aired this year...
+Click on the image above to start the carousel of the anime I was able to enjoy
+that aired this year...
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox-plus-jquery.min.js"></script>

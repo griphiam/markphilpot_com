@@ -5,8 +5,15 @@ tags: [imported, cartoons]
 category: tv
 slug: cartoon_nostalgia
 ---
-	
-Courtesy of <a title="Hey I remember that" href="http://www.retrojunk.com/">retrojunk.com</a>, enjoy a trip down memory lane (one that kept me busy for hours).  The links below are the intro videos for the cartoon shows...  I swear, the 80's and 90's had some kickass cartoons!  This is a kick ass site too!  It has more than just cartoons... definitely worth it if you have a few hours to kill.  And the great 80's music themes are priceless!
+
+Courtesy of
+<a title="Hey I remember that" href="http://www.retrojunk.com/">retrojunk.com</a>,
+enjoy a trip down memory lane (one that kept me busy for hours). The links below
+are the intro videos for the cartoon shows... I swear, the 80's and 90's had
+some kickass cartoons! This is a kick ass site too! It has more than just
+cartoons... definitely worth it if you have a few hours to kill. And the great
+80's music themes are priceless!
+
 <ul>
 	<li><a href="http://www.retrojunk.com/details_tvshows/6-ducktales/6/#intro">Ducktales</a></li>
 	<li><a href="http://www.retrojunk.com/details_tvshows/108-darkwing-duck/191/#intro">Darkwing Duck</a></li>

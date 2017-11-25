@@ -5,9 +5,10 @@ tags: [imported]
 category: games
 slug: team_fortress_2_initial
 ---
-	
+
 Oh... My... God.
 
 Absolutely and utterly fantastic.
 
-(more on this later, but in all likelihood, much later as game play comes first!)
+(more on this later, but in all likelihood, much later as game play comes
+first!)

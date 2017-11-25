@@ -5,9 +5,17 @@ tags: [imported, cartoons]
 category: tv
 slug: trips_down_memory_lane
 ---
-	
 
-Related to a <a href="http://blog.mcstudios.net/2006/03/26/cartoon-nostalgia/">previous post</a> regarding great 80's cartoons, I stumbled upon a great <a title="Relax for a spell and enjoy" href="http://www.youtube.com/watch?v=Bto7l3cKhvk">30 minute mix</a> of 80's cartoon intros. Needless to say it was a fantastic trip. You quickly realize there was a lot of great stuff that you remember very fondly, and then a bunch of stuff you've never heard of and think, "Someone must really have been on something to come up with this." And the name Don Schimer keeps popping up as the producer for many of the early 80's shows... I'll have to look him up later. Anyway, on to the recap.
+Related to a
+<a href="http://blog.mcstudios.net/2006/03/26/cartoon-nostalgia/">previous
+post</a> regarding great 80's cartoons, I stumbled upon a great
+<a title="Relax for a spell and enjoy" href="http://www.youtube.com/watch?v=Bto7l3cKhvk">30
+minute mix</a> of 80's cartoon intros. Needless to say it was a fantastic trip.
+You quickly realize there was a lot of great stuff that you remember very
+fondly, and then a bunch of stuff you've never heard of and think, "Someone must
+really have been on something to come up with this." And the name Don Schimer
+keeps popping up as the producer for many of the early 80's shows... I'll have
+to look him up later. Anyway, on to the recap.
 
 <ul>
     <li><strong>He-Man and the Masters of the Universe</strong> -- Starting right off with a classic. Yes, it was incredibly cheesy, but hey! They made a horrible 80's feature length live action <a title="oh it was bad" href="http://www.imdb.com/title/tt0093507/">movie</a> off of it (complete with Courtney Cox, believe it or not)!</li>
@@ -42,7 +50,9 @@ Related to a <a href="http://blog.mcstudios.net/2006/03/26/cartoon-nostalgia/">p
     <li><strong>Blackstar</strong> -- Wow... someone's on crack for this one.</li>
 </ul>
 
-Of those 30, I definitely had seen at least 16 of them (at least one episode). However there are definitely a few that I'm sure were in the 80's that they missed.
+Of those 30, I definitely had seen at least 16 of them (at least one episode).
+However there are definitely a few that I'm sure were in the 80's that they
+missed.
 
 <ul>
     <li>Dark Wing Duck</li>
@@ -52,7 +62,9 @@ Of those 30, I definitely had seen at least 16 of them (at least one episode). H
     <li>Carebears</li>
 </ul>
 
-And then a segment that were great cartoons in the 90's (when you were probably too old to be watching cartoons, but did anyway). You cannot say Anamaniacs was a childish cartoon =)
+And then a segment that were great cartoons in the 90's (when you were probably
+too old to be watching cartoons, but did anyway). You cannot say Anamaniacs was
+a childish cartoon =)
 
 <ul>
     <li>Batman</li>

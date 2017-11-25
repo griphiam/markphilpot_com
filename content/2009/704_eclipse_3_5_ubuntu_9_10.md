@@ -5,10 +5,17 @@ tags: [imported, ubuntu, eclipse]
 category: development
 slug: eclipse_3_5_ubuntu_9_10
 ---
-	
-<a href="http://www.norio.be">This</a> guy just saved my sanity!  If you are running Eclipse 3.5 and are noticing "funny" behavior (buttons not working, certain fields not appearing), then follow <a href="http://www.norio.be/blog/2009/10/problems-eclipse-buttons-ubuntu-910">these</a> instructions.
 
->It looks like Eclipse is doing some <del>nasty stuff</del> advanced hacking in SWT on GTK. This bug is fixed in 3.6M2 but you can work around the issue in Eclipse 3.5 by launching Eclipse through the following small shell script (assuming Eclipse is installed in /opt/eclipse-3.5):
+<a href="http://www.norio.be">This</a> guy just saved my sanity! If you are
+running Eclipse 3.5 and are noticing "funny" behavior (buttons not working,
+certain fields not appearing), then follow
+<a href="http://www.norio.be/blog/2009/10/problems-eclipse-buttons-ubuntu-910">these</a>
+instructions.
+
+> It looks like Eclipse is doing some <del>nasty stuff</del> advanced hacking in
+> SWT on GTK. This bug is fixed in 3.6M2 but you can work around the issue in
+> Eclipse 3.5 by launching Eclipse through the following small shell script
+> (assuming Eclipse is installed in /opt/eclipse-3.5):
 
 ```bash
 #!/bin/sh

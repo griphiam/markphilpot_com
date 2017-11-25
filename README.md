@@ -5,6 +5,11 @@
 ```bash
 brew install libjpeg optipng
 yarn install
+
+pyenv virtualenv 3.5.2 blog pip
+pyenv activate blog
+
+pip install -r requirements.txt
 ```
 
 # twitter archive import

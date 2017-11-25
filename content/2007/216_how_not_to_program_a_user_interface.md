@@ -5,7 +5,7 @@ tags: [imported]
 category: rant
 slug: how_not_to_program_a_user_interface
 ---
-	
+
 The following is a description on using the Clearquest 2003 windows application.
 
 <ul>
@@ -14,6 +14,11 @@ The following is a description on using the Clearquest 2003 windows application.
 	<li>Walk back to the office, grumble about poor UI, and right click on the <em>Folder</em> where I want to import the query.  Lo and behold, "Import Query."</li>
 </ul>
 
-One of the most important rules in UI programming is that you should never rely on a right-click context menu as the only way to perform an action.  This should only be thought of as a shortcut.  Apple takes this paradigm to the extreme and only provides mice hardware with one button (but you can access a context menu via Option+click).
+One of the most important rules in UI programming is that you should never rely
+on a right-click context menu as the only way to perform an action. This should
+only be thought of as a shortcut. Apple takes this paradigm to the extreme and
+only provides mice hardware with one button (but you can access a context menu
+via Option+click).
 
-Clearquest is frustrating to use in other regards, but this was just the latest grumble about its user interface.
+Clearquest is frustrating to use in other regards, but this was just the latest
+grumble about its user interface.

@@ -5,5 +5,6 @@ tags: [imported]
 category: links
 slug: clever_collegehumor
 ---
-	
-<a href="http://www.collegehumor.com/video:1823766">You have to admit...</a>  CollegeHumor has put out some high quality funnies lately =)
+
+<a href="http://www.collegehumor.com/video:1823766">You have to admit...</a>
+CollegeHumor has put out some high quality funnies lately =)
