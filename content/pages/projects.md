@@ -1,7 +1,9 @@
-Title: ~/projects
-Date: 2016-03-02 22:23:00
-Slug: projects
-Summary: My Projects
+---
+title: ~/projects
+date: 2016-03-02 22:23:00
+slug: projects
+summary: My Projects
+---
 
 ## TriAxis &amp; Ground Control Pro Web Apps
 

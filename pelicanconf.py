@@ -46,7 +46,13 @@ PLUGIN_PATHS = [
 ]
 
 # Removed 'gzip_cache' since AWS Cloudfront does it for us
-PLUGINS = ['simple_footnotes', 'sitemap', 'extract_toc', 'neighbors_filtered' ]
+PLUGINS = [
+    'simple_footnotes', 
+    'sitemap', 
+    'extract_toc', 
+    'neighbors_filtered',
+    'frontmark',
+]
 
 # Theme Settings
 THEME = 'themes/pelican-theme'

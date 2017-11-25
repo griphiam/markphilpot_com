@@ -1,8 +1,10 @@
-Title: About
-Date: 2016-03-02 22:23:00
-Slug: about
-Summary: About Mark Philpot
+---
+title: About
+date: 2016-03-02 22:23:00
+slug: about
+summary: About Mark Philpot
 Hero: background-image: url(/images/about/hero.jpg);
+---
 
 Some places you can find me on the Internet: [<i class="fa fa-twitter"></i>](https://twitter.com/mark_philpot) [<i class="fa fa-github"></i>](https://github.com/markphilpot) [<i class="fa fa-flickr"></i>](https://www.flickr.com/photos/markphilpot) [<i class="fa fa-font"></i>](https://anilist.co/user/mphilpot)
 
