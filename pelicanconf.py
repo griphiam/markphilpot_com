@@ -13,13 +13,13 @@ if DEBUG:
      LOAD_CONTENT_CACHE = True
      CHECK_MODIFIED_METHOD = 'mtime'
 
-AUTHOR = u'Mark Philpot'
-SITENAME = u'markphilpot.com'
+AUTHOR = 'Mark Philpot'
+SITENAME = 'markphilpot.com'
 SITEURL = ''
 
 TIMEZONE = 'America/Los_Angeles'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = ('%B %-d, %Y')
 NOW = datetime.datetime.now()
 
@@ -74,10 +74,10 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.loopcontrols']}
 TYPOGRIFY = False 
 RELATED_POSTS_LABEL = 'keep reading...'
 USE_FOLDER_AS_CATEGORY = False
-ARTICLE_URL = u'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = u'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-PAGE_URL = u'pages/{slug}/'
-PAGE_SAVE_AS = u'pages/{slug}/index.html'
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
 USE_FAVICON = True
 WITH_FUTURE_DATES = True
 PAGINATED_DIRECT_TEMPLATES = []
