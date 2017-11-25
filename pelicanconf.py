@@ -47,11 +47,11 @@ PLUGIN_PATHS = [
 
 # Removed 'gzip_cache' since AWS Cloudfront does it for us
 PLUGINS = [
+    'frontmark',
     'simple_footnotes', 
     'sitemap', 
     'extract_toc', 
     'neighbors_filtered',
-    'frontmark',
 ]
 
 # Theme Settings

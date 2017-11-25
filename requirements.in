@@ -7,4 +7,4 @@ html5lib==0.999999
 beautifulsoup4==4.4.1
 requests[security]==2.8.1
 pip-tools==1.8.0
-pelican-frontmark==1.1.0
+-e git+https://github.com/markphilpot/pelican-frontmark.git@d8e7df2cd11f023b272ddeb9dc328ffdce6bd172#egg=pelican-frontmark==1.1.0
