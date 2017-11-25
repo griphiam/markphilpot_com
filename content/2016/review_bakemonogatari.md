@@ -38,8 +38,7 @@ exterminate and/or ameliorate their supernatural tendencies.
 
 ### Hitagi Crab
 
-![Hitagi Senjōgahara]({filename}/images/2016/bakemonogatari/senjougahara.jpg){:
-.center}
+![Hitagi Senjōgahara]({filename}/images/2016/bakemonogatari/senjougahara.jpg){:.center}
 
 The opening story gives us the introduction to Araragi's (and the Internet it
 seems) future girlfriend, Hitagi Senjōgahara. She is beautiful, witty and

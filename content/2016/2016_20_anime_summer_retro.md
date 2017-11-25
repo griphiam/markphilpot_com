@@ -10,8 +10,8 @@ Hero: "background-image: url(/images/anime/2016/summer/hero.jpg);"
 
 [TOC]
 
-![Re:Zero kara Hajimeru Isekai Seikatsu]({filename}/images/anime/2016/spring/rezero.jpg "Re:Zero kara Hajimeru Isekai Seikatsu"){:
-.center} ![White Fox]({filename}/images/anime/studios/white_fox.png){: .studio}
+![Re:Zero kara Hajimeru Isekai Seikatsu]({filename}/images/anime/2016/spring/rezero.jpg "Re:Zero kara Hajimeru Isekai Seikatsu"){:.center}
+![White Fox]({filename}/images/anime/studios/white_fox.png){: .studio}
 
 ### [Re:Zero kara Hajimeru Isekai Seikatsu](https://hummingbird.me/anime/re-zero-kara-hajimeru-isekai-seikatsu)
 
@@ -35,8 +35,8 @@ you (two characters talking to each other in the same spot for 24 minutes) you
 would say it must be a boring episode. Trust me when I say that Episode 18 might
 just be my all time favorite episode of anime ever.
 
-![ReLIFE]({filename}/images/anime/2016/summer/tumblr_o8nli0hkDb1uca4rgo1_1280.jpg "ReLIFE"){:
-.center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
+![ReLIFE]({filename}/images/anime/2016/summer/tumblr_o8nli0hkDb1uca4rgo1_1280.jpg "ReLIFE"){:.center}
+![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
 ### [ReLIFE](https://hummingbird.me/anime/relife)
 
@@ -68,8 +68,8 @@ Uso](https://hummingbird.me/anime/shigatsu-wa-kimi-no-uso).
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){:
 .link-nb}
 
-![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:
-.center} ![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
+![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:.center}
+![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
 ### [Mob Psycho 100](https://hummingbird.me/anime/mob-psycho-100)
 
@@ -81,8 +81,7 @@ it.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){:
 .link-nb}
 
-![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:
-.center}
+![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:.center}
 
 <div class="studio">8bit</div>
 
@@ -98,8 +97,7 @@ something that there might be a second season? _Shrug_
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){:
 .link-nb}
 
-![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:
-.center}
+![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:.center}
 
 <div class="studio">Shuka</div>
 
@@ -111,9 +109,8 @@ itself -- I just preferred watching other series. One day!
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){:
 .link-nb}
 
-![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:
-.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:
-.studio}
+![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:.center}
+![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:.studio}
 
 ### [Tales of Zestiria the X](https://hummingbird.me/anime/tales-of-zestiria-the-x)
 
@@ -133,9 +130,8 @@ So... Mission Accomplished?
 [![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){:
 .link-nb}
 
-![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:
-.center} ![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:
-.studio}
+![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:.center}
+![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
 ### [Nejimaki Seirei Senki: Tenkyou no Alderamin](https://hummingbird.me/anime/nejimaki-seirei-senki-tenkyou-no-alderamin)
 
@@ -159,8 +155,7 @@ when they get to the battles and war will it continue or shift dramatically.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){:
 .link-nb}
 
-![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:
-.center}
+![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:.center}
 
 <div class="studio">Doga Kobo</div>
 
@@ -178,8 +173,8 @@ wasn't disappointed with the episodic hijinks.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){:
 .link-nb}
 
-![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:
-.center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
+![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:.center}
+![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
 ### [Amaama to Inazuma](https://hummingbird.me/anime/amaama-to-inazuma)
 

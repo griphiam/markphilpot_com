@@ -17,8 +17,8 @@ experience of its anime...
 
 Side Note: Damn! Did Crunchyroll buy out the entire season?!
 
-![ReLIFE]({filename}/images/anime/2016/summer/tumblr_o8nli0hkDb1uca4rgo1_1280.jpg "ReLIFE"){:
-.center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
+![ReLIFE]({filename}/images/anime/2016/summer/tumblr_o8nli0hkDb1uca4rgo1_1280.jpg "ReLIFE"){:.center}
+![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
 ### [ReLIFE](https://hummingbird.me/anime/relife)
 
@@ -52,8 +52,8 @@ opinion. What is left unknown is if this show is an upper or downer...
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){:
 .link-nb}
 
-![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:
-.center} ![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
+![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:.center}
+![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
 ### [Mob Psycho 100](https://hummingbird.me/anime/mob-psycho-100)
 
@@ -65,8 +65,7 @@ styles (rough and hyper stylized). I guess I'll take a wait and see attitude.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){:
 .link-nb}
 
-![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:
-.center}
+![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:.center}
 
 <div class="studio">8bit</div>
 
@@ -86,8 +85,7 @@ I'll give it a few more episodes to see if it can work itself out.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){:
 .link-nb}
 
-![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:
-.center}
+![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:.center}
 
 <div class="studio">Shuka</div>
 
@@ -100,9 +98,8 @@ minimum), I think I will throughly enjoy this one.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){:
 .link-nb}
 
-![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:
-.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:
-.studio}
+![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:.center}
+![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:.studio}
 
 ### [Tales of Zestiria the X](https://hummingbird.me/anime/tales-of-zestiria-the-x)
 
@@ -119,9 +116,8 @@ this one.
 [![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){:
 .link-nb}
 
-![Taboo Tattoo]({filename}/images/anime/2016/summer/vyy117y.jpg "Taboo Tattoo"){:
-.center} ![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:
-.studio}
+![Taboo Tattoo]({filename}/images/anime/2016/summer/vyy117y.jpg "Taboo Tattoo"){:.center}
+![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
 ### [Taboo Tattoo](https://hummingbird.me/anime/taboo-tattoo)
 
@@ -137,9 +133,8 @@ redeeming qualities.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/taboo-tattoo){:
 .link-nb}
 
-![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:
-.center} ![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:
-.studio}
+![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:.center}
+![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
 ### [Nejimaki Seirei Senki: Tenkyou no Alderamin](https://hummingbird.me/anime/nejimaki-seirei-senki-tenkyou-no-alderamin)
 
@@ -152,8 +147,8 @@ might be an interesting series.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){:
 .link-nb}
 
-![Qualidea Code]({filename}/images/anime/2016/summer/qualideacode.jpg "Qualidea Code"){:
-.center} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
+![Qualidea Code]({filename}/images/anime/2016/summer/qualideacode.jpg "Qualidea Code"){:.center}
+![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Qualidea Code](https://hummingbird.me/anime/qualidea-code)
 
@@ -162,8 +157,7 @@ And... nope! Pretty sure there isn't going to be anything redeeming here.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/qualidea-code){:
 .link-nb}
 
-![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:
-.center}
+![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:.center}
 
 <div class="studio">Doga Kobo</div>
 
@@ -178,8 +172,8 @@ moderation at least).
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){:
 .link-nb}
 
-![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:
-.center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
+![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:.center}
+![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
 ### [Amaama to Inazuma](https://hummingbird.me/anime/amaama-to-inazuma)
 
@@ -192,9 +186,8 @@ appears to be enough feels to go around to make it a compelling story.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){:
 .link-nb}
 
-![Amanchu!]({filename}/images/anime/2016/summer/sxCDTJ9.jpg "Amanchu!"){:
-.center} ![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:
-.studio}
+![Amanchu!]({filename}/images/anime/2016/summer/sxCDTJ9.jpg "Amanchu!"){:.center}
+![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
 ### [Amanchu!](https://hummingbird.me/anime/amanchu)
 

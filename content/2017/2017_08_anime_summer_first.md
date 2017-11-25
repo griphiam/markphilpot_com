@@ -10,9 +10,8 @@ Hero: "background-image: url(/images/anime/2017/summer/montage.jpg);"
 
 [TOC]
 
-![No Game No Life -Zero-]({filename}/images/anime/2017/summer/21875-xF6gR9paLC7C.jpg "No Game No Life -Zero-"){:
-.center} ![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:
-.studio}
+![No Game No Life -Zero-]({filename}/images/anime/2017/summer/21875-xF6gR9paLC7C.jpg "No Game No Life -Zero-"){:.center}
+![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
 ### [No Game No Life -Zero-](https://anilist.co/anime/21875)
 
@@ -28,9 +27,8 @@ _Sigh_
 I still want a continuation, but I guess I'll have to settle for this. It's at
 least Madhouse.
 
-![Katsugeki Touken Ranbu]({filename}/images/anime/2017/summer/21742-4emv6O8PPq93.jpg "Katsugeki Touken Ranbu"){:
-.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.png){:
-.studio}
+![Katsugeki Touken Ranbu]({filename}/images/anime/2017/summer/21742-4emv6O8PPq93.jpg "Katsugeki Touken Ranbu"){:.center}
+![ufotable]({filename}/images/anime/studios/half/ufotable.png){:.studio}
 
 ### [Katsugeki Touken Ranbu](https://anilist.co/anime/21742)
 
@@ -40,18 +38,16 @@ give it a shot. I can easily say that it doesn't disappoint. Great fight
 sequences, groundwork for some good character dynamics, and the hinting of an
 orchestrated conflict sells it for me.
 
-![The Reflection Wave One]({filename}/images/anime/2017/summer/21461-uMKVoLchuwUK.jpg "The Reflection Wave One"){:
-.center} ![Studio Deen]({filename}/images/anime/studios/half/studio_deen.png){:
-.studio}
+![The Reflection Wave One]({filename}/images/anime/2017/summer/21461-uMKVoLchuwUK.jpg "The Reflection Wave One"){:.center}
+![Studio Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
 
 ### [The Reflection Wave One](https://anilist.co/anime/21461)
 
 Don't know why this one is airing so late but it's at least on my radar. Really
 don't know much about it to be honest.
 
-![Princess Principal]({filename}/images/anime/2017/summer/98505-TSRbOdDsp5jT.jpg "Princess Principal"){:
-.center} ![Studio 3Hz]({filename}/images/anime/studios/half/studio_3hz.png){:
-.studio}
+![Princess Principal]({filename}/images/anime/2017/summer/98505-TSRbOdDsp5jT.jpg "Princess Principal"){:.center}
+![Studio 3Hz]({filename}/images/anime/studios/half/studio_3hz.png){:.studio}
 
 ### [Princess Principal](https://anilist.co/anime/98505)
 
@@ -66,8 +62,7 @@ I must commend 3Hz in adapting original stories. It's very risky but I hope
 (_hope hope hope_) that they are rewarded for their work and that _Princess_
 becomes more than an under-appreciated gem.
 
-![Netsuzou Trap -NTR-]({filename}/images/anime/2017/summer/97833-abG4ciT52q37.jpg "Netsuzou Trap -NTR-"){:
-.center}
+![Netsuzou Trap -NTR-]({filename}/images/anime/2017/summer/97833-abG4ciT52q37.jpg "Netsuzou Trap -NTR-"){:.center}
 
 <div class="studio">Creators in Pack</div>
 
@@ -78,8 +73,8 @@ loom, I might stick with it. The violent boyfriend angle in episode 2 is a sure
 fire way to get dropped if not addressed quickly. It's a short anyway so minimal
 investment required.
 
-![Fate/Apocrypha]({filename}/images/anime/2017/summer/98035-g3D2miwA9dSd.jpg "Fate/Apocrypha"){:
-.center} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
+![Fate/Apocrypha]({filename}/images/anime/2017/summer/98035-g3D2miwA9dSd.jpg "Fate/Apocrypha"){:.center}
+![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Fate/Apocrypha](https://anilist.co/anime/98035)
 
@@ -92,17 +87,15 @@ And while I have the soap box: Amazon
 
 WORKOUT YOUR FREAKING PRICING! WHAT THE HELL IS WITH THE DOUBLE PAY WALL?
 
-![New Game!!]({filename}/images/anime/2017/summer/98292-MjBqoQt8fjzF.png "New Game!!"){:
-.center} ![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){:
-.studio}
+![New Game!!]({filename}/images/anime/2017/summer/98292-MjBqoQt8fjzF.png "New Game!!"){:.center}
+![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){:.studio}
 
 ### [New Game!!](https://anilist.co/anime/98292)
 
 It feels like they never left. _New Game!!_ (literally) Onwards!
 
-![Gamers!]({filename}/images/anime/2017/summer/97766-PtVldOnUhEcQ.jpg "Gamers!"){:
-.center} ![Pine Jam]({filename}/images/anime/studios/half/pine_jam.png){:
-.studio}
+![Gamers!]({filename}/images/anime/2017/summer/97766-PtVldOnUhEcQ.jpg "Gamers!"){:.center}
+![Pine Jam]({filename}/images/anime/studios/half/pine_jam.png){:.studio}
 
 ### [Gamers!](https://anilist.co/anime/97766)
 
@@ -112,8 +105,7 @@ If it's just a hook and it goes back to a club show playing it by the books,
 I'll probably drop it. If it goes to some new places and remains genuine, I
 think this show might be a pleasant surprise.
 
-![Hajimete no Gal]({filename}/images/anime/2017/summer/97863-wNixx4dddNh5.jpg "Hajimete no Gal"){:
-.center}
+![Hajimete no Gal]({filename}/images/anime/2017/summer/97863-wNixx4dddNh5.jpg "Hajimete no Gal"){:.center}
 
 <div class="studio">NAZ</div>
 
@@ -123,9 +115,8 @@ Ugh, I felt contaminated after watching this. Could have been good if treated
 with respect, but the writing is just flat out disgusting. There is a chance
 this was just a bad opening episode, but somehow I doubt it.
 
-![Koi to Uso]({filename}/images/anime/2017/summer/98320-S6WtpgeZIs6v.jpg "Koi to Uso"){:
-.center} ![Liden Films]({filename}/images/anime/studios/half/lidenfilms.png){:
-.studio}
+![Koi to Uso]({filename}/images/anime/2017/summer/98320-S6WtpgeZIs6v.jpg "Koi to Uso"){:.center}
+![Liden Films]({filename}/images/anime/studios/half/lidenfilms.png){:.studio}
 
 ### [Koi to Uso](https://anilist.co/anime/98320)
 
@@ -137,9 +128,8 @@ And the eyes! It's like an entire cast modeled after
 [Visha](https://anilist.co/character/121057/ViktoriyaIvanovnaSerebryakova) from
 [Youjo Senki](https://anilist.co/anime/21613/YoujoSenki)!
 
-![Isekai Shokudou]({filename}/images/anime/2017/summer/97617-TmRRraupfbT5.jpg "Isekai Shokudou"){:
-.center} ![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:
-.studio}
+![Isekai Shokudou]({filename}/images/anime/2017/summer/97617-TmRRraupfbT5.jpg "Isekai Shokudou"){:.center}
+![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:.studio}
 
 ### [Isekai Shokudou](https://anilist.co/anime/97617)
 
@@ -151,17 +141,15 @@ to do it for me without some sort of character development. I'll give it another
 episode or two, but it's going to have to turn things around to keep my
 interest.
 
-![Kakegurui]({filename}/images/anime/2017/summer/98314-BWpNNKOmiUoe.jpg "Kakegurui"){:
-.center} ![Mappa]({filename}/images/anime/studios/half/mappa.png){: .studio}
+![Kakegurui]({filename}/images/anime/2017/summer/98314-BWpNNKOmiUoe.jpg "Kakegurui"){:.center}
+![Mappa]({filename}/images/anime/studios/half/mappa.png){: .studio}
 
 ### [Kakegurui](https://anilist.co/anime/98314)
 
 Yep. This is bat-shit-crazy. I'm sold.
 
-![Tsurezure Children]({filename}/images/anime/2017/summer/98291-rr8vlG8ZQ1zB.jpg "Tsurezure Children"){:
-.center}
-![Studio Gokumi]({filename}/images/anime/studios/half/studio_gokumi.png){:
-.studio}
+![Tsurezure Children]({filename}/images/anime/2017/summer/98291-rr8vlG8ZQ1zB.jpg "Tsurezure Children"){:.center}
+![Studio Gokumi]({filename}/images/anime/studios/half/studio_gokumi.png){:.studio}
 
 ### [Tsurezure Children](https://anilist.co/anime/98291)
 
@@ -169,16 +157,14 @@ I'm actually caught up on the manga/comic with this one. The stories are really
 funny and the studio has done a good job of blending the stories together so it
 feels like it occupies one world (rather than just disconnected skits).
 
-![Aho-Girl]({filename}/images/anime/2017/summer/98251-RAgDWqnspedR.jpg "Aho-Girl"){:
-.center} ![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:
-.studio}
+![Aho-Girl]({filename}/images/anime/2017/summer/98251-RAgDWqnspedR.jpg "Aho-Girl"){:.center}
+![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:.studio}
 
 ### [Aho-Girl](https://anilist.co/anime/98251)
 
 This show is really, really stupid... But _really_ funny.
 
-![Centaur no Nayami]({filename}/images/anime/2017/summer/98519-WOOg7YxxktWt.jpg "Centaur no Nayami"){:
-.center}
+![Centaur no Nayami]({filename}/images/anime/2017/summer/98519-WOOg7YxxktWt.jpg "Centaur no Nayami"){:.center}
 
 <div class="studio">Emon</div>
 
@@ -193,8 +179,8 @@ explore those angles and what the conflicts will be, but they have definitely
 set themselves up to dive into those if they want. I'm hoping they do, and not
 just dance around the edges with it.
 
-![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]({filename}/images/anime/2017/summer/98659-8vvB0aTeZhHc.png "Centaur no Nayami"){:
-.center} ![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
+![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]({filename}/images/anime/2017/summer/98659-8vvB0aTeZhHc.png "Centaur no Nayami"){:.center}
+![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://anilist.co/anime/98659/YoukosoJitsuryokuShijouShuginoKyoushitsue)
 
@@ -204,8 +190,7 @@ worst-class-against-the-world story, with a little less of the hijinx. It could
 still prove to be a dud, but as long as the soft-spoken protagonist has another
 gear or two, my gut says this could be good.
 
-![Made in Abyss]({filename}/images/anime/2017/summer/97986-ZL0DkAyNWyxG.jpg "Made in Abyss"){:
-.center}
+![Made in Abyss]({filename}/images/anime/2017/summer/97986-ZL0DkAyNWyxG.jpg "Made in Abyss"){:.center}
 
 <div class="studio">Kinema Citrus</div>
 

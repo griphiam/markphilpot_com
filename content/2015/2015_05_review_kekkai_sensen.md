@@ -7,8 +7,8 @@ slug: review_kekkai_sensen
 summary: Review of Kekkai Sensen
 ---
 
-![Kekkai Sensen]({filename}/images/2015/kekkai_sensen/kekkai_sensen.jpg){:
-.center} ![Bones]({filename}/images/anime/studios/bones.png){: .studio}
+![Kekkai Sensen]({filename}/images/2015/kekkai_sensen/kekkai_sensen.jpg){:.center}
+![Bones]({filename}/images/anime/studios/bones.png){: .studio}
 
 [Kekkai Sensen](https://hummingbird.me/anime/kekkai-sensen) _Blood Blockade
 Battlefront_

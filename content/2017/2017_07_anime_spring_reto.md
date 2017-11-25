@@ -18,8 +18,7 @@ I'm still not caught up on the heavy hitters (Attack on Titan, etc) and I'm
 still behind on the 2 two cour shows from last season (Little Witch Academia,
 etc). Such is life I guess...
 
-![GRANBLUE FANTASY The Animation]({filename}/images/anime/2017/spring/cards/granblue.jpg "GRANBLUE FANTASY The Animation"){:
-.ew1920}
+![GRANBLUE FANTASY The Animation]({filename}/images/anime/2017/spring/cards/granblue.jpg "GRANBLUE FANTASY The Animation"){:.ew1920}
 
 ### [GRANBLUE FANTASY The Animation](https://anilist.co/anime/21361)
 
@@ -35,8 +34,7 @@ ending is decently satisfying, given they didn't reach the endgame (so to
 speak). If you're a fan of the fantasy genre, you might like this one -- but not
 a must see.
 
-![Rokudenashi Majutsu Koushi to Kinki Kyouten]({filename}/images/anime/2017/spring/cards/bastard.jpg "Rokudenashi Majutsu Koushi to Kinki Kyouten"){:
-.ew1920}
+![Rokudenashi Majutsu Koushi to Kinki Kyouten]({filename}/images/anime/2017/spring/cards/bastard.jpg "Rokudenashi Majutsu Koushi to Kinki Kyouten"){:.ew1920}
 
 ### [Rokudenashi Majutsu Koushi to Kinki Kyouten](https://anilist.co/anime/21700)
 
@@ -50,8 +48,7 @@ I avoided most of the community discussions slamming this show, mostly because I
 didn't need to hear it. This show is what it is -- either you enjoy it or you
 don't. Move on.
 
-![Zero kara Hajimeru Mahou no Sho]({filename}/images/anime/2017/spring/cards/zero.jpg "Zero kara Hajimeru Mahou no Sho"){:
-.ew1920}
+![Zero kara Hajimeru Mahou no Sho]({filename}/images/anime/2017/spring/cards/zero.jpg "Zero kara Hajimeru Mahou no Sho"){:.ew1920}
 
 ### [Zero kara Hajimeru Mahou no Sho](https://anilist.co/anime/97682)
 
@@ -62,8 +59,7 @@ wasn't nearly as satisfying as it could have been. That being said, I did enjoy
 the dynamic of the main ensemble. I would definitely follow along on subsequent
 adventures.
 
-![Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?]({filename}/images/anime/2017/spring/cards/worldsend.jpg "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"){:
-.ew1920}
+![Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?]({filename}/images/anime/2017/spring/cards/worldsend.jpg "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"){:.ew1920}
 
 ### [Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?](https://anilist.co/anime/21860)
 
@@ -80,8 +76,7 @@ final episode was brilliant.
 Despite the ridiculousness of the title, _SukaSuka_ shows that you definitely
 can't paint all LN adaptations with the same brush.
 
-![Tsuki ga Kirei]({filename}/images/anime/2017/spring/cards/tsuki.jpg "Tsuki ga Kirei"){:
-.ew1920}
+![Tsuki ga Kirei]({filename}/images/anime/2017/spring/cards/tsuki.jpg "Tsuki ga Kirei"){:.ew1920}
 
 ### [Tsuki ga Kirei](https://anilist.co/anime/98202)
 
@@ -92,8 +87,7 @@ cour) this might well have been on of my all time favorites.
 However... despite my gripes about pacing -- HOLY SHIT that final credit
 sequence! _THAT_ my friends, is how you nail an ending of a show.
 
-![Alice to Zouroku]({filename}/images/anime/2017/spring/cards/alice.jpg "Alice to Zouroku"){:
-.ew1920}
+![Alice to Zouroku]({filename}/images/anime/2017/spring/cards/alice.jpg "Alice to Zouroku"){:.ew1920}
 
 ### [Alice to Zouroku](https://anilist.co/anime/97821)
 

@@ -20,9 +20,8 @@ worthy. There is one show that I _really_ hope will be as good as it seems like
 it could be and the rest coming in solidly average. I'm in for a lot of content
 this season.
 
-![Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen]({filename}/images/anime/2016/winter/gate2.jpg "Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen"){:
-.center} ![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){:
-.studio}
+![Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen]({filename}/images/anime/2016/winter/gate2.jpg "Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen"){:.center}
+![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){:.studio}
 
 ### [Gate: Jieitai Kanochi nite, Kaku Tatakaeri - Enryuu-hen](https://hummingbird.me/anime/gate-jieitai-kanochi-nite-kaku-tatakaeri-enryuu-hen)
 
@@ -31,9 +30,8 @@ avoid the season ending cliffhanger). My impression of the first cour was _meh_
 but it was interesting enough that I'm curious if we'll get any more depth in
 the characters.
 
-![Ansatsu Kyoushitsu (TV) 2nd Season]({filename}/images/anime/2016/winter/assissantion2.jpg "Ansatsu Kyoushitsu (TV) 2nd Season"){:
-.center} ![Lerche]({filename}/images/anime/studios/lerche.png "Lerche"){:
-.studio}
+![Ansatsu Kyoushitsu (TV) 2nd Season]({filename}/images/anime/2016/winter/assissantion2.jpg "Ansatsu Kyoushitsu (TV) 2nd Season"){:.center}
+![Lerche]({filename}/images/anime/studios/lerche.png "Lerche"){:.studio}
 
 ### [Ansatsu Kyoushitsu (TV) 2nd Season](https://hummingbird.me/anime/ansatsu-kyoushitsu-tv-2)
 
@@ -43,9 +41,8 @@ have? I may let this one marinate for 12 episodes or so to make sure it's living
 up to the promise of the first season -- specifically does it actually go into
 the backstory of our main antagonist.
 
-![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){:
-.center} ![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){:
-.studio}
+![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){:.center}
+![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){:.studio}
 
 ### [Boku dake ga Inai Machi](https://hummingbird.me/anime/boku-dake-ga-inai-machi)
 
@@ -56,8 +53,8 @@ episode 2 I was committed. What a fantastic opening to a show. I really,
 _really_ hope A-1 doesn't do something to screw this one up, because I think it
 could hands down be the best show of the season.
 
-![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){:
-.center} ![Kyoto]({filename}/images/anime/studios/kyoto.png "Kyoto"){: .studio}
+![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){:.center}
+![Kyoto]({filename}/images/anime/studios/kyoto.png "Kyoto"){: .studio}
 
 ### [Musaigen no Phantom World](https://hummingbird.me/anime/musaigen-no-phantom-world)
 
@@ -71,9 +68,8 @@ By episode 2, we are still just being introduced to the mechanics of the world.
 I'm hoping the characters take a front seat soon, or this may end up just being
 a _meh_ show.
 
-![Hai to Gensou no Grimgar]({filename}/images/anime/2016/winter/haitogensounogrimgar.jpg "Hai to Gensou no Grimgar"){:
-.center} ![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){:
-.studio}
+![Hai to Gensou no Grimgar]({filename}/images/anime/2016/winter/haitogensounogrimgar.jpg "Hai to Gensou no Grimgar"){:.center}
+![A-1]({filename}/images/anime/studios/a1.png "A-1 Pictures"){:.studio}
 
 ### [Hai to Gensou no Grimgar](https://hummingbird.me/anime/hai-to-gensou-no-grimgar)
 
@@ -86,8 +82,8 @@ final note on episode 2 -- taking almost a full 5 minutes of dialog-less
 animation with a fantastic song after the killing of the goblin was a gutsy call
 and in my mind paid off in spades.
 
-![Akagami no Shirayuki-hime 2nd Season]({filename}/images/anime/2016/winter/snow_white2.jpg "Akagami no Shirayuki-hime 2nd Season"){:
-.center} ![Bones]({filename}/images/anime/studios/bones.png "Bones"){: .studio}
+![Akagami no Shirayuki-hime 2nd Season]({filename}/images/anime/2016/winter/snow_white2.jpg "Akagami no Shirayuki-hime 2nd Season"){:.center}
+![Bones]({filename}/images/anime/studios/bones.png "Bones"){: .studio}
 
 ### [Akagami no Shirayuki-hime 2nd Season](https://hummingbird.me/anime/akagami-no-shirayuki-hime-2)
 
@@ -98,8 +94,8 @@ we have a bunch of _because plot_ happenings to separate our main characters,
 and they are _hinting_ at a love triangle, which I will not stand for if they go
 down that route.
 
-![Ao no Kanata no Four Rhythm]({filename}/images/anime/2016/winter/aonokanatanofourrhythmv2.jpg "Ao no Kanata no Four Rhythm"){:
-.center} ![Gonzo]({filename}/images/anime/studios/gonzo.png "Gonzo"){: .studio}
+![Ao no Kanata no Four Rhythm]({filename}/images/anime/2016/winter/aonokanatanofourrhythmv2.jpg "Ao no Kanata no Four Rhythm"){:.center}
+![Gonzo]({filename}/images/anime/studios/gonzo.png "Gonzo"){: .studio}
 
 ### [Ao no Kanata no Four Rhythm](https://hummingbird.me/anime/ao-no-kanata-no-four-rhythm)
 
@@ -111,10 +107,8 @@ Ummmm... Ok.
 This show hasn't lost me yet, but I might be quick to pull the dropped trigger
 on this one.
 
-![Dagashi Kashi]({filename}/images/anime/2016/winter/dagashikashi_main.jpg "Dagashi Kashi"){:
-.center}
-![Pony Canyon]({filename}/images/anime/studios/pony_canyon.png "Pony Canyon"){:
-.studio}
+![Dagashi Kashi]({filename}/images/anime/2016/winter/dagashikashi_main.jpg "Dagashi Kashi"){:.center}
+![Pony Canyon]({filename}/images/anime/studios/pony_canyon.png "Pony Canyon"){:.studio}
 
 ### [Dagashi Kashi](https://hummingbird.me/anime/dagashi-kashi)
 
@@ -122,9 +116,8 @@ _Wierd_ doesn't begin to cover this show. I'm sort of assuming dagashi is a
 Japanese equivalent of Little Debbie Snacks, just with more flavor variety. I'm
 not totally sold on this one yet, but the humor seems decent.
 
-![Haruchika: Haruta to Chika wa Seishun Suru]({filename}/images/anime/2016/winter/haruchika.jpg "Haruchika: Haruta to Chika wa Seishun Suru"){:
-.center} ![PA Works]({filename}/images/anime/studios/pa_works.png "PA Works"){:
-.studio}
+![Haruchika: Haruta to Chika wa Seishun Suru]({filename}/images/anime/2016/winter/haruchika.jpg "Haruchika: Haruta to Chika wa Seishun Suru"){:.center}
+![PA Works]({filename}/images/anime/studios/pa_works.png "PA Works"){:.studio}
 
 ### [Haruchika: Haruta to Chika wa Seishun Suru](https://hummingbird.me/anime/haruchika-haruta-to-chika-wa-seishun-suru)
 
@@ -135,9 +128,8 @@ For some reason the level of animation doesn't meet the expectations I usually
 have for PA Works shows. I wonder if they will stick with a "mystery of the
 week" style or a longer mystery arc.
 
-![Prince of Stride: Alternative]({filename}/images/anime/2016/winter/princeofstridealternative.jpg "Prince of Stride: Alternative"){:
-.center} ![Madhouse]({filename}/images/anime/studios/madhouse.png "Madhouse"){:
-.studio}
+![Prince of Stride: Alternative]({filename}/images/anime/2016/winter/princeofstridealternative.jpg "Prince of Stride: Alternative"){:.center}
+![Madhouse]({filename}/images/anime/studios/madhouse.png "Madhouse"){:.studio}
 
 ### [Prince of Stride: Alternative](https://hummingbird.me/anime/prince-of-stride-alternative)
 
@@ -150,10 +142,8 @@ think I would have even have tried it. I think this will have quite a bit of the
 hype necessary in a sport anime without going into the shounen super power
 territory. Let's see how this one plays out.
 
-![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){:
-.center}
-![Deen]({filename}/images/anime/studios/studio_deen.png "Studio DEEN"){:
-.studio}
+![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){:.center}
+![Deen]({filename}/images/anime/studios/studio_deen.png "Studio DEEN"){:.studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo!](https://hummingbird.me/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 
@@ -168,8 +158,7 @@ Dungeon](https://hummingbird.me/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigat
 As long as the show never takes itself too seriously, I'll probably keep it in
 the loop.
 
-![Shoujo-tachi wa Kouya wo Mezasu]({filename}/images/anime/2016/winter/shoujotachiwakouyawomezasu.jpg "Shoujo-tachi wa Kouya wo Mezasu"){:
-.center}
+![Shoujo-tachi wa Kouya wo Mezasu]({filename}/images/anime/2016/winter/shoujotachiwakouyawomezasu.jpg "Shoujo-tachi wa Kouya wo Mezasu"){:.center}
 
 ### [Shoujo-tachi wa Kouya wo Mezasu](https://hummingbird.me/anime/shoujo-tachi-wa-kouya-wo-mezasu)
 
@@ -178,9 +167,8 @@ here. Animation is OK and the characters while mostly just filling stereotypical
 roles have enough weight that I think I'll stay tuned for the first few episodes
 to see what becomes of them.
 
-![Shouwa Genroku Rakugo Shinjuu]({filename}/images/anime/2016/winter/rakugo.jpg "Shouwa Genroku Rakugo Shinjuu"){:
-.center} ![Deen]({filename}/images/anime/studios/studio_deen.png "Deen"){:
-.studio}
+![Shouwa Genroku Rakugo Shinjuu]({filename}/images/anime/2016/winter/rakugo.jpg "Shouwa Genroku Rakugo Shinjuu"){:.center}
+![Deen]({filename}/images/anime/studios/studio_deen.png "Deen"){:.studio}
 
 ### [Shouwa Genroku Rakugo Shinjuu](https://hummingbird.me/anime/shouwa-genroku-rakugo-shinjuu-tv)
 
@@ -190,8 +178,7 @@ the full stories. The comedic ones feel like a one-man Abbot & Costello routine
 and this is definitely a show where I wish I could understand Japanese because I
 feel it would be even better.
 
-![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){:
-.center}
+![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){:.center}
 
 <div class="studio">Studio 3Hz, Orange</div>
 
@@ -208,8 +195,7 @@ one.
 
 <div class="divider-title">Shorts</div>
 
-![Ooyasan wa Shishunki!]({filename}/images/anime/2016/winter/ooyasanwashishunki.jpg "Ooyasan wa Shishunki!"){:
-.center}
+![Ooyasan wa Shishunki!]({filename}/images/anime/2016/winter/ooyasanwashishunki.jpg "Ooyasan wa Shishunki!"){:.center}
 
 <div class="studio">Genco, Seven Arcs</div>
 
@@ -219,8 +205,7 @@ Two minute episodes? I end up giving most short series a chance because there is
 almost no time investment on my part, but two minute episodes are cutting it a
 little close to the bone. Looks cute and the humor might make it worth while.
 
-![Mahou Shoujo Nante Mou Ii Desukara.]({filename}/images/anime/2016/winter/Mahou-Shoujo-Nante-Mou-Ii-Desukara.jpg "Mahou Shoujo Nante Mou Ii Desukara."){:
-.center}
+![Mahou Shoujo Nante Mou Ii Desukara.]({filename}/images/anime/2016/winter/Mahou-Shoujo-Nante-Mou-Ii-Desukara.jpg "Mahou Shoujo Nante Mou Ii Desukara."){:.center}
 
 <div class="studio">Pine Jam, FMF</div>
 

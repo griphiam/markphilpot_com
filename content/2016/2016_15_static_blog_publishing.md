@@ -54,8 +54,7 @@ Go to the IAM screen and create a new user. You will want to record your
 `AWS_ACCESS_KEY_ID` and `AWS_SECRET_KEY` values for this user as we will need
 them later.
 
-![IAM Permissions]({filename}/images/2016/blog_publish_workflow/iam_permissions.jpg){:
-.center}
+![IAM Permissions]({filename}/images/2016/blog_publish_workflow/iam_permissions.jpg){:.center}
 
 In the process of creating the role, edit the permissions for the role and give
 it full access to S3 (`AmazonS3FullAccess`). This will allow this role to write
@@ -68,15 +67,13 @@ that the S3 key space is global. Normally if your domain was `foobar.com` then
 you should be able to create a bucket `foobar.com` -- On the off chance this key
 is taken, just pick another unique value.
 
-![S3 Website]({filename}/images/2016/blog_publish_workflow/s3_website.jpg){:
-.center}
+![S3 Website]({filename}/images/2016/blog_publish_workflow/s3_website.jpg){:.center}
 
 In the `Static Website Hosting` section, select `Enable website hosting` (you
 may want to set the `Index Document` field to index.html but that depends on
 your blogging engine).
 
-![S3 Bucket Policy]({filename}/images/2016/blog_publish_workflow/s3_edit_policy.jpg){:
-.center}
+![S3 Bucket Policy]({filename}/images/2016/blog_publish_workflow/s3_edit_policy.jpg){:.center}
 
 In the `Permissions` section, click `Edit bucket policy` button and paste in the
 following policy (modify `$DOMAIN` to your domain)
@@ -161,8 +158,7 @@ For the most part you should be able to accept most of the defaults. For `Origin
 Domain Name` you want to select your S3 bucket. Put your domain in for the
 `Alternate Domain Names` field.
 
-![Cloudfront Origin Settings]({filename}/images/2016/blog_publish_workflow/cloudfront_origin.jpg){:
-.center}
+![Cloudfront Origin Settings]({filename}/images/2016/blog_publish_workflow/cloudfront_origin.jpg){:.center}
 
 Make sure the `Origin Protocol Policy` is set to `HTTP Only` (S3's website
 hosting mode only serves the files with http.

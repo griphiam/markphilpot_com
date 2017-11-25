@@ -23,8 +23,7 @@ more than I originally thought it would be. I caught up with _Little Witch
 Academia_ while on vacation, but I really wish it wasn't dumped on us _months_
 after it's release.
 
-![Re:Creators]({filename}/images/anime/2017/summer/cards/recreators.jpg "Re:Creators"){:
-.ew1920}
+![Re:Creators]({filename}/images/anime/2017/summer/cards/recreators.jpg "Re:Creators"){:.ew1920}
 
 ### [Re:Creators](https://anilist.co/anime/97980)
 
@@ -38,8 +37,7 @@ would expect no less from [Hiroyuki
 Sawano](https://anilist.co/staff/103509/HiroyukiSawano)) and the animation is
 solid overall.
 
-![Katsugeki Touken Ranbu]({filename}/images/anime/2017/summer/cards/ranbu.jpg "Katsugeki Touken Ranbu"){:
-.ew1920}
+![Katsugeki Touken Ranbu]({filename}/images/anime/2017/summer/cards/ranbu.jpg "Katsugeki Touken Ranbu"){:.ew1920}
 
 ### [Katsugeki Touken Ranbu](https://anilist.co/anime/21742)
 
@@ -48,8 +46,7 @@ left drifting through the first few episodes essentially only enjoying the
 stylized animation and fight scene choreography. Maybe I'll come back to this
 one at some point when I have an urge to watch some ufotable fight scenes.
 
-![Princess Principal]({filename}/images/anime/2017/summer/cards/princess.jpg "Princess Principal"){:
-.ew1920}
+![Princess Principal]({filename}/images/anime/2017/summer/cards/princess.jpg "Princess Principal"){:.ew1920}
 
 ### [Princess Principal](https://anilist.co/anime/98505)
 
@@ -64,8 +61,7 @@ of the characters had their moment to shine and while I had guessed early on at
 the <span class="spoiler">_Prince and the Pauper_ angle</span>, I thought the
 ultimate reveal was very well done indeed.
 
-![New Game!!]({filename}/images/anime/2017/summer/cards/new_game.jpg "New Game!!"){:
-.ew1920}
+![New Game!!]({filename}/images/anime/2017/summer/cards/new_game.jpg "New Game!!"){:.ew1920}
 
 ### [New Game!!](https://anilist.co/anime/98292)
 
@@ -79,8 +75,7 @@ Despite having more fan service that it needed, the second season was genuinely
 better than the first season. I immediately jumped into the manga to get more
 and I have my fingers crossed a third season is greenlit soon.
 
-![Gamers!]({filename}/images/anime/2017/summer/cards/gamers.jpg "Gamers!"){:
-.ew1920}
+![Gamers!]({filename}/images/anime/2017/summer/cards/gamers.jpg "Gamers!"){:.ew1920}
 
 ### [Gamers!](https://anilist.co/anime/97766)
 
@@ -94,8 +89,7 @@ they were going get). The show needed to get out from under its network of
 that just wasn't going to fit into the comedy framework they had built for
 themselves.
 
-![Kakegurui]({filename}/images/anime/2017/summer/cards/kakegurui.jpg "Kakegurui"){:
-.ew1920}
+![Kakegurui]({filename}/images/anime/2017/summer/cards/kakegurui.jpg "Kakegurui"){:.ew1920}
 
 ### [Kakegurui](https://anilist.co/anime/98314)
 
@@ -105,8 +99,7 @@ matter. There is a healthy amount of "morons getting their comeuppance" which is
 quite satisfying in it's own right... just as long as you weren't going into it
 expecting more.
 
-![Tsurezure Children]({filename}/images/anime/2017/summer/cards/tsuredure.jpg "Tsurezure Children"){:
-.ew1920}
+![Tsurezure Children]({filename}/images/anime/2017/summer/cards/tsuredure.jpg "Tsurezure Children"){:.ew1920}
 
 ### [Tsurezure Children](https://anilist.co/anime/98291)
 
@@ -115,8 +108,7 @@ for the stories, all of which are honest, awkward, and real. I'm going back
 through the manga release (which is assembled in the correct order) and I hope
 the mangaka has more stories to tell with these characters.
 
-![Aho-Girl]({filename}/images/anime/2017/summer/cards/aho.jpg "Aho-Girl"){:
-.ew1920}
+![Aho-Girl]({filename}/images/anime/2017/summer/cards/aho.jpg "Aho-Girl"){:.ew1920}
 
 ### [Aho-Girl](https://anilist.co/anime/98251)
 
@@ -126,8 +118,7 @@ This felt like everyone -- writers, animators and voice actors -- were having a
 blast making this. Everything is ridiculous. The spoofs of other anime are
 fantastic (love the OPM parody) and the voice acting was brilliant.
 
-![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]({filename}/images/anime/2017/summer/cards/youkoso.jpg "Youkoso"){:
-.ew1920}
+![Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e]({filename}/images/anime/2017/summer/cards/youkoso.jpg "Youkoso"){:.ew1920}
 
 ### [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://anilist.co/anime/98659/YoukosoJitsuryokuShijouShuginoKyoushitsue)
 
@@ -140,8 +131,7 @@ fleshed out.
 
 I would definitely watch a second season if given the opportunity.
 
-![Made in Abyss]({filename}/images/anime/2017/summer/cards/abyss.jpg "Made in Abyss"){:
-.ew1920}
+![Made in Abyss]({filename}/images/anime/2017/summer/cards/abyss.jpg "Made in Abyss"){:.ew1920}
 
 ### [Made in Abyss](https://anilist.co/anime/97986/MadeinAbyss)
 

@@ -19,9 +19,8 @@ I've also started reading manga on a regular basis. I have a bunch of series I'm
 enjoying (some from shows I've watched and some new ones) and as a result my
 evening time is spread even more thinly.
 
-![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){:
-.center} ![A-1]({filename}/images/anime/studios/half/a1.png "A-1 Pictures"){:
-.studio}
+![Boku dake ga Inai Machi]({filename}/images/anime/2016/winter/erased.jpg "Boku dake ga Inai Machi"){:.center}
+![A-1]({filename}/images/anime/studios/half/a1.png "A-1 Pictures"){:.studio}
 
 ### [Boku dake ga Inai Machi](https://hummingbird.me/anime/boku-dake-ga-inai-machi)
 
@@ -37,10 +36,8 @@ From what I've heard, the manga might be even better since there was quite a few
 threads dropped in order to fit into a single cour. I'm a few chapters in at the
 moment and definitely think that consensus might be right.
 
-![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){:
-.center}
-![Deen]({filename}/images/anime/studios/half/studio_deen.png "Studio DEEN"){:
-.studio}
+![Kono Subarashii Sekai ni Shukufuku wo!]({filename}/images/anime/2016/winter/kono_subarashii.jpg "Kono Subarashii Sekai ni Shukufuku wo!"){:.center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png "Studio DEEN"){:.studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo!](https://hummingbird.me/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 
@@ -48,8 +45,7 @@ For me this was the surprise of the season. The humor was consistently good
 throughout and even the art style while jarring at first meshed well with the
 humor. The entire production was just _fun_!
 
-![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){:
-.center}
+![Dimension W]({filename}/images/anime/2016/winter/dimensionw.jpg "Dimension W"){:.center}
 
 <div class="studio">Studio 3Hz, Orange</div>
 
@@ -62,9 +58,8 @@ across as damming, but the sum of the pieces resulted in something fairly
 entertaining. If you just want a decent sci-fi show to pass the time, this one
 isn't too bad.
 
-![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){:
-.center} ![Kyoto]({filename}/images/anime/studios/half/kyoto.png "Kyoto"){:
-.studio}
+![Musaigen no Phantom World]({filename}/images/anime/2016/winter/musaigennophantomworld.jpg "Musaigen no Phantom World"){:.center}
+![Kyoto]({filename}/images/anime/studios/half/kyoto.png "Kyoto"){:.studio}
 
 ### [Musaigen no Phantom World](https://hummingbird.me/anime/musaigen-no-phantom-world)
 
@@ -73,9 +68,8 @@ content with standalone surface level character pieces. I mean, it's KyotoAni so
 it's gorgeous to look at, but there was no depth aside from the art. _sigh_
 Chalk this one up to missed opportunity.
 
-![Hai to Gensou no Grimgar]({filename}/images/anime/2016/winter/haitogensounogrimgar.jpg "Hai to Gensou no Grimgar"){:
-.center} ![A-1]({filename}/images/anime/studios/half/a1.png "A-1 Pictures"){:
-.studio}
+![Hai to Gensou no Grimgar]({filename}/images/anime/2016/winter/haitogensounogrimgar.jpg "Hai to Gensou no Grimgar"){:.center}
+![A-1]({filename}/images/anime/studios/half/a1.png "A-1 Pictures"){:.studio}
 
 ### [Hai to Gensou no Grimgar](https://hummingbird.me/anime/hai-to-gensou-no-grimgar)
 
@@ -87,9 +81,8 @@ great, but even 5 episodes in, they haven't cracked open any of the characters.
 
 I'm hoping they do soon...
 
-![Ao no Kanata no Four Rhythm]({filename}/images/anime/2016/winter/aonokanatanofourrhythmv2.jpg "Ao no Kanata no Four Rhythm"){:
-.center} ![Gonzo]({filename}/images/anime/studios/half/gonzo.png "Gonzo"){:
-.studio}
+![Ao no Kanata no Four Rhythm]({filename}/images/anime/2016/winter/aonokanatanofourrhythmv2.jpg "Ao no Kanata no Four Rhythm"){:.center}
+![Gonzo]({filename}/images/anime/studios/half/gonzo.png "Gonzo"){:.studio}
 
 ### [Ao no Kanata no Four Rhythm](https://hummingbird.me/anime/ao-no-kanata-no-four-rhythm)
 
@@ -97,10 +90,8 @@ I got a few episodes in before putting it on hold. I think I would have been
 more interested if it had more "sports anime" influences. I don't think it's a
 bad show, just meh.
 
-![Dagashi Kashi]({filename}/images/anime/2016/winter/dagashikashi_main.jpg "Dagashi Kashi"){:
-.center}
-![Pony Canyon]({filename}/images/anime/studios/half/pony_canyon.png "Pony Canyon"){:
-.studio}
+![Dagashi Kashi]({filename}/images/anime/2016/winter/dagashikashi_main.jpg "Dagashi Kashi"){:.center}
+![Pony Canyon]({filename}/images/anime/studios/half/pony_canyon.png "Pony Canyon"){:.studio}
 
 ### [Dagashi Kashi](https://hummingbird.me/anime/dagashi-kashi)
 
@@ -108,28 +99,23 @@ Couldn't do it -- mostly because I can't relate to the food he show revolves
 around. Ultimately there might be a story hidden underneath but I didn't have
 the patience to find out.
 
-![Haruchika: Haruta to Chika wa Seishun Suru]({filename}/images/anime/2016/winter/haruchika.jpg "Haruchika: Haruta to Chika wa Seishun Suru"){:
-.center}
-![PA Works]({filename}/images/anime/studios/half/pa_works.png "PA Works"){:
-.studio}
+![Haruchika: Haruta to Chika wa Seishun Suru]({filename}/images/anime/2016/winter/haruchika.jpg "Haruchika: Haruta to Chika wa Seishun Suru"){:.center}
+![PA Works]({filename}/images/anime/studios/half/pa_works.png "PA Works"){:.studio}
 
 ### [Haruchika: Haruta to Chika wa Seishun Suru](https://hummingbird.me/anime/haruchika-haruta-to-chika-wa-seishun-suru)
 
 This one got moved to the held column pretty quickly because other shows were
 more interesting.
 
-![Prince of Stride: Alternative]({filename}/images/anime/2016/winter/princeofstridealternative.jpg "Prince of Stride: Alternative"){:
-.center}
-![Madhouse]({filename}/images/anime/studios/half/madhouse.png "Madhouse"){:
-.studio}
+![Prince of Stride: Alternative]({filename}/images/anime/2016/winter/princeofstridealternative.jpg "Prince of Stride: Alternative"){:.center}
+![Madhouse]({filename}/images/anime/studios/half/madhouse.png "Madhouse"){:.studio}
 
 ### [Prince of Stride: Alternative](https://hummingbird.me/anime/prince-of-stride-alternative)
 
 I'm fairly sure I'm going to end up dropping this one. Just not enough there to
 keep my interest.
 
-![Shoujo-tachi wa Kouya wo Mezasu]({filename}/images/anime/2016/winter/shoujotachiwakouyawomezasu.jpg "Shoujo-tachi wa Kouya wo Mezasu"){:
-.center}
+![Shoujo-tachi wa Kouya wo Mezasu]({filename}/images/anime/2016/winter/shoujotachiwakouyawomezasu.jpg "Shoujo-tachi wa Kouya wo Mezasu"){:.center}
 
 ### [Shoujo-tachi wa Kouya wo Mezasu](https://hummingbird.me/anime/shoujo-tachi-wa-kouya-wo-mezasu)
 
@@ -137,9 +123,8 @@ I'm half way through this one and will probably end up just an average show. A
 lot will depend on how much they the characters versus just the process of
 making this game, which I only find mildly interesting.
 
-![Shouwa Genroku Rakugo Shinjuu]({filename}/images/anime/2016/winter/rakugo.jpg "Shouwa Genroku Rakugo Shinjuu"){:
-.center} ![Deen]({filename}/images/anime/studios/half/studio_deen.png "Deen"){:
-.studio}
+![Shouwa Genroku Rakugo Shinjuu]({filename}/images/anime/2016/winter/rakugo.jpg "Shouwa Genroku Rakugo Shinjuu"){:.center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png "Deen"){:.studio}
 
 ### [Shouwa Genroku Rakugo Shinjuu](https://hummingbird.me/anime/shouwa-genroku-rakugo-shinjuu-tv)
 
@@ -157,8 +142,7 @@ of pace from the rest of the season.
 
 <div class="divider-title">Shorts</div>
 
-![Ooyasan wa Shishunki!]({filename}/images/anime/2016/winter/ooyasanwashishunki.jpg "Ooyasan wa Shishunki!"){:
-.center}
+![Ooyasan wa Shishunki!]({filename}/images/anime/2016/winter/ooyasanwashishunki.jpg "Ooyasan wa Shishunki!"){:.center}
 
 <div class="studio">Genco, Seven Arcs</div>
 
@@ -168,8 +152,7 @@ Quirky and fun, but nothing to write home about. The humor is actually decent
 and the 2 minute run time means you can binge the season in less time than a
 single normal show.
 
-![Mahou Shoujo Nante Mou Ii Desukara.]({filename}/images/anime/2016/winter/Mahou-Shoujo-Nante-Mou-Ii-Desukara.jpg "Mahou Shoujo Nante Mou Ii Desukara."){:
-.center}
+![Mahou Shoujo Nante Mou Ii Desukara.]({filename}/images/anime/2016/winter/Mahou-Shoujo-Nante-Mou-Ii-Desukara.jpg "Mahou Shoujo Nante Mou Ii Desukara."){:.center}
 
 <div class="studio">Pine Jam, FMF</div>
 

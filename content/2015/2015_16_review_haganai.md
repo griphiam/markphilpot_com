@@ -7,10 +7,8 @@ slug: review_boku_wa_tomodachi_ga_sukunai
 summary: Review of Boku wa Tomodachi ga Sukunai
 ---
 
-![Boku wa Tomodachi ga Sukunai]({filename}/images/2015/haganai/pv.jpg "Boku wa Tomodachi ga Sukunai"){:
-.center}
-![Anime International Company]({filename}/images/anime/studios/aic.png){:
-.studio}
+![Boku wa Tomodachi ga Sukunai]({filename}/images/2015/haganai/pv.jpg "Boku wa Tomodachi ga Sukunai"){:.center}
+![Anime International Company]({filename}/images/anime/studios/aic.png){:.studio}
 
 [Boku wa Tomodachi ga
 Sukunai](https://hummingbird.me/anime/boku-wa-tomodachi-ga-sukunai) _Haganai_

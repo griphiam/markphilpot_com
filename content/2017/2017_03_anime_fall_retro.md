@@ -20,9 +20,8 @@ Number](http://anilist.co/anime/21627/giarlishnumber), and [Fune wo
 Amu](http://anilist.co/anime/21703/FunewoAmu). The rest are a toss up between
 hold and dropped.
 
-![Hibike! Euphonium 2]({filename}/images/anime/2016/fall/Cog7g4TUAAEm8Xv.jpg "Hibike! Euphonium 2"){:
-.center} ![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){:
-.studio}
+![Hibike! Euphonium 2]({filename}/images/anime/2016/fall/Cog7g4TUAAEm8Xv.jpg "Hibike! Euphonium 2"){:.center}
+![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){:.studio}
 
 ### [Hibike! Euphonium 2](https://hummingbird.me/anime/hibike-euphonium-2)
 
@@ -50,8 +49,7 @@ wrapped at the same point in the story. The ending is satisfying (if not tear
 inducing). I will have to rewatch this show multiple times in the years to come
 -- I will miss the characters too much to stay away.
 
-![Flip Flappers]({filename}/images/anime/2016/fall/tumblr_ocvg5iO9Vl1sqqtwzo1_1280.jpg "Flip Flappers"){:
-.center}
+![Flip Flappers]({filename}/images/anime/2016/fall/tumblr_ocvg5iO9Vl1sqqtwzo1_1280.jpg "Flip Flappers"){:.center}
 
 <div class="studio">Studio 3Hz, Infinite</div>
 

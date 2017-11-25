@@ -70,9 +70,8 @@ be quite the steal.
 
 Anyway, let's dive in...
 
-![Kono Subarashii Sekai ni Shukufuku wo! 2]({filename}/images/anime/2017/winter/21699-HIHYbtV0djlW.jpg "Kono Subarashii Sekai ni Shukufuku wo! 2"){:
-.center} ![Deen]({filename}/images/anime/studios/half/studio_deen.png){:
-.studio}
+![Kono Subarashii Sekai ni Shukufuku wo! 2]({filename}/images/anime/2017/winter/21699-HIHYbtV0djlW.jpg "Kono Subarashii Sekai ni Shukufuku wo! 2"){:.center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo! 2](https://anilist.co/anime/21699)
 
@@ -91,9 +90,8 @@ left with more concerns than before -- usually not a good sign.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world){:
 .link-nb}
 
-![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){:
-.center} ![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:
-.studio}
+![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){:.center}
+![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:.studio}
 
 ### [Masamune-kun no Revenge](https://anilist.co/anime/21857)
 
@@ -106,8 +104,8 @@ characters slightly more than one dimensional. Fingers crossed?
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/masamune-kuns-revenge){:
 .link-nb}
 
-![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){:
-.center} ![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
+![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){:.center}
+![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
 
 ### [Little Witch Academia (TV)](https://anilist.co/anime/21858)
 
@@ -119,8 +117,8 @@ I'm not saying Crunchyroll, Funimation and the rest are angels in this regard,
 but they are definitely more responsive due to the fact that anime is their main
 business.
 
-![Kuzu no Honkai]({filename}/images/anime/2017/winter/21701-17ZLfVknEPAV.jpg "Kuzu no Honkai"){:
-.center} ![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
+![Kuzu no Honkai]({filename}/images/anime/2017/winter/21701-17ZLfVknEPAV.jpg "Kuzu no Honkai"){:.center}
+![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Kuzu no Honkai](https://anilist.co/anime/21701)
 
@@ -136,8 +134,7 @@ resolutions for a plot started this way. Like
 [orange](http://anilist.co/anime/21647/orange) last year, I may have to stay
 away until I figure out what kind of ending it has for my own emotional sanity.
 
-![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){:
-.center}
+![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){:.center}
 
 <div class="studio">NUT</div>
 
@@ -155,9 +152,8 @@ be up for this one.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/saga-of-tanya-the-evil){:
 .link-nb}
 
-![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){:
-.center} ![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:
-.studio}
+![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){:.center}
+![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:.studio}
 
 ### [Fuuka](https://anilist.co/anime/21887)
 
@@ -171,9 +167,8 @@ abundance of tropes.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/fuuka){:
 .link-nb}
 
-![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){:
-.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.png){:
-.studio}
+![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){:.center}
+![ufotable]({filename}/images/anime/studios/half/ufotable.png){:.studio}
 
 ### [Tales of Zestiria the X 2](https://anilist.co/anime/97645)
 
@@ -191,9 +186,8 @@ voice for Alisha in the _Tales_ dub, so I've added that to my queue. Depending
 on the strength of that dub, I might continue this series on that side of the
 divide.
 
-![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){:
-.center} ![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:
-.studio}
+![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){:.center}
+![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
 ### [ACCA: 13-ku Kansatsu-ka](https://anilist.co/anime/21823)
 
@@ -206,9 +200,8 @@ particular character design seems to me like an absolute recipe for disaster
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/acca-13-territory-inspection-dept){:
 .link-nb}
 
-![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){:
-.center} ![Deen]({filename}/images/anime/studios/half/studio_deen.png){:
-.studio}
+![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){:.center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
 
 ### [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://anilist.co/anime/21733)
 
@@ -220,8 +213,7 @@ _Yotaro_.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/showa-genroku-rakugo-shinju){:
 .link-nb}
 
-![Seiren]({filename}/images/anime/2017/winter/97730-Hg72XZPqC2VO.jpg "Seiren"){:
-.center}
+![Seiren]({filename}/images/anime/2017/winter/97730-Hg72XZPqC2VO.jpg "Seiren"){:.center}
 
 <div class="studio">Studio Gokumi</div>
 
@@ -235,8 +227,8 @@ heroine's arc rather than waiting week to week.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/seiren){:
 .link-nb}
 
-![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){:
-.center} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
+![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){:.center}
+![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Demi-chan wa Kataritai](https://anilist.co/anime/97592)
 
@@ -250,8 +242,8 @@ can pull this off.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/interviews-with-monster-girls){:
 .link-nb}
 
-![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){:
-.center} ![Kyoto]({filename}/images/anime/studios/half/kyoto.png){: .studio}
+![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){:.center}
+![Kyoto]({filename}/images/anime/studios/half/kyoto.png){: .studio}
 
 ### [Kobayashi-san Chi no Maidragon](https://anilist.co/anime/21776)
 
@@ -261,9 +253,8 @@ body of a full length series. Episodic hijinks, here we come.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/miss-kobayashis-dragon-maid){:
 .link-nb}
 
-![Gabriel DropOut]({filename}/images/anime/2017/winter/21878-G5sVkEbSgnfu.jpg "Gabriel DropOut"){:
-.center} ![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){:
-.studio}
+![Gabriel DropOut]({filename}/images/anime/2017/winter/21878-G5sVkEbSgnfu.jpg "Gabriel DropOut"){:.center}
+![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){:.studio}
 
 ### [Gabriel DropOut](https://anilist.co/anime/21878)
 

@@ -10,9 +10,8 @@ Hero: "background-image: url(/images/anime/2017/winter/hero.jpg);"
 
 [TOC]
 
-![Kono Subarashii Sekai ni Shukufuku wo! 2]({filename}/images/anime/2017/winter/21699-HIHYbtV0djlW.jpg "Kono Subarashii Sekai ni Shukufuku wo! 2"){:
-.center} ![Deen]({filename}/images/anime/studios/half/studio_deen.png){:
-.studio}
+![Kono Subarashii Sekai ni Shukufuku wo! 2]({filename}/images/anime/2017/winter/21699-HIHYbtV0djlW.jpg "Kono Subarashii Sekai ni Shukufuku wo! 2"){:.center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
 
 ### [Kono Subarashii Sekai ni Shukufuku wo! 2](https://anilist.co/anime/21699)
 
@@ -23,9 +22,8 @@ bottle and delivered quite a few hilariously epic moments. I was initially
 disappointed by Darkness' absence in the first few episodes, bit bottom line,
 this series is must watch material.
 
-![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){:
-.center} ![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:
-.studio}
+![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){:.center}
+![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:.studio}
 
 ### [Masamune-kun no Revenge](https://anilist.co/anime/21857)
 
@@ -37,16 +35,15 @@ beginning of the next episode). It wasn't panned by the critics which is why it
 earns hold status rather than an outright drop. I might try the dub of this one
 to see if the humor improves it at all.
 
-![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){:
-.center} ![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
+![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){:.center}
+![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
 
 ### [Little Witch Academia (TV)](https://anilist.co/anime/21858)
 
 Despite Netflix's abysmal treatment of this series, it is an absolute gem and I
 highly recommend diving into it as soon as you are able.
 
-![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){:
-.center}
+![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){:.center}
 
 <div class="studio">NUT</div>
 
@@ -66,9 +63,8 @@ One thing to keep in mind was this show was the first show done by the new
 studio. I'm eager to see what they will do for their second outing -- hopefully
 they can show that _Youjo Senki_ wasn't a fluke.
 
-![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){:
-.center} ![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:
-.studio}
+![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){:.center}
+![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:.studio}
 
 ### [Fuuka](https://anilist.co/anime/21887)
 
@@ -77,9 +73,8 @@ so I will probably get around to this (my only problem is I'm developing quite a
 _Hold_ backlog that I need to start being disciplined about making progress
 through).
 
-![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){:
-.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.png){:
-.studio}
+![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){:.center}
+![ufotable]({filename}/images/anime/studios/half/ufotable.png){:.studio}
 
 ### [Tales of Zestiria the X 2](https://anilist.co/anime/97645)
 
@@ -89,9 +84,8 @@ thoughts, but if you enjoyed the first cour, you'll be on the train for this
 one. It was enjoyable to have a pure fantasy adventure (that wasn't a "boy
 trapped in a fantasy").
 
-![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){:
-.center} ![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:
-.studio}
+![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){:.center}
+![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
 ### [ACCA: 13-ku Kansatsu-ka](https://anilist.co/anime/21823)
 
@@ -100,16 +94,14 @@ a huge mistake. Thanks to
 [JoJo](https://www.youtube.com/channel/UCe2DsKuv45QTTzDWwjvX4Jg) for sticking
 with it and making it clear:
 
-![Choose Poorly](https://img.memesuper.com/a5ab3d6ae536d26b4c58465745c6058d_you-chose-poorly-he-chose-poorly-meme_250-272.jpeg){:
-.center}
+![Choose Poorly](https://img.memesuper.com/a5ab3d6ae536d26b4c58465745c6058d_you-chose-poorly-he-chose-poorly-meme_250-272.jpeg){:.center}
 
 This show is a really, _really_ slow burn so make sure you give it to at least
 episode 3 or 4. It is easily one of the best shows of the season (and hands down
 the best [OP](https://www.youtube.com/watch?v=pITNm95Sd1k))
 
-![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){:
-.center} ![Deen]({filename}/images/anime/studios/half/studio_deen.png){:
-.studio}
+![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){:.center}
+![Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
 
 ### [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://anilist.co/anime/21733)
 
@@ -121,8 +113,8 @@ think this is one of the best (and underrated) animes of all time. The level of
 storytelling is on it's own plane of existence. Studio DEEN is doing yeoman's
 work with this one.
 
-![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){:
-.center} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
+![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){:.center}
+![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Demi-chan wa Kataritai](https://anilist.co/anime/97592)
 
@@ -135,8 +127,8 @@ and hope it will tell more stories about this engaging cast.
 
 Let me also conclude: If any character _needs_ a happy ending, it's Sakie Satou.
 
-![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){:
-.center} ![Kyoto]({filename}/images/anime/studios/half/kyoto.png){: .studio}
+![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){:.center}
+![Kyoto]({filename}/images/anime/studios/half/kyoto.png){: .studio}
 
 ### [Kobayashi-san Chi no Maidragon](https://anilist.co/anime/21776)
 

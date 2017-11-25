@@ -21,8 +21,7 @@ psychologically accept the smaller single-screen workspace. I know I have a
 highly modified development workflow when I use a laptop vs when I'm at my
 desk[/ref]
 
-![Two Monitor Setup]({filename}/images/two_vs_three/two_vs_three_1.png "Two Monitor Setup"){:
-.center}
+![Two Monitor Setup]({filename}/images/two_vs_three/two_vs_three_1.png "Two Monitor Setup"){:.center}
 
 There is however, a significant ergonomic disadvantage to the dual monitor
 setup: there is no screen directly in front of you. You are inevitably forced to
@@ -47,8 +46,7 @@ would take [Jeff Atwood's](https://twitter.com/codinghorror) advice and try out
 a [three monitor
 setup](http://blog.codinghorror.com/three-monitors-for-every-user/).
 
-![Three Monitor Setup]({filename}/images/two_vs_three/two_vs_three_2.png "Three Monitor Setup"){:
-.center}
+![Three Monitor Setup]({filename}/images/two_vs_three/two_vs_three_2.png "Three Monitor Setup"){:.center}
 
 It was a huge improvement! Having a center monitor as your primary workspace was
 a drastic improvement in ergonomics and the extra real estate was a great bonus.
@@ -61,8 +59,7 @@ increased distance to the two side monitors was noticeable. I then tried an
 integrated three monitor stand which allows the side monitors to be closer to me
 since they are attached to a single arced arm.
 
-![Three Monitor Setup]({filename}/images/two_vs_three/two_vs_three_3.png "Three Monitor Setup"){:
-.center}
+![Three Monitor Setup]({filename}/images/two_vs_three/two_vs_three_3.png "Three Monitor Setup"){:.center}
 
 The stand is very heavy and awkward to adjust. Due to the weight, the side
 monitors sag just a bit, but since they are on a riser it wasn't too noticeable.

@@ -7,8 +7,8 @@ slug: review_gakkou_gurashi
 summary: Review of Gakkou Gurashi!
 ---
 
-![Gakkou Gurashi!]({filename}/images/2015/gakkou_gurashi/gakkougurashi_pv.jpg){:
-.center} ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
+![Gakkou Gurashi!]({filename}/images/2015/gakkou_gurashi/gakkougurashi_pv.jpg){:.center}
+![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
 
 [Gakkou Gurashi!](https://hummingbird.me/anime/gakkou-gurashi) _School Live!_
 

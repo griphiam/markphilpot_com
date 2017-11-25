@@ -30,8 +30,7 @@ While I waited for the game to arrive, a demo was made available to try out a
 sliver of the story. It was just a 10 minute or so section from the middle of
 the story seemed to be letting you try out the basic game mechanics
 
-![The Longest Journey]({filename}/images/2017/tlj/tlj_title.jpg "The Longest Journey"){:
-.ew1920}
+![The Longest Journey]({filename}/images/2017/tlj/tlj_title.jpg "The Longest Journey"){:.ew1920}
 
 I'm not sure what I appreciate most: the world building, mythos, characters,
 dialog, OST... There is so much to like about this ambitious undertaking written
@@ -86,8 +85,7 @@ the game (along with a series of grants from the Norwegian Film Institute). Five
 episodes where announced and the first, _Book One: Reborn_ arrived in the fall
 of 2014.
 
-![Dreamfall Chapters]({filename}/images/2017/tlj/dreamfall_chapters.jpg "Dreamfall Chapters"){:
-.ew1920}
+![Dreamfall Chapters]({filename}/images/2017/tlj/dreamfall_chapters.jpg "Dreamfall Chapters"){:.ew1920}
 
 # the future of the Balance
 

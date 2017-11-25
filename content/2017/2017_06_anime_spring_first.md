@@ -17,8 +17,8 @@ _sigh_
 
 Note: some of the commentary was written after only the first few episodes...
 
-![Shingeki no Kyojin 2]({filename}/images/anime/2017/spring/20958-OvqJZf8GNno3.jpg "Shingeki no Kyojin 2"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/wit.png){: .studio}
+![Shingeki no Kyojin 2]({filename}/images/anime/2017/spring/20958-OvqJZf8GNno3.jpg "Shingeki no Kyojin 2"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/wit.png){: .studio}
 
 ### [Shingeki no Kyojin 2](https://anilist.co/anime/20958)
 
@@ -27,8 +27,8 @@ the first season, so I have quite a bit to catch up on before I begin to dive
 into this new season. I've only heard good things, so I'm eager to catch up as
 quickly as I can.
 
-![Boku no Hero Academia 2]({filename}/images/anime/2017/spring/21856-I9rVZElYPVUE.png "Boku no Hero Academia 2"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/bones.png){: .studio}
+![Boku no Hero Academia 2]({filename}/images/anime/2017/spring/21856-I9rVZElYPVUE.png "Boku no Hero Academia 2"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/bones.png){: .studio}
 
 ### [Boku no Hero Academia 2](https://anilist.co/anime/21856)
 
@@ -40,9 +40,8 @@ beginning of every episode. I wonder if most shonen series are done that way.
 
 _Tournament Arc!!_
 
-![Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria]({filename}/images/anime/2017/spring/21676-WsArzi2eHqZu.jpg "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){:
-.studio}
+![Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria]({filename}/images/anime/2017/spring/21676-WsArzi2eHqZu.jpg "Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
 ### [Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria](https://anilist.co/anime/21676)
 
@@ -51,8 +50,8 @@ character mage didn't grab my attention and disappointed rumblings have caused
 this to move into the Hold List. There were too many other good shows this
 season to keep up with this one in real time.
 
-![GRANBLUE FANTASY The Animation]({filename}/images/anime/2017/spring/21361-8gQWpTE5AJpz.jpg "GRANBLUE FANTASY The Animation"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
+![GRANBLUE FANTASY The Animation]({filename}/images/anime/2017/spring/21361-8gQWpTE5AJpz.jpg "GRANBLUE FANTASY The Animation"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [GRANBLUE FANTASY The Animation](https://anilist.co/anime/21361)
 
@@ -61,8 +60,7 @@ Pure Epic Fantasy #1
 A little heavy on the cheese and you can see the game mechanics bleeding
 through, but overall fun.
 
-![Rokudenashi Majutsu Koushi to Kinki Kyouten]({filename}/images/anime/2017/spring/21700-h2zIexGqGW9U.jpg "Rokudenashi Majutsu Koushi to Kinki Kyouten"){:
-.center}
+![Rokudenashi Majutsu Koushi to Kinki Kyouten]({filename}/images/anime/2017/spring/21700-h2zIexGqGW9U.jpg "Rokudenashi Majutsu Koushi to Kinki Kyouten"){:.center}
 
 <div class="studio">LIDENFILMS</div>
 
@@ -73,8 +71,8 @@ episode. It's had it's up and downs (and seems to be the community's whipping
 child for this season due to it's light novel orgins and tropes) but still
 entertaining.
 
-![eromanga sensei]({filename}/images/anime/2017/spring/21685-bJOXiEOxIew0.jpg "eromanga sensei"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
+![eromanga sensei]({filename}/images/anime/2017/spring/21685-bJOXiEOxIew0.jpg "eromanga sensei"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [eromanga sensei](https://anilist.co/anime/21685)
 
@@ -85,9 +83,8 @@ least the first season...) I was hoping this would be good.
 Eh is about all I can say. The female protagonist isn't nearly as good so it
 feels luke warm to me. Holding on to it to catch up with at some point.
 
-![Zero kara Hajimeru Mahou no Sho]({filename}/images/anime/2017/spring/97682-YRhTwV979zSr.jpg "Zero kara Hajimeru Mahou no Sho"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/white_fox.png){:
-.studio}
+![Zero kara Hajimeru Mahou no Sho]({filename}/images/anime/2017/spring/97682-YRhTwV979zSr.jpg "Zero kara Hajimeru Mahou no Sho"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/white_fox.png){:.studio}
 
 ### [Zero kara Hajimeru Mahou no Sho](https://anilist.co/anime/97682)
 
@@ -96,8 +93,7 @@ Epic Fantasy #2
 Good world building in this one with what seems to be a very poor translation.
 One of the shows that I immediately watch every week.
 
-![SAGRADA RESET]({filename}/images/anime/2017/spring/97660-82E7nL8irvuF.jpg "SAGRADA RESET"){:
-.center}
+![SAGRADA RESET]({filename}/images/anime/2017/spring/97660-82E7nL8irvuF.jpg "SAGRADA RESET"){:.center}
 
 <div class="studio">David Production</div>
 
@@ -108,8 +104,8 @@ essentially combining [Hyouka](https://anilist.co/anime/12189/Hyouka) with super
 powers. Unfortunatley between the abysmal deadpan voice acting and stoic
 animation, I had to drop this. What a disappointment!
 
-![Re:CREATORS]({filename}/images/anime/2017/spring/97980-MVa6bwEU1aBm.jpg "Re:CREATORS"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/troyca.png){: .studio}
+![Re:CREATORS]({filename}/images/anime/2017/spring/97980-MVa6bwEU1aBm.jpg "Re:CREATORS"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/troyca.png){: .studio}
 
 ### [Re:CREATORS](https://anilist.co/anime/97980)
 
@@ -118,8 +114,7 @@ Sawano](https://anilist.co/staff/103509/HiroyukiSawano)'s OST (which doesn't
 disappoint at all). This show is _very_ exposition heavy and I can't tell if
 that is going to be a good thing or bad thing yet.
 
-![Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?]({filename}/images/anime/2017/spring/21860-9uW17VK0afyY.jpg "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"){:
-.center}
+![Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?]({filename}/images/anime/2017/spring/21860-9uW17VK0afyY.jpg "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"){:.center}
 
 <div class="studio">Satelight</div>
 
@@ -132,9 +127,8 @@ character development. I have a feeling they are really rushing to fit
 everything in 12 episodes -- there are few "jump cuts" that skip a bunch of the
 usual training and build up, but that also might have been done on purpose.
 
-![Fukumenkei Noise]({filename}/images/anime/2017/spring/21773-k1b0HzcHaaAd.jpg "Fukumenkei Noise"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/brains_base.png){:
-.studio}
+![Fukumenkei Noise]({filename}/images/anime/2017/spring/21773-k1b0HzcHaaAd.jpg "Fukumenkei Noise"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/brains_base.png){:.studio}
 
 ### [Fukumenkei Noise](https://anilist.co/anime/21773)
 
@@ -143,9 +137,8 @@ this show. As it stands I put this on hold (mostly because of how full my ticket
 is this season) and unless something drastic changes, this will go in the same
 queue as [Fuuka](https://anilist.co/anime/21887/Fuuka) from last season.
 
-![SAKURA QUEST]({filename}/images/anime/2017/spring/97903-Q50eYGCP5YQO.jpg "SAKURA QUEST"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/pa_works.png){:
-.studio}
+![SAKURA QUEST]({filename}/images/anime/2017/spring/97903-Q50eYGCP5YQO.jpg "SAKURA QUEST"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/pa_works.png){:.studio}
 
 ### [SAKURA QUEST](https://anilist.co/anime/97903)
 
@@ -153,8 +146,7 @@ PA Works is at it again. This is a crushing reminder that I still haven't
 finished [Shirobako](https://anilist.co/anime/20812/Shirobako) which is criminal
 in it's own right.
 
-![Tsuki ga Kirei]({filename}/images/anime/2017/spring/98202-6tcO8jd0Pwj4.jpg "Tsuki ga Kirei"){:
-.center}
+![Tsuki ga Kirei]({filename}/images/anime/2017/spring/98202-6tcO8jd0Pwj4.jpg "Tsuki ga Kirei"){:.center}
 
 <div class="studio">feel.</div>
 
@@ -164,9 +156,8 @@ This is Yang to [Kuzu no Honkai](https://anilist.co/anime/21701/KuzunoHonkai)
 from last season. The sweet awkwardness oozing from this show is adorable while
 at the same time realistically awkward as hell.
 
-![Alice to Zouroku]({filename}/images/anime/2017/spring/97821-2AcwSXsBGsos.jpg "Alice to Zouroku"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){:
-.studio}
+![Alice to Zouroku]({filename}/images/anime/2017/spring/97821-2AcwSXsBGsos.jpg "Alice to Zouroku"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
 ### [Alice to Zouroku](https://anilist.co/anime/97821)
 

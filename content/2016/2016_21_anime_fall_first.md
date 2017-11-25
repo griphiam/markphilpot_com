@@ -25,9 +25,8 @@ anyway. There are a few from last season that Funimation announced they would be
 doing a dub for that I'm curious for (Re:LIFE), but it looks like going forward
 most things will be on CR.
 
-![Hibike! Euphonium 2]({filename}/images/anime/2016/fall/Cog7g4TUAAEm8Xv.jpg "Hibike! Euphonium 2"){:
-.center} ![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){:
-.studio}
+![Hibike! Euphonium 2]({filename}/images/anime/2016/fall/Cog7g4TUAAEm8Xv.jpg "Hibike! Euphonium 2"){:.center}
+![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){:.studio}
 
 ### [Hibike! Euphonium 2](https://hummingbird.me/anime/hibike-euphonium-2)
 
@@ -49,8 +48,7 @@ While you (and I) wait, please enjoy the following selection:
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sound-euphonium){:
 .link-nb}
 
-![Drifters]({filename}/images/anime/2016/fall/drifters.jpg "Drifters"){:
-.center}
+![Drifters]({filename}/images/anime/2016/fall/drifters.jpg "Drifters"){:.center}
 
 <div class="studio">Hoods Drifters Studio</div>
 
@@ -66,8 +64,8 @@ this over to _Dropped_.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/drifters){:
 .link-nb}
 
-![3-gatsu no Lion]({filename}/images/anime/2016/fall/comment_LCHX2PGlH5dntysUdbxfGoihNl8wp13e.jpg "3-gatsu no Lion"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/shaft.png){: .studio}
+![3-gatsu no Lion]({filename}/images/anime/2016/fall/comment_LCHX2PGlH5dntysUdbxfGoihNl8wp13e.jpg "3-gatsu no Lion"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/shaft.png){: .studio}
 
 ### [3-gatsu no Lion](https://hummingbird.me/anime/three-gatsu-no-lion)
 
@@ -79,8 +77,7 @@ sold on this one (and it's a two cour show to boot).
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/march-comes-in-like-a-lion){:
 .link-nb}
 
-![Yuri!!! on Ice]({filename}/images/anime/2016/fall/1469966970123686541.jpg "Yuri!!! on Ice"){:
-.center}
+![Yuri!!! on Ice]({filename}/images/anime/2016/fall/1469966970123686541.jpg "Yuri!!! on Ice"){:.center}
 
 <div class="studio">Avex Pictures</div>
 
@@ -95,8 +92,7 @@ would initial balk at the subject. I don't think you will regret it.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/yuri-on-ice){:
 .link-nb}
 
-![Shuumatsu no Izetta]({filename}/images/anime/2016/fall/a44c00288a0bea7fdf38780b094b6dd41473614598_full.jpg "Shuumatsu no Izetta"){:
-.center}
+![Shuumatsu no Izetta]({filename}/images/anime/2016/fall/a44c00288a0bea7fdf38780b094b6dd41473614598_full.jpg "Shuumatsu no Izetta"){:.center}
 
 <div class="studio">Ajia-Do</div>
 
@@ -127,8 +123,7 @@ is going to be chock full of some clever banter. Definitely a keeper.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/trickster){:
 .link-nb}
 
-![Udon no Kuni no Kiniro Kemari]({filename}/images/anime/2016/fall/tumblr_oanqk99K6L1uq3bnuo4_1280.jpg "Udon no Kuni no Kiniro Kemari"){:
-.center}
+![Udon no Kuni no Kiniro Kemari]({filename}/images/anime/2016/fall/tumblr_oanqk99K6L1uq3bnuo4_1280.jpg "Udon no Kuni no Kiniro Kemari"){:.center}
 
 <div class="studio">Liden Films</div>
 
@@ -144,8 +139,7 @@ of character development going.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/pocos-udon-world){:
 .link-nb}
 
-![Gi(a)rlish Number]({filename}/images/anime/2016/fall/CqwPjoiUIAAV5a4.jpg "Gi(a)rlish Number"){:
-.center}
+![Gi(a)rlish Number]({filename}/images/anime/2016/fall/CqwPjoiUIAAV5a4.jpg "Gi(a)rlish Number"){:.center}
 
 <div class="studio">Diomedea</div>
 
@@ -159,8 +153,8 @@ experience down a few notches. Let's see where this one goes.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/girlish-number){:
 .link-nb}
 
-![Mahou Shoujo Ikusei Keikaku]({filename}/images/anime/2016/fall/Cn2lnaNUAAArho1.jpg "Mahou Shoujo Ikusei Keikaku"){:
-.center} ![$STUDIO]({filename}/images/anime/studios/half/lerche.png){: .studio}
+![Mahou Shoujo Ikusei Keikaku]({filename}/images/anime/2016/fall/Cn2lnaNUAAArho1.jpg "Mahou Shoujo Ikusei Keikaku"){:.center}
+![$STUDIO]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Mahou Shoujo Ikusei Keikaku](https://hummingbird.me/anime/mahou-shoujo-ikusei-keikaku)
 
@@ -176,8 +170,7 @@ torture porn series.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/magical-girl-raising-project){:
 .link-nb}
 
-![Fune wo Amu]({filename}/images/anime/2016/fall/5538f775be106a31e7592cb8b20a085d.jpg "Fune wo Amu"){:
-.center}
+![Fune wo Amu]({filename}/images/anime/2016/fall/5538f775be106a31e7592cb8b20a085d.jpg "Fune wo Amu"){:.center}
 
 <div class="studio">ZEXCS</div>
 
@@ -190,8 +183,7 @@ if I'll keep this one up. If the main focus is the _dictionary_ then I'll
 probably pass. If the dictionary is the device to tell some stories about these
 characters, then I think I could get on board.
 
-![Flip Flappers]({filename}/images/anime/2016/fall/tumblr_ocvg5iO9Vl1sqqtwzo1_1280.jpg "Flip Flappers"){:
-.center}
+![Flip Flappers]({filename}/images/anime/2016/fall/tumblr_ocvg5iO9Vl1sqqtwzo1_1280.jpg "Flip Flappers"){:.center}
 
 <div class="studio">Studio 3Hz, Infinite</div>
 
@@ -208,8 +200,7 @@ definitely in for the ride.
 
 <div class="divider-title">Shorts</div>
 
-![Kiitarou Shounen no Youkai Enikki]({filename}/images/anime/2016/fall/Kiitarou-Shounen-key.jpg "Kiitarou Shounen no Youkai Enikki"){:
-.center}
+![Kiitarou Shounen no Youkai Enikki]({filename}/images/anime/2016/fall/Kiitarou-Shounen-key.jpg "Kiitarou Shounen no Youkai Enikki"){:.center}
 
 ### [Kiitarou Shounen no Youkai Enikki](https://hummingbird.me/anime/kiitarou-shounen-no-youkai-enikki)
 
@@ -218,8 +209,8 @@ Cute and Fun. Definitely give this one a click.
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/kiitaros-yokai-picture-diary){:
 .link-nb}
 
-![Mahou Tsukai no Yome: Hoshi Matsu Hito]({filename}/images/anime/2016/fall/magus.jpg "Mahou Tsukai no Yome: Hoshi Matsu Hito"){:
-.center} ![Wit]({filename}/images/anime/studios/half/wit.png){: .studio}
+![Mahou Tsukai no Yome: Hoshi Matsu Hito]({filename}/images/anime/2016/fall/magus.jpg "Mahou Tsukai no Yome: Hoshi Matsu Hito"){:.center}
+![Wit]({filename}/images/anime/studios/half/wit.png){: .studio}
 
 ### [Mahou Tsukai no Yome: Hoshi Matsu Hito](https://hummingbird.me/anime/mahou-tsukai-no-yome-hoshi-matsu-hito)
 

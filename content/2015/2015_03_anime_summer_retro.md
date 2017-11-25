@@ -50,8 +50,8 @@ ending, there has been no word to date on any follow on work.
 If you enjoyed [Black Lagoon](https://hummingbird.me/anime/black-lagoon) then I
 highly recommend this one.
 
-![Gakkou Gurashi!]({filename}/images/anime/2015/summer/gakkougurashi_pv.jpg){:
-.center} ![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
+![Gakkou Gurashi!]({filename}/images/anime/2015/summer/gakkougurashi_pv.jpg){:.center}
+![Lerche]({filename}/images/anime/studios/lerche.png){: .studio}
 
 ### [Gakkou Gurashi!](https://hummingbird.me/anime/gakkou-gurashi)
 
