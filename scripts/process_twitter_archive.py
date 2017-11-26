@@ -126,6 +126,7 @@ if __name__ == '__main__':
         mkdir_p('%s/%d' % (args.output_dir, year))
 
         tweet['ts'] = timestamp
+        tweet['date_field'] = timestamp.strftime("%Y-%m-%d %H:%M:%S")
         tweet['filename'] = filename
         tweet['tweet_id'] = tweet['id_str']
 
