@@ -6,8 +6,7 @@ category: tv
 slug: my_2_cents
 ---
 
-I have a argument to present for the few TV executives out there who happen to
-stumble across this.
+I have a argument to present for the few TV executives out there who happen to stumble across this.
 
 Given the following:
 
@@ -23,13 +22,6 @@ I submit the following:
 	<li>I am not unique, and the number of 	people who actively employ both of these technologies are growing.</li>
 </ul>
 
-A extra factor in this is now the presence of DVD box sets for shows. However,
-not all programming will come out on DVD. News (even fake news), sporting
-events, etc. do not fall into this category. Now, if I were a TV executive, I
-would rather control both outlets. Why not give free access to your entire
-catalog on your site for free. I would rather visit your site for a high quality
-product and even suffer through an ad before the show starts if you offered such
-an experience. I might even find out about other shows your network is offering.
+A extra factor in this is now the presence of DVD box sets for shows. However, not all programming will come out on DVD. News (even fake news), sporting events, etc. do not fall into this category. Now, if I were a TV executive, I would rather control both outlets. Why not give free access to your entire catalog on your site for free. I would rather visit your site for a high quality product and even suffer through an ad before the show starts if you offered such an experience. I might even find out about other shows your network is offering.
 
-Don't treat us like criminals and don't nickel-and-dime us. You will end up
-driving us away rather than to your products.
+Don't treat us like criminals and don't nickel-and-dime us. You will end up driving us away rather than to your products.

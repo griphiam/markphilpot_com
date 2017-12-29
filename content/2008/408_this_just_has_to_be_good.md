@@ -6,6 +6,4 @@ category: movies
 slug: this_just_has_to_be_good
 ---
 
-Judd Apatow, Sacha Cohen, Will Ferrell
-<a href="http://www.variety.com/VR1117988387.html">teaming up</a> doing a comedy
-Sherlock Holmes...
+Judd Apatow, Sacha Cohen, Will Ferrell <a href="http://www.variety.com/VR1117988387.html">teaming up</a> doing a comedy Sherlock Holmes...

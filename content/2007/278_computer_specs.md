@@ -10,8 +10,7 @@ Desktop
 
 Dual booting -- Kubuntu Feisty 7, Windows XP
 
-Note: All prices quoted are via Newegg as of 8.15.07 (and will hopefully
-decrease). Detailed specs via link (usually to newegg)
+Note: All prices quoted are via Newegg as of 8.15.07 (and will hopefully decrease). Detailed specs via link (usually to newegg)
 
 <ul>
 	<li>Motherboard
@@ -91,18 +90,8 @@ decrease). Detailed specs via link (usually to newegg)
 </li>
 </ul>
 
-My current thought is to keep my existing mouse and keyboard. I'm not sure if I
-should keep my existing 4.1 Creative speaker set or jump to the 7.1 --
-considering size of apartment. But for $87, its not a bad deal.
+My current thought is to keep my existing mouse and keyboard. I'm not sure if I should keep my existing 4.1 Creative speaker set or jump to the 7.1 -- considering size of apartment. But for $87, its not a bad deal.
 
-I'm going with a 500W PSU because of the graphics card and processor. The quad
-plus a GeForce 8X series would probably be a bit much for a 400W PSU. I'm torn
-between the cases. The Nine Hundred (stupid name) has the external front ports
-on the top for nice easy access. The P182 is supposed to be very quite and I
-think looks a bit better (cleaner lines). Also I'm not sure how I feel about the
-Nine Hundred's blue led, though I suppose I could disconnect that.
+I'm going with a 500W PSU because of the graphics card and processor. The quad plus a GeForce 8X series would probably be a bit much for a 400W PSU. I'm torn between the cases. The Nine Hundred (stupid name) has the external front ports on the top for nice easy access. The P182 is supposed to be very quite and I think looks a bit better (cleaner lines). Also I'm not sure how I feel about the Nine Hundred's blue led, though I suppose I could disconnect that.
 
-Overall I like the system. Its a bit pricey, but its about what I budgeted for
-this purchase. I didn't go with a top of the line sound card and I definitely
-wanted a dual head setup. Hopefully the overall price comes down a hundred buck
-or so in a few weeks.
+Overall I like the system. Its a bit pricey, but its about what I budgeted for this purchase. I didn't go with a top of the line sound card and I definitely wanted a dual head setup. Hopefully the overall price comes down a hundred buck or so in a few weeks.

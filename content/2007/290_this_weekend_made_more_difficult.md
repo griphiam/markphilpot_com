@@ -6,8 +6,7 @@ category: updates
 slug: this_weekend_made_more_difficult
 ---
 
-This weekend was quite literally a gut check. Summarized in spectacular
-powerpoint fashion...
+This weekend was quite literally a gut check. Summarized in spectacular powerpoint fashion...
 
 <ul>
 	<li>Microsoft Vista is quite possibly the worst f*cking software ever written.  Ever. Period. End of Story.</li>

@@ -6,20 +6,9 @@ category: linux
 slug: transition_with_winecrossover
 ---
 
-<a title="Wine Is Not an Emulator" href="http://www.winehq.com/">Wine</a> is the
-open source Windows emulator program for Linux -- A very handy thing to have
-working well if you ever want to make the transition. I have already determined
-that when I put together my next desktop which will hopefully be some time next
-year, I will run Kubuntu (If any of this sounds familiar, I already blogged
-about it =)
-<a title="For Linux... They also have a OSX version" href="http://www.codeweavers.com/products/cxoffice/">Cossover
-Office</a> is a program put out by
-<a href="http://www.codeweavers.com/">Codeweavers</a> that is based on Wine.
-What it adds is the configuration management that IMO is almost impossible
-without. A perfect example of making a business off of open source software.
+<a title="Wine Is Not an Emulator" href="http://www.winehq.com/">Wine</a> is the open source Windows emulator program for Linux -- A very handy thing to have working well if you ever want to make the transition. I have already determined that when I put together my next desktop which will hopefully be some time next year, I will run Kubuntu (If any of this sounds familiar, I already blogged about it =) <a title="For Linux... They also have a OSX version" href="http://www.codeweavers.com/products/cxoffice/">Cossover Office</a> is a program put out by <a href="http://www.codeweavers.com/">Codeweavers</a> that is based on Wine. What it adds is the configuration management that IMO is almost impossible without. A perfect example of making a business off of open source software.
 
-I'm trying to capture what I need to work with Crossover. Figure out what works
-now, and what hopefully will come soon.
+I'm trying to capture what I need to work with Crossover. Figure out what works now, and what hopefully will come soon.
 
 <ul>
     <li>iMatch</li>
@@ -39,9 +28,7 @@ now, and what hopefully will come soon.
 </ul>
 <li>Photoshop CS</li>
 
-Things that if they worked, would be great, but probably are not deal breakers
-(I will continue running XP on my laptop since IBM/Lenovo doesn't (yet) include
-the integration software and drivers for linux.
+Things that if they worked, would be great, but probably are not deal breakers (I will continue running XP on my laptop since IBM/Lenovo doesn't (yet) include the integration software and drivers for linux.
 
 <ul>
     <li>Drumsite</li>
@@ -50,5 +37,4 @@ the integration software and drivers for linux.
     <li>Cubase</li>
 </ul>
 
-My testing rig is my old desktop (which is frighteningly slow at this point).
-I'll post updates as things work or don't work.
+My testing rig is my old desktop (which is frighteningly slow at this point). I'll post updates as things work or don't work.

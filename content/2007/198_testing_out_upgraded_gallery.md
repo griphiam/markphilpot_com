@@ -6,14 +6,9 @@ category: updates
 slug: testing_out_upgraded_gallery
 ---
 
-So I took the plunge. Couldn't help my self. Things look good so far. I'll keep
-you posted. I really like the keyword based galleries. I'll now have to update
-all the images. The crappy part is that I've already categorized all my images
-in iMatch... I wish I could just export that.
+So I took the plunge. Couldn't help my self. Things look good so far. I'll keep you posted. I really like the keyword based galleries. I'll now have to update all the images. The crappy part is that I've already categorized all my images in iMatch... I wish I could just export that.
 
-<em>Update</em> -- Yay! I got things working. Now clicking on the image brings
-up a lightbox version of the image (looks actually quite nice). Clicking on the
-title sends you to the gallery.
+<em>Update</em> -- Yay! I got things working. Now clicking on the image brings up a lightbox version of the image (looks actually quite nice). Clicking on the title sends you to the gallery.
 
 There are still a few things I need to work on...
 

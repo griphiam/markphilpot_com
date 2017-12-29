@@ -13,9 +13,12 @@
   },
   "scripts": {
     "precommit": "lint-staged",
-    "p": "prettier --parser markdown --write content/**/*.md"
+    "p": "prettier --parser markdown --prose-wrap never --write content/**/*.md"
   },
   "lint-staged": {
-    "*.md": ["prettier --parser markdown --write", "git add"]
+    "*.md": [
+      "prettier --parser markdown --prose-wrap never --write",
+      "git add"
+    ]
   }
 }

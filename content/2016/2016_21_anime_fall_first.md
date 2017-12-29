@@ -10,34 +10,17 @@ Hero: "background-image: url(/images/anime/2016/fall/hero.jpg);"
 
 [TOC]
 
-Every time a new season rolls around I think it's going to be a light one
-because most of it is completely unknown to me before watching the first
-episodes. I definitely don't try absolutely everything, just ones that catch my
-eye. You'll notice this first impressions post is a bit later than usual -- I
-thought I wouldn't have that many shows to watch this fall, so I took the time
-to finish up a few remaining summer shows. It really wasn't until I created the
-skeleton for this post that I realized how many had caught my eye enough to give
-it a try.
+Every time a new season rolls around I think it's going to be a light one because most of it is completely unknown to me before watching the first episodes. I definitely don't try absolutely everything, just ones that catch my eye. You'll notice this first impressions post is a bit later than usual -- I thought I wouldn't have that many shows to watch this fall, so I took the time to finish up a few remaining summer shows. It really wasn't until I created the skeleton for this post that I realized how many had caught my eye enough to give it a try.
 
-Also, I guess the Crunchyroll/Funimation links for each show are kind of useless
--- with the "partnership" announcement all the subtitled works will end up on CR
-anyway. There are a few from last season that Funimation announced they would be
-doing a dub for that I'm curious for (Re:LIFE), but it looks like going forward
-most things will be on CR.
+Also, I guess the Crunchyroll/Funimation links for each show are kind of useless -- with the "partnership" announcement all the subtitled works will end up on CR anyway. There are a few from last season that Funimation announced they would be doing a dub for that I'm curious for (Re:LIFE), but it looks like going forward most things will be on CR.
 
-![Hibike! Euphonium 2]({filename}/images/anime/2016/fall/Cog7g4TUAAEm8Xv.jpg "Hibike! Euphonium 2"){:.center}
-![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){:.studio}
+![Hibike! Euphonium 2]({filename}/images/anime/2016/fall/Cog7g4TUAAEm8Xv.jpg "Hibike! Euphonium 2"){:.center} ![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){:.studio}
 
 ### [Hibike! Euphonium 2](https://hummingbird.me/anime/hibike-euphonium-2)
 
-Anime Gods be praised! KyoAni has blessed us with a second season! **So**
-excited for this! The first season was up there on my all time favorite anime.
-The only question I have is if they will take the story all the way to nationals
-or dangle that for a third season.
+Anime Gods be praised! KyoAni has blessed us with a second season! **So** excited for this! The first season was up there on my all time favorite anime. The only question I have is if they will take the story all the way to nationals or dangle that for a third season.
 
-For some unknown masochistic reason, I've decided not to follow the show each
-week and instead binge them all at the end. No idea if this is smart or not and
-also no idea if I'll have the will power to follow through.
+For some unknown masochistic reason, I've decided not to follow the show each week and instead binge them all at the end. No idea if this is smart or not and also no idea if I'll have the will power to follow through.
 
 While you (and I) wait, please enjoy the following selection:
 
@@ -53,24 +36,15 @@ While you (and I) wait, please enjoy the following selection:
 
 ### [Drifters](https://hummingbird.me/anime/drifters-tv)
 
-Not sure this is the show for me. I'm not a fan of [JoJo's Bizare
-Adventure](https://hummingbird.me/anime/jojo-s-bizarre-adventure-2012) so I
-think some of the humor and art style is lost on me. I also thought the pacing
-and timing of the jokes was really off for the opening episode. I think I'll
-give it one more shot to hook me but if I was a betting man I would pre-slot
-this over to _Dropped_.
+Not sure this is the show for me. I'm not a fan of [JoJo's Bizare Adventure](https://hummingbird.me/anime/jojo-s-bizarre-adventure-2012) so I think some of the humor and art style is lost on me. I also thought the pacing and timing of the jokes was really off for the opening episode. I think I'll give it one more shot to hook me but if I was a betting man I would pre-slot this over to _Dropped_.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/drifters){:.link-nb}
 
-![3-gatsu no Lion]({filename}/images/anime/2016/fall/comment_LCHX2PGlH5dntysUdbxfGoihNl8wp13e.jpg "3-gatsu no Lion"){:.center}
-![$STUDIO]({filename}/images/anime/studios/half/shaft.png){: .studio}
+![3-gatsu no Lion]({filename}/images/anime/2016/fall/comment_LCHX2PGlH5dntysUdbxfGoihNl8wp13e.jpg "3-gatsu no Lion"){:.center} ![$STUDIO]({filename}/images/anime/studios/half/shaft.png){: .studio}
 
 ### [3-gatsu no Lion](https://hummingbird.me/anime/three-gatsu-no-lion)
 
-Wow! It's Shaft not doing a
-[\*monogatri](https://hummingbird.me/anime/bakemonogatari) series. I love the
-art style, the restrained use of dialog and the OST is fantastic too. I'm firmly
-sold on this one (and it's a two cour show to boot).
+Wow! It's Shaft not doing a [\*monogatri](https://hummingbird.me/anime/bakemonogatari) series. I love the art style, the restrained use of dialog and the OST is fantastic too. I'm firmly sold on this one (and it's a two cour show to boot).
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/march-comes-in-like-a-lion){:.link-nb}
 
@@ -80,11 +54,7 @@ sold on this one (and it's a two cour show to boot).
 
 ### [Yuri!!! on Ice](https://hummingbird.me/anime/yuri-on-ice)
 
-The strong opening episode really caught me off guard. The comedic timing was
-superb and there was a level of confidence and sincerity exuding from the show
-that really hooks you in while the comedy acknowledges not to take the show too
-seriously. It was a fantastic combination. Give this show a chance even if you
-would initial balk at the subject. I don't think you will regret it.
+The strong opening episode really caught me off guard. The comedic timing was superb and there was a level of confidence and sincerity exuding from the show that really hooks you in while the comedy acknowledges not to take the show too seriously. It was a fantastic combination. Give this show a chance even if you would initial balk at the subject. I don't think you will regret it.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/yuri-on-ice){:.link-nb}
 
@@ -96,24 +66,15 @@ would initial balk at the subject. I don't think you will regret it.
 
 _Sigh_
 
-I was actually rather enjoying the opening episode right up until the witch
-Izetta _mounted_ the rifle as if it was a broom and started flying. That rather
-unfortunate shot to the system got me to realize all the other flaws and
-suddenly I wasn't quite as interested. I will still give this one a few more
-episodes but frankly I don't have high hopes for this.
+I was actually rather enjoying the opening episode right up until the witch Izetta _mounted_ the rifle as if it was a broom and started flying. That rather unfortunate shot to the system got me to realize all the other flaws and suddenly I wasn't quite as interested. I will still give this one a few more episodes but frankly I don't have high hopes for this.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/izetta-the-last-witch){:.link-nb}
 
-![Trickster: Edogawa Ranpo "Shounen Tanteidan" yori]({filename}/images/anime/2016/fall/tumblr_ob0e72M2is1uq3bnuo1_1280.jpg
-"Trickster: Edogawa Ranpo "Shounen Tanteidan" yori"){: .center}
-![$STUDIO]({filename}/images/anime/studios/half/tms.png){: .studio}
+![Trickster: Edogawa Ranpo "Shounen Tanteidan" yori]({filename}/images/anime/2016/fall/tumblr_ob0e72M2is1uq3bnuo1_1280.jpg "Trickster: Edogawa Ranpo "Shounen Tanteidan" yori"){: .center} ![$STUDIO]({filename}/images/anime/studios/half/tms.png){: .studio}
 
 ### [Trickster: Edogawa Ranpo "Shounen Tanteidan" yori](https://hummingbird.me/anime/trickster-edogawa-ranpo-shounen-tanteidan-yori)
 
-Another Ranpo adaptation and this one starts off with a kick! Nothing really
-explained in the first episode but with a two cour show, they can afford to take
-their time. The animation is top notch and there is every indication the dialog
-is going to be chock full of some clever banter. Definitely a keeper.
+Another Ranpo adaptation and this one starts off with a kick! Nothing really explained in the first episode but with a two cour show, they can afford to take their time. The animation is top notch and there is every indication the dialog is going to be chock full of some clever banter. Definitely a keeper.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/trickster){:.link-nb}
 
@@ -123,12 +84,7 @@ is going to be chock full of some clever banter. Definitely a keeper.
 
 ### [Udon no Kuni no Kiniro Kemari](https://hummingbird.me/anime/udon-no-kuni-no-kiniro-kemari)
 
-Literally [Sweetness &
-Lightning](https://hummingbird.me/anime/amaama-to-inazuma) meets [Usagi
-Drop](https://hummingbird.me/anime/bunny-drop). I have my doubts that this will
-be anywhere near as good as S&L. Apparently death, food and a cute kid are a
-winning combination. I'll stick this one out as long as they keep a good level
-of character development going.
+Literally [Sweetness & Lightning](https://hummingbird.me/anime/amaama-to-inazuma) meets [Usagi Drop](https://hummingbird.me/anime/bunny-drop). I have my doubts that this will be anywhere near as good as S&L. Apparently death, food and a cute kid are a winning combination. I'll stick this one out as long as they keep a good level of character development going.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/pocos-udon-world){:.link-nb}
 
@@ -138,26 +94,15 @@ of character development going.
 
 ### [Gi(a)rlish Number](https://hummingbird.me/anime/girlish-number)
 
-Wow. Not at all what I expected. There is quite a lot of not so subtle ribbing
-going on here. This one feels like
-[Shirobako](https://hummingbird.me/anime/shirobako)'s evil twin taking the whole
-experience down a few notches. Let's see where this one goes.
+Wow. Not at all what I expected. There is quite a lot of not so subtle ribbing going on here. This one feels like [Shirobako](https://hummingbird.me/anime/shirobako)'s evil twin taking the whole experience down a few notches. Let's see where this one goes.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/girlish-number){:.link-nb}
 
-![Mahou Shoujo Ikusei Keikaku]({filename}/images/anime/2016/fall/Cn2lnaNUAAArho1.jpg "Mahou Shoujo Ikusei Keikaku"){:.center}
-![$STUDIO]({filename}/images/anime/studios/half/lerche.png){: .studio}
+![Mahou Shoujo Ikusei Keikaku]({filename}/images/anime/2016/fall/Cn2lnaNUAAArho1.jpg "Mahou Shoujo Ikusei Keikaku"){:.center} ![$STUDIO]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Mahou Shoujo Ikusei Keikaku](https://hummingbird.me/anime/mahou-shoujo-ikusei-keikaku)
 
-How much will this just be an inferior clone of [Madoka
-Magica](https://hummingbird.me/anime/mahou-shoujo-madoka-magica)? I hope it's
-more than that, but I have my worries. There could be lots of room to play
-around with this as long as they have the confidence to break out of Madoka's
-shadow. Not sure if this original or an adaption (not that it really matters,
-just curious more than anything). Hopefully we get to see a new side of a _Mahou
-Shoujo_ turned on its head rather than yet another exploitive magical girl
-torture porn series.
+How much will this just be an inferior clone of [Madoka Magica](https://hummingbird.me/anime/mahou-shoujo-madoka-magica)? I hope it's more than that, but I have my worries. There could be lots of room to play around with this as long as they have the confidence to break out of Madoka's shadow. Not sure if this original or an adaption (not that it really matters, just curious more than anything). Hopefully we get to see a new side of a _Mahou Shoujo_ turned on its head rather than yet another exploitive magical girl torture porn series.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/magical-girl-raising-project){:.link-nb}
 
@@ -167,12 +112,7 @@ torture porn series.
 
 ### [Fune wo Amu](https://hummingbird.me/anime/fune-wo-amu)
 
-A very unusual premise -- creating a new dictionary. The protagonist's voice
-actor is [Takahiro Sakurai](https://myanimelist.net/people/79/Takahiro_Sakurai)
-who as literally been in _everything_ (Jesus... what a resume). I have no idea
-if I'll keep this one up. If the main focus is the _dictionary_ then I'll
-probably pass. If the dictionary is the device to tell some stories about these
-characters, then I think I could get on board.
+A very unusual premise -- creating a new dictionary. The protagonist's voice actor is [Takahiro Sakurai](https://myanimelist.net/people/79/Takahiro_Sakurai) who as literally been in _everything_ (Jesus... what a resume). I have no idea if I'll keep this one up. If the main focus is the _dictionary_ then I'll probably pass. If the dictionary is the device to tell some stories about these characters, then I think I could get on board.
 
 ![Flip Flappers]({filename}/images/anime/2016/fall/tumblr_ocvg5iO9Vl1sqqtwzo1_1280.jpg "Flip Flappers"){:.center}
 
@@ -180,9 +120,7 @@ characters, then I think I could get on board.
 
 ### [Flip Flappers](https://hummingbird.me/anime/flip-flappers)
 
-This one has the potential to be the gem of the season. The animation is
-gorgeous and an absolute trip. No idea where this one's going, but I'm
-definitely in for the ride.
+This one has the potential to be the gem of the season. The animation is gorgeous and an absolute trip. No idea where this one's going, but I'm definitely in for the ride.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/flip-flappers){:.link-nb}
 
@@ -198,15 +136,11 @@ Cute and Fun. Definitely give this one a click.
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/kiitaros-yokai-picture-diary){:.link-nb}
 
-![Mahou Tsukai no Yome: Hoshi Matsu Hito]({filename}/images/anime/2016/fall/magus.jpg "Mahou Tsukai no Yome: Hoshi Matsu Hito"){:.center}
-![Wit]({filename}/images/anime/studios/half/wit.png){: .studio}
+![Mahou Tsukai no Yome: Hoshi Matsu Hito]({filename}/images/anime/2016/fall/magus.jpg "Mahou Tsukai no Yome: Hoshi Matsu Hito"){:.center} ![Wit]({filename}/images/anime/studios/half/wit.png){: .studio}
 
 ### [Mahou Tsukai no Yome: Hoshi Matsu Hito](https://hummingbird.me/anime/mahou-tsukai-no-yome-hoshi-matsu-hito)
 
-This isn't a short, but a three episode OVA prequel in support of manga. It's a
-shame because I think this could be a really great full length series. It got me
-to pick up the manga so, again, it accomplished what it set out to do (provided
-they were actually selling the English translation...)
+This isn't a short, but a three episode OVA prequel in support of manga. It's a shame because I think this could be a really great full length series. It got me to pick up the manga so, again, it accomplished what it set out to do (provided they were actually selling the English translation...)
 
 [![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/the-ancient-magus-bride){:.link-nb}
 

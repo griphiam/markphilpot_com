@@ -6,9 +6,7 @@ category: software
 slug: computer_software_installation
 ---
 
-This list is more for me, but I thought I'd put it out there so people could
-comment on it... maybe add some of your own. This is a list of all the software
-I install upon a fresh reformat of my computer. I'll try to add links later.
+This list is more for me, but I thought I'd put it out there so people could comment on it... maybe add some of your own. This is a list of all the software I install upon a fresh reformat of my computer. I'll try to add links later.
 
 Software to Install:
 

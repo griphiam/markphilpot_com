@@ -6,9 +6,7 @@ category: software
 slug: real_time_shared_editing_eclipse
 ---
 
-<a href="http://wiki.eclipse.org/DocShare_Plugin">This</a> is really awesome! I
-need to figure out what communications platform it uses, but this is seriously
-cool stuff. The screencast is a bit hokey, but it shows all the real potential!
+<a href="http://wiki.eclipse.org/DocShare_Plugin">This</a> is really awesome! I need to figure out what communications platform it uses, but this is seriously cool stuff. The screencast is a bit hokey, but it shows all the real potential!
 
 <object width="400" height="225"> <param name="allowfullscreen" value="true" />
 
@@ -19,6 +17,4 @@ Real-Time Shared Editing</a> from
 <a href="http://www.vimeo.com/mustafa?pg=embed&sec=1195398">Mustafa K. Isik</a>
 on <a href="http://vimeo.com?pg=embed&sec=1195398">Vimeo</a>.
 
-With serious broadband and advancement of collaborative technologies like this,
-telecommuting and "move work not people" principals will become actually
-reasonable propositions.
+With serious broadband and advancement of collaborative technologies like this, telecommuting and "move work not people" principals will become actually reasonable propositions.

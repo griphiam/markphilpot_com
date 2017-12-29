@@ -15,6 +15,4 @@ Evolution of a doomed conversation...
 	<li>You know that feature your schedule says will take another 3 months to complete... can we have a prototype of that prototype for the demo?</li>
 </ul>
 
-Don't you just love things presented to you as an "opportunity"? It's a very,
-very scary word =) They often are "good" but the devil is in the details...
-Still, "opportunities" are much better than "risks"
+Don't you just love things presented to you as an "opportunity"? It's a very, very scary word =) They often are "good" but the devil is in the details... Still, "opportunities" are much better than "risks"

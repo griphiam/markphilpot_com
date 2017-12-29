@@ -10,6 +10,4 @@ The unfortunate thing is that this is so true.
 
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/3Gmex_4hreQ"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/3Gmex_4hreQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
-When I play tracks on my ipod from CDs made in the 80's and early 90's, the
-volume is much less, but there is a far greater range of dynamics on the tracks.
-Unfortunately, normalization only goes one way.
+When I play tracks on my ipod from CDs made in the 80's and early 90's, the volume is much less, but there is a far greater range of dynamics on the tracks. Unfortunately, normalization only goes one way.

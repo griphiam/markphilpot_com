@@ -6,9 +6,7 @@ category: rant
 slug: damn_you_ie
 ---
 
-Obviously do one who reads this uses Internet Explorer or they would have
-mentioned (hopefully) that my little drop case trick doesn't work in IE. This is
-the CSS I'm currently using:
+Obviously do one who reads this uses Internet Explorer or they would have mentioned (hopefully) that my little drop case trick doesn't work in IE. This is the CSS I'm currently using:
 
 ```css
 p.dc:first-letter {
@@ -22,5 +20,4 @@ p.dc:first-letter {
 }
 ```
 
-It looks as though IE7 does support the `:first-letter` pseudo class, but the
-box model is failing with the `float: left`. Any suggestions?
+It looks as though IE7 does support the `:first-letter` pseudo class, but the box model is failing with the `float: left`. Any suggestions?

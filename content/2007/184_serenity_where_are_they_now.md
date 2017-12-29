@@ -6,13 +6,7 @@ category: tv
 slug: serenity_where_are_they_now
 ---
 
-To anyone who watched Firefly &
-<a href="http://www.imdb.com/title/tt0379786/">Serenity</a>, you understand how
-I feel about the actors. I loved the characters they portrayed, and once it went
-riding off into the sunset on the silver screen (well before its time), I want
-the actors to at least go on to bigger projects... hoping to see them once again
-on screen. I thought I would gather up some information on what they've been up
-to (mostly via <a href="http://www.imdb.com/">imdb</a>, albeit).
+To anyone who watched Firefly & <a href="http://www.imdb.com/title/tt0379786/">Serenity</a>, you understand how I feel about the actors. I loved the characters they portrayed, and once it went riding off into the sunset on the silver screen (well before its time), I want the actors to at least go on to bigger projects... hoping to see them once again on screen. I thought I would gather up some information on what they've been up to (mostly via <a href="http://www.imdb.com/">imdb</a>, albeit).
 
 <ul>
 	<li><a href="http://www.imdb.com/name/nm0923736/">Joss Whedon</a>
@@ -68,5 +62,4 @@ to (mostly via <a href="http://www.imdb.com/">imdb</a>, albeit).
 </li>
 </ul>
 
-So there you have it. A one stop shop recap. Hope you enjoyed this edition. Stay
-tuned for more (maybe an annual thing...)
+So there you have it. A one stop shop recap. Hope you enjoyed this edition. Stay tuned for more (maybe an annual thing...)
