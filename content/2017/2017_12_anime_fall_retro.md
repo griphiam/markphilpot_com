@@ -47,14 +47,11 @@ I feel like this was an episode 0 -- the origin story if you will -- and that we
 
 ### [Juuni Taisen](https://anilist.co/anime/98443)
 
-A dark _Battle Royale_ that doesn't seem to be afraid to not pull punches?
+For the sake of this initial discussion let's ignore the ED.
 
-![Ok, if you insist]({filename}/images/anime/2017/fall/daily_show_insist.gif){:.center} <br/>
+Not bad. Spoilers, but the ending felt a bit of a cheat, but it was acknowledged as such, so I'm willing to give it a pass. I liked that no character had plot armor, but the consequence was that we didn't get to know or sympathize with any of the characters outside of a single episode back-story-flashback.
 
-<div style="text-align: center; margin-top: -50px;"><small class="caption-text muted">Well
-if you insist</small></div>
-
-This should be entertaining if the ending of the first episode is the start of a trend line.
+Quick note on that ED. Good lord, someone should be fired for approving that storyboard. Good song though.
 
 ![Just Because!]({filename}/images/anime/2017/fall/98820-uz3n6YW1OXYU.jpg "Just Because!"){:.center} ![Pine Jam]({filename}/images/anime/studios/half/pine_jam.png){:.studio}
 
@@ -88,11 +85,9 @@ This was a very interesting juxtaposition between cute and unsettling. The scene
 
 ### [Houseki no Kuni](https://anilist.co/anime/98707)
 
-I'm going to go into this one with an open mind. While I still think this would be better hand drawn, the full CGI treatment isn't an immediate disqualification -- they at least picked the right story/characters to do it with CGI -- Anthropomorphize gemstones.
+Outside of Mahoutsukai no Yome this was easily anime of the season for me -- and that's shocking for me to say given its CG anime. The story was _so_ good and they really used the _CG_ to their storytelling advantage rather than a gimmick. [Tomoyo Kurosawa](https://anilist.co/staff/106661/TomoyoKurosawa) is absolutely stunning as Phosphophyllite (and really channels her sarcastic "Kumiko Oumae" perfectly).
 
-There could be some very interesting world building here, so I'm going to stick around and see if my interest is rewarded. The one gripe I will air is the eyes in the characters. It's the one key aspect that anime can utilize to its full extent and I feel like the eyes are a let down with these characters -- they feel flat and unexpressive.
-
-It's the eyes. Nail that and it will cover a lot of other imperfections.
+Don't let the CG be a deterrent from experiencing this show (also don't judge by the first two episodes alone... there is a noticeable improvement in their CG craft by episode 5 or 6)
 
 ![Net-juu no Susume]({filename}/images/anime/2017/fall/99726-NbYnLhXEMISQ.jpg "Net-juu no Susume"){:.center}
 
@@ -100,7 +95,9 @@ It's the eyes. Nail that and it will cover a lot of other imperfections.
 
 ### [Net-juu no Susume](https://anilist.co/anime/99726)
 
-This one has the potential to be a favorite of the season. The MC is really endearing even if the pacing was a tad rough around the edges.
+Don't get me wrong -- I loved this show. I loved the MC. Fantastic all around. Highly recommend.
+
+At some point, _someone_ has to give us a romcom that doesn't center around near debilitating shyness/awkwardness. Can't they just genuinely like each other and move incrementally forward? Essentially, I want this plot with the seriousness of [Tsuki ga Kirei](https://anilist.co/anime/98202/TsukigaKirei).
 
 ![Osake wa Fuufu ni Natte Kara]({filename}/images/anime/2017/fall/98657-P9OayeslJ79r.jpg "Osake wa Fuufu ni Natte Kara"){:.center}
 
@@ -114,9 +111,9 @@ This 3 minute short is too short for it's own good. I'm skeptical it will win me
 
 ### [Konohana Kitan](https://anilist.co/anime/98506)
 
-Oh good lord is this shit cute.
+There was some genuine excellent story telling in this one. It's a shame they were obviously doing this on a shoe-string budget. The sheer percentage of single frame image set to music was absurd with this show. I would still recommend, but just keep that in mind going into it.
 
-If it's anywhere close to the feel good comfort that was [Non Non Biyori](https://anilist.co/anime/17549) I'll be very happy.
+I have to say however, the last episode truly nails the ending for the show. _That_ is how you wrap a show.
 
 ![Anime-Gataris]({filename}/images/anime/2017/fall/98607-yh9RjzFdVUWl.jpg "Anime-Gataris"){:.center}
 
