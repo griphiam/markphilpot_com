@@ -2,7 +2,7 @@
 title: "jericho"
 date: "2008-03-09 01:05:32"
 tags: [imported]
-category: tv
+category: blog
 slug: jericho
 ---
 

@@ -2,7 +2,7 @@
 title: "San Andreas"
 date: "2005-07-21 08:52:41"
 tags: [imported]
-category: games
+category: blog
 slug: san_andreas
 ---
 

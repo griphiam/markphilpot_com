@@ -2,7 +2,7 @@
 title: "KDE & Dolphin"
 date: "2007-02-24 23:40:04"
 tags: [imported, kde]
-category: linux
+category: blog
 slug: kde_dolphin
 ---
 

@@ -2,7 +2,7 @@
 title: "Life is Strange"
 date: "2016-03-10 12:33:00"
 tags: [review, games]
-category: games
+category: blog
 slug: life_is_strange
 summary: Review of Dontnod's "Life is Strange"
 Hero: "background-image: url(/images/2016/life_is_strange/hero.jpg);"

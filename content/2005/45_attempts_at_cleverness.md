@@ -2,7 +2,7 @@
 title: "Attempts at cleverness"
 date: "2005-06-16 08:43:14"
 tags: [imported, setup, thinkpad]
-category: updates
+category: blog
 slug: attempts_at_cleverness
 ---
 

@@ -2,7 +2,7 @@
 title: "Cartoon Nostalgia"
 date: "2006-03-26 11:49:46"
 tags: [imported, cartoons]
-category: tv
+category: blog
 slug: cartoon_nostalgia
 ---
 

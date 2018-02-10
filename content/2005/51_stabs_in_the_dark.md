@@ -2,7 +2,7 @@
 title: "Stabs in the Dark"
 date: "2005-07-14 20:49:12"
 tags: [imported, css]
-category: updates
+category: blog
 slug: stabs_in_the_dark
 ---
 

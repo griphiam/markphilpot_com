@@ -2,7 +2,7 @@
 title: "Singer of Enchant sings SSB @ Pac Bell!"
 date: "2006-02-21 20:59:05"
 tags: [imported, enchant]
-category: music
+category: blog
 slug: singer_of_enchant_sings_ssb_pac_bell
 ---
 

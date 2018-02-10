@@ -2,7 +2,7 @@
 title: "Upcoming Releases"
 date: "2006-03-16 21:32:55"
 tags: [imported, sierra]
-category: games
+category: blog
 slug: upcoming_releases
 ---
 

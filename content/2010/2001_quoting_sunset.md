@@ -2,7 +2,7 @@
 title: "Quoting a Sunset"
 date: "2010-01-29 13:23:00"
 tags: [thoughts]
-category: thoughts
+category: blog
 slug: sunset
 summary: Quoting a Sunset
 ---

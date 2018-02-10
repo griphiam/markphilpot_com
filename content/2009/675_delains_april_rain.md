@@ -2,7 +2,7 @@
 title: "Delain - \"April Rain\""
 date: "2009-10-14 13:28:59"
 tags: [imported]
-category: music
+category: blog
 slug: delains_april_rain
 ---
 

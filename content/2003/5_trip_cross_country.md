@@ -2,7 +2,7 @@
 title: "Trip Cross Country"
 date: "2003-05-23 14:19:08"
 tags: [imported, driving]
-category: updates
+category: blog
 slug: trip_cross_country
 ---
 

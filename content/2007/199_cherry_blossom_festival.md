@@ -2,7 +2,7 @@
 title: "Cherry Blossom Festival"
 date: "2007-04-01 17:26:40"
 tags: [imported]
-category: photography
+category: blog
 slug: cherry_blossom_festival
 ---
 

@@ -2,7 +2,7 @@
 title: "Scotty down Pegg[ed]"
 date: "2007-10-16 20:34:10"
 tags: [imported]
-category: movies
+category: blog
 slug: scotty_down_pegged
 ---
 

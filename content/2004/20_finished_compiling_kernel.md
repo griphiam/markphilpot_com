@@ -2,7 +2,7 @@
 title: "Finished Compiling Kernel"
 date: "2004-04-06 19:31:24"
 tags: [imported, gentoo]
-category: linux
+category: blog
 slug: finished_compiling_kernel
 ---
 

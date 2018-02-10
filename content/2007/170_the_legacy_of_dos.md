@@ -2,7 +2,7 @@
 title: "the legacy of dos"
 date: "2007-03-22 00:39:07"
 tags: [imported, java, c++]
-category: software
+category: blog
 slug: the_legacy_of_dos
 ---
 

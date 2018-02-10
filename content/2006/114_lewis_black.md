@@ -2,7 +2,7 @@
 title: "Lewis Black!"
 date: "2006-04-22 08:23:30"
 tags: [imported]
-category: humor
+category: blog
 slug: lewis_black
 ---
 

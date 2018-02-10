@@ -2,7 +2,7 @@
 title: "Anime Summer 2017 Retrospective"
 date: "2017-10-04 20:05:00"
 tags: [anime, retro]
-category: anime
+category: blog
 slug: anime_2017_summer_retro
 summary: Retrospective of the Anime Summer 2017 Season
 Hero: "background-image: url(/images/anime/2017/summer/montage.jpg);"

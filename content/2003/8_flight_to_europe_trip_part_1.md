@@ -2,7 +2,7 @@
 title: "Flight to Europe Trip Part 1"
 date: "2003-08-11 11:55:48"
 tags: [imported, story, europe]
-category: travel
+category: blog
 slug: flight_to_europe_trip_part_1
 ---
 

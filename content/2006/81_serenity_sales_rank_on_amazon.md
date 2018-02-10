@@ -2,7 +2,7 @@
 title: "Serenity Sales Rank on Amazon"
 date: "2006-01-08 16:41:49"
 tags: [imported, serenity]
-category: tv
+category: blog
 slug: serenity_sales_rank_on_amazon
 ---
 

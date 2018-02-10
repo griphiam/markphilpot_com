@@ -2,7 +2,7 @@
 title: "round trip"
 date: "2007-07-13 13:41:44"
 tags: [imported]
-category: updates
+category: blog
 slug: round_trip
 ---
 

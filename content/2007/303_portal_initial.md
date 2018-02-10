@@ -2,7 +2,7 @@
 title: "Portal (initial)"
 date: "2007-10-13 21:51:33"
 tags: [imported]
-category: games
+category: blog
 slug: portal_initial
 ---
 

@@ -2,7 +2,7 @@
 title: "oh the irony"
 date: "2008-07-25 17:17:42"
 tags: [imported]
-category: politics
+category: blog
 slug: oh_the_irony
 ---
 

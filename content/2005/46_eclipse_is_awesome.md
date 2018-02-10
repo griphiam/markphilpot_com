@@ -2,7 +2,7 @@
 title: "Eclipse is Awesome!"
 date: "2005-06-20 19:57:05"
 tags: [imported, eclipse, java, c++]
-category: software
+category: blog
 slug: eclipse_is_awesome
 ---
 

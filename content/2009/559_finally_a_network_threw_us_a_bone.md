@@ -2,7 +2,7 @@
 title: "finally a network threw us a bone"
 date: "2009-05-18 13:26:34"
 tags: [imported]
-category: tv
+category: blog
 slug: finally_a_network_threw_us_a_bone
 ---
 

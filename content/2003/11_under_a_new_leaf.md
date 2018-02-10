@@ -2,7 +2,7 @@
 title: "Under a New Leaf"
 date: "2003-11-02 11:52:32"
 tags: [imported, visor, linux]
-category: updates
+category: blog
 slug: under_a_new_leaf
 ---
 

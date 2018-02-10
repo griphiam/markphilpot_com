@@ -2,7 +2,7 @@
 title: "Mac Pro Reborn"
 date: "2017-04-19 19:20:00"
 tags: [mac]
-category: mac
+category: blog
 slug: macpro_reborn
 summary: Rebirth of my Mac Pro
 Hero: "background-image: url(/images/2017/macpro_reborn/hero.jpg);"

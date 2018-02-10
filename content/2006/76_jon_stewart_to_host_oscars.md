@@ -2,7 +2,7 @@
 title: "Jon Stewart to host Oscars"
 date: "2006-01-05 06:48:15"
 tags: [imported]
-category: tv
+category: blog
 slug: jon_stewart_to_host_oscars
 ---
 

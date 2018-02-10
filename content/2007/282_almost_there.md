@@ -2,7 +2,7 @@
 title: "almost... there..."
 date: "2007-09-06 12:11:55"
 tags: [imported, uhaul]
-category: updates
+category: blog
 slug: almost_there
 ---
 

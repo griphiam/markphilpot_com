@@ -2,7 +2,7 @@
 title: "grilln'"
 date: "2007-09-28 13:49:55"
 tags: [imported]
-category: updates
+category: blog
 slug: grilln
 ---
 

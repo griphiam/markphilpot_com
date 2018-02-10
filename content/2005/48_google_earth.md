@@ -2,7 +2,7 @@
 title: "Google Earth"
 date: "2005-07-12 19:35:58"
 tags: [imported, google]
-category: software
+category: blog
 slug: google_earth
 ---
 

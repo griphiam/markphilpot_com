@@ -2,7 +2,7 @@
 title: "does it make you cry?"
 date: "2008-03-03 09:36:44"
 tags: [imported]
-category: thoughts
+category: blog
 slug: does_it_make_you_cry
 ---
 

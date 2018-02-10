@@ -2,7 +2,7 @@
 title: "Kings Quest VI (Playthrough)"
 date: "2008-04-04 16:32:25"
 tags: [imported]
-category: games
+category: blog
 slug: kings_quest_vi_playthrough
 ---
 

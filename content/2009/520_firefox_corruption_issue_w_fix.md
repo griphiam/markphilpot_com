@@ -2,7 +2,7 @@
 title: "firefox corruption issue (w/ fix)"
 date: "2009-04-27 22:17:00"
 tags: [imported]
-category: linux
+category: blog
 slug: firefox_corruption_issue_w_fix
 ---
 

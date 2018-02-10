@@ -2,7 +2,7 @@
 title: "Lost -- Season 1 Review"
 date: "2006-09-04 12:50:32"
 tags: [imported, lost]
-category: tv
+category: blog
 slug: lost_season_1_review
 ---
 

@@ -2,7 +2,7 @@
 title: "lets call it for what it is"
 date: "2007-08-17 12:31:53"
 tags: [imported]
-category: updates
+category: blog
 slug: lets_call_it_for_what_it_is
 ---
 

@@ -2,7 +2,7 @@
 title: "NOVA -- The Elegant Universe"
 date: "2007-05-14 20:59:40"
 tags: [imported]
-category: tv
+category: blog
 slug: nova_the_elegant_universe
 ---
 

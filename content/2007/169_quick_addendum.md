@@ -2,7 +2,7 @@
 title: "quick addendum"
 date: "2007-03-15 00:01:09"
 tags: [imported]
-category: space
+category: blog
 slug: quick_addendum
 ---
 

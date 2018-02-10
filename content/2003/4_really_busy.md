@@ -2,7 +2,7 @@
 title: "Really busy"
 date: "2003-05-10 08:17:10"
 tags: [imported]
-category: updates
+category: blog
 slug: really_busy
 ---
 

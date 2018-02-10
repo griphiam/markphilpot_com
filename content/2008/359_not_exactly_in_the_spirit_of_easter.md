@@ -2,7 +2,7 @@
 title: "not exactly in the spirit of easter..."
 date: "2008-03-24 15:00:40"
 tags: [imported]
-category: links
+category: blog
 slug: not_exactly_in_the_spirit_of_easter
 ---
 

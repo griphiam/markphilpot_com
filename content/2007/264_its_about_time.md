@@ -2,7 +2,7 @@
 title: "its about time!"
 date: "2007-06-28 14:53:50"
 tags: [imported]
-category: software
+category: blog
 slug: its_about_time
 ---
 

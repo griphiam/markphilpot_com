@@ -2,7 +2,7 @@
 title: "Stephenie Meyer - The Host"
 date: "2016-02-21 20:19:00"
 tags: [books, review]
-category: books
+category: blog
 slug: the_host
 summary: Review of Stephenie Meyer's "The Host"
 ---

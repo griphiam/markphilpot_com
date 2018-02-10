@@ -2,7 +2,7 @@
 title: "enjoying olympic coverage"
 date: "2008-08-10 09:50:07"
 tags: [imported]
-category: tv
+category: blog
 slug: enjoying_olympic_coverage
 ---
 

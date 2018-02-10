@@ -2,7 +2,7 @@
 title: "Flight to Europe Part 2"
 date: "2003-08-28 15:50:44"
 tags: [imported, story, europe]
-category: travel
+category: blog
 slug: flight_to_europe_part_2
 ---
 

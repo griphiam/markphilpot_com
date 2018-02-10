@@ -2,7 +2,7 @@
 title: "Batman Begins"
 date: "2005-06-25 15:40:00"
 tags: [imported, batman]
-category: movies
+category: blog
 slug: batman_begins
 ---
 

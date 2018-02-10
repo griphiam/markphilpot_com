@@ -2,7 +2,7 @@
 title: "comments in limbo, new amp"
 date: "2007-06-21 15:56:04"
 tags: [imported, mesa boogie]
-category: updates
+category: blog
 slug: comments_in_limbo
 ---
 

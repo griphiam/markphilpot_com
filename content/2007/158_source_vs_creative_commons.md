@@ -2,7 +2,7 @@
 title: "source vs creative commons"
 date: "2007-02-16 07:09:35"
 tags: [imported, creative commons, lessig]
-category: thoughts
+category: blog
 slug: source_vs_creative_commons
 ---
 

@@ -2,7 +2,7 @@
 title: "Eclipse 3.5 & Ubuntu 9.10"
 date: "2009-11-11 23:12:21"
 tags: [imported, ubuntu, eclipse]
-category: development
+category: blog
 slug: eclipse_3_5_ubuntu_9_10
 ---
 

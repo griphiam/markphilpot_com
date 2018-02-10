@@ -2,7 +2,7 @@
 title: "Transition with Wine/Crossover"
 date: "2006-09-17 10:13:45"
 tags: [imported, winehq, ubuntu]
-category: linux
+category: blog
 slug: transition_with_winecrossover
 ---
 

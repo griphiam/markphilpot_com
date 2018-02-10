@@ -2,7 +2,7 @@
 title: "\"One Week\" Parody"
 date: "2009-01-13 09:44:07"
 tags: [imported]
-category: humor
+category: blog
 slug: one_week_parody
 ---
 

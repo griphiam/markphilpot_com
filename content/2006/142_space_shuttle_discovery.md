@@ -2,7 +2,7 @@
 title: "Space Shuttle Discovery"
 date: "2006-07-06 06:26:36"
 tags: [imported, space shuttle]
-category: space
+category: blog
 slug: space_shuttle_discovery
 ---
 

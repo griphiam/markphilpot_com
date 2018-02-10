@@ -2,7 +2,7 @@
 title: "realizations"
 date: "2009-05-09 13:11:25"
 tags: [imported, ubuntu]
-category: linux
+category: blog
 slug: realizations
 ---
 

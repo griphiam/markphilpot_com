@@ -2,7 +2,7 @@
 title: "why we |should| do it"
 date: "2007-11-01 13:20:35"
 tags: [imported]
-category: space
+category: blog
 slug: why_we_should_do_it
 ---
 

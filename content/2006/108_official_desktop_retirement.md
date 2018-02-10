@@ -2,7 +2,7 @@
 title: "Official Desktop Retirement"
 date: "2006-03-26 15:36:29"
 tags: [imported, setup]
-category: computers
+category: blog
 slug: official_desktop_retirement
 ---
 

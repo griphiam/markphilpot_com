@@ -2,7 +2,7 @@
 title: "history of Arial (the font)"
 date: "2008-08-24 19:41:33"
 tags: [imported]
-category: links
+category: blog
 slug: history_of_arial_the_font
 ---
 

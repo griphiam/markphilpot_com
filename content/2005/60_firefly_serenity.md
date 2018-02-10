@@ -2,7 +2,7 @@
 title: "Firefly & Serenity"
 date: "2005-10-15 17:39:25"
 tags: [imported, firefly, serenity]
-category: tv
+category: blog
 slug: firefly_serenity
 ---
 

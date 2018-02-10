@@ -2,7 +2,7 @@
 title: "Awakened from the depths of slumber"
 date: "2007-01-19 15:31:22"
 tags: [imported]
-category: updates
+category: blog
 slug: awakened_from_the_depths_of_slumber
 ---
 

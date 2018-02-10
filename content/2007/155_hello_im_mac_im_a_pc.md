@@ -2,7 +2,7 @@
 title: "Hello... I'm Mac... & I'm a PC"
 date: "2007-02-05 09:05:29"
 tags: [imported]
-category: computers
+category: blog
 slug: hello_im_mac_im_a_pc
 ---
 

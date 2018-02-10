@@ -2,7 +2,7 @@
 title: "New Images - Fireworks"
 date: "2005-07-19 18:43:10"
 tags: [imported]
-category: photography
+category: blog
 slug: new_images_fireworks
 ---
 

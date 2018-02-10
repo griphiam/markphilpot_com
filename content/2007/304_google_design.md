@@ -2,7 +2,7 @@
 title: "google design"
 date: "2007-10-25 11:38:12"
 tags: [imported]
-category: thoughts
+category: blog
 slug: google_design
 ---
 

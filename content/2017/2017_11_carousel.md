@@ -2,7 +2,7 @@
 title: "2017 Anime Carousel"
 date: "2017-12-30 16:28:00"
 tags: [anime, carousel]
-category: anime
+category: blog
 slug: anime_2017_carousel
 summary: Carousel of all the anime I watched this year
 ---

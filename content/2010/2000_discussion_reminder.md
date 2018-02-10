@@ -2,7 +2,7 @@
 title: "Reminder of a Discussion"
 date: "2010-01-29 13:49:01"
 tags: [thoughts]
-category: thoughts
+category: blog
 slug: discussion
 summary: Reminder of a Discussion
 ---

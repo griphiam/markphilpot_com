@@ -2,7 +2,7 @@
 title: "Question"
 date: "2006-06-30 20:10:52"
 tags: [imported, java, c++]
-category: development
+category: blog
 slug: question
 ---
 

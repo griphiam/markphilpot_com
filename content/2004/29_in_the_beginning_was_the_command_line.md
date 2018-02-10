@@ -2,7 +2,7 @@
 title: "In the Beginning was the Command Line..."
 date: "2004-09-08 21:05:19"
 tags: [imported, Stephenson, gentoo, windows]
-category: linux
+category: blog
 slug: in_the_beginning_was_the_command_line
 ---
 

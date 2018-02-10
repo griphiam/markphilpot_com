@@ -2,7 +2,7 @@
 title: "review of Jericho"
 date: "2008-03-10 20:16:00"
 tags: [imported]
-category: tv
+category: blog
 slug: review_of_jericho
 ---
 

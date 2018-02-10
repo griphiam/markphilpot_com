@@ -2,7 +2,7 @@
 title: "Nerdfighterlike"
 date: "2010-04-14 21:46:27"
 tags: [imported]
-category: creative
+category: blog
 slug: nerdfighterlike
 ---
 

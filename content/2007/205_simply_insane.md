@@ -2,7 +2,7 @@
 title: "simply insane"
 date: "2007-04-19 00:03:08"
 tags: [imported]
-category: thoughts
+category: blog
 slug: simply_insane
 ---
 

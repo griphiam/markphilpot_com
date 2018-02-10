@@ -2,7 +2,7 @@
 title: "here we go"
 date: "2007-06-08 11:27:49"
 tags: [imported]
-category: movies
+category: blog
 slug: here_we_go
 ---
 

@@ -2,7 +2,7 @@
 title: "need another roger ebert"
 date: "2007-06-01 00:34:01"
 tags: [imported]
-category: thoughts
+category: blog
 slug: need_another_roger_ebert
 ---
 

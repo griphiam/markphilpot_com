@@ -2,7 +2,7 @@
 title: "Windows 7 & Kubuntu 10.04"
 date: "2010-05-03 15:20:25"
 tags: [imported]
-category: linux
+category: blog
 slug: windows_7_kubuntu_10_04
 ---
 

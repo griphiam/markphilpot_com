@@ -2,7 +2,7 @@
 title: "Damnit"
 date: "2007-06-13 09:38:00"
 tags: [imported]
-category: updates
+category: blog
 slug: damnit
 ---
 

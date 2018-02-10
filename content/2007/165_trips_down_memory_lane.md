@@ -2,7 +2,7 @@
 title: "trips down memory lane"
 date: "2007-02-28 12:34:45"
 tags: [imported, cartoons]
-category: tv
+category: blog
 slug: trips_down_memory_lane
 ---
 

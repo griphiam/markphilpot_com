@@ -2,7 +2,7 @@
 title: "making a radio/video edit"
 date: "2007-05-05 13:42:43"
 tags: [imported]
-category: music
+category: blog
 slug: making_a_radiovideo_edit
 ---
 

@@ -2,7 +2,7 @@
 title: "Harry Potter"
 date: "2005-11-27 11:11:40"
 tags: [imported, harry potter]
-category: movies
+category: blog
 slug: harry_potter
 ---
 

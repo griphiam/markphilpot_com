@@ -2,7 +2,7 @@
 title: "Site admin"
 date: "2005-04-26 18:54:12"
 tags: [imported]
-category: updates
+category: blog
 slug: site_admin
 ---
 

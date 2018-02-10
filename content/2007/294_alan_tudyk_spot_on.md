@@ -2,7 +2,7 @@
 title: "Alan Tudyk spot on"
 date: "2007-09-26 22:33:22"
 tags: [imported]
-category: tv
+category: blog
 slug: alan_tudyk_spot_on
 ---
 

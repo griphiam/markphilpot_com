@@ -2,7 +2,7 @@
 title: "Testing out upgraded Gallery"
 date: "2007-03-31 22:59:52"
 tags: [imported]
-category: updates
+category: blog
 slug: testing_out_upgraded_gallery
 ---
 

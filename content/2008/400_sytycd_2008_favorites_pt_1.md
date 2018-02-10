@@ -2,7 +2,7 @@
 title: "SYTYCD 2008 (Favorites pt 1)"
 date: "2008-06-27 08:16:06"
 tags: [imported]
-category: tv
+category: blog
 slug: sytycd_2008_favorites_pt_1
 ---
 

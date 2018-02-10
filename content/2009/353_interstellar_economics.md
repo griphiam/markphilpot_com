@@ -2,7 +2,7 @@
 title: "interstellar economics"
 date: "2009-04-26 23:51:02"
 tags: [imported]
-category: space
+category: blog
 slug: interstellar_economics
 ---
 

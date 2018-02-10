@@ -2,7 +2,7 @@
 title: "fixing wordpress -- editor removing div tags"
 date: "2007-03-19 12:55:51"
 tags: [imported, wordpress]
-category: software
+category: blog
 slug: fixing_wordpress_editor_removing_div_tags
 ---
 

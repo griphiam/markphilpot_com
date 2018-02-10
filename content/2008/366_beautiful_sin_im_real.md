@@ -2,7 +2,7 @@
 title: "Beautiful Sin - I'm Real"
 date: "2008-04-14 14:44:01"
 tags: [imported]
-category: music
+category: blog
 slug: beautiful_sin_im_real
 ---
 

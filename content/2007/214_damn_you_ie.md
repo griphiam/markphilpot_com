@@ -2,7 +2,7 @@
 title: "damn you ie"
 date: "2007-04-16 13:59:39"
 tags: [imported, css]
-category: rant
+category: blog
 slug: damn_you_ie
 ---
 

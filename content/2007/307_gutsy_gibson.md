@@ -2,7 +2,7 @@
 title: "gutsy gibson"
 date: "2007-10-18 11:44:56"
 tags: [imported, ubuntu]
-category: linux
+category: blog
 slug: gutsy_gibson
 ---
 

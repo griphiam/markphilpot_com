@@ -2,7 +2,7 @@
 title: "value of offsite backups"
 date: "2006-08-29 10:05:31"
 tags: [imported, backups]
-category: updates
+category: blog
 slug: value_of_offsite_backups
 ---
 

@@ -2,7 +2,7 @@
 title: "Nightwish"
 date: "2007-09-15 00:15:21"
 tags: [imported]
-category: music
+category: blog
 slug: nightwish
 ---
 

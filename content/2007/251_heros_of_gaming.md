@@ -2,7 +2,7 @@
 title: "heros of gaming"
 date: "2007-06-26 01:17:45"
 tags: [imported, longest journey, dreamfall]
-category: games
+category: blog
 slug: heros_of_gaming
 ---
 

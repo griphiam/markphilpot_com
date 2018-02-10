@@ -2,7 +2,7 @@
 title: "business time"
 date: "2008-03-06 21:59:24"
 tags: [imported]
-category: humor
+category: blog
 slug: business_time
 ---
 

@@ -2,7 +2,7 @@
 title: "writers on strike... what to do?"
 date: "2007-11-12 09:40:32"
 tags: [imported]
-category: tv
+category: blog
 slug: writers_on_strike_what_to_do
 ---
 

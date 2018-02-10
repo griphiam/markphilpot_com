@@ -2,7 +2,7 @@
 title: "clever collegehumor"
 date: "2008-07-22 16:42:13"
 tags: [imported]
-category: links
+category: blog
 slug: clever_collegehumor
 ---
 

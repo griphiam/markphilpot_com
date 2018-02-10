@@ -2,7 +2,7 @@
 title: "holy crap"
 date: "2007-09-12 16:07:32"
 tags: [imported, driving]
-category: updates
+category: blog
 slug: holy_crap
 ---
 

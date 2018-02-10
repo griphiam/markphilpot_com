@@ -2,7 +2,7 @@
 title: "Frank Miller's \"300\""
 date: "2007-03-04 20:27:34"
 tags: [imported]
-category: movies
+category: blog
 slug: frank_millers_300
 ---
 

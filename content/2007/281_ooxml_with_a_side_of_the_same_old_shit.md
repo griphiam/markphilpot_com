@@ -2,7 +2,7 @@
 title: "OOXML with a side of the same old shit"
 date: "2007-09-25 23:12:25"
 tags: [imported]
-category: rant
+category: blog
 slug: ooxml_with_a_side_of_the_same_old_shit
 ---
 

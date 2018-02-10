@@ -2,7 +2,7 @@
 title: "Anime Winter 2016 Retrospective"
 date: "2016-04-14 20:51:00"
 tags: [anime, retro]
-category: anime
+category: blog
 slug: anime_2016_winter_retro
 summary: Retrospective of the Anime Winter 2016 Season
 Hero: "background-image: url(/images/anime/2016/winter/hero.jpg);"

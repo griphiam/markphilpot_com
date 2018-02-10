@@ -2,7 +2,7 @@
 title: "PAX 2008 -- Still Alive"
 date: "2008-09-02 09:08:01"
 tags: [imported]
-category: music
+category: blog
 slug: pax_2008_still_alive
 ---
 

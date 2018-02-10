@@ -2,7 +2,7 @@
 title: "Anime Fall 2017 Retrospective"
 date: "2018-02-10 13:15:00"
 tags: [anime, retro]
-category: anime
+category: blog
 slug: anime_2017_fall_retro
 summary: Retrospective of the Anime Fall 2017 Season
 Hero: "background-image: url(/images/anime/2017/fall/hero.jpg);"

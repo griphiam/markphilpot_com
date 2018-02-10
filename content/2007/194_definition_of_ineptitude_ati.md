@@ -2,7 +2,7 @@
 title: "definition of ineptitude -- ATI"
 date: "2007-03-27 00:27:05"
 tags: [imported, ati]
-category: rant
+category: blog
 slug: definition_of_ineptitude_ati
 ---
 

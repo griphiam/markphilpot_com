@@ -2,7 +2,7 @@
 title: "How not to program a user interface"
 date: "2007-04-16 15:37:03"
 tags: [imported]
-category: rant
+category: blog
 slug: how_not_to_program_a_user_interface
 ---
 

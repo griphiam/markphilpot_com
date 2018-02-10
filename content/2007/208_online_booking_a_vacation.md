@@ -2,7 +2,7 @@
 title: "online booking a vacation"
 date: "2007-04-13 00:53:27"
 tags: [imported]
-category: rant
+category: blog
 slug: online_booking_a_vacation
 ---
 

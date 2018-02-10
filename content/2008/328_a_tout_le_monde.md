@@ -2,7 +2,7 @@
 title: "a tout le monde"
 date: "2008-01-10 10:26:56"
 tags: [imported]
-category: music
+category: blog
 slug: a_tout_le_monde
 ---
 

@@ -2,7 +2,7 @@
 title: "Computer Software Installation"
 date: "2004-02-01 17:16:08"
 tags: [imported, setup]
-category: software
+category: blog
 slug: computer_software_installation
 ---
 

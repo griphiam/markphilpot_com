@@ -2,7 +2,7 @@
 title: "An odd thought..."
 date: "2003-11-16 00:12:53"
 tags: [imported, microsoft, linux]
-category: thoughts
+category: blog
 slug: an_odd_thought
 ---
 

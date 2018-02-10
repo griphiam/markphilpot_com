@@ -2,7 +2,7 @@
 title: "Little Miss Sunshine"
 date: "2006-08-29 09:52:38"
 tags: [imported]
-category: movies
+category: blog
 slug: little_miss_sunshine
 ---
 

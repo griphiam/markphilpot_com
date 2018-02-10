@@ -2,7 +2,7 @@
 title: "My first SourceForge Project"
 date: "2003-12-12 21:27:54"
 tags: [imported]
-category: development
+category: blog
 slug: my_first_sourceforge_project
 ---
 

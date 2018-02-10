@@ -2,7 +2,7 @@
 title: "Anime Spring 2016 Retrospective"
 date: "2016-07-31 22:01:00"
 tags: [anime, retro]
-category: anime
+category: blog
 slug: anime_2016_spring_retro
 summary: Retrospective of the Anime Spring 2016 Season
 Hero: "background-image: url(/images/anime/2016/spring/hero.jpg);"

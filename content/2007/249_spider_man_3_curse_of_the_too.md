@@ -2,7 +2,7 @@
 title: "Spider Man 3 - curse of the too"
 date: "2007-05-24 18:14:13"
 tags: [imported]
-category: movies
+category: blog
 slug: spider_man_3_curse_of_the_too
 ---
 

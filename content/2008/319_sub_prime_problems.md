@@ -2,7 +2,7 @@
 title: "sub-prime problems"
 date: "2008-01-18 16:17:51"
 tags: [imported]
-category: links
+category: blog
 slug: sub_prime_problems
 ---
 

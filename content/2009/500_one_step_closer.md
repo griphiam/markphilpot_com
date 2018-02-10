@@ -2,7 +2,7 @@
 title: "one step closer"
 date: "2009-04-26 23:43:02"
 tags: [imported, ubuntu, winehq]
-category: linux
+category: blog
 slug: one_step_closer
 ---
 

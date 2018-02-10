@@ -2,7 +2,7 @@
 title: "friday fun"
 date: "2007-03-23 19:27:21"
 tags: [imported]
-category: thoughts
+category: blog
 slug: friday_fun
 ---
 

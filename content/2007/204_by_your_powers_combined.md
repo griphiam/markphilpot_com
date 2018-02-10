@@ -2,7 +2,7 @@
 title: "by your powers combined"
 date: "2007-04-13 21:00:13"
 tags: [imported, ati]
-category: linux
+category: blog
 slug: by_your_powers_combined
 ---
 

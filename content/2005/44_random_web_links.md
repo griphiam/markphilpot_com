@@ -2,7 +2,7 @@
 title: "Random Web Links"
 date: "2005-06-10 16:45:06"
 tags: [imported]
-category: links
+category: blog
 slug: random_web_links
 ---
 

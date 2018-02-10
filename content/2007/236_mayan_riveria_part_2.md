@@ -2,7 +2,7 @@
 title: "Mayan Riveria (part 2)"
 date: "2007-05-20 23:05:55"
 tags: [imported]
-category: travel
+category: blog
 slug: mayan_riveria_part_2
 ---
 

@@ -2,7 +2,7 @@
 title: "King's Quest VI OST"
 date: "2010-09-22 21:51:22"
 tags: [imported]
-category: music
+category: blog
 slug: kings_quest_vi_ost
 ---
 

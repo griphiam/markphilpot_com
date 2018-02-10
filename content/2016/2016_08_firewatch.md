@@ -2,7 +2,7 @@
 title: "Firewatch"
 date: "2016-03-08 12:51:00"
 tags: [review, games]
-category: games
+category: blog
 slug: firewatch
 summary: Review of Panic's Firewatch
 Hero: "background-image: url(/images/2016/firewatch/hero.jpg);"

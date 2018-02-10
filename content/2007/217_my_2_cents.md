@@ -2,7 +2,7 @@
 title: "my 2 cents"
 date: "2007-04-17 00:39:48"
 tags: [imported]
-category: tv
+category: blog
 slug: my_2_cents
 ---
 

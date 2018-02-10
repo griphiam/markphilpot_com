@@ -2,7 +2,7 @@
 title: "Pano Photography"
 date: "2005-05-02 20:12:49"
 tags: [imported, pano]
-category: photography
+category: blog
 slug: pano_photography
 ---
 

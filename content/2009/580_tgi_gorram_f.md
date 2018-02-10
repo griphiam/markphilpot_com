@@ -2,7 +2,7 @@
 title: "TGI gorram F"
 date: "2009-06-05 11:11:42"
 tags: [imported]
-category: updates
+category: blog
 slug: tgi_gorram_f
 ---
 

@@ -2,7 +2,7 @@
 title: "worlds worst (but best stories)"
 date: "2007-12-19 14:19:44"
 tags: [imported]
-category: links
+category: blog
 slug: worlds_worst_but_best_stories
 ---
 

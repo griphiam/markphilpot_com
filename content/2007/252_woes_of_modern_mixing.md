@@ -2,7 +2,7 @@
 title: "woes of modern mixing"
 date: "2007-06-05 22:31:56"
 tags: [imported]
-category: rant
+category: blog
 slug: woes_of_modern_mixing
 ---
 

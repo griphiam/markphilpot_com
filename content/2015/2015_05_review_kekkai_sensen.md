@@ -2,7 +2,7 @@
 title: "Kekkai Sensen"
 date: "2015-10-18 12:00:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_kekkai_sensen
 summary: Review of Kekkai Sensen
 ---

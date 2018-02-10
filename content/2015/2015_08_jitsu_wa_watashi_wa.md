@@ -2,7 +2,7 @@
 title: "Jitsu wa Watashi wa"
 date: "2015-10-27 12:00:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_jitsu_wa_watashi_wa
 summary: Review of Jitsu wa Watashi wa
 ---

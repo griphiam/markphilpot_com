@@ -2,7 +2,7 @@
 title: "Delicious Linkroll -- Canvas Plugin"
 date: "2006-06-29 21:12:40"
 tags: [imported, delicious]
-category: software
+category: blog
 slug: delicious_linkroll_canvas_plugin
 ---
 

@@ -2,7 +2,7 @@
 title: "Grisaia no Kajitsu VN"
 date: "2016-11-13 23:20:00"
 tags: [visual novel, review]
-category: vns
+category: blog
 slug: grisaia_vn
 summary: Review of the visual novel Grisaia no Kajitsu
 ---

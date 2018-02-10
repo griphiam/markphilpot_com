@@ -2,7 +2,7 @@
 title: "Anatomy of impending doom"
 date: "2008-07-01 21:53:58"
 tags: [imported]
-category: rant
+category: blog
 slug: anatomy_of_impending_doom
 ---
 

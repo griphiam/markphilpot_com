@@ -2,7 +2,7 @@
 title: "Ann's Hurt"
 date: "2006-02-21 21:27:23"
 tags: [imported]
-category: updates
+category: blog
 slug: anns_hurt
 ---
 

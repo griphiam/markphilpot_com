@@ -2,7 +2,7 @@
 title: "Battlestar Galactica"
 date: "2006-01-09 10:24:12"
 tags: [imported]
-category: tv
+category: blog
 slug: battlestar_galactica
 ---
 

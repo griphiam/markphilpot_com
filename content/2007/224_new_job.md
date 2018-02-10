@@ -2,7 +2,7 @@
 title: "new job"
 date: "2007-04-24 01:18:35"
 tags: [imported]
-category: updates
+category: blog
 slug: new_job
 ---
 

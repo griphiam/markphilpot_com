@@ -2,7 +2,7 @@
 title: "Ubuntu (Kubuntu)"
 date: "2005-04-25 20:15:15"
 tags: [imported, ubuntu, winehq, gnome, kde]
-category: linux
+category: blog
 slug: ubuntu_kubuntu
 ---
 

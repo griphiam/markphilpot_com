@@ -2,7 +2,7 @@
 title: "Anime Summer 2015 Retrospective"
 date: "2015-10-12 09:30:00"
 tags: [anime, retro]
-category: anime
+category: blog
 slug: anime_2015_summer_retro
 summary: Retrospective of the Summer 2015 Anime Season
 ---

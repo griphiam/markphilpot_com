@@ -2,7 +2,7 @@
 title: "proprietary markup"
 date: "2007-05-12 00:04:37"
 tags: [imported]
-category: thoughts
+category: blog
 slug: proprietary_markup
 ---
 

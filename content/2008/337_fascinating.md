@@ -2,7 +2,7 @@
 title: "fascinating"
 date: "2008-02-26 12:54:16"
 tags: [imported]
-category: movies
+category: blog
 slug: fascinating
 ---
 

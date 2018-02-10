@@ -2,7 +2,7 @@
 title: "Charlotte"
 date: "2015-10-26 12:00:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_charlotte
 summary: Review of Charlotte
 ---

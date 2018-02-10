@@ -2,7 +2,7 @@
 title: "Exciting News"
 date: "2007-01-24 19:03:51"
 tags: [imported]
-category: updates
+category: blog
 slug: exciting_news
 ---
 

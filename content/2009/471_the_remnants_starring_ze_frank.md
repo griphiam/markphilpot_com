@@ -2,7 +2,7 @@
 title: "The Remnants (Starring Ze Frank!)"
 date: "2009-01-21 10:13:57"
 tags: [imported]
-category: humor
+category: blog
 slug: the_remnants_starring_ze_frank
 ---
 

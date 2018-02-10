@@ -2,7 +2,7 @@
 title: "note to Apple"
 date: "2009-05-19 09:16:00"
 tags: [imported, apple]
-category: rant
+category: blog
 slug: note_to_apple
 ---
 

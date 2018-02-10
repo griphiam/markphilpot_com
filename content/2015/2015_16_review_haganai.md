@@ -2,7 +2,7 @@
 title: "Boku wa Tomodachi ga Sukunai"
 date: "2015-12-22 18:40:01"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_boku_wa_tomodachi_ga_sukunai
 summary: Review of Boku wa Tomodachi ga Sukunai
 ---

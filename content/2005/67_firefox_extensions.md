@@ -2,7 +2,7 @@
 title: "Firefox Extensions"
 date: "2005-11-20 08:09:57"
 tags: [imported, setup]
-category: software
+category: blog
 slug: firefox_extensions
 ---
 

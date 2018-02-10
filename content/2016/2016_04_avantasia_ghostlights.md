@@ -2,7 +2,7 @@
 title: "Avantasia - Ghostlights"
 date: "2016-02-20 13:35:00"
 tags: [music, review]
-category: music
+category: blog
 slug: avantasia_ghostlights
 summary: Review of Avantasia's "Ghostlights"
 Hero: "background-image: url(/images/2016/avantasia/hero.jpg);"

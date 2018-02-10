@@ -2,7 +2,7 @@
 title: "Lifestream Graph"
 date: "2009-11-17 19:39:53"
 tags: [imported]
-category: development
+category: blog
 slug: lifestream_graph
 ---
 

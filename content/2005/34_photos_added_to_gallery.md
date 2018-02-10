@@ -2,7 +2,7 @@
 title: "Photos added to Gallery"
 date: "2005-04-27 19:54:23"
 tags: [imported]
-category: photography
+category: blog
 slug: photos_added_to_gallery
 ---
 

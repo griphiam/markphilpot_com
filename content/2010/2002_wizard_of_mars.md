@@ -2,7 +2,7 @@
 title: "Diane Duane - A Wizard of Mars"
 date: "2010-04-16 15:17:01"
 tags: [review]
-category: books
+category: blog
 slug: wizard_of_mars
 summary: A review of "A Wizard of Mars"
 ---

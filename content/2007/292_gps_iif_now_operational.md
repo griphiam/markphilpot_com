@@ -2,7 +2,7 @@
 title: "GPS AEP now operational"
 date: "2007-09-24 12:03:42"
 tags: [imported]
-category: space
+category: blog
 slug: gps_iif_now_operational
 ---
 

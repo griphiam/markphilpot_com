@@ -2,7 +2,7 @@
 title: "Serenity DVD"
 date: "2005-11-10 14:29:34"
 tags: [imported, serenity]
-category: movies
+category: blog
 slug: serenity_dvd
 ---
 

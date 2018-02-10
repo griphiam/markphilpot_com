@@ -2,7 +2,7 @@
 title: "Traveler thoughts"
 date: "2007-05-11 10:06:53"
 tags: [imported]
-category: tv
+category: blog
 slug: traveler_thoughts
 ---
 

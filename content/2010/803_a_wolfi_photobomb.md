@@ -2,7 +2,7 @@
 title: "A Wolfi Photobomb"
 date: "2010-05-04 01:24:02"
 tags: [imported]
-category: links
+category: blog
 slug: a_wolfi_photobomb
 ---
 

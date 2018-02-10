@@ -2,7 +2,7 @@
 title: "Hail to the King"
 date: "2007-05-15 22:12:31"
 tags: [imported]
-category: tv
+category: blog
 slug: hail_to_the_king
 ---
 

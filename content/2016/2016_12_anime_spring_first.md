@@ -2,7 +2,7 @@
 title: "Anime Spring 2016 First Impressions"
 date: "2016-04-22 22:36:00"
 tags: [anime, first impressions]
-category: anime
+category: blog
 slug: anime_2016_spring_first
 summary: First Impressions of the Anime Spring 2016 Season
 Hero: "background-image: url(/images/anime/2016/spring/hero.jpg);"

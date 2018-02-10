@@ -2,7 +2,7 @@
 title: "when it rains... it pours"
 date: "2009-05-30 22:54:38"
 tags: [imported]
-category: updates
+category: blog
 slug: when_it_rains_it_pours
 ---
 

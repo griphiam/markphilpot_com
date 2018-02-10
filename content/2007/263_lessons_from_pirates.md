@@ -2,7 +2,7 @@
 title: "lessons from pirates"
 date: "2007-10-26 11:38:32"
 tags: [imported]
-category: thoughts
+category: blog
 slug: lessons_from_pirates
 ---
 

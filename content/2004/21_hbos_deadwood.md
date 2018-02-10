@@ -2,7 +2,7 @@
 title: "HBO's Deadwood"
 date: "2004-04-09 10:42:37"
 tags: [imported]
-category: tv
+category: blog
 slug: hbos_deadwood
 ---
 

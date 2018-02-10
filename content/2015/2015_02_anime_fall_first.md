@@ -2,7 +2,7 @@
 title: "Anime Fall 2015 First Impressions"
 date: "2015-10-09 21:30:00"
 tags: [anime, first impressions]
-category: anime
+category: blog
 slug: anime_2015_fall_first
 summary: First Impressions of the Anime Fall 2015 Season
 Hero: "background-image: url(/images/anime/2015/fall/hero.jpg);"

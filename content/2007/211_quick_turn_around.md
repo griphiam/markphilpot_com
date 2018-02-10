@@ -2,7 +2,7 @@
 title: "quick turn around"
 date: "2007-04-10 18:35:38"
 tags: [imported]
-category: updates
+category: blog
 slug: quick_turn_around
 ---
 

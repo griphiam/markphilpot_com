@@ -2,7 +2,7 @@
 title: "this weekend made more difficult"
 date: "2007-09-17 09:31:04"
 tags: [imported, setup]
-category: updates
+category: blog
 slug: this_weekend_made_more_difficult
 ---
 

@@ -2,7 +2,7 @@
 title: "Well, you asked for it"
 date: "2004-04-05 23:39:21"
 tags: [imported]
-category: linux
+category: blog
 slug: well_you_asked_for_it
 ---
 

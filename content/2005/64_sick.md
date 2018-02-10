@@ -2,7 +2,7 @@
 title: "Sick"
 date: "2005-11-14 12:00:25"
 tags: [imported]
-category: updates
+category: blog
 slug: sick
 ---
 

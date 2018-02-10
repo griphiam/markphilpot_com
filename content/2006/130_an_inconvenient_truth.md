@@ -2,7 +2,7 @@
 title: "An Inconvenient Truth"
 date: "2006-06-05 17:58:12"
 tags: [imported]
-category: movies
+category: blog
 slug: an_inconvenient_truth
 ---
 

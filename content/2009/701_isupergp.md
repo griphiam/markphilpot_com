@@ -2,7 +2,7 @@
 title: "iSuperGP"
 date: "2009-11-10 11:53:11"
 tags: [imported]
-category: development
+category: blog
 slug: isupergp
 ---
 

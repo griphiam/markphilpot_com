@@ -2,7 +2,7 @@
 title: "Creative Commons"
 date: "2004-04-14 17:22:05"
 tags: [imported, creative commons, lessig]
-category: thoughts
+category: blog
 slug: creative_commons
 ---
 

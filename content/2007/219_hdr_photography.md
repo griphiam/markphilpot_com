@@ -2,7 +2,7 @@
 title: "HDR Photography"
 date: "2007-05-29 16:47:32"
 tags: [imported]
-category: photography
+category: blog
 slug: hdr_photography
 ---
 

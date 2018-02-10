@@ -2,7 +2,7 @@
 title: "copyright run amok -- guitar tabs"
 date: "2007-04-15 00:36:26"
 tags: [imported]
-category: rant
+category: blog
 slug: copyright_run_amok_guitar_tabs
 ---
 

@@ -2,7 +2,7 @@
 title: "wonderful world of pixar"
 date: "2007-12-10 20:34:39"
 tags: [imported]
-category: movies
+category: blog
 slug: wonderful_world_of_pixar
 ---
 

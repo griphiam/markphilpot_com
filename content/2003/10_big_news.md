@@ -2,7 +2,7 @@
 title: "Big News"
 date: "2003-11-02 11:49:51"
 tags: [imported]
-category: updates
+category: blog
 slug: big_news
 ---
 

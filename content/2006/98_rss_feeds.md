@@ -2,7 +2,7 @@
 title: "RSS Feeds"
 date: "2006-02-07 21:42:13"
 tags: [imported]
-category: software
+category: blog
 slug: rss_feeds
 ---
 

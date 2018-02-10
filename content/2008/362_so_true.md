@@ -2,7 +2,7 @@
 title: "so true"
 date: "2008-04-03 16:56:53"
 tags: [imported]
-category: links
+category: blog
 slug: so_true
 ---
 

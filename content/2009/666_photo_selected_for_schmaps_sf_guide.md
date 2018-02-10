@@ -2,7 +2,7 @@
 title: "Photo selected for Schmap's SF Guide"
 date: "2009-08-14 22:19:18"
 tags: [imported]
-category: photography
+category: blog
 slug: photo_selected_for_schmaps_sf_guide
 ---
 

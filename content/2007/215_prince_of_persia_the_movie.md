@@ -2,7 +2,7 @@
 title: "Prince of Persia -- The Movie"
 date: "2007-05-04 00:34:21"
 tags: [imported]
-category: movies
+category: blog
 slug: prince_of_persia_the_movie
 ---
 

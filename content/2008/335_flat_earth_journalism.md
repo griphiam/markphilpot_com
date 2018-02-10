@@ -2,7 +2,7 @@
 title: "flat earth journalism"
 date: "2008-02-24 22:30:36"
 tags: [imported]
-category: politics
+category: blog
 slug: flat_earth_journalism
 ---
 

@@ -2,7 +2,7 @@
 title: "Google Chrome & Delicious"
 date: "2009-11-18 21:19:06"
 tags: [imported, delicious]
-category: software
+category: blog
 slug: google_chrome_delicious
 ---
 

@@ -2,7 +2,7 @@
 title: "Anime Winter 2018 First Impressions"
 date: "2018-02-10 14:52:00"
 tags: anime, first impressions
-category: anime
+category: blog
 slug: anime_2018_winter_first
 summary: First Impressions of the Anime Winter 2018 Season
 Hero: "background-image: url(/images/anime/2018/winter/hero.jpg);"

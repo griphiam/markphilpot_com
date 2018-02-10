@@ -2,7 +2,7 @@
 title: "a series of unfortunate frustrations"
 date: "2009-05-07 13:43:37"
 tags: [imported, ubuntu, ati]
-category: linux
+category: blog
 slug: a_series_of_unfortunate_frustrations
 ---
 

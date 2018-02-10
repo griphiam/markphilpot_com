@@ -2,7 +2,7 @@
 title: "First Post"
 date: "2014-03-31 21:13"
 tags: [imported, first]
-category: updates
+category: blog
 slug: first-post
 summary: First Post
 ---

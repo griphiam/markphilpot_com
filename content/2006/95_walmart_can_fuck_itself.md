@@ -2,7 +2,7 @@
 title: "Walmart Can Fuck Itself!"
 date: "2006-01-31 15:55:51"
 tags: [imported]
-category: rant
+category: blog
 slug: walmart_can_fuck_itself
 ---
 

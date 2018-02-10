@@ -2,7 +2,7 @@
 title: "D-Movies"
 date: "2008-09-02 09:19:52"
 tags: [imported]
-category: photography
+category: blog
 slug: d_movies
 ---
 

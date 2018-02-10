@@ -2,7 +2,7 @@
 title: "incredible"
 date: "2007-06-25 01:06:13"
 tags: [imported]
-category: links
+category: blog
 slug: incredible
 ---
 

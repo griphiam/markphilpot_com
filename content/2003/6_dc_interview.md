@@ -2,7 +2,7 @@
 title: "DC Interview"
 date: "2003-06-08 01:06:58"
 tags: [imported, uhaul]
-category: updates
+category: blog
 slug: dc_interview
 ---
 

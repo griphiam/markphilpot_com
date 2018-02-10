@@ -2,7 +2,7 @@
 title: "summer movie anticipation"
 date: "2007-04-04 21:25:20"
 tags: [imported]
-category: movies
+category: blog
 slug: summer_movie_anticipation
 ---
 

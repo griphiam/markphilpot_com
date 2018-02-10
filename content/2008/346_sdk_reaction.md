@@ -2,7 +2,7 @@
 title: "sdk reaction"
 date: "2008-03-07 12:45:25"
 tags: [imported, apple]
-category: thoughts
+category: blog
 slug: sdk_reaction
 ---
 

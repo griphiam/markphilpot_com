@@ -2,7 +2,7 @@
 title: "an ipod with a dash of rockbox"
 date: "2007-02-21 17:45:27"
 tags: [imported, apple, jailbreak]
-category: software
+category: blog
 slug: an_ipod_with_a_dash_of_rockbox
 ---
 

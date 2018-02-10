@@ -2,7 +2,7 @@
 title: "data panopticon"
 date: "2007-06-03 23:24:57"
 tags: [imported]
-category: thoughts
+category: blog
 slug: data_panopticon
 ---
 

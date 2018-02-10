@@ -2,7 +2,7 @@
 title: "old picture posts"
 date: "2007-03-02 21:25:38"
 tags: [imported]
-category: photography
+category: blog
 slug: old_picture_posts
 ---
 

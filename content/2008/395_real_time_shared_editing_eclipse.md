@@ -2,7 +2,7 @@
 title: "Real-Time Shared Editing (Eclipse)"
 date: "2008-06-22 10:48:05"
 tags: [imported, eclipse]
-category: software
+category: blog
 slug: real_time_shared_editing_eclipse
 ---
 

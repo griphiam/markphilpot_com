@@ -2,7 +2,7 @@
 title: "ultimate wiffle ball"
 date: "2007-05-22 13:43:05"
 tags: [imported]
-category: links
+category: blog
 slug: ultimate_wiffle_ball
 ---
 

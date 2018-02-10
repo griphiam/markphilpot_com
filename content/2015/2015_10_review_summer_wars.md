@@ -2,7 +2,7 @@
 title: "Summer Wars"
 date: "2015-11-11 09:00:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_summer_wars
 summary: Review of Summer Wars
 ---

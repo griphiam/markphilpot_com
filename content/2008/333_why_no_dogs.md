@@ -2,7 +2,7 @@
 title: "why no dogs?"
 date: "2008-01-28 20:52:10"
 tags: [imported]
-category: photography
+category: blog
 slug: why_no_dogs
 ---
 

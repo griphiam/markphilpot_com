@@ -2,7 +2,7 @@
 title: "Serenity -- where are they now"
 date: "2007-03-21 00:36:19"
 tags: [imported, firefly, serenity]
-category: tv
+category: blog
 slug: serenity_where_are_they_now
 ---
 

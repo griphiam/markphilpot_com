@@ -2,7 +2,7 @@
 title: "games|art"
 date: "2007-10-01 12:07:49"
 tags: [imported, longest journey, dreamfall]
-category: games
+category: blog
 slug: gamesart
 ---
 

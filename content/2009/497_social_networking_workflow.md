@@ -2,7 +2,7 @@
 title: "social networking workflow"
 date: "2009-04-25 00:54:54"
 tags: [imported]
-category: thoughts
+category: blog
 slug: social_networking_workflow
 ---
 

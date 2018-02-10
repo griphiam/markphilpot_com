@@ -2,7 +2,7 @@
 title: "shuttle assembly"
 date: "2008-04-03 11:13:45"
 tags: [imported, space shuttle]
-category: space
+category: blog
 slug: shuttle_assembly
 ---
 

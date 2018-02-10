@@ -2,7 +2,7 @@
 title: "Serenity's Pilot in the Sky"
 date: "2008-01-23 09:32:14"
 tags: [imported, serenity]
-category: creative
+category: blog
 slug: serenitys_pilot_in_the_sky
 ---
 

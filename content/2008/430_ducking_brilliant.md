@@ -2,7 +2,7 @@
 title: "ducking brilliant"
 date: "2008-08-13 11:30:56"
 tags: [imported]
-category: humor
+category: blog
 slug: ducking_brilliant
 ---
 

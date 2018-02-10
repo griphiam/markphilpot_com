@@ -2,7 +2,7 @@
 title: "back and tired"
 date: "2007-05-03 23:28:18"
 tags: [imported]
-category: updates
+category: blog
 slug: back_and_tired
 ---
 

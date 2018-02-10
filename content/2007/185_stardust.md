@@ -2,7 +2,7 @@
 title: "Stardust"
 date: "2007-03-24 00:08:59"
 tags: [imported]
-category: movies
+category: blog
 slug: stardust
 ---
 

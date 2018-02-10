@@ -2,7 +2,7 @@
 title: "down time for the holidays"
 date: "2007-12-07 15:32:21"
 tags: [imported]
-category: updates
+category: blog
 slug: down_time_for_the_holidays
 ---
 

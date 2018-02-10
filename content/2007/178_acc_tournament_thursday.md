@@ -2,7 +2,7 @@
 title: "ACC Tournament (Thursday)"
 date: "2007-03-05 21:42:59"
 tags: [imported, basketball]
-category: duke
+category: blog
 slug: acc_tournament_thursday
 ---
 

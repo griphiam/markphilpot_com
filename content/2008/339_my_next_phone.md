@@ -2,7 +2,7 @@
 title: "my next phone"
 date: "2008-02-27 14:19:16"
 tags: [imported]
-category: thoughts
+category: blog
 slug: my_next_phone
 ---
 

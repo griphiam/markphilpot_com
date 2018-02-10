@@ -2,7 +2,7 @@
 title: "Disaster Recovery (Passwords)"
 date: "2015-11-29 11:27:00"
 tags: [recovery, 1password]
-category: thoughts
+category: blog
 slug: disaster_recovery
 summary: How would you go about recovering from a disaster
 ---

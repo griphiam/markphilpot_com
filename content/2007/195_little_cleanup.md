@@ -2,7 +2,7 @@
 title: "little cleanup"
 date: "2007-03-29 00:01:04"
 tags: [imported, ubuntu]
-category: updates
+category: blog
 slug: little_cleanup
 ---
 

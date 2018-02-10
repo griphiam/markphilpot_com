@@ -2,7 +2,7 @@
 title: "my turn to fly"
 date: "2008-03-13 23:52:39"
 tags: [imported]
-category: creative
+category: blog
 slug: my_turn_to_fly
 ---
 

@@ -2,7 +2,7 @@
 title: "Dreamfall : The Longest Journey"
 date: "2005-07-20 20:00:17"
 tags: [imported, longest journey, dreamfall, final fantasy]
-category: games
+category: blog
 slug: dreamfall_the_longest_journey
 ---
 

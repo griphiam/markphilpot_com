@@ -2,7 +2,7 @@
 title: "glorious AC"
 date: "2007-04-25 00:06:32"
 tags: [imported]
-category: updates
+category: blog
 slug: glorious_ac
 ---
 

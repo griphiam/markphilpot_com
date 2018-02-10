@@ -2,7 +2,7 @@
 title: "Grand Canyon (part 1)"
 date: "2007-10-03 10:58:40"
 tags: [imported]
-category: photography
+category: blog
 slug: grand_canyon_part_1
 ---
 

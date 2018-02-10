@@ -2,7 +2,7 @@
 title: "Kokoro ga Sakebitagatterunda"
 date: "2016-10-27 19:07:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_anthem
 summary: Review of Kokoro ga Sakebitagatterunda
 Hero: "background-image: url(/images/2016/anthem/hero.jpg);"

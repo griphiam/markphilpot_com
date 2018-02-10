@@ -2,7 +2,7 @@
 title: "another take on take on me"
 date: "2008-10-07 13:57:56"
 tags: [imported]
-category: humor
+category: blog
 slug: another_take_on_take_on_me
 ---
 

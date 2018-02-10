@@ -2,7 +2,7 @@
 title: "And I guess I should say..."
 date: "2004-04-05 23:43:10"
 tags: [imported, basketball]
-category: duke
+category: blog
 slug: and_i_guess_i_should_say
 ---
 

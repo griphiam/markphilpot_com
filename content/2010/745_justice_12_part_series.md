@@ -2,7 +2,7 @@
 title: "Justice (12 Part Series)"
 date: "2010-01-05 15:00:58"
 tags: [imported]
-category: links
+category: blog
 slug: justice_12_part_series
 ---
 

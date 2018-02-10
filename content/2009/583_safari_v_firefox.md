@@ -2,7 +2,7 @@
 title: "Safari v. Firefox"
 date: "2009-06-11 11:07:13"
 tags: [imported]
-category: software
+category: blog
 slug: safari_v_firefox
 ---
 

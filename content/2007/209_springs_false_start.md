@@ -2,7 +2,7 @@
 title: "spring's false start"
 date: "2007-04-12 11:30:39"
 tags: [imported]
-category: photography
+category: blog
 slug: springs_false_start
 ---
 

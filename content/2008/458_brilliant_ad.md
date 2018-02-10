@@ -2,7 +2,7 @@
 title: "brilliant ad"
 date: "2008-10-24 17:24:21"
 tags: [imported]
-category: links
+category: blog
 slug: brilliant_ad
 ---
 

@@ -2,7 +2,7 @@
 title: "Castle starring Nathan Fillion"
 date: "2008-10-06 14:38:35"
 tags: [imported]
-category: tv
+category: blog
 slug: castle_starring_nathan_fillion
 ---
 

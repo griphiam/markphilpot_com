@@ -2,7 +2,7 @@
 title: "It's All Gone"
 date: "2005-07-24 16:54:03"
 tags: [imported]
-category: updates
+category: blog
 slug: its_all_gone
 ---
 

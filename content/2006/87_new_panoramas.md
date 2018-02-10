@@ -2,7 +2,7 @@
 title: "New Panoramas"
 date: "2006-01-26 21:03:20"
 tags: [imported]
-category: photography
+category: blog
 slug: new_panoramas
 ---
 

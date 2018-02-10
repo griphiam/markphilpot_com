@@ -2,7 +2,7 @@
 title: "yet another slip"
 date: "2008-10-13 23:31:12"
 tags: [imported]
-category: updates
+category: blog
 slug: yet_another_slip
 ---
 

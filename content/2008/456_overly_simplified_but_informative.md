@@ -2,7 +2,7 @@
 title: "overly simplified but informative"
 date: "2008-10-23 19:31:44"
 tags: [imported]
-category: links
+category: blog
 slug: overly_simplified_but_informative
 ---
 

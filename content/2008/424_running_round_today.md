@@ -2,7 +2,7 @@
 title: "running 'round today"
 date: "2008-07-26 13:52:07"
 tags: [imported]
-category: updates
+category: blog
 slug: running_round_today
 ---
 

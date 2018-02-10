@@ -2,7 +2,7 @@
 title: "Myrath - Legacy"
 date: "2016-05-04 21:35:00"
 tags: [music, review]
-category: music
+category: blog
 slug: myrath_legacy
 summary: Review of Myrath's new album 'Legacy'
 Hero: "background-image: url(/images/2016/myrath/hero.jpg);"

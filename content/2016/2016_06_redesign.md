@@ -2,7 +2,7 @@
 title: "Redesign"
 date: "2016-03-03 23:16:00"
 tags: [thoughts]
-category: updates
+category: blog
 slug: redesign
 Hero: "background-image: url(/images/2016/redesign/hero.jpg);"
 ---

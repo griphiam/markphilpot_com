@@ -2,7 +2,7 @@
 title: "Computers and Privilege"
 date: "2014-09-24 08:50:45"
 tags: [thoughts, linux, open source]
-category: thoughts
+category: blog
 slug: computer_privilege
 summary: Computers are the privilege, not open source
 ---

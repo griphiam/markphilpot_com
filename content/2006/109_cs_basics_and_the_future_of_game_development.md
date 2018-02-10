@@ -2,7 +2,7 @@
 title: "CS Basics and the Future of Game Development"
 date: "2006-04-10 19:00:35"
 tags: [imported]
-category: games
+category: blog
 slug: cs_basics_and_the_future_of_game_development
 ---
 

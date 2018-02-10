@@ -2,7 +2,7 @@
 title: "happy memories"
 date: "2009-07-31 13:23:51"
 tags: [imported]
-category: photography
+category: blog
 slug: happy_memories
 ---
 

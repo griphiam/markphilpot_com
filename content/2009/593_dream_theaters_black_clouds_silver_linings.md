@@ -2,7 +2,7 @@
 title: "Dream Theater's Black Clouds & Silver Linings"
 date: "2009-06-24 16:35:02"
 tags: [imported]
-category: music
+category: blog
 slug: dream_theaters_black_clouds_silver_linings
 ---
 

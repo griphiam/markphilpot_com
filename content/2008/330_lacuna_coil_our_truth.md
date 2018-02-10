@@ -2,7 +2,7 @@
 title: "lacuna coil - our truth"
 date: "2008-01-17 15:33:39"
 tags: [imported]
-category: music
+category: blog
 slug: lacuna_coil_our_truth
 ---
 

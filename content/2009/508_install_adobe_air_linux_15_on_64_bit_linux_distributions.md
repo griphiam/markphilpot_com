@@ -2,7 +2,7 @@
 title: "Install Adobe AIR Linux 1.5 on 64-bit Linux distributions"
 date: "2009-04-27 00:45:53"
 tags: [imported]
-category: linux
+category: blog
 slug: install_adobe_air_linux_15_on_64_bit_linux_distributions
 ---
 

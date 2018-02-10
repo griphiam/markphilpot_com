@@ -2,7 +2,7 @@
 title: "Reiser"
 date: "2007-07-02 13:54:16"
 tags: [imported]
-category: thoughts
+category: blog
 slug: reiser
 ---
 

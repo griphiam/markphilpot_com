@@ -2,7 +2,7 @@
 title: "Interesting Stats..."
 date: "2006-01-23 17:07:31"
 tags: [imported]
-category: updates
+category: blog
 slug: interesting_stats
 ---
 

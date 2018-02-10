@@ -2,7 +2,7 @@
 title: "Departed"
 date: "2007-04-03 22:20:03"
 tags: [imported]
-category: movies
+category: blog
 slug: departed
 ---
 

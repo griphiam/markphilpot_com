@@ -2,7 +2,7 @@
 title: "Large Pano Coming"
 date: "2006-02-19 17:31:35"
 tags: [imported]
-category: updates
+category: blog
 slug: large_pano_coming
 ---
 

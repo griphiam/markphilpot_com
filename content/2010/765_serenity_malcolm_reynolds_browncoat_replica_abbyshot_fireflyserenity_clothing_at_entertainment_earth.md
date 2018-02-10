@@ -2,7 +2,7 @@
 title: "Serenity Malcolm Reynolds Browncoat Replica"
 date: "2010-03-01 10:28:00"
 tags: [imported, serenity]
-category: tv
+category: blog
 slug: serenity_malcolm_reynolds_browncoat_replica_abbyshot_fireflyserenity_clothing_at_entertainment_earth
 ---
 

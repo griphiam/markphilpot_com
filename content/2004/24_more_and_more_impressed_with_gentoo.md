@@ -2,7 +2,7 @@
 title: "More and more impressed with Gentoo"
 date: "2004-04-10 11:06:38"
 tags: [imported, gentoo, winehq]
-category: linux
+category: blog
 slug: more_and_more_impressed_with_gentoo
 ---
 

@@ -2,7 +2,7 @@
 title: "long-term storage"
 date: "2007-03-28 00:17:41"
 tags: [imported, backups]
-category: computers
+category: blog
 slug: long_term_storage
 ---
 

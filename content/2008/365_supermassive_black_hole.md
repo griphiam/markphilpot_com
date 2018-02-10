@@ -2,7 +2,7 @@
 title: "supermassive black hole"
 date: "2008-04-06 10:58:49"
 tags: [imported]
-category: music
+category: blog
 slug: supermassive_black_hole
 ---
 

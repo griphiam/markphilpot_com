@@ -2,7 +2,7 @@
 title: "social networking"
 date: "2008-01-17 13:02:27"
 tags: [imported]
-category: thoughts
+category: blog
 slug: social_networking
 ---
 

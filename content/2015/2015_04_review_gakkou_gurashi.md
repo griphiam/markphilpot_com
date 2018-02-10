@@ -2,7 +2,7 @@
 title: "Gakkou Gurashi!"
 date: "2015-10-14 12:30:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_gakkou_gurashi
 summary: Review of Gakkou Gurashi!
 ---

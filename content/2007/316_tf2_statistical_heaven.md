@@ -2,7 +2,7 @@
 title: "tf2 -- statistical heaven"
 date: "2007-12-11 16:54:18"
 tags: [imported]
-category: games
+category: blog
 slug: tf2_statistical_heaven
 ---
 

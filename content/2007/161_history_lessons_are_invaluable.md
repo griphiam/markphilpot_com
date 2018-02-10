@@ -2,7 +2,7 @@
 title: "history lessons are invaluable"
 date: "2007-02-22 09:57:06"
 tags: [imported]
-category: thoughts
+category: blog
 slug: history_lessons_are_invaluable
 ---
 

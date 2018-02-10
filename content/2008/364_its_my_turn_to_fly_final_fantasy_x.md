@@ -2,7 +2,7 @@
 title: "It's My Turn To Fly (Final Fantasy X)"
 date: "2008-04-04 18:43:01"
 tags: [imported]
-category: creative
+category: blog
 slug: its_my_turn_to_fly_final_fantasy_x
 ---
 

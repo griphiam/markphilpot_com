@@ -2,7 +2,7 @@
 title: "signs of the apocalypse"
 date: "2007-04-23 20:21:57"
 tags: [imported]
-category: thoughts
+category: blog
 slug: signs_of_the_apocalypse
 ---
 

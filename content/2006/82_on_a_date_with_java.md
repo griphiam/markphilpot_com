@@ -2,7 +2,7 @@
 title: "On a Date with Java"
 date: "2006-01-19 10:13:25"
 tags: [imported, java]
-category: development
+category: blog
 slug: on_a_date_with_java
 ---
 

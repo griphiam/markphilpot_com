@@ -2,7 +2,7 @@
 title: "GNU Screen Cheat Sheet"
 date: "2009-05-03 22:41:23"
 tags: [imported]
-category: linux
+category: blog
 slug: gnu_screen_cheat_sheet
 ---
 

@@ -2,7 +2,7 @@
 title: "The Longest Journey"
 date: "2017-11-09 20:12:00"
 tags: [games]
-category: games
+category: blog
 slug: tjl
 summary: Retrospective of the Longest Journey
 Hero: "background-image: url(/images/2017/tlj/hero.jpg);"

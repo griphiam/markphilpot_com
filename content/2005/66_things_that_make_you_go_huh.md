@@ -2,7 +2,7 @@
 title: "Things that make you go... huh?"
 date: "2005-11-19 06:40:35"
 tags: [imported]
-category: movies
+category: blog
 slug: things_that_make_you_go_huh
 ---
 

@@ -2,7 +2,7 @@
 title: "what's out now"
 date: "2007-03-30 00:10:15"
 tags: [imported]
-category: music
+category: blog
 slug: whats_out_now
 ---
 

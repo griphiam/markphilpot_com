@@ -2,7 +2,7 @@
 title: "reasonable inactivity"
 date: "2008-12-15 22:18:39"
 tags: [imported]
-category: updates
+category: blog
 slug: reasonable_inactivity
 ---
 

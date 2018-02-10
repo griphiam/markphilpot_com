@@ -2,7 +2,7 @@
 title: "beautiful engineering"
 date: "2007-03-04 15:52:38"
 tags: [imported]
-category: engineering
+category: blog
 slug: beautiful_engineering
 ---
 

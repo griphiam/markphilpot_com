@@ -2,7 +2,7 @@
 title: "Very Disappointed"
 date: "2005-05-03 16:54:35"
 tags: [imported, setup, thinkpad]
-category: computers
+category: blog
 slug: very_disappointed
 ---
 

@@ -2,7 +2,7 @@
 title: "pocket video"
 date: "2008-07-24 23:22:44"
 tags: [imported]
-category: thoughts
+category: blog
 slug: pocket_video
 ---
 

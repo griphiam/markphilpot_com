@@ -2,7 +2,7 @@
 title: "Planet Earth (Or the reason I need HDTV)"
 date: "2007-04-16 22:39:52"
 tags: [imported]
-category: tv
+category: blog
 slug: planet_earth_or_the_reason_i_need_hdtv
 ---
 

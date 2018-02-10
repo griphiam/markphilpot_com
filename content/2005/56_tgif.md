@@ -2,7 +2,7 @@
 title: "TGIF"
 date: "2005-07-22 14:34:01"
 tags: [imported]
-category: updates
+category: blog
 slug: tgif
 ---
 

@@ -2,7 +2,7 @@
 title: "computer specs"
 date: "2007-08-17 13:17:41"
 tags: [imported, setup]
-category: computers
+category: blog
 slug: computer_specs
 ---
 

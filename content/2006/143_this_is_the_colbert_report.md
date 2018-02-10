@@ -2,7 +2,7 @@
 title: "This is the Colbert Report"
 date: "2006-08-17 15:46:42"
 tags: [imported]
-category: tv
+category: blog
 slug: this_is_the_colbert_report
 ---
 

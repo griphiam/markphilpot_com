@@ -2,7 +2,7 @@
 title: "Pismo Beach"
 date: "2007-04-14 00:19:10"
 tags: [imported]
-category: updates
+category: blog
 slug: pismo_beach
 ---
 

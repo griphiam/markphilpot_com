@@ -2,7 +2,7 @@
 title: "TriAxis & GCP Web Editors"
 date: "2015-05-12 11:45:45"
 tags: [music, syx, mesa boogie, ground control]
-category: software
+category: blog
 slug: web_editor
 summary: Web editor applications for TriAxis & Ground Control Pro
 ---

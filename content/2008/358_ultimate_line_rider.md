@@ -2,7 +2,7 @@
 title: "ultimate line rider"
 date: "2008-03-20 15:42:34"
 tags: [imported]
-category: links
+category: blog
 slug: ultimate_line_rider
 ---
 

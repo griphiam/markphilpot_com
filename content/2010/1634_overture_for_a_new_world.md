@@ -2,7 +2,7 @@
 title: "Overture For a New World"
 date: "2010-09-17 18:57:55"
 tags: [imported, todo]
-category: music
+category: blog
 slug: overture_for_a_new_world
 ---
 

@@ -2,7 +2,7 @@
 title: "a few things"
 date: "2008-01-14 23:38:45"
 tags: [imported]
-category: tv
+category: blog
 slug: a_few_things
 ---
 

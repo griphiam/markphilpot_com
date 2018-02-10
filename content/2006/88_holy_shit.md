@@ -2,7 +2,7 @@
 title: "HOLY SHIT!"
 date: "2006-01-30 17:56:35"
 tags: [imported, IIgs]
-category: games
+category: blog
 slug: holy_shit
 ---
 

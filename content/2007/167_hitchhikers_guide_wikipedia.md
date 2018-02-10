@@ -2,7 +2,7 @@
 title: "hitchhiker's guide === wikipedia"
 date: "2007-03-20 00:04:06"
 tags: [imported, hitchhiker]
-category: thoughts
+category: blog
 slug: hitchhikers_guide_wikipedia
 ---
 

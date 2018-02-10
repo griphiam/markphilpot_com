@@ -2,7 +2,7 @@
 title: "6,387 and growing..."
 date: "2006-01-24 20:01:32"
 tags: [imported]
-category: updates
+category: blog
 slug: 6387_and_growing
 ---
 

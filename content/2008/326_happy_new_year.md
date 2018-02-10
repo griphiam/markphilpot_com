@@ -2,7 +2,7 @@
 title: "happy new year"
 date: "2008-01-03 23:19:17"
 tags: [imported]
-category: updates
+category: blog
 slug: happy_new_year
 ---
 

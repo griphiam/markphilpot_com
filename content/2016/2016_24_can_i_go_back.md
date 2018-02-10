@@ -2,7 +2,7 @@
 title: "Can I Go Back?"
 date: "2016-10-31 22:39:00"
 tags: [mac, linux]
-category: computers
+category: blog
 slug: can_i_go_back
 summary: Can I go back to linux full time?
 Hero: "background-image: url(/images/2016/go_back/hero.jpg);"

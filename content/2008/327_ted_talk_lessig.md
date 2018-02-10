@@ -2,7 +2,7 @@
 title: "TED Talk -- Lessig"
 date: "2008-01-07 13:50:40"
 tags: [imported, lessig]
-category: links
+category: blog
 slug: ted_talk_lessig
 ---
 

@@ -2,7 +2,7 @@
 title: "pale blue dot"
 date: "2007-06-18 18:28:46"
 tags: [imported]
-category: space
+category: blog
 slug: pale_blue_dot
 ---
 

@@ -2,7 +2,7 @@
 title: "facebook"
 date: "2007-06-27 02:36:42"
 tags: [imported]
-category: rant
+category: blog
 slug: facebook
 ---
 

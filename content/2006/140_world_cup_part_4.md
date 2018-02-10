@@ -2,7 +2,7 @@
 title: "World Cup (Part 4)"
 date: "2006-07-03 20:45:58"
 tags: [imported]
-category: soccer
+category: blog
 slug: world_cup_part_4
 ---
 

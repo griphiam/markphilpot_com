@@ -2,7 +2,7 @@
 title: "a tale of two sequels"
 date: "2007-05-28 13:55:42"
 tags: [imported]
-category: movies
+category: blog
 slug: a_tale_of_two_sequels
 ---
 

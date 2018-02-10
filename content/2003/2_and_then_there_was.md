@@ -2,7 +2,7 @@
 title: "and then there was..."
 date: "2003-04-29 22:16:43"
 tags: [imported, first]
-category: updates
+category: blog
 slug: and_then_there_was
 ---
 

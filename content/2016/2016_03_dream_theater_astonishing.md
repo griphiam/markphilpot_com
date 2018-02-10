@@ -2,7 +2,7 @@
 title: "Dream Theater - The Astonishing"
 date: "2016-02-15 09:15:00"
 tags: [music, review]
-category: music
+category: blog
 slug: dream_theater_astonishing
 summary: Review of Dream Theater's "The Astonishing"
 Hero: "background-image: url(/images/2016/dream_theater/hero.jpg);"

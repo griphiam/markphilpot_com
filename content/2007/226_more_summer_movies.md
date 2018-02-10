@@ -2,7 +2,7 @@
 title: "more summer movies"
 date: "2007-05-08 00:15:34"
 tags: [imported]
-category: movies
+category: blog
 slug: more_summer_movies
 ---
 

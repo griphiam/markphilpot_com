@@ -2,7 +2,7 @@
 title: "family albums"
 date: "2008-07-27 13:56:54"
 tags: [imported]
-category: photography
+category: blog
 slug: family_albums
 ---
 

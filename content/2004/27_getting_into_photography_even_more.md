@@ -2,7 +2,7 @@
 title: "Getting into photography... even more."
 date: "2004-06-20 14:31:28"
 tags: [imported, d70]
-category: photography
+category: blog
 slug: getting_into_photography_even_more
 ---
 

@@ -2,7 +2,7 @@
 title: "King's Mountain to Skyline"
 date: "2009-08-02 17:58:06"
 tags: [imported]
-category: updates
+category: blog
 slug: kings_mountain_to_skyline
 ---
 

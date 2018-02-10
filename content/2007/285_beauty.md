@@ -2,7 +2,7 @@
 title: "beauty"
 date: "2007-09-15 01:02:56"
 tags: [imported]
-category: space
+category: blog
 slug: beauty
 ---
 

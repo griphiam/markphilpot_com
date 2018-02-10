@@ -2,7 +2,7 @@
 title: "Kaichou wa Maid-sama!"
 date: "2015-12-21 12:00:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_kaichou_wa_maid_sama
 summary: Review of Kaichou wa Maid-sama!
 ---

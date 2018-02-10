@@ -2,7 +2,7 @@
 title: "Snags along the way..."
 date: "2004-01-16 21:49:12"
 tags: [imported, setup]
-category: development
+category: blog
 slug: snags_along_the_way
 ---
 

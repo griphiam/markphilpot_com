@@ -2,7 +2,7 @@
 title: "Something New in the Hard Rock Category"
 date: "2006-01-24 19:38:06"
 tags: [imported]
-category: music
+category: blog
 slug: something_new_in_the_hard_rock_category
 ---
 

@@ -2,7 +2,7 @@
 title: "waiting game"
 date: "2008-02-29 13:04:53"
 tags: [imported]
-category: thoughts
+category: blog
 slug: waiting_game
 ---
 

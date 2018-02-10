@@ -2,7 +2,7 @@
 title: "Some Thoughts on Temp Tracks"
 date: "2016-09-30 20:18:00"
 tags: [thoughts, music]
-category: thoughts
+category: blog
 slug: thoughts_on_temp_tracks
 summary: Collection of random thoughts on temp tracks
 Hero: "background-image: url(/images/2016/thoughts_temp/hero.jpg);"

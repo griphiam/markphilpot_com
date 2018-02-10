@@ -2,7 +2,7 @@
 title: "Custom Lifestream Display"
 date: "2010-02-15 22:28:26"
 tags: [imported]
-category: development
+category: blog
 slug: custom_lifestream_display
 ---
 

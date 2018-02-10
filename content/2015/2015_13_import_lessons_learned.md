@@ -2,7 +2,7 @@
 title: "Blog Import - Lessons Learned"
 date: "2015-11-29 10:25:00"
 tags: [blog, lessons learned, pelican, wordpress]
-category: thoughts
+category: blog
 slug: blog_import
 summary: Lessons learned importing a 12 year old blog
 ---

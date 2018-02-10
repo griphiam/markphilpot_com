@@ -2,7 +2,7 @@
 title: "Amazing images"
 date: "2007-03-14 14:48:04"
 tags: [imported]
-category: photography
+category: blog
 slug: amazing_images
 ---
 

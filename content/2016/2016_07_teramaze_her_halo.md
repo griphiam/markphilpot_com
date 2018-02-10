@@ -2,7 +2,7 @@
 title: "Teramaze - Her Halo"
 date: "2016-03-05 12:29:00"
 tags: [music, review]
-category: music
+category: blog
 slug: teramaze_her_halo
 summary: Review of Teramaze's new album 'Her Halo'
 Hero: "background-image: url(/images/2016/teramaze/hero.jpg);"

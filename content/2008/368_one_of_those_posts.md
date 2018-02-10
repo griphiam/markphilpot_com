@@ -2,7 +2,7 @@
 title: "one of those posts"
 date: "2008-05-26 15:01:24"
 tags: [imported]
-category: updates
+category: blog
 slug: one_of_those_posts
 ---
 

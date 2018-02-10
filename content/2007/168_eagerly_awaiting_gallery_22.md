@@ -2,7 +2,7 @@
 title: "eagerly awaiting gallery 2.2"
 date: "2007-02-26 14:16:11"
 tags: [imported]
-category: software
+category: blog
 slug: eagerly_awaiting_gallery_22
 ---
 

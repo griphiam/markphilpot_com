@@ -2,7 +2,7 @@
 title: "Follow Me by PAIN featuring Anette Olzon of Nightwish"
 date: "2009-01-10 18:36:53"
 tags: [imported]
-category: music
+category: blog
 slug: follow_me_by_pain_featuring_anette_olzon_of_nightwish
 ---
 

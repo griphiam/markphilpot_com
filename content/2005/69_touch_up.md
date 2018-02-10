@@ -2,7 +2,7 @@
 title: "Touch up"
 date: "2005-11-27 11:00:33"
 tags: [imported]
-category: updates
+category: blog
 slug: touch_up
 ---
 

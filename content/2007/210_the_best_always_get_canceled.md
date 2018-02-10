@@ -2,7 +2,7 @@
 title: "the best always get canceled"
 date: "2007-04-18 00:27:04"
 tags: [imported]
-category: tv
+category: blog
 slug: the_best_always_get_canceled
 ---
 

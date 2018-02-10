@@ -2,7 +2,7 @@
 title: "photography workflow"
 date: "2007-04-11 00:42:59"
 tags: [imported]
-category: photography
+category: blog
 slug: photography_workflow
 ---
 

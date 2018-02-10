@@ -2,7 +2,7 @@
 title: "oh if only"
 date: "2007-07-02 14:56:25"
 tags: [imported]
-category: humor
+category: blog
 slug: oh_if_only
 ---
 

@@ -2,7 +2,7 @@
 title: "check out this performance"
 date: "2008-03-24 16:41:47"
 tags: [imported]
-category: links
+category: blog
 slug: check_out_this_performance
 ---
 

@@ -2,7 +2,7 @@
 title: "Nagi no Asukara"
 date: "2015-10-21 12:00:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_nagi_no_asukara
 summary: Review of Nagi no Asukara
 ---

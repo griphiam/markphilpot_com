@@ -2,7 +2,7 @@
 title: "documentation"
 date: "2007-10-11 16:30:51"
 tags: [imported]
-category: rant
+category: blog
 slug: documentation
 ---
 

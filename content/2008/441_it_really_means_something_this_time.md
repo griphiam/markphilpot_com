@@ -2,7 +2,7 @@
 title: "it really means something this time"
 date: "2008-10-01 16:55:24"
 tags: [imported]
-category: links
+category: blog
 slug: it_really_means_something_this_time
 ---
 

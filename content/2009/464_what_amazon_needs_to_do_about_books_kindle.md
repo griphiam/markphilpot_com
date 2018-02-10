@@ -2,7 +2,7 @@
 title: "What Amazon needs to do about books & Kindle"
 date: "2009-01-12 13:32:02"
 tags: [imported]
-category: thoughts
+category: blog
 slug: what_amazon_needs_to_do_about_books_kindle
 ---
 

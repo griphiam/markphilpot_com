@@ -2,7 +2,7 @@
 title: "coit tower"
 date: "2008-01-21 11:09:49"
 tags: [imported]
-category: photography
+category: blog
 slug: coit_tower
 ---
 

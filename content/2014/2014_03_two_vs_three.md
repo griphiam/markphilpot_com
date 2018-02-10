@@ -2,7 +2,7 @@
 title: "2 vs 3"
 date: "2014-04-05 21:46:23"
 tags: [workspace, setup]
-category: workspace
+category: blog
 slug: 2vs3
 summary: Considering the jump to a tri monitor setup?
 ---

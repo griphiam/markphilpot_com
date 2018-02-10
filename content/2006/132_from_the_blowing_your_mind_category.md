@@ -2,7 +2,7 @@
 title: "From the \"Blowing Your Mind\" Category"
 date: "2006-06-08 20:12:36"
 tags: [imported]
-category: links
+category: blog
 slug: from_the_blowing_your_mind_category
 ---
 

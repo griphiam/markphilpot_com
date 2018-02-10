@@ -2,7 +2,7 @@
 title: "knee-jerk reactions always encroach on free speech"
 date: "2007-05-17 00:32:28"
 tags: [imported]
-category: thoughts
+category: blog
 slug: knee_jerk_reactions_always_encroach_on_free_speech
 ---
 

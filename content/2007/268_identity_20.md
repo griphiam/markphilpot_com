@@ -2,7 +2,7 @@
 title: "identity 2.0"
 date: "2007-10-04 10:24:42"
 tags: [imported]
-category: thoughts
+category: blog
 slug: identity_20
 ---
 

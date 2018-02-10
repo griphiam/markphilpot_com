@@ -2,7 +2,7 @@
 title: "This just has to be good"
 date: "2008-07-03 08:59:23"
 tags: [imported]
-category: movies
+category: blog
 slug: this_just_has_to_be_good
 ---
 

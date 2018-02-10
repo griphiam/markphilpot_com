@@ -2,7 +2,7 @@
 title: "dreamfall episodic (or chapters, if you will)"
 date: "2007-03-06 18:21:56"
 tags: [imported, longest journey, dreamfall]
-category: games
+category: blog
 slug: dreamfall_episodic_or_chapters_if_you_will
 ---
 

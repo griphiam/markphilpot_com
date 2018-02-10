@@ -2,7 +2,7 @@
 title: "beneath the waves"
 date: "2008-03-09 18:06:00"
 tags: [imported]
-category: music
+category: blog
 slug: beneath_the_waves
 ---
 

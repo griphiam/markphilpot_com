@@ -2,7 +2,7 @@
 title: "wonders of customer service"
 date: "2007-05-31 22:44:37"
 tags: [imported]
-category: rant
+category: blog
 slug: wonders_of_customer_service
 ---
 

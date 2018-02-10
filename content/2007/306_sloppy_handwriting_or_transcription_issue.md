@@ -2,7 +2,7 @@
 title: "sloppy handwriting or transcription issue?"
 date: "2007-10-17 11:56:00"
 tags: [imported]
-category: thoughts
+category: blog
 slug: sloppy_handwriting_or_transcription_issue
 ---
 

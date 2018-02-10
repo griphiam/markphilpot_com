@@ -2,7 +2,7 @@
 title: "Gaming Old School... (You do remember Sierra right?)"
 date: "2004-04-12 17:55:30"
 tags: [imported, IIgs, emulator]
-category: games
+category: blog
 slug: gaming_old_school_you_do_remember_sierra_right
 ---
 

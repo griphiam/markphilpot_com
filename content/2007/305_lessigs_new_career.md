@@ -2,7 +2,7 @@
 title: "lessig's new career"
 date: "2007-10-30 08:40:32"
 tags: [imported, lessig]
-category: thoughts
+category: blog
 slug: lessigs_new_career
 ---
 

@@ -2,7 +2,7 @@
 title: "Induced Tears"
 date: "2015-11-04 12:00:00"
 tags: [anime,]
-category: anime
+category: blog
 slug: tears
 summary: Anime that have made a grown man weep
 ---

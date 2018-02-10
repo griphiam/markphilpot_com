@@ -2,7 +2,7 @@
 title: "Last before the break"
 date: "2003-07-14 12:44:28"
 tags: [imported]
-category: updates
+category: blog
 slug: last_before_the_break
 ---
 

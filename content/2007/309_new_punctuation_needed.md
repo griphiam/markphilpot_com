@@ -2,7 +2,7 @@
 title: "new punctuation needed"
 date: "2007-10-30 08:47:48"
 tags: [imported]
-category: thoughts
+category: blog
 slug: new_punctuation_needed
 ---
 

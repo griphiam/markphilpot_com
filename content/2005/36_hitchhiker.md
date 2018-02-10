@@ -2,7 +2,7 @@
 title: "Hitchhiker"
 date: "2005-05-01 09:24:26"
 tags: [imported, hitchhiker, star wars]
-category: movies
+category: blog
 slug: hitchhiker
 ---
 

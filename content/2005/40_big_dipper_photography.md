@@ -2,7 +2,7 @@
 title: "Big Dipper Photography"
 date: "2005-05-11 17:02:16"
 tags: [imported]
-category: photography
+category: blog
 slug: big_dipper_photography
 ---
 

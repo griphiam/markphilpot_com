@@ -2,7 +2,7 @@
 title: "Winter Movies"
 date: "2005-11-10 17:16:14"
 tags: [imported]
-category: movies
+category: blog
 slug: winter_movies
 ---
 

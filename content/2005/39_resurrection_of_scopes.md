@@ -2,7 +2,7 @@
 title: "Resurrection of Scopes"
 date: "2005-05-06 08:42:07"
 tags: [imported]
-category: politics
+category: blog
 slug: resurrection_of_scopes
 ---
 

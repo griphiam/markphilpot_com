@@ -2,7 +2,7 @@
 title: "Crystal Quest Audio"
 date: "2006-01-30 19:56:31"
 tags: [imported, IIgs]
-category: games
+category: blog
 slug: crystal_quest_audio
 ---
 

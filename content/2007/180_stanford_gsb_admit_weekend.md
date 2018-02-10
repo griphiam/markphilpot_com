@@ -2,7 +2,7 @@
 title: "stanford GSB admit weekend"
 date: "2007-03-18 19:35:34"
 tags: [imported]
-category: stanford
+category: blog
 slug: stanford_gsb_admit_weekend
 ---
 

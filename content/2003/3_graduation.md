@@ -2,7 +2,7 @@
 title: "Graduation!"
 date: "2003-05-08 14:46:43"
 tags: [imported]
-category: duke
+category: blog
 slug: graduation
 ---
 

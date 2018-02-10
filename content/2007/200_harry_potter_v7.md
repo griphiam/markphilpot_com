@@ -2,7 +2,7 @@
 title: "harry potter v7"
 date: "2007-04-02 21:27:24"
 tags: [imported, harry potter]
-category: books
+category: blog
 slug: harry_potter_v7
 ---
 

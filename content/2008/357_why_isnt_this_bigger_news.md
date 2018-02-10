@@ -2,7 +2,7 @@
 title: "why isn't this bigger news?"
 date: "2008-03-18 14:47:08"
 tags: [imported]
-category: politics
+category: blog
 slug: why_isnt_this_bigger_news
 ---
 

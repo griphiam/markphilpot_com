@@ -2,7 +2,7 @@
 title: "some pandora findings"
 date: "2008-07-31 13:13:20"
 tags: [imported]
-category: music
+category: blog
 slug: some_pandora_findings
 ---
 

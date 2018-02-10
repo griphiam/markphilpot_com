@@ -2,7 +2,7 @@
 title: "Command Line Ninja"
 date: "2011-03-21 14:45:00"
 tags: [linux, cli]
-category: linux
+category: blog
 slug: cli_ninja
 summary: CLI customizations
 ---

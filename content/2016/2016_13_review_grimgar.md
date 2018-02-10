@@ -2,7 +2,7 @@
 title: "Hai to Gensou no Grimgar"
 date: "2016-04-25 23:34:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_grimgar
 summary: Review of Hai to Gensou no Grimgar (Grimgar of Fantasy and Ash)
 Hero: "background-image: url(/images/2016/grimgar/hero.jpg);"

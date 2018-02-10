@@ -2,7 +2,7 @@
 title: "& Family Guy!"
 date: "2005-10-24 19:45:39"
 tags: [imported]
-category: tv
+category: blog
 slug: family_guy
 ---
 

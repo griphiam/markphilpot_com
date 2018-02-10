@@ -2,7 +2,7 @@
 title: "Launchy"
 date: "2006-06-01 19:05:48"
 tags: [imported]
-category: software
+category: blog
 slug: launchy
 ---
 

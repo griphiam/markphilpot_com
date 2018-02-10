@@ -2,7 +2,7 @@
 title: "purge"
 date: "2007-07-09 13:37:35"
 tags: [imported]
-category: updates
+category: blog
 slug: purge
 ---
 

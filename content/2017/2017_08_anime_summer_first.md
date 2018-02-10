@@ -2,7 +2,7 @@
 title: "Anime Summer 2017 First Impressions"
 date: "2017-07-16 16:29:00"
 tags: [anime, first impressions]
-category: anime
+category: blog
 slug: anime_2017_summer_first
 summary: First Impressions of the Anime Summer 2017 Season
 Hero: "background-image: url(/images/anime/2017/summer/montage.jpg);"

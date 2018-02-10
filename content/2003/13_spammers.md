@@ -2,7 +2,7 @@
 title: "@%$# Spammers..."
 date: "2003-12-11 20:45:24"
 tags: [imported]
-category: rant
+category: blog
 slug: spammers
 ---
 

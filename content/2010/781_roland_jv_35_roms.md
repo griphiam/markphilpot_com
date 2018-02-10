@@ -3,7 +3,7 @@ title: "Roland JV-35 ROMs"
 date: "2010-04-21 23:12:16"
 Updated: 2016-04-14 22:55:00
 tags: [imported, todo]
-category: music
+category: blog
 slug: roland_jv_35_roms
 ---
 

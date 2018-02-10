@@ -2,7 +2,7 @@
 title: "Yamada-kun to 7-nin no Majo"
 date: "2016-10-31 21:55:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_yamada_kun
 summary: Review of Yamada-kun to 7-nin no Majo
 Hero: "background-image: url(/images/2016/yamada/hero.jpg);"

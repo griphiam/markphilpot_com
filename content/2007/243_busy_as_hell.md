@@ -2,7 +2,7 @@
 title: "busy as hell"
 date: "2007-05-10 13:02:04"
 tags: [imported, basketball]
-category: updates
+category: blog
 slug: busy_as_hell
 ---
 

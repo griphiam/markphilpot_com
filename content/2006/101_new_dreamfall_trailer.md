@@ -2,7 +2,7 @@
 title: "New Dreamfall Trailer"
 date: "2006-02-21 21:21:44"
 tags: [imported, dreamfall]
-category: games
+category: blog
 slug: new_dreamfall_trailer
 ---
 

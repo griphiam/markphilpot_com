@@ -2,7 +2,7 @@
 title: "Lessig's Change Congress Keynote"
 date: "2008-07-28 13:02:08"
 tags: [imported, lessig]
-category: links
+category: blog
 slug: lessigs_change_congress_keynote
 ---
 

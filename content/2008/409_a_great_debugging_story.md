@@ -2,7 +2,7 @@
 title: "A great debugging story"
 date: "2008-07-08 09:58:45"
 tags: [imported]
-category: links
+category: blog
 slug: a_great_debugging_story
 ---
 

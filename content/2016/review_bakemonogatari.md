@@ -2,7 +2,7 @@
 title: "Bakemonogatari"
 date: "2016-03-09 23:52:00"
 tags: [anime, review]
-category: anime
+category: blog
 slug: review_bakemonogatari
 summary: Review of Bakemonogatari
 status: draft

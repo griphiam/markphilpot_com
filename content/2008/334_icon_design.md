@@ -2,7 +2,7 @@
 title: "icon design"
 date: "2008-03-02 16:20:47"
 tags: [imported]
-category: thoughts
+category: blog
 slug: icon_design
 ---
 

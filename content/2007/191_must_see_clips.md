@@ -2,7 +2,7 @@
 title: "must see clips"
 date: "2007-03-23 19:46:02"
 tags: [imported]
-category: links
+category: blog
 slug: must_see_clips
 ---
 

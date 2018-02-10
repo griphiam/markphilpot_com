@@ -2,7 +2,7 @@
 title: "the scale of"
 date: "2007-09-18 08:15:41"
 tags: [imported]
-category: links
+category: blog
 slug: the_scale_of
 ---
 

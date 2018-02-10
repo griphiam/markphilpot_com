@@ -2,7 +2,7 @@
 title: "humans are dead"
 date: "2008-03-08 11:14:24"
 tags: [imported]
-category: humor
+category: blog
 slug: humans_are_dead
 ---
 

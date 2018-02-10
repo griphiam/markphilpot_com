@@ -2,7 +2,7 @@
 title: "HTML 5 Video Prep"
 date: "2010-05-04 17:13:00"
 tags: [imported]
-category: software
+category: blog
 slug: html_5_video_prep
 ---
 
