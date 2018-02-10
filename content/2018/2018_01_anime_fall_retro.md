@@ -1,6 +1,6 @@
 ---
 title: "Anime Fall 2017 Retrospective"
-date: "2017-10-15 18:41:00"
+date: "2018-02-10 13:15:00"
 tags: [anime, retro]
 category: anime
 slug: anime_2017_fall_retro
@@ -10,7 +10,9 @@ Hero: "background-image: url(/images/anime/2017/fall/hero.jpg);"
 
 [TOC]
 
-So Persona 5 completely derailed my keeping up with the fall season. Thankfully this season has sort of a built in buffer with the holidays at the end and most winter anime not starting until the first of the year -- I've been able to binge most of shows I wanted to keep up with. Looking back on this year, I wasn't able to post many individual series reviews (read: none) and want to pick that up again going into 2018 (along with more blogging in general, even if it's just to keep my already limited writing ability from completely hitting rock bottom again). There were a number of shows this year (especialy in this fall season) that I'm hoping to talk about in more detail.
+So Persona 5 completely derailed my keeping up with the fall season. Thankfully this season has sort of a built in buffer with the holidays at the end and most winter anime not starting until the first of the year -- I've been able to binge most of shows I wanted to keep up with. Looking back on this year, I wasn't able to post many individual series reviews (read: none) and want to pick that up again going into 2018 (along with more blogging in general, even if it's just to keep my already limited writing ability from completely hitting rock bottom again). There were a number of shows this year (especially in this fall season) that I'm hoping to talk about in more detail.
+
+Note: This is going out late due to a combination of procrastination and illness. Sorry! 🤒
 
 ![Mahoutsukai no Yome]({filename}/images/anime/2017/fall/98436-UMxpGC5mcqHy.jpg "Mahoutsukai no Yome"){:.center} ![Wit]({filename}/images/anime/studios/half/wit.png){: .studio} ![Prod IG]({filename}/images/anime/studios/half/production_ig.png){: .studio}
 
@@ -22,24 +24,17 @@ Quick thought since it's only halfway through: _LOVE!!_
 
 ### [Kekkai Sensen & Beyond](https://anilist.co/anime/97886)
 
-It's like you never left...
+A collection of episodic vignettes.
 
-This was a very rapid reintroduction to the world of Hellsalem's Lot, but I must say I had a smile on my face the entire time.
-
-Welcome back Leonardo...
+To be honest, I missed the overall arc that the first season had. This season was great too because I really do love these characters, but it ultimately fell short of it's stronger opening season.
 
 ![Inuyashiki]({filename}/images/anime/2017/fall/97922-seJC6kFXjBFS.jpg "Inuyashiki"){:.center} ![MAPPA]({filename}/images/anime/studios/half/mappa.png){: .studio}
 
 ### [Inuyashiki](https://anilist.co/anime/97922)
 
-A few notes:
+Went on Hold a few episodes in.
 
-1. The kids and wife are assholes
-2. We don't deserve dogs
-3. ... _Interesting?_ ...
-4. Nice to hear a _Man with a Mission_ OP again
-
-I feel like this was an episode 0 -- the origin story if you will -- and that we'll get a better idea of the show in the next two episodes. I was encouraged to read (after the fact) that the VA for the MC is a 68 year old.
+As a warning, this show is not for the faint of heart! Even just the first few episodes were extremely rough viewing.
 
 ![Juuni Taisen]({filename}/images/anime/2017/fall/98443-1d7qImgzb6Dj.jpg "Juuni Taisen"){:.center}
 
@@ -57,27 +52,29 @@ Quick note on that ED. Good lord, someone should be fired for approving that sto
 
 ### [Just Because!](https://anilist.co/anime/98820)
 
-I have high hopes for this one and the first episode didn't let me down. From the studio that gave us [Gamers!](https://anilist.co/anime/97766) last season I think this has tremendous potential because they aren't restricted to the comedy genre. The episode is slow but I loved the honesty in all the characters (see my first reaction to _Gamers!_... same thoughts). As long as they don't manufacture a bunch of overlapping relationship triangles and just focus on these characters interacting, this could be the gem of the season.
+I loved this show with a _huge_ asterisk: The Ending.
+
+The ending fell extremely flat and almost took away all my enjoyment of the series. Compare this ending to the ending of [Tsuki ga Kirei](https://anilist.co/anime/98202/TsukigaKirei) which left me ecstatic even though it was just wrapped up during the credit sequence. I still recommend the show if you are into a well done, slow paced slice-of-life show -- just temper your expectations.
 
 ![Kino no Tabi: The Beautiful World - the Animated Series]({filename}/images/anime/2017/fall/98448-OdfxrjAhkYvp.jpg "Kino no Tabi: The Beautiful World - the Animated Series"){:.center} ![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Kino no Tabi: The Beautiful World - the Animated Series](https://anilist.co/anime/98448)
 
-I haven't seen the original, but know that many love this show. The first episode was I think a great intro to this episodic series (part of me wonders if there will be any sort of modern take of an arc). For a moment there I thought this was done by A1...
+I think I would have enjoyed this reboot more if it wasn't airing alongside Girls' Last Tour. Having not seen the original I have no real point of comparison other than hearing in general that the original was "better" -- take that for what you will.
 
 ![Kujira no Kora wa Sajou ni Utau]({filename}/images/anime/2017/fall/98449-jgDuWOtfIvaE.jpg "Kujira no Kora wa Sajou ni Utau"){:.center} ![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
 ### [Kujira no Kora wa Sajou ni Utau](https://anilist.co/anime/98449)
 
-Hmmm... The premise seems interesting. I like the art style and character designs...
+Fantastic! (Completely in spite of Netflix... thank god for fansubs)
 
-Oh wait.
+High recommendation but didn't exceed in any one category. The ending implies that there is more coming. I'll be curious how that is ultimately handled. Netflix's poor treatment of anime is (in my opinion) robbing the shows of the acclaim that they would otherwise garner from the community. I'm not sure how much seasonal hype translates into long term acclaim, but if we take a show like Little Witch Academia, it seems to me that the shows can't recover from it. Simulcasts _mean_ something in the community, much more so that it did in the past. Netflix would have been a godsend 10 years ago -- now, it feels like a sentence to obscurity.
 
-_DAMN IT NETFLIX_
+![Shoujo Shuumatsu Ryokou]({filename}/images/anime/2017/fall/99420-hsLF2eTJCbyQ.jpg "Shoujo Shuumatsu Ryokou"){:.center} ![White Fox]({filename}/images/anime/studios/half/white_fox.png){:.studio}
 
 ### [Shoujo Shuumatsu Ryokou](https://anilist.co/anime/99420)
 
-This was a very interesting juxtaposition between cute and unsettling. The scene with the rations and the gun... Ugh, wow. If the music had made a bigger impact, it truly would have been great opening episode.
+This show exceeded all my expectations going into it. The atmosphere, the voice acting, the OST, all combine to effectively transcend the sum of its parts. While it might be compared to [Made in Abyss](https://anilist.co/anime/97986/MadeinAbyss) due to the use of moe in a serious setting, I think that is the only thing alike about them. Girls' Last Tour felt more like an episodic philosophical exploration whereas _Made in Abyss_ maintained a clear narrative structure.
 
 ![Houseki no Kuni]({filename}/images/anime/2017/fall/98707-yKcrtBTmFjEu.png "Houseki no Kuni"){:.center}
 
@@ -99,14 +96,6 @@ Don't get me wrong -- I loved this show. I loved the MC. Fantastic all around. H
 
 At some point, _someone_ has to give us a romcom that doesn't center around near debilitating shyness/awkwardness. Can't they just genuinely like each other and move incrementally forward? Essentially, I want this plot with the seriousness of [Tsuki ga Kirei](https://anilist.co/anime/98202/TsukigaKirei).
 
-![Osake wa Fuufu ni Natte Kara]({filename}/images/anime/2017/fall/98657-P9OayeslJ79r.jpg "Osake wa Fuufu ni Natte Kara"){:.center}
-
-<div class="studio">Creators in Pack</div>
-
-### [Osake wa Fuufu ni Natte Kara](https://anilist.co/anime/98657)
-
-This 3 minute short is too short for it's own good. I'm skeptical it will win me over as throughly as [Danna ga Nani wo Itteiru ka Wakaranai Ken](https://anilist.co/anime/20735) did, but I'm willing to give it a chance.
-
 ![Konohana Kitan]({filename}/images/anime/2017/fall/98506-BPHtNhP7Q1TD.jpg "Konohana Kitan"){:.center} ![Lerche]({filename}/images/anime/studios/half/lerche.png){: .studio}
 
 ### [Konohana Kitan](https://anilist.co/anime/98506)
@@ -121,6 +110,4 @@ I have to say however, the last episode truly nails the ending for the show. _Th
 
 ### [Anime-Gataris](https://anilist.co/anime/98607)
 
-Initially reminded me of _Gamers!_ and then there was a very weird turn at the end. Another show that will take a few episodes to sort everything out.
-
-Trying to follow all the references was fun.
+On hold but I should be able to finish in the next few months.
