@@ -14,6 +14,7 @@ from jinja2 import Environment
 from jinja2 import FileSystemLoader
 
 log = logging.getLogger('process_twitter_archive')
+log.setLevel(logging.INFO)
 
 
 def mkdir_p(path):
@@ -93,6 +94,7 @@ def tweet_to_markdown(tweet):
 
 
 if __name__ == '__main__':
+    logging.getLogger().setLevel(logging.INFO)
     logging.getLogger().addHandler(logging.StreamHandler())
 
     parser = ArgumentParser('Twitter Archive To Markdown Micro')
