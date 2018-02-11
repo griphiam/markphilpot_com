@@ -113,7 +113,7 @@ This show is more than just cute girls in a slice-of-life. The depth of the char
 
 ### [Yuru Camp△](https://anilist.co/anime/98444)
 
-This is the more of the normal cute girls slice-of-life fair. Camnping looks fun presented this way.
+This is the more of the normal cute girls slice-of-life fair. Camping looks fun presented this way.
 
 ![Hakata Tonkotsu Ramens]({filename}/images/anime/2018/winter/99483-eTKat4nPCOQW.jpg "Hakata Tonkotsu Ramens"){: .center}
 
