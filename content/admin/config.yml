@@ -12,13 +12,14 @@ collections:
   - name: "post"
     label: "Post"
     folder: "content/2018"
-    format: "frontmatter"
+    format: "yaml-frontmatter"
     extension: "md"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - label: "Tags"
         name: "tags"
         widget: "list"
@@ -30,4 +31,17 @@ collections:
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Hero", name: "Hero", widget: "string", default: "background-image: url(/images/anime/2018/winter/hero.jpg);"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "micro"
+    label: "Micro"
+    folder: "content/micro"
+    format: "yaml-frontmatter"
+    extension: "md"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}T{{hour}}:{{minute}}:{{second}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Category", name: "category", widget: "hidden", default: "micro"}
+      - {label: "Title", name: "title", widget: "hidden", default: ""}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Slug", name: "slug", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}

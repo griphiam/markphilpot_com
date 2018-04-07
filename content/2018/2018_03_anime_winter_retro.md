@@ -11,8 +11,6 @@ Status: draft
 
 [TOC]
 
-![]({filename}/images/anime/2018/winter/cards/.jpg ""){:.ew1920}
-
 ![Mahoutsukai no Yome]({filename}/images/anime/2018/winter/cards/mahoutsukai.jpg "Mahoutsukai no Yome"){:.ew1920}
 
 ### [Mahoutsukai no Yome](https://anilist.co/anime/98436)

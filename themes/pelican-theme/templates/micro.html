@@ -57,7 +57,7 @@ $(document).ready(function(){
         {{ article.content }}
         <span class="micro_date">
           {% if article.retweetuser %}<a href="https://twitter.com/{{ article.retweetuser }}" style="border-bottom: 0;">@{{ article.retweetuser }}</a>{% endif %}
-          <a href="{{ article.tweeturl }}" class="micro_tweet_link"><i class="fa fa-twitter"></i></a>
+          {% if article.tweeturl %}<a href="{{ article.tweeturl }}" class="micro_tweet_link"><i class="fa fa-twitter"></i></a>{% endif %}
           <time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%Y-%m-%d %H:%M") }}</time>
         </span>
       </div>
