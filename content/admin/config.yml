@@ -18,7 +18,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
       - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - label: "Tags"
         name: "tags"
@@ -42,6 +42,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Category", name: "category", widget: "hidden", default: "micro"}
       - {label: "Title", name: "title", widget: "hidden", default: ""}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Slug", name: "slug", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss" }
+      - {label: "Slug", name: "slug", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss"}
       - {label: "Body", name: "body", widget: "markdown"}
