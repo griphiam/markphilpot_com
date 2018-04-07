@@ -87,7 +87,8 @@ AUTHOR_SAVE_AS = False
 CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
 
-STATIC_PATHS = ['theme/images', 'images']
+STATIC_PATHS = ['theme/images', 'images', 'admin']
+STATIC_EXCLUDE_SOURCES = False
 
 SITEMAP = {
     'format': 'xml',

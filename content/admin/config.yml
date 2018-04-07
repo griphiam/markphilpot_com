@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: markphilpot/markphilpot_com
+  branch: master # Branch to update (optional; defaults to master)
+  accept_roles: #optional - accepts all users if left out
+    - admin
+publish_mode: editorial_workflow
+media_folder: "content/images/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/2018"
+    format: "frontmatter"
+    extension: "md"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default:
+          - anime
+          - retrospective
+          - first impressions
+          - mac
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Hero", name: "Hero", widget: "string", default: "background-image: url(/images/anime/2018/winter/hero.jpg);"}
+      - {label: "Body", name: "body", widget: "markdown"}
