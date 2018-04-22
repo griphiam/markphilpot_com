@@ -98,7 +98,7 @@ if __name__ == '__main__':
     logging.getLogger().addHandler(logging.StreamHandler())
 
     parser = ArgumentParser('Twitter Archive To Markdown Micro')
-    parser.add_argument('--output_dir', '-o', default='content/micro')
+    parser.add_argument('--output_dir', '-o', default='content/twitter')
     parser.add_argument('--input_dir', '-i', help='Path to root of twitter archive')
     parser.add_argument('--overwrite', action='store_true', default=False)
 
