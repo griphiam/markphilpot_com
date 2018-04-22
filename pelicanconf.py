@@ -45,6 +45,10 @@ PLUGIN_PATHS = [
     'plugins', 'plugins_custom',
 ]
 
+ARTICLE_EXCLUDES = [
+    'twitter'
+]
+
 # Removed 'gzip_cache' since AWS Cloudfront does it for us
 PLUGINS = [
     'frontmark',

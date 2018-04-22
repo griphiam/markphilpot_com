@@ -4,7 +4,7 @@
 <ul class="recent-posts">
   {% set last_year = 0 %}
   {% for article in dates %}
-    {% if article.category.name != "micro" %}
+    {% if article.category.name != "micro" and article.category.name != "twitter" %}
     {% set year = article.date.strftime('%Y') %}
     {% if last_year != year %}
     <h2 id="{{year }}">{{ year }}</h2>

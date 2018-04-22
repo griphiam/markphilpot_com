@@ -14,3 +14,8 @@
 .spoiler:hover, .spoiler:focus {
     filter: blur(0px);
 }
+
+.micro_date a {
+	text-decoration: none;
+	border: 0 !important;
+}
