@@ -1,12 +1,11 @@
 ---
 title: "Anime Spring 2018 First Impressions"
-date: "2018-04-16 21:02:17"
+date: "2018-04-23 22:05:00"
 tags: [anime, first impressions]
 category: anime
 slug: anime_2018_spring_first
 summary: First Impressions of the Anime Spring 2018 Season
 Hero: "background-image: url(/images/anime/2018/spring/hero.jpg);"
-status: draft
 ---
 
 [TOC]
