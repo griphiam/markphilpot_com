@@ -1,11 +1,6 @@
 session_name: tmuxp
 start_directory: ./
 windows:
-  - window_name: latest
-    focus: True
-    panes:
-      - shell_command:
-        - subl .
   - window_name: git
     shell_command_before:
       - 'pyenv activate blog'
