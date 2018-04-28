@@ -1,28 +1,29 @@
 ---
 title: "Anime Spring 2018 First Impressions"
-date: "2018-04-16 21:02:17"
+date: "2018-04-23 22:05:00"
 tags: [anime, first impressions]
 category: anime
 slug: anime_2018_spring_first
 summary: First Impressions of the Anime Spring 2018 Season
 Hero: "background-image: url(/images/anime/2018/spring/hero.jpg);"
-status: draft
 ---
 
 [TOC]
 
-This year has been a feast of riches for the anime community. So many good shows -- originals and sequels to favorites.
+This year has been a feast of riches for the anime community. So many good shows -- originals and sequels to favorites. At the same time, I need to catch up on last seasons two cour series. What is one to do?
+
+
 
 ![Steins;Gate 0]({filename}/images/anime/2018/spring/21127-JDu91CY9kHOI.jpg "Steins;Gate 0"){: .center} 
 ![White Fox]({filename}/images/anime/studios/half/white_fox.png){: .studio}
 
 ### [Steins;Gate 0](https://anilist.co/anime/21127)
 
-How do you follow arguably the best anime of all time? I have absolutely no idea.
+How do you follow arguably the best anime of all time? I have absolutely no idea, and frankly I'm a little nervous.
 
 I don't know *anything* about *S;G 0*, but after watching the first episode I fear this will be two cours worth of gut punches.
 
-In addition to being my favorite anime of all time, the original is also my favorite dub of all time. For me, these characters *are* made by the english cast. I haven't seen any official announcement for the english cast but I *pray* the original members are back for the sequel.
+In addition to being my favorite anime of all time, the original is also my favorite dub of all time. For me, these characters *are* the english cast. I haven't seen any official announcement for the english cast but I *pray* the original members are back for the sequel. I'm definitely going to wait for Funimation to release the simuldub for this one (something which I almost never do)
 
 
 
@@ -31,7 +32,9 @@ In addition to being my favorite anime of all time, the original is also my favo
 
 ### [Boku no Hero Academia 3](https://anilist.co/anime/100166)
 
-> The third season of <i>Boku no Hero Academia</i>.
+It's back! And with another two cours!
+
+*BnHA* is one of the only long running shonen series I've watched and mostly because it's one of the few that began airing after I started watching, so I don't have to slog through hundreds of episodes. It's also a show that thankfully doesn't feel the need to resort to any sort of filler arcs, which I'm dearly grateful for.
 
 
 
@@ -42,7 +45,7 @@ In addition to being my favorite anime of all time, the original is also my favo
 
 So before jumping to conclusions, you have to remember that this go around is done by *Studio 3hz* which made [Princess Principal](https://anilist.co/anime/98505/Princess-Principal/) -- one of my favorite shows from last year.
 
-So far this one is extremely promising. The characters are good and it seems like they might avoid the pitfalls that bogged down the original SAO.
+So far this one is extremely promising. The characters are good and it seems like they might avoid the pitfalls that bogged down the original SAO. The only thing that is needling in the back of my brain is juxtaposition of the gun worship in the show with the state of gun violence in the United States today. I'm curious if guns in the real world is called out at all in the shows run, though I highly doubt it.
 
 
 
@@ -55,7 +58,7 @@ So far this one is extremely promising. The characters are good and it seems lik
 
 My god, watching this makes me want to play the game again. But with the show, I get to relive the game without re-investing the 100+ hours.
 
-Objectively, anyone watching this who hasn't played the game may struggle with the pacing -- they rush through a lot in the first few episodes, so anyone without game expierence might feel adrift.
+Objectively, anyone watching this who hasn't played the game may struggle with the pacing -- they rush through a lot in the first few episodes, so anyone without game experience might feel adrift.
 
 But I'm going to enjoy every second of this one. Oh and just an aside, I really hope they ship Makoto, which is obviously the only *real* choice =)
 
@@ -65,7 +68,7 @@ But I'm going to enjoy every second of this one. Oh and just an aside, I really 
 
 ### [Wotaku ni Koi wa Muzukashii](https://anilist.co/anime/99578)
 
-> The story centers on the awkward romantic comedy between Narumi, a female office worker who hides her fujoshi lifestyle, and Hirotaka, a handsome and capable company man who is secretly a game otaku.<br><br/><br><br/>(Source: ANN)
+This looks really fun. I tried picking up the manga a while back, but dropped it because it seemed like the translation was out of order for some reason. However, given the first episode, I might have to give it another try.
 
 
 
@@ -82,7 +85,7 @@ Shit!
 
 *Picks jaw up from floor*
 
-What a trip!
+What a complete retro trip!
 
 
 ![Golden Kamui]({filename}/images/anime/2018/spring/99699-vwSpHdiY2R3L.jpg "Golden Kamui"){: .center} 
@@ -91,7 +94,11 @@ What a trip!
 
 ### [Golden Kamui](https://anilist.co/anime/99699)
 
-> In the early twentieth century, Russo-Japanese War veteran Saichi “Immortal” Sugimoto scratches out a meager existence during the postwar gold rush in the wilderness of Hokkaido. When he stumbles across a map to a fortune in hidden Ainu gold, he sets off on a treacherous quest to find it. But Sugimoto is not the only interested party, and everyone who knows about the gold will kill to possess it! Faced with the harsh conditions of the northern wilderness, ruthless criminals and rogue Japanese soldiers, Sugimoto will need all his skills and luck—and the help of an Ainu girl named Asirpa—to survive.<br><br><br/><br/>(Source: Viz Media)
+Ok, ignore the cringe worthy CG bear in the opening episode... Hopefully the show runners have enough sense not to bring something like that back again.
+
+The characters are great and I'm really looking forward to this adventure.
+
+Also -- Can I just say *Man With A Mission* kills it again with a fantastic OP song?
 
 
 
@@ -101,7 +108,7 @@ What a trip!
 
 ### [Hinamatsuri](https://anilist.co/anime/100077)
 
-> The comedy manga centers around a super-powered girl named Hina and Nitta, a young member of the yakuza. Hina suddenly appears in Nitta's room and threatens him with her extraordinary powers. However, they end up living together.<br><br><br/><br/>(Source: ANN)
+If you are a fan of dead-pan humor, then I highly recommend this one. I had quite a few *laugh out loud* moments during the first episode and there looks to be plenty of runway with the characters to really shine with the comedy.
 
 
 
@@ -111,7 +118,9 @@ What a trip!
 
 ### [Devils Line](https://anilist.co/anime/99531)
 
-What the fuck is this? Good lord.
+*What the fuck is this?*
+
+Good lord. Stay the fuck away.
 
 
 
@@ -120,7 +129,7 @@ What the fuck is this? Good lord.
 
 ### [Tada-kun wa Koi wo Shinai](https://anilist.co/anime/100179)
 
-> Mitsuyoshi Tada, a boy who has never known love, is taking pictures of the cherry blossoms in full bloom when he meets Teresa Wagner, a transfer student from Luxembourg. Upon arriving in Japan, she got lost, separated from her travel companion. Mitsuyoshi helps her and brings her to his grandfather's coffee shop.<br><br><br/><br/>(Source: ANN)
+This is going to be a challenge to see if the show crumples under the weight of all the romantic tropes it has already laid out for itself. I'm going to give this one a chance, but frankly I'm not expecting much.
 
 
 
@@ -142,7 +151,7 @@ Holy shit this is disgusting. Between this and *Devils Line*, I don't know who r
 
 ### [Caligula](https://anilist.co/anime/100569)
 
-This show is better than it has any right to be. With a setup reminicient of [Angel Beats](https://anilist.co/anime/6547/Angel-Beats/) it still could fall flat.
+This show is better than it has any right to be. With a setup reminiscent of [Angel Beats](https://anilist.co/anime/6547/Angel-Beats/) it still could fall flat.
 
 
 
@@ -152,7 +161,7 @@ This show is better than it has any right to be. With a setup reminicient of [An
 
 ### [3D Kanojo](https://anilist.co/anime/100526)
 
-My first reactions to the opening episode were all variations of cringing. To the show's credit however, it pulled out and showed some backbone by actually moving the relationship dymanic forward. The whole setup feels extremely self induligent and contrived. I put it on hold, but I'm going to check back in towards the end of the season to see if managed to carve a niche for itself.
+My first reactions to the opening episode were all variations of cringing. To the shows credit however, it pulled out and showed some backbone by actually moving the relationship dynamic forward. The whole setup feels extremely self indulgent and contrived. I put it on hold, but I'm going to check back in towards the end of the season to see if managed to carve a niche for itself.
 
 
 
@@ -162,7 +171,7 @@ My first reactions to the opening episode were all variations of cringing. To th
 
 ### [Comic Girls](https://anilist.co/anime/99131)
 
-Vibes of [New Game](https://anilist.co/anime/21455/New-Game/) but not nearly as good. Characters are more trope architypes than blends, but that doesn't mean there isn't an opportunity to have some character development. However, if I had to guess I don't think we'll see the sort of character exporation we saw in *New Game*.
+Vibes of [New Game](https://anilist.co/anime/21455/New-Game/) but not nearly as good. Characters are more trope archetypes than blends, but that doesn't mean there isn't an opportunity to have some character development. However, if I had to guess I don't think we'll see the sort of character exploration we saw in *New Game*.
 
 
 
@@ -176,11 +185,14 @@ This one went immediately on hold. Not that it looks bad -- I just can't take on
 
 
 ![Asagao to Kase-san]({filename}/images/anime/2018/spring/99916-BvB7lDcW6eBu.jpg "Asagao to Kase-san"){: .center} 
-![ZEXCS, ]({filename}/images/anime/studios/half/.png){: .studio}
 
 <div class="studio">ZEXCS, </div>
 
 ### [Asagao to Kase-san](https://anilist.co/anime/99916)
 
-> Yamada may be shy and rather clumsy, but the flower gardens at her school have always brought her happiness. Suddenly, a different sort of beauty catches her eye—the vivacious track star, Kase-san. Although the two girls don't seem to have much in common, they soon start a romance where each must learn an important lesson in tending their budding relationship. Can the two girls, so different from each other, learn how to make their first love blossom?<br><br><br/><br/>(Source: Seven Seas)
+*ONLY A SINGLE OVA?*
+
+**Crap**
+
+I'm a *huge* fan of the manga and I have been hoping this was a full season adaptation, but I guess we are just getting a brief glimpse in this adorable couple (which is at least longer than the four minute short it got before).
 
