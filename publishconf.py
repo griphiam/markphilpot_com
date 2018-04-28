@@ -25,9 +25,4 @@ PLUGINS.append('optimize_images')
 # Weird TypeError
 TYPOGRIFY = False
 
-# Following items are often useful when publishing
-
-DISQUS_SITENAME = "markphilpot"
-GOOGLE_ANALYTICS = "UA-9149255-6"
-
 DEBUG = False
