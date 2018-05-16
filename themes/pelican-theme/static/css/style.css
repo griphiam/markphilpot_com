@@ -600,6 +600,9 @@ a.micro_tweet_link {
 #micro_search input {
     width: 100%;
 }
+.micro_content li {
+  list-style-type: circle;
+}
 
 /* Blockquotes */
 
