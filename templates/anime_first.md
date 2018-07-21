@@ -11,13 +11,13 @@ status: draft
 
 {% for show in shows %}
 
-![{{ show.title_romaji }}]({filename}/images/anime/{{ year }}/{{ season }}/{{ show.__pv_filename__ }} "{{ show.title_romaji }}"){: .center} 
-![{% for studio in show.__page__.studio %}{{ studio.studio_name }}, {% endfor %}]({filename}/images/anime/studios/half/.png){: .studio}
+![{{ show.title.userPreferred }}]({filename}/images/anime/{{ year }}/{{ season }}/{{ show.__pv_filename__ }} "{{ show.title.userPreferred }}"){: .center} 
+![{{ show.studios.nodes|map(attribute='name')|join(', ') }}]({filename}/images/anime/studios/half/.png){: .studio}
 
-<div class="studio">{% for studio in show.__page__.studio %}{{ studio.studio_name }}, {% endfor %}</div>
+<div class="studio">{{ show.studios.nodes|map(attribute='name')|join(', ') }}</div>
 
-### [{{ show.title_romaji }}](https://anilist.co/anime/{{ show.id }})
+### [{{ show.title.userPreferred }}]({{ show.siteUrl }})
 
-> {{ show.__page__.description|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
+> {{ show.description|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
 
 {% endfor %}

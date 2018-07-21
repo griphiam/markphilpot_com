@@ -21,7 +21,7 @@ python scripts/process_twitter_archive.py -i $EXPORT_DIR
 # anime first impressions
 
 ```bash
-python scripts/bootstrap_anime_first.py --season $SEASON --year $YEAR -o content/$YEAR/anime_$SEASON_first.md --save_images --client_id X --client_secret Y
+python scripts/bootstrap_anime_first.py --season $SEASON --year $YEAR -o content/$YEAR/anime_$SEASON_first.md --save_images
 ```
 
 For Hero Images :: https://unsplash.com/
