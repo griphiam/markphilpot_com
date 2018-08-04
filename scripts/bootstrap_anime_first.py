@@ -82,7 +82,7 @@ STUDIOS = {
     }
 }
 
-ANILIST_API = 'https://anilist.co/api'
+ANILIST_API = 'https://graphql.anilist.co'
 
 def mkdir_p(path):
     try:
@@ -93,51 +93,79 @@ def mkdir_p(path):
         else:
             raise
 
-def anilist_authenticate(client_id, client_secret):
-    params = {
-        'grant_type': 'client_credentials',
-        'client_id': client_id,
-        'client_secret': client_secret,
-    }
-    r = requests.post("{}/auth/access_token".format(ANILIST_API), params=params)
-    r.raise_for_status()
-    return r.json()['access_token']
+# def anilist_authenticate(client_id, client_secret):
+#     params = {
+#         'grant_type': 'client_credentials',
+#         'client_id': client_id,
+#         'client_secret': client_secret,
+#     }
+#     r = requests.post("{}/auth/access_token".format(ANILIST_API), params=params)
+#     r.raise_for_status()
+#     return r.json()['access_token']
 
 
-def anilist_browse_season(access_token, year, season, sort='popularity-desc'):
+def anilist_browse_season(year, season, sort='popularity-desc'):
     headers = {
-        'Authorization': 'Bearer {}'.format(access_token),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
     }
     params = {
         'year': year,
         'season': season,
         'sort': sort,
     }
-    r = requests.get("{}/browse/anime".format(ANILIST_API), params=params, headers=headers)
-    r.raise_for_status()
-    return r.json()
-
-
-def anilist_anime_model_page(access_token, anime_id):
-    headers = {
-        'Authorization': 'Bearer {}'.format(access_token),
+    payload = {
+        'operationName': 'seasonQuery',
+        'query': """
+        query seasonQuery($year: Int, $season: MediaSeason) {
+          Page(page: 1, perPage: 100) {
+            media(seasonYear: $year, season: $season, sort: [POPULARITY_DESC]) {
+              id
+              description
+              title {
+                userPreferred
+              }
+              coverImage {
+                large
+              }
+              siteUrl
+              studios {
+                nodes {
+                  name
+                }
+              }
+            }
+          }
+        }
+        """,
+        'variables': {
+            'year': year,
+            'season': season.upper()
+        }
     }
-    r = requests.get("{}/anime/{}/page".format(ANILIST_API, anime_id), headers=headers)
+    r = requests.post(ANILIST_API, json=payload, headers=headers)
     r.raise_for_status()
     return r.json()
+
+
+# def anilist_anime_model_page(access_token, anime_id):
+#     headers = {
+#         'Authorization': 'Bearer {}'.format(access_token),
+#     }
+#     r = requests.get("{}/anime/{}/page".format(ANILIST_API, anime_id), headers=headers)
+#     r.raise_for_status()
+#     return r.json()
 
 
 def anilist_save_image(anime_model, image_dir=None):
     if image_dir:
         mkdir_p(image_dir)
-        filename = anime_model['image_url_lge'].split('/')[-1]
+        filename = anime_model['coverImage']['large'].split('/')[-1]
         anime_model['__pv_filename__'] = filename
-        img = requests.get(anime_model['image_url_lge'])
+        img = requests.get(anime_model['coverImage']['large'])
         with open('%s/%s' % (image_dir, filename), 'wb') as f:
             f.write(img.content)
             f.close()
-
-    anime_model['__page__'] = anilist_anime_model_page(access_token, anime_model['id'])
 
     sys.stdout.write('.')
     sys.stdout.flush()
@@ -164,8 +192,6 @@ if __name__ == '__main__':
     parser.add_argument('--year', type=int)
     parser.add_argument('--season')
     parser.add_argument('--save_images', default=False, action='store_true')
-    parser.add_argument('--client_id')
-    parser.add_argument('--client_secret')
 
     args = parser.parse_args()
 
@@ -196,11 +222,11 @@ if __name__ == '__main__':
     # if args.season:
     #     data.update(process_hummingbird_upcoming(args.season, image_dir))
 
-    access_token = anilist_authenticate(args.client_id, args.client_secret)
-    anime_models = anilist_browse_season(access_token, args.year, args.season)
+    # access_token = anilist_authenticate(args.client_id, args.client_secret)
+    anime_models = anilist_browse_season(args.year, args.season)
 
     data.update({
-        'shows': [anilist_save_image(m, image_dir) for m in anime_models],
+        'shows': [anilist_save_image(m, image_dir) for m in anime_models['data']['Page']['media']],
         'season': args.season,
     })
 

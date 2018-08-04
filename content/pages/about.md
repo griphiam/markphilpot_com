@@ -16,9 +16,9 @@ Some places you can find me on the Internet: [<i class="fa fa-twitter"></i>](htt
 
 Let's take this in reverse chronological order:
 
-![Mattermark]({filename}/images/about/mattermark.png){: .center}
+![Journal]({filename}/images/about/journal.png){: .center}
 
-I'm currently working at Mattermark as a _Senior Software Engineer_ working with an awesome team on all aspects of the product.
+![Mattermark]({filename}/images/about/mattermark.png){: .center}
 
 ![DaedaFusion]({filename}/images/about/daedafusion.png){: .center}
 
