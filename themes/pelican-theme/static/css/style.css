@@ -475,9 +475,9 @@ td, th {
   margin-bottom: 8px;
   list-style-type: none
 }
-.recent-posts li:hover a {
+/*.recent-posts li:hover a {
   color: #900
-}
+}*/
 .recent-posts li div {
   padding: 5px 0
 }
@@ -688,15 +688,14 @@ a {
 }
 .content a {
   text-decoration: none;
-  border-bottom: 2px solid #b3c1c7;
-  -webkit-transition: border-color 0.2s ease;
-  -moz-transition: border-color 0.2s ease;
+  /*border-bottom: 2px solid #b3c1c7;*/
+  -webkit-transition: color 0.2s ease;
+  -moz-transition: color 0.2s ease;
   -ms-transition: border-color 0.2s ease;
-  -o-transition: border-color 0.2s ease;
-  transition: border-color 0.2s ease
+  -o-transition: color 0.2s ease;
 }
 .content a:hover {
-  border-color: #5f7782
+  color: #546875;
 }
 
 /* Pygments Overrides */

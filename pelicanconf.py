@@ -69,7 +69,7 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.headerid': {},
-        'markdown.extensions.toc': {'permalink': 'true'}
+        'markdown.extensions.toc': {'anchorlink': True, 'permalink': False}
     },
     'output_format': 'html5',
 }
@@ -82,13 +82,14 @@ ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 USE_FAVICON = True
 WITH_FUTURE_DATES = True
 PAGINATED_DIRECT_TEMPLATES = []
 
 # Prevent generation of paginated blocks
 AUTHOR_SAVE_AS = False
-CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
 
 STATIC_PATHS = ['theme/images', 'images', 'admin']

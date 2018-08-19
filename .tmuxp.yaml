@@ -8,8 +8,13 @@ windows:
       - shell_command:
         - git status
         - open http://localhost:8000
-  - window_name: devserver
+  - window_name: content
     shell_command_before:
       - 'pyenv activate blog'
     panes:
-      - ./develop_server.sh start
+      - pelican content -r
+  - window_name: server
+    shell_command_before:
+      - 'pyenv activate blog'
+    panes:
+      - cd output && python -m pelican.server

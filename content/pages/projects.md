@@ -15,3 +15,9 @@ Hero: "background-image: url(/images/projects/hero.jpg);"
 ## DaedaFusion OSS
 
 [DaedaFusion Github](https://github.com/daedafusion)
+
+## anilime
+
+Manage your AniList anime & manga on iOS
+
+<a href="https://itunes.apple.com/us/app/anilime/id1358133029?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;border:0;"></a>
