@@ -92,6 +92,9 @@ PAGINATED_DIRECT_TEMPLATES = []
 AUTHOR_SAVE_AS = False
 TAG_SAVE_AS = False
 
+# Prevent category generation during dev
+CATEGORY_SAVE_AS = False
+
 STATIC_PATHS = ['theme/images', 'images', 'admin']
 STATIC_EXCLUDE_SOURCES = False
 

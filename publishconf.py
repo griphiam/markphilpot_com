@@ -18,6 +18,8 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 FEED_MAX_ITEMS = 100
 
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+
 DELETE_OUTPUT_DIRECTORY = True
 
 PLUGINS.append('optimize_images')
