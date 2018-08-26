@@ -6,7 +6,7 @@ summary: About Mark Philpot
 Hero: "background-image: url(/images/about/hero.jpg);"
 ---
 
-Some places you can find me on the Internet: [<i class="fa fa-twitter"></i>](https://twitter.com/mark_philpot) [<i class="fa fa-github"></i>](https://github.com/markphilpot) [<i class="fa fa-flickr"></i>](https://www.flickr.com/photos/markphilpot) [<i class="fa fa-font"></i>](https://anilist.co/user/mphilpot)
+Some places you can find me on the Internet: [<i class="fab fa-mastodon"></i>](https://mastodon.social/@markphilpot) [<i class="fab fa-twitter"></i>](https://twitter.com/mark_philpot) [<i class="fab fa-github"></i>](https://github.com/markphilpot) [<i class="fab fa-flickr"></i>](https://www.flickr.com/photos/markphilpot) [<i class="fas fa-font"></i>](https://anilist.co/user/mphilpot)
 
 ### Experience
 
