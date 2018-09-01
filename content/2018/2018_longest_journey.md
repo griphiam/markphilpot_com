@@ -33,12 +33,14 @@ The depression was profound. Unlike other adventure games from Sierra or LucasAr
 
 ## kickstarted
 
-There may have been others leading by example, but none as big as Double Fine's Kickstarter for a new adventure game by Tim Schafer and his LucasArts alumni. Their success emboldened the indie gaming world, giving fans an outlet to support the games they enjoyed so much ahead of the actual development. With Double Fine's success, there was a steady pulse throughout the internet that maybe the same could be done for The Longest Journey. Unlike Double Fine's game, _Broken Age_, TLJ was a previous studios' property, still owned and managed by Funcom. Would TLJ even be given a chance at life outside the studio?
+There may have been others leading by example, but none as big as Double Fine's Kickstarter for a new adventure game by Tim Schafer and his LucasArts alumni. Their success emboldened the indie gaming world, giving fans an outlet to support the games they enjoyed so much ahead of the actual development. With Double Fine's success, there was a steady pulse throughout the internet that maybe the same could be done for The Longest Journey. Unlike Double Fine's game, *Broken Age*, TLJ was a previous studios' property, still owned and managed by Funcom. Would TLJ even be given a chance at life outside the studio?
 
-In the fall of 2012, Ragnar announced that his new studio, Red Thread Games had leased the rights to the property and would be using Kickstarter to crowdfund the game (along with a series of grants from the Norwegian Film Institute). Five episodes where announced and the first, _Book One: Reborn_ arrived in the fall of 2014.
+In the fall of 2012, Ragnar announced that his new studio, Red Thread Games had leased the rights to the property and would be using Kickstarter to crowdfund the game (along with a series of grants from the Norwegian Film Institute). Five episodes where announced and the first, *Book One: Reborn* arrived in the fall of 2014.
 
 ![Dreamfall Chapters]({filename}/images/2017/tlj/dreamfall_chapters.jpg "Dreamfall Chapters"){:.ew1920}
 
+*Dreamfall Chapters* is a deserving capstone to the TLJ story. *Chapters* has a branching narrative where decisions, actions or inactions in the earlier chapters have consequences (sometimes serious ones) in later chapters. The world feels much bigger and lived in than previous games (which early builds of the earlier chapters were overpowering even decent gaming hardware). *Chapters* is much longer than *Dreamfall* and gives more development to some of the complimentary characters (Enu is best Zhid)
+
 # the future of the Balance
 
-Ragnar Tørnquist has [said](https://twitter.com/ragso/status/741008032528801794) that any further forays into the world of Arcadia and Stark are in the distant future if ever at all.
+Ragnar Tørnquist has [said](https://twitter.com/ragso/status/741008032528801794) that any further forays into the world of Arcadia and Stark are in the distant future if ever at all. At this point
