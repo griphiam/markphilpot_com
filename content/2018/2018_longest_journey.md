@@ -39,8 +39,10 @@ In the fall of 2012, Ragnar announced that his new studio, Red Thread Games had 
 
 ![Dreamfall Chapters]({filename}/images/2017/tlj/dreamfall_chapters.jpg "Dreamfall Chapters"){:.ew1920}
 
-*Dreamfall Chapters* is a deserving capstone to the TLJ story. *Chapters* has a branching narrative where decisions, actions or inactions in the earlier chapters have consequences (sometimes serious ones) in later chapters. The world feels much bigger and lived in than previous games (which early builds of the earlier chapters were overpowering even decent gaming hardware). *Chapters* is much longer than *Dreamfall* and gives more development to some of the complimentary characters (Enu is best Zhid)
+*Dreamfall Chapters* is a deserving capstone to the TLJ story. *Chapters* has a branching narrative where decisions, actions or inactions in the earlier chapters have consequences (sometimes serious ones) in later chapters. The world feels much bigger and lived in than previous games (which early builds of the earlier chapters were overpowering even decent gaming hardware). *Chapters* is much longer than *Dreamfall* and gives more development to some of the complimentary characters (Enu is best Zhid).
+
+The episodic delivery (rather than released all at once) I think benifited the game as a whole. The developers were able to respond to development and as they got more practice with the game engine they were able to refine and push boundaries.
 
 # the future of the Balance
 
-Ragnar Tørnquist has [said](https://twitter.com/ragso/status/741008032528801794) that any further forays into the world of Arcadia and Stark are in the distant future if ever at all. At this point
+Ragnar Tørnquist has [said](https://twitter.com/ragso/status/741008032528801794) that any further forays into the world of Arcadia and Stark are in the distant future if ever at all. At this point I'm not expecting any further games in this universe (though I hope to be pleasantly surprised). 
