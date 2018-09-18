@@ -20,7 +20,7 @@ I was hooked and immediately grabbed the album. God damn! This might be my favor
 
 tl;dr this checks all my musical boxes: great melodies from an expressive singer (complete with exquisitely layered vocals), tight guitar work, rock solid song structure and a band that won't shy away from opening their album with a 12 minute epic. The range of the band is fantastic as well: guitars with massive riffs, soft piano with spoken audio clips (very reminiscent of Dream Theater's _Awake_), and a lead guitar sound to die for.
 
-I have to say what impressed me most was the quality of the sound and the overall mix. I haven't heard an album sound _this_ good in quite a long time. The mix is incredibly tight and every instrument blends perfectly. The only other band I know of that mixes albums quite like this is [Threshold](http://thresh.net/) (a band which I _highly_ recommend). I have to give kudos to the guitarist and producer Dean Wells for his work on this album.
+I have to say what impressed me most was the quality of the sound and the overall mix. I haven't heard an album sound _this_ good in quite a long time. The mix is incredibly tight and every instrument blends perfectly. The only other band I know of that mixes albums quite like this is [Threshold](https://thresh.net/) (a band which I _highly_ recommend). I have to give kudos to the guitarist and producer Dean Wells for his work on this album.
 
 I also picked up their two previous albums - while good, neither can touch _Her Halo_. They both were sung by the band's previous vocalist who isn't quite up to the chops of their new frontman, Nathan Peachey.
 

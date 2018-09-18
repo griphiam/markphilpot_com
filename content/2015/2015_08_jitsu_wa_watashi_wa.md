@@ -49,4 +49,4 @@ It also helped that there is a really funny "Quiz" bit at the end of the credits
 
 How crazy good was this summer season?! Had I given this a chance initially, it would have been a show I watched as _soon_ as it was available on Crunchyroll. Ultimately I'm so glad I didn't end up missing this.
 
-This show was so good, I will definitely go out and pick up the manga. The english release of the first volume is out in January, 2016 from [Seven Seas](http://www.gomanga.com/books/my-monster-secret/665).
+This show was so good, I will definitely go out and pick up the manga. The english release of the first volume is out in January, 2016 from [Seven Seas](https://www.gomanga.com/books/my-monster-secret/665).

@@ -24,7 +24,7 @@ I'm a huge fan of the manga (which is still going) and it looks like the single 
 
 I really hope this gets picked up for a second season. Fingers crossed. (The real question though is do I have enough discipline not to binge it in a weekend)
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/relife){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/relife){:.link-nb}
 
 ![orange]({filename}/images/anime/2016/summer/key.jpg "orange"){: .center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
@@ -34,7 +34,7 @@ This is another one where I've read a bit of the manga before. I'm not very far 
 
 The opening episode was quite good and a faithful adaptation of the manga in my opinion. What is left unknown is if this show is an upper or downer...
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/orange){:.link-nb}
 
 ![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:.center} ![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
@@ -42,7 +42,7 @@ The opening episode was quite good and a faithful adaptation of the manga in my 
 
 Hmmm. While I throughly enjoyed _One Punch Man_, I'm not sure how I will fair with this one. I'm not going to lie, the humor is going to have to be _really_ good to counterbalance the art style. At least _OPM_ moved well between both styles (rough and hyper stylized). I guess I'll take a wait and see attitude.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/mob-psycho-100){:.link-nb}
 
 ![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:.center}
 
@@ -54,7 +54,7 @@ Like _Re:Zero_ last season, _Rewrite_ started with a double length opening episo
 
 I'll give it a few more episodes to see if it can work itself out.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/rewrite){:.link-nb}
 
 ![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:.center}
 
@@ -64,7 +64,7 @@ I'll give it a few more episodes to see if it can work itself out.
 
 Damn! Awesome setting (Prohibition Era), great music and a really cool opening setup. As long as there are no one-note-characters (or the number kept to a minimum), I think I will throughly enjoy this one.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/91-days){:.link-nb}
 
 ![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:.studio}
 
@@ -76,7 +76,7 @@ I can't judge this until we see what follows this prologue. Intriguing setting, 
 
 Side Note: My favorite [OP](https://my.mixtape.moe/ingrnl.webm) of the season on this one.
 
-[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){:.link-nb}
+[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](https://www.funimation.com/shows/tales-of-zestiria-the-x/home){:.link-nb}
 
 ![Taboo Tattoo]({filename}/images/anime/2016/summer/vyy117y.jpg "Taboo Tattoo"){:.center} ![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
@@ -86,7 +86,7 @@ _Sigh_
 
 JC Staff, it's like you're not even trying. We have a weird combination of absurd fan service, lazy animation and flat dialog with really well animated fight choreography (with a real sense of weight and realism). If I had to predict, this will be the first one in the drop category this season, but I'm willing to stick it out an episode or two more to see if there are any other redeeming qualities.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/taboo-tattoo){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/taboo-tattoo){:.link-nb}
 
 ![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:.center} ![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
@@ -94,7 +94,7 @@ JC Staff, it's like you're not even trying. We have a weird combination of absur
 
 While not a perfect comparison, this one felt a little like [_Rokka no Yuusha_](https://hummingbird.me/anime/rokka-no-yuusha) but I don't think a season long mystery is in store for us this time. I like the fact there are strong female characters and as long as they do a bit of world building, this might be an interesting series.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/alderamin-on-the-sky){:.link-nb}
 
 ![Qualidea Code]({filename}/images/anime/2016/summer/qualideacode.jpg "Qualidea Code"){:.center} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
@@ -102,7 +102,7 @@ While not a perfect comparison, this one felt a little like [_Rokka no Yuusha_](
 
 And... nope! Pretty sure there isn't going to be anything redeeming here.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/qualidea-code){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/qualidea-code){:.link-nb}
 
 ![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:.center}
 
@@ -112,7 +112,7 @@ And... nope! Pretty sure there isn't going to be anything redeeming here.
 
 _Shirobako_ this definitely isn't, but just the kind of cute fluff one needs to offset some of the more serious shows. Let's see if "working on a game" is more than just pretense. I have a feeling however that it will basically revolve around shoujo hijinks -- not that there is anything wrong with that (in moderation at least).
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/new-game){:.link-nb}
 
 ![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:.center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
@@ -122,7 +122,7 @@ Oh God! This level of cute! It will _destroy_ you.
 
 This feels like [_Usagi Drop_](https://hummingbird.me/anime/bunny-drop) with a bit less of the "weird". The kid is _super_ cute (no seriously!) and there appears to be enough feels to go around to make it a compelling story.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/sweetness-lightning){:.link-nb}
 
 ![Amanchu!]({filename}/images/anime/2016/summer/sxCDTJ9.jpg "Amanchu!"){:.center} ![JC Staff]({filename}/images/anime/studios/half/jc_staff.png){:.studio}
 
@@ -136,16 +136,16 @@ You see what I did there? "holding my breath..." It's a pun. Get it?
 
 _Sigh_
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/amanchu){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/amanchu){:.link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
 </div>
 
 <div style="font-size: 60%">
-Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+Hero image created by Zana at <a href="https://neregate.com/blog/">neregate.com</a> <br/>
 The following websites were used as sources of information to create the chart : 
-<a href="http://www.animenewsnetwork.com/">ANN</a>
-<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
-<a href="http://myanimelist.net/">MAL</a>
+<a href="https://www.animenewsnetwork.com/">ANN</a>
+<a href="https://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="https://myanimelist.net/">MAL</a>
 </div>

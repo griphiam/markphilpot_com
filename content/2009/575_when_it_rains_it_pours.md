@@ -6,7 +6,7 @@ category: blog
 slug: when_it_rains_it_pours
 ---
 
-<div style="margin: 15px; float: left"><a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="Hail Storm - Made it to the truck just in time... almost" target="_blank"><img src="http://farm4.static.flickr.com/3647/3569402984_8ac4ae2009_m.jpg" alt="Hail Storm - Made it to the truck just in time... almost" border="0" /></a></div>
+<div style="margin: 15px; float: left"><a href="https://www.flickr.com/photos/38652841@N00/3569402984/" title="Hail Storm - Made it to the truck just in time... almost" target="_blank"><img src="https://farm4.static.flickr.com/3647/3569402984_8ac4ae2009_m.jpg" alt="Hail Storm - Made it to the truck just in time... almost" border="0" /></a></div>
 
 What a rough weekend.
 
@@ -18,4 +18,4 @@ Ann has one more week of school, a handful of finals, loads of interviews, and a
 
 Oh! There really needs to be a website dedicated to dog owners in search of apartments. Maybe I should get on that.
 
-<small>Photo: <a href="http://www.flickr.com/photos/38652841@N00/3569402984/" title="RWayne" target="_blank">RWayne</a></small>
+<small>Photo: <a href="https://www.flickr.com/photos/38652841@N00/3569402984/" title="RWayne" target="_blank">RWayne</a></small>

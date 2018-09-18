@@ -8,7 +8,7 @@ slug: safari_v_firefox
 
 Apple recently released Safari 4. Being the model geek, I decided to give it a spin -- and I liked what I saw. But here's the problem: at this point I have a deeply ingrained web browsing workflow. Whether it's a habit or a plugin, there are certain things that are this point muscle memory (and for a good reason, because it usually is the most efficient).
 
-<div style="margin: 15px; float: right"><a href="http://www.flickr.com/photos/93755244@N00/3444838707/" title="Screen Shot" target="_blank"><img src="http://farm4.static.flickr.com/3628/3444838707_d47a0c67c2_m.jpg" alt="Screen Shot" border="0" /></a></div>
+<div style="margin: 15px; float: right"><a href="https://www.flickr.com/photos/93755244@N00/3444838707/" title="Screen Shot" target="_blank"><img src="https://farm4.static.flickr.com/3628/3444838707_d47a0c67c2_m.jpg" alt="Screen Shot" border="0" /></a></div>
 
 <strong>Caveat #1</strong> -- Without Firebug, nothing replaces Firefox for web development. Period. End of Story. I'm focusing here on more casual browsing.
 
@@ -30,4 +30,4 @@ Apple recently released Safari 4. Being the model geek, I decided to give it a s
 
 Sticking with Firefox. One of the reasons I'm not tempted by Chrome is there isn't the same level of customization that Firefox currently allows. At least Google is moving toward supporting plugins -- I don't think Apple will ever allow that with Safari. I'm hoping for a high quality Firefox 3.5 release!
 
-<small>Photo: <a href="http://www.flickr.com/photos/93755244@N00/3444838707/" title="Håkan Dahlström" target="_blank">Håkan Dahlström</a></small>
+<small>Photo: <a href="https://www.flickr.com/photos/93755244@N00/3444838707/" title="Håkan Dahlström" target="_blank">Håkan Dahlström</a></small>

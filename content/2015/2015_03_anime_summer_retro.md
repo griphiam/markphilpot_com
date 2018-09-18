@@ -41,7 +41,7 @@ Don't read anything. Just trust me. Give this one a shot. Go! Why are you still 
 
 ![GATE]({filename}/images/anime/2015/summer/gate_pv1.jpg){: .center} ![A1]({filename}/images/anime/studios/a1.png){: .studio}
 
-### [GATE](http://)
+### [GATE](https://)
 
 _On Hold_
 
@@ -81,7 +81,7 @@ _Solid_
 
 Fully entertaining. Just the right amount of over-the-top coupled with an ass-kicking cross-dressing female lead. The pacing is its one fault; feels too much like a 15 year old learning to drive stick. That being said, I loved the character interactions and the extreme personas. I actually think there will be an OVA with the disc release, where I really, _really_ hope they finally do the one thing they needed to do with this show. Fingers crossed.
 
-![Danchigai]({filename}/images/anime/2015/summer/danchigai_pv.jpg){: .center} [Creators in Pack](http://){: .center .link-nb}
+![Danchigai]({filename}/images/anime/2015/summer/danchigai_pv.jpg){: .center} [Creators in Pack](https://){: .center .link-nb}
 
 ### [Danchigai](https://hummingbird.me/anime/danchigai)
 
@@ -89,7 +89,7 @@ _Why did I even bother_
 
 What is it with the Japanese obsession being in love with one's own brother or sister? I mean, really... _really?_ At this point I'm not shocked per se and I think the only reason I got through this show as that it was a short (5 minute episodes). This is probably not worth your time (even if that time isn't much compared to a regular show).
 
-![Rokka]({filename}/images/anime/2015/summer/rokka_pv.jpg){: .center} [Passione](http://){: .center .link-nb}
+![Rokka]({filename}/images/anime/2015/summer/rokka_pv.jpg){: .center} [Passione](https://){: .center .link-nb}
 
 ### [Rokka no Yuusha](https://hummingbird.me/anime/rokka-no-yuusha)
 
@@ -119,7 +119,7 @@ I have a few more episodes to go on this one. This is a dark, murder mystery of 
 
 _Update:_ Finally finished the show and **wow** that was a great ending. It really shows how much an ending to a series can swing your opinion. Definitely recommend. The first half is essentially introductions and laying the ground work. The show gets it's legs in the second half and screams to the finish.
 
-![Dandelion]({filename}/images/anime/2015/summer/dandelion_pv1.jpg){: .center} [Production IMS](http://){: .center .link-nb}
+![Dandelion]({filename}/images/anime/2015/summer/dandelion_pv1.jpg){: .center} [Production IMS](https://){: .center .link-nb}
 
 ### [Joukamachi no Dandelion](https://hummingbird.me/anime/joukamachi-no-dandelion)
 

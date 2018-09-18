@@ -20,9 +20,9 @@ Most guitar preamps and effects today have a nice software component that allows
 
 To get the most of the TriAxis, you need better control.
 
-The "signature" [patch editor](http://www.tonymckenzie.com/triaxis_downloads.htm) was a home project by [Tony McKenzie](http://www.tonymckenzie.com/). I even think Mesa referenced this software as the defacto standard. The problem is that this software was developed in the Windows 98 era and can't run on 64bit computers. Additionally, the downloads of presets from his website are not sysex dumps; they are a proprietary file format so he could give presets a name.
+The "signature" [patch editor](https://www.tonymckenzie.com/triaxis_downloads.htm) was a home project by [Tony McKenzie](https://www.tonymckenzie.com/). I even think Mesa referenced this software as the defacto standard. The problem is that this software was developed in the Windows 98 era and can't run on 64bit computers. Additionally, the downloads of presets from his website are not sysex dumps; they are a proprietary file format so he could give presets a name.
 
-So what does that leave us with? Well, thankfully, the file format he used isn't obfuscated: The first region is actually the sysex dump, followed by a region defining the names of the presets. If you open up the .tri files in a hex editor, you can extract the sysex dump and load that into [SysEx Librarian](http://www.snoize.com/SysExLibrarian/) to send to the TriAxis.
+So what does that leave us with? Well, thankfully, the file format he used isn't obfuscated: The first region is actually the sysex dump, followed by a region defining the names of the presets. If you open up the .tri files in a hex editor, you can extract the sysex dump and load that into [SysEx Librarian](https://www.snoize.com/SysExLibrarian/) to send to the TriAxis.
 
 Additionally, you can use [ievms](https://github.com/xdissent/ievms) to pull down a 32 bit version of Windows 7 where you can load up his software, build your own set of presets, then save it. You can then run the following to truncate the file down to 2746 bytes:
 

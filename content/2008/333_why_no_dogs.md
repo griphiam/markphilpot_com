@@ -7,9 +7,9 @@ slug: why_no_dogs
 ---
 
 <div class="flickr-frame">
-	<a href="http://www.flickr.com/photos/markphilpot/2207403459/" title="photo sharing"><img src="http://farm3.static.flickr.com/2251/2207403459_d20bc3f340.jpg" class="flickr-photo" /></a>
+	<a href="https://www.flickr.com/photos/markphilpot/2207403459/" title="photo sharing"><img src="https://farm3.static.flickr.com/2251/2207403459_d20bc3f340.jpg" class="flickr-photo" /></a>
 
-    <span class="flickr-caption"><a href="http://www.flickr.com/photos/markphilpot/2207403459/">no dogs allowed</a>, originally uploaded by <a href="http://www.flickr.com/people/markphilpot/">griphiam</a>.</span>
+    <span class="flickr-caption"><a href="https://www.flickr.com/photos/markphilpot/2207403459/">no dogs allowed</a>, originally uploaded by <a href="https://www.flickr.com/people/markphilpot/">griphiam</a>.</span>
 
 </div>
 

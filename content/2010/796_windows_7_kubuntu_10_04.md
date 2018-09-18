@@ -22,9 +22,9 @@ The Windows side of my install only gets used for games (Steam) and Photoshop CS
 
 Installation was fast and smooth. I installed the updated nvidia drivers (which borked the bootsplash screen, but that bug is already fixed pending release in the update repositories). Installed Flash 64bit and struggled with the same sound issue that happens every install (for some reason, the audio channels that Flash uses are muted by default in Kubuntu. You have to go into the mixer and fix the muting and volume and then everything works great).
 
-I followed the nice tutorial <a href="http://dreadknight666.com/2009/07/dropbox-in-kde-linux/">here</a> or <a href="http://antrix.net/journal/techtalk/dropbox_kde.html">here</a> to get dropbox working without Nautilus.
+I followed the nice tutorial <a href="https://dreadknight666.com/2009/07/dropbox-in-kde-linux/">here</a> or <a href="https://antrix.net/journal/techtalk/dropbox_kde.html">here</a> to get dropbox working without Nautilus.
 
-Also, Ubuntu decided to move sun-java6 over to their partner repository (which unfortunately isn't enabled by default). While <a href="http://openjdk.java.net/">OpenJDK</a> might one day become an adequate replacement, I just don't think it is yet, so in KPackageKit open up the Software Sources dialog and enable the partner repository under Third Party Software.
+Also, Ubuntu decided to move sun-java6 over to their partner repository (which unfortunately isn't enabled by default). While <a href="https://openjdk.java.net/">OpenJDK</a> might one day become an adequate replacement, I just don't think it is yet, so in KPackageKit open up the Software Sources dialog and enable the partner repository under Third Party Software.
 
 Additionally, there are some python-gtk imports that prevent <em>nvidia-settings</em> from merging the xorg.conf file (after you run <em>nvidia-xconfig</em>), so be sure to run it from the command line first to see the errors. It would be nice if Kubuntu included the python-gtk bindings by default.
 

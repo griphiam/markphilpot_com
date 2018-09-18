@@ -44,7 +44,7 @@ You'll probably notice that this first impressions post is coming out a bit late
 
 My first impression of this season seems to be _understated_ but _solid_. There is a wide variety with comedies taking the lead. With the holidays I fell behind last season, so I'll be playing catch up and hopefully try to stay more current for this one.
 
-One "shocking" bit of news before we dive in is Amazon's new pay-for anime channel called [Anime Strike](http://www.animenewsnetwork.com/news/2017-01-12/amazon-u.s-launches-anime-strike-paid-streaming-service/.110924) as part of their paid streaming service. I don't know what to think of this -- to say their catalog is bare bones is significantly understating the situation. As a happy paying subscriber of Crunchyroll, Funimation & Netflix, as well as an Amazon Prime member, I'm not sure I will be diving into yet another pay-for stream service one unless they start buying up enough shows to really deprive CR. Will be interesting to see what shows they pick up this coming year. If I had to bet, I'd say they might go aggressively after [Shingeki no Kyojin 2](http://anilist.co/anime/20958/ShingekinoKyojin2) as an exclusive. That would be quite the steal.
+One "shocking" bit of news before we dive in is Amazon's new pay-for anime channel called [Anime Strike](https://www.animenewsnetwork.com/news/2017-01-12/amazon-u.s-launches-anime-strike-paid-streaming-service/.110924) as part of their paid streaming service. I don't know what to think of this -- to say their catalog is bare bones is significantly understating the situation. As a happy paying subscriber of Crunchyroll, Funimation & Netflix, as well as an Amazon Prime member, I'm not sure I will be diving into yet another pay-for stream service one unless they start buying up enough shows to really deprive CR. Will be interesting to see what shows they pick up this coming year. If I had to bet, I'd say they might go aggressively after [Shingeki no Kyojin 2](https://anilist.co/anime/20958/ShingekinoKyojin2) as an exclusive. That would be quite the steal.
 
 Anyway, let's dive in...
 
@@ -54,7 +54,7 @@ Anyway, let's dive in...
 
 Season 1 came out of nowhere and for many was the best show of 2016 (and easily the best comedy). I'm a _little_ concerned about what they have planned this time around. It was clear they didn't know what they had the first time, so I hope they don't end up ruining it because of the unexpected popularity. After seeing the first episode, I have a second concern: the animation budget. The first cour was rough, but it felt on purpose and for the most part was balanced out with decent effort and framerates. This time around, there was so much of the "rough edges" it felt like someone thought that was part of the aesthetic success of the first season (which in my opinion was not a positive factor the first time). The humor seemed to build from where they left off, but overall I'm left with more concerns than before -- usually not a good sign.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world){:.link-nb}
 
 ![Masamune-kun no Revenge]({filename}/images/anime/2017/winter/21857-tAiKXbvbDTpE.jpg "Masamune-kun no Revenge"){:.center} ![Silver Link]({filename}/images/anime/studios/half/silver_link.png){:.studio}
 
@@ -62,7 +62,7 @@ Season 1 came out of nowhere and for many was the best show of 2016 (and easily 
 
 There are a few ways this one could go. I feel it's a bit like a Monty Hall problem -- we could very easily end up with a goat. The opening wasn't half bad, but we'll have to give it a few more episodes to prove itself. The show seemingly avoided a few pitfalls in it's debut and managed to make the two main characters slightly more than one dimensional. Fingers crossed?
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/masamune-kuns-revenge){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/masamune-kuns-revenge){:.link-nb}
 
 ![Little Witch Academia (TV)]({filename}/images/anime/2017/winter/21858-PxwXbl6jybK2.jpg "Little Witch Academia (TV)"){:.center} ![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
 
@@ -76,7 +76,7 @@ Netflix supposedly has picked this up, but for some inexplicable reason they hav
 
 Like watching an emotional train wreck in slow motion.
 
-I have reservations with this one. I managed to figure out that "Oni-chan" in this instance is just a family friend rather than her actual brother, but it's hard to dispel the thought given Japan's propensity for that story line. I thought the animation style was nice and different. The use of split screen and overall editing style was actually really refreshing. My worry is that this will have the possibility for an absolute crushing ending. There are very few "happy" resolutions for a plot started this way. Like [orange](http://anilist.co/anime/21647/orange) last year, I may have to stay away until I figure out what kind of ending it has for my own emotional sanity.
+I have reservations with this one. I managed to figure out that "Oni-chan" in this instance is just a family friend rather than her actual brother, but it's hard to dispel the thought given Japan's propensity for that story line. I thought the animation style was nice and different. The use of split screen and overall editing style was actually really refreshing. My worry is that this will have the possibility for an absolute crushing ending. There are very few "happy" resolutions for a plot started this way. Like [orange](https://anilist.co/anime/21647/orange) last year, I may have to stay away until I figure out what kind of ending it has for my own emotional sanity.
 
 ![Youjo Senki]({filename}/images/anime/2017/winter/21613-uXQY6GWI4aJG.jpg "Youjo Senki"){:.center}
 
@@ -86,9 +86,9 @@ I have reservations with this one. I managed to figure out that "Oni-chan" in th
 
 What. The Hell. Did I Just Watch.
 
-I will give it at least one more episode, but I'm not sure I can get over the rather unfortunate character designs. The overall animation didn't strike me as great either (although I was too distracted by the characters to really take notice). A season after another mediocre war anime in [Izetta](http://anilist.co/anime/21838/ShuumatsunoIzetta) I sincerely doubt I'll be up for this one.
+I will give it at least one more episode, but I'm not sure I can get over the rather unfortunate character designs. The overall animation didn't strike me as great either (although I was too distracted by the characters to really take notice). A season after another mediocre war anime in [Izetta](https://anilist.co/anime/21838/ShuumatsunoIzetta) I sincerely doubt I'll be up for this one.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/saga-of-tanya-the-evil){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/saga-of-tanya-the-evil){:.link-nb}
 
 ![Fuuka]({filename}/images/anime/2017/winter/21887-BUxTWHRhcXxZ.jpg "Fuuka"){:.center} ![Diomedea]({filename}/images/anime/studios/half/diomedea.png){:.studio}
 
@@ -96,7 +96,7 @@ I will give it at least one more episode, but I'm not sure I can get over the ra
 
 I almost passed this one by, but Crunchyroll picked it up, so I thought I'd give the first episode a chance. It was ever-so _slightly_ endearing, even if it does roll out a whole slew of tropes and fan service. I'm really hoping there is more to the story and characters that what we see on the surface, but I won't be surprised if we continue a mediocre romcom plot with needless fan service and an abundance of tropes.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/fuuka){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/fuuka){:.link-nb}
 
 ![Tales of Zestiria the X 2]({filename}/images/anime/2017/winter/97645-tNJgs6QSp5Nt.jpg "Tales of Zestiria the X 2"){:.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.png){:.studio}
 
@@ -104,7 +104,7 @@ I almost passed this one by, but Crunchyroll picked it up, so I thought I'd give
 
 Given the source material (JRPG) there was obviously plenty of material for a second cour for _Tales_ but I'm a little suprised it's getting one (which probably means it was planned to be a 2 cour series from the start). The first cour was entertaining, but nothing special (though if you enjoy ufotable's animation, then the story was really a perfect complement). Keep your expectations low and enjoy the animation.
 
-Thanks to the [ReLIFE](http://anilist.co/anime/21049/ReLIFE) dub from Funimation, I discovered the greatness of [Alexis Tipton](https://myanimelist.net/people/9091/Alexis_Tipton). She also does the voice for Alisha in the _Tales_ dub, so I've added that to my queue. Depending on the strength of that dub, I might continue this series on that side of the divide.
+Thanks to the [ReLIFE](https://anilist.co/anime/21049/ReLIFE) dub from Funimation, I discovered the greatness of [Alexis Tipton](https://myanimelist.net/people/9091/Alexis_Tipton). She also does the voice for Alisha in the _Tales_ dub, so I've added that to my queue. Depending on the strength of that dub, I might continue this series on that side of the divide.
 
 ![ACCA: 13-ku Kansatsu-ka]({filename}/images/anime/2017/winter/21823-rO1rsx6OANhJ.jpg "ACCA: 13-ku Kansatsu-ka"){:.center} ![Madhouse]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
@@ -114,7 +114,7 @@ _zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_
 
 Wow. So Madhouse can release a dud. I'm not sure I understand _who_ would be interested in a tale spun around a bureaucracy, but to combine it with this particular character design seems to me like an absolute recipe for disaster
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/acca-13-territory-inspection-dept){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/acca-13-territory-inspection-dept){:.link-nb}
 
 ![Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen]({filename}/images/anime/2017/winter/21733-mt1o8RKxZxzf.jpg "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen"){:.center} ![Deen]({filename}/images/anime/studios/half/studio_deen.png){:.studio}
 
@@ -122,7 +122,7 @@ Wow. So Madhouse can release a dud. I'm not sure I understand _who_ would be int
 
 Last year's first season was anime of the year in my opinion. Not everyone's cup of tea, but it was just _so good_ at what it set out to do. I'm even more excited for this cour since (hopefully) will be focusing on the new student, _Yotaro_.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/showa-genroku-rakugo-shinju){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/showa-genroku-rakugo-shinju){:.link-nb}
 
 ![Seiren]({filename}/images/anime/2017/winter/97730-Hg72XZPqC2VO.jpg "Seiren"){:.center}
 
@@ -130,17 +130,17 @@ Last year's first season was anime of the year in my opinion. Not everyone's cup
 
 ### [Seiren](https://anilist.co/anime/97730)
 
-From the staff who brought us [Amagami SS](http://anilist.co/anime/8676/AmagamiSS) (if not the studio). I honestly rather enjoyed Amagami, but I'm going to at least wait so I can binge each heroine's arc rather than waiting week to week.
+From the staff who brought us [Amagami SS](https://anilist.co/anime/8676/AmagamiSS) (if not the studio). I honestly rather enjoyed Amagami, but I'm going to at least wait so I can binge each heroine's arc rather than waiting week to week.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/seiren){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/seiren){:.link-nb}
 
 ![Demi-chan wa Kataritai]({filename}/images/anime/2017/winter/97592-ZqMezZrUFJOe.jpg "Demi-chan wa Kataritai"){:.center} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}
 
 ### [Demi-chan wa Kataritai](https://anilist.co/anime/97592)
 
-Ok, this one is going to be my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch](http://anilist.co/anime/21284/flyingwitch) and [Sweetness and Lightning](http://anilist.co/manga/86044/AmaamatoInazuma) filled last year. I couldn't help but smile throughout the entire first episode. Kudos to A1 if they can pull this off.
+Ok, this one is going to be my not-so-secret favorite of the season. Heartwarming & cute -- this one fills the feel good role that [Flying Witch](https://anilist.co/anime/21284/flyingwitch) and [Sweetness and Lightning](https://anilist.co/manga/86044/AmaamatoInazuma) filled last year. I couldn't help but smile throughout the entire first episode. Kudos to A1 if they can pull this off.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/interviews-with-monster-girls){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/interviews-with-monster-girls){:.link-nb}
 
 ![Kobayashi-san Chi no Maidragon]({filename}/images/anime/2017/winter/21776-tB39hPtQkl3V.jpg "Kobayashi-san Chi no Maidragon"){:.center} ![Kyoto]({filename}/images/anime/studios/half/kyoto.png){: .studio}
 
@@ -148,24 +148,24 @@ Ok, this one is going to be my not-so-secret favorite of the season. Heartwarmin
 
 This one got quite a few chuckles out of me. It feels like an anime short in the body of a full length series. Episodic hijinks, here we come.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/miss-kobayashis-dragon-maid){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/miss-kobayashis-dragon-maid){:.link-nb}
 
 ![Gabriel DropOut]({filename}/images/anime/2017/winter/21878-G5sVkEbSgnfu.jpg "Gabriel DropOut"){:.center} ![Dogakobo]({filename}/images/anime/studios/half/dogakobo.png){:.studio}
 
 ### [Gabriel DropOut](https://anilist.co/anime/21878)
 
-There is going to be some comedy gold in this one. I never saw [Himouto! Umaru-Chan](http://anilist.co/anime/20987/HIMOUTOUMARUCHAN) a few seasons ago, but this feels a bit like I imagine that one would be (just in a slightly reverse fashion... almost like [Hataraku Maou-sama!](http://anilist.co/anime/15809/HatarakuMaousama) (_Devil is a Part-Timer_)).
+There is going to be some comedy gold in this one. I never saw [Himouto! Umaru-Chan](https://anilist.co/anime/20987/HIMOUTOUMARUCHAN) a few seasons ago, but this feels a bit like I imagine that one would be (just in a slightly reverse fashion... almost like [Hataraku Maou-sama!](https://anilist.co/anime/15809/HatarakuMaousama) (_Devil is a Part-Timer_)).
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/gabriel-dropout){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/gabriel-dropout){:.link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
 </div>
 
 <div style="font-size: 60%">
-Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+Hero image created by Zana at <a href="https://neregate.com/blog/">neregate.com</a> <br/>
 The following websites were used as sources of information to create the chart : 
-<a href="http://www.animenewsnetwork.com/">ANN</a>
-<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
-<a href="http://myanimelist.net/">MAL</a>
+<a href="https://www.animenewsnetwork.com/">ANN</a>
+<a href="https://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="https://myanimelist.net/">MAL</a>
 </div>

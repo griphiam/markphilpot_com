@@ -19,7 +19,7 @@ There is however, a significant ergonomic disadvantage to the dual monitor setup
 
 When I last put together a new desktop a few years ago, I bought three Samsung SyncMaster 204BW thinking I would use two and then I would put the third on a desk for my wife to connect her laptop to. It quickly became apparent that my wife doesn't like docking her laptop and once she got a MacBook Air, there was no convenient way to use it with a monitor. So the third ended up not being used and shoved in a closet.
 
-Fast forward a few years I got a Mac Pro for studio and development work. I had noticed that it supported three monitors, but it never occurred to me to actually use it. Then a few weeks ago in the process of literally cleaning out the closet, I remembered that we had a spare monitor (and just so happened to be identical to the existing monitors in my setup) and thought what the hell, I would take [Jeff Atwood's](https://twitter.com/codinghorror) advice and try out a [three monitor setup](http://blog.codinghorror.com/three-monitors-for-every-user/).
+Fast forward a few years I got a Mac Pro for studio and development work. I had noticed that it supported three monitors, but it never occurred to me to actually use it. Then a few weeks ago in the process of literally cleaning out the closet, I remembered that we had a spare monitor (and just so happened to be identical to the existing monitors in my setup) and thought what the hell, I would take [Jeff Atwood's](https://twitter.com/codinghorror) advice and try out a [three monitor setup](https://blog.codinghorror.com/three-monitors-for-every-user/).
 
 ![Three Monitor Setup]({filename}/images/two_vs_three/two_vs_three_2.png "Three Monitor Setup"){:.center}
 

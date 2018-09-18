@@ -6,4 +6,4 @@ category: blog
 slug: so_true
 ---
 
-From a user interface design standpoint, check out <a href="http://www.componenthouse.com/article-21">this</a> article... I really wish he had incorporated actual user interface follies, but the conclusions he draws from each point are spot on.
+From a user interface design standpoint, check out <a href="https://www.componenthouse.com/article-21">this</a> article... I really wish he had incorporated actual user interface follies, but the conclusions he draws from each point are spot on.

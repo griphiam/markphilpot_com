@@ -78,7 +78,7 @@ I'll hold off giving any definitive opinions on this second cour, but I still th
 
 Loved it. While I wish it went a bit deeper in its exploration of discrimination and bullying, it was cute, funny and heartfelt. The entire cast was great and don't judge the show based on the setting (high school). I picked up the manga and hope it will tell more stories about this engaging cast.
 
-![Sakie Satou](http://i.imgur.com/6jNBALy.jpg){: .ew1280}
+![Sakie Satou](https://i.imgur.com/6jNBALy.jpg){: .ew1280}
 
 Let me also conclude: If any character _needs_ a happy ending, it's Sakie Satou.
 
@@ -93,9 +93,9 @@ Also loved it! This one caught me more by surprise as there was actually tremend
 </div>
 
 <div style="font-size: 60%">
-Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+Hero image created by Zana at <a href="https://neregate.com/blog/">neregate.com</a> <br/>
 The following websites were used as sources of information to create the chart : 
-<a href="http://www.animenewsnetwork.com/">ANN</a>
-<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
-<a href="http://myanimelist.net/">MAL</a>
+<a href="https://www.animenewsnetwork.com/">ANN</a>
+<a href="https://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="https://myanimelist.net/">MAL</a>
 </div>

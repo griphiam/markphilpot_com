@@ -32,7 +32,7 @@ Binged? ✅ <br/> Enjoyed? ✅ <br/> Want Second Season? ✅
 
 What a truly fantastic adaption! They were very faithful to the source material while still making it their own. The characters were fantastic and the humor actually translated very well to the screen. They also managed to end the season with both a resolution and a tease for more that was actually satisfying (though to be fair that might be because I've been reading the manga). I really, **really** hope there is a second season in store for us down the road.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/relife){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/relife){:.link-nb}
 
 ![orange]({filename}/images/anime/2016/summer/key.jpg "orange"){: .center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
@@ -42,7 +42,7 @@ I couldn't even start this because I feared how much of a downer it would be. I 
 
 And no, I haven't made any progress through the manga for the same reason. I think I might be scarred by [Shigatsu wa Kimi no Uso](https://hummingbird.me/anime/shigatsu-wa-kimi-no-uso).
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/orange){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/orange){:.link-nb}
 
 ![Mob Psycho 100]({filename}/images/anime/2016/summer/tumblr_o8ifltoL3b1uq3bnuo1_1280.jpg "Mob Psycho 100"){:.center} ![Bones]({filename}/images/anime/studios/half/bones.png){: .studio}
 
@@ -50,7 +50,7 @@ And no, I haven't made any progress through the manga for the same reason. I thi
 
 Most people seemed to have loved this show (maybe not quite as much as One Punch Man). It just wasn't my cup of tea. It's on hold rather than dropped as maybe someone will review it and really make me feel that I missed out by not watching it.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/mob-psycho-100){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/mob-psycho-100){:.link-nb}
 
 ![Rewrite]({filename}/images/anime/2016/summer/img-key03.jpg "Rewrite"){:.center}
 
@@ -62,7 +62,7 @@ Such. A. Slow. Start.
 
 The problem through really is that once it gets going no one really bothers to tell you where. The characters are no more than cardboard cutouts of anime stereotypes and I really don't see that developing or evolving. I think I heard something that there might be a second season? _Shrug_
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/rewrite){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/rewrite){:.link-nb}
 
 ![91 Days]({filename}/images/anime/2016/summer/ytibcw_91days.jpg "91 Days"){:.center}
 
@@ -72,7 +72,7 @@ The problem through really is that once it gets going no one really bothers to t
 
 Unfortunately on hold for the time being and through no real fault of the show itself -- I just preferred watching other series. One day!
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/91-days){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/91-days){:.link-nb}
 
 ![Tales of Zestiria the X]({filename}/images/anime/2016/summer/A18072-730632182.1467300951.jpg "Tales of Zestiria the X"){:.center} ![ufotable]({filename}/images/anime/studios/half/ufotable.jpg){:.studio}
 
@@ -84,7 +84,7 @@ Now, all that being said, I did rather enjoy it. The music is fantastic and the 
 
 So... Mission Accomplished?
 
-[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](http://www.funimation.com/shows/tales-of-zestiria-the-x/home){:.link-nb}
+[![Funimation]({filename}/images/anime/streaming/funimation_logo.png)](https://www.funimation.com/shows/tales-of-zestiria-the-x/home){:.link-nb}
 
 ![Nejimaki Seirei Senki: Tenkyou no Alderamin]({filename}/images/anime/2016/summer/uvtufc_nejimakiseireisenkitenkyounoalderamin.jpg "Nejimaki Seirei Senki: Tenkyou no Alderamin"){:.center} ![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){:.studio}
 
@@ -96,7 +96,7 @@ Characters were quite good with a story that was fairly straight forward -- the 
 
 Now of course since this is a Madhouse production, we will never get a sequel, so while the ending is somewhat satisfactory, I went ahead and pulled down the manga where hopefully the rest of the story will be told. It's such a striking contrast in tone, at least in the opening few volumes of the manga. The tone of the manga is much more lighthearted than the anime adaptation -- I'm curious when they get to the battles and war will it continue or shift dramatically.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/alderamin-on-the-sky){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/alderamin-on-the-sky){:.link-nb}
 
 ![New Game!]({filename}/images/anime/2016/summer/newgamev3.jpg "New Game!"){:.center}
 
@@ -106,7 +106,7 @@ Now of course since this is a Madhouse production, we will never get a sequel, s
 
 The epitome of _Slice of Life_ anime with a little extra character depth sprinkled in. I ended up saving this until the season had ended so I could binge it in a few days. If you liked [K-On!](https://hummingbird.me/anime/k-on) chances are you will enjoy this one. This isn't [Shirobako](https://hummingbird.me/anime/shirobako) -- you won't be getting an intimate look into the game production process (any studio willing to take that one on? Seems like a slam dunk). Since I wasn't expecting that going in, I wasn't disappointed with the episodic hijinks.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/new-game){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/new-game){:.link-nb}
 
 ![Amaama to Inazuma]({filename}/images/anime/2016/summer/cUZyLOZCRRdc_amaamatoinazuma.jpg "Amaama to Inazuma"){:.center} ![TMS]({filename}/images/anime/studios/half/tms.png){: .studio}
 
@@ -114,16 +114,16 @@ The epitome of _Slice of Life_ anime with a little extra character depth sprinkl
 
 Enough cute to make you melt and enough food to make your mouth water. It is definitely the same formula repeated twelve times but in the end I didn't mind it at all. All the characters were fantastic and shout out to the child voice actor that plays the little girl. She **nailed** each and every performance and was really the linchpin of the series.
 
-[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](http://www.crunchyroll.com/sweetness-lightning){:.link-nb}
+[![Crunchyroll]({filename}/images/anime/streaming/crunchyroll_logo.png)](https://www.crunchyroll.com/sweetness-lightning){:.link-nb}
 
 <div style="text-align: center">
 <hr style="width: 50%"/>
 </div>
 
 <div style="font-size: 60%">
-Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+Hero image created by Zana at <a href="https://neregate.com/blog/">neregate.com</a> <br/>
 The following websites were used as sources of information to create the chart : 
-<a href="http://www.animenewsnetwork.com/">ANN</a>
-<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
-<a href="http://myanimelist.net/">MAL</a>
+<a href="https://www.animenewsnetwork.com/">ANN</a>
+<a href="https://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="https://myanimelist.net/">MAL</a>
 </div>

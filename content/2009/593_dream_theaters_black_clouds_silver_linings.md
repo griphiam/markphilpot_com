@@ -26,7 +26,7 @@ The ballad of the album is toned down and not at all pretentious (as rock ballad
 
 <h4>The Shattered Fortress</h4>
 
-This track concludes Mike Portnoy's <em>Twelve-step Suite</em> [<a href="http://en.wikipedia.org/wiki/Twelve-step_Suite">wikipedia</a>] (or AA Suite) about his struggle with alcoholism.
+This track concludes Mike Portnoy's <em>Twelve-step Suite</em> [<a href="https://en.wikipedia.org/wiki/Twelve-step_Suite">wikipedia</a>] (or AA Suite) about his struggle with alcoholism.
 
 * Six Degrees of Inner Turbulence -- The Glass Prison
 * Train of Thought -- This Dying Soul

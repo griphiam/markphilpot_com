@@ -14,17 +14,17 @@ The only recipe for right now is to go back an catch up on all those shows you m
 
 <em>Freaks & Geeks</em> Seasons: ½
 
-Due to the insistence from <a href="http://jeff.specular.org/">Jeff</a> and <a href="http://www.imdb.com/title/tt0405422/">Forty-Year-Old Virgin</a>/<a href="http://www.imdb.com/title/tt0478311/">Knocked Up</a>, I've taken the plunge to get my heart broken by becoming attached to this show that barely had a season's worth of episodes. Ann and I watched the first three episodes last night, and I'm already disappointed that I only have a very limited number of episodes left (9). =( Damn you NBC! You now join the ranks of Fox for killing off fantastic television only to dump mind-numbing crap in our face instead.
+Due to the insistence from <a href="https://jeff.specular.org/">Jeff</a> and <a href="https://www.imdb.com/title/tt0405422/">Forty-Year-Old Virgin</a>/<a href="https://www.imdb.com/title/tt0478311/">Knocked Up</a>, I've taken the plunge to get my heart broken by becoming attached to this show that barely had a season's worth of episodes. Ann and I watched the first three episodes last night, and I'm already disappointed that I only have a very limited number of episodes left (9). =( Damn you NBC! You now join the ranks of Fox for killing off fantastic television only to dump mind-numbing crap in our face instead.
 
 Three episodes in, I understand both why the network saw fit to kill it and why it is loved by so many... This is not a simple sitcom. It is not a simple drama. Its a real, evolving story... heartwarming, funny, awkward, and "Crap! High school was <em>exactly</em> like that!" This is like Serenity... it wasn't a stereotypical sci-fi show, not a basic western, not a simple comedy, not an intriguing drama. A genuine story that needed to be told and the big-wigs simply didn't get it.
 
 Also, how can a series that won an Emmy, be canceled so soon?
 
-<img src="http://upload.wikimedia.org/wikipedia/en/9/9d/Undeclared_DVD.jpg" style="float: right" height="185" width="135" /><em>Undeclared</em> Seasons: ½
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9d/Undeclared_DVD.jpg" style="float: right" height="185" width="135" /><em>Undeclared</em> Seasons: ½
 
 And we pick up where we left off, this time with only 15 episodes (those bastards). I don't know much about it yet, but I assume its fairly analogous to F&G, just moved up a few years -- college years. If it is anywhere near the quality of F&G, I'll treat it as season two of F&G, so I can actually claim to have a full season!
 
-Its unfortunate because I think Judd Apatow's talents are better suited to the television episode format, rather than feature length movies. A brief look at his <a href="http://www.imdb.com/name/nm0031976/">imdb profile</a> suggests he's staying with producing films. I hope he does decide to make a return to the small screen, and I will eagerly await.
+Its unfortunate because I think Judd Apatow's talents are better suited to the television episode format, rather than feature length movies. A brief look at his <a href="https://www.imdb.com/name/nm0031976/">imdb profile</a> suggests he's staying with producing films. I hope he does decide to make a return to the small screen, and I will eagerly await.
 
 (Supposedly there's lots of cameos from F&G, so that should be fun)
 
@@ -36,7 +36,7 @@ There is a little difficultly getting started watching this one. Apparently the 
 
 I'll keep you informed when they finally get season 1 back out there.
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Stargate_Atlantis_intro.jpg/250px-Stargate_Atlantis_intro.jpg" style="float: right" height="141" width="250" /><em>Stargate Atlantis</em> Seasons: 4+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Stargate_Atlantis_intro.jpg/250px-Stargate_Atlantis_intro.jpg" style="float: right" height="141" width="250" /><em>Stargate Atlantis</em> Seasons: 4+
 
 Having already made my way though all ten seasons of the original Stargate SG-1 (and a huge fan of the movie and previous series), I need to at least make my way through this venture. I've watched the first 5 or so episodes... Characters aren't quite as good as the original, but the original cast makes lots of guest appearances. And at least they are still making episodes!
 
@@ -48,7 +48,7 @@ The BBC revamp of the 40+ year old franchise. When I was really young I saw a fe
 
 Did you know -- There have been 10 doctors in the Dr. Who series?
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Rome_title_card.jpg/225px-Rome_title_card.jpg" style="float: right" height="150" width="225" /><em>Rome</em> Seasons: 2
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Rome_title_card.jpg/225px-Rome_title_card.jpg" style="float: right" height="150" width="225" /><em>Rome</em> Seasons: 2
 
 Surprise, surprise. Another quality product coming from HBO. I've already seen all of Deadwood (and if you haven't, shame on you! Go rent it! Now! And you must watch at least 4 episodes... it takes about that long to get into it). Rome was on around the same time (after the Sex in the City conclusion), but Deadwood won out for me at the time. It is supposed to be really good -- graphic violence, sex, deceit, scheming, betrayal... Literally, what more could you ask for?
 
@@ -60,7 +60,7 @@ HBO again, and this time with what I believe is the most critically acclaimed sh
 
 Season 4 was set in Baltimore, MD and I have a few relatives who have worked there and claim the show is incredibly accurate in depicting the day to day life there.
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/4/40/Battlestar_Galactica_intro.jpg/250px-Battlestar_Galactica_intro.jpg" style="float: right" height="139" width="250" /><em>Battlestar Galactica</em> Seasons: Resume w/ s3
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Battlestar_Galactica_intro.jpg/250px-Battlestar_Galactica_intro.jpg" style="float: right" height="139" width="250" /><em>Battlestar Galactica</em> Seasons: Resume w/ s3
 
 I don't know how the WGA strike will affect season 4 (currently slated for the beginning of 2008), but the season 3 box set comes out at Christmas time. I've saved watching the cliffhanger from season 2, so I could immediately jump into season 3. Supposedly a lot of "interesting stuff" happens in this next season...
 
@@ -84,7 +84,7 @@ Who doesn't like a little Richard Dean Anderson love? The rapport between the ma
 
 In any regard, I highly recommend this series if you were a fan of the original movie. You'll get quite a lot of mileage out of this show with ten full seasons to get through.
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/1/18/Deadwood_titleimage.jpg/200px-Deadwood_titleimage.jpg" style="float: right" height="115" width="200" /><em>Deadwood</em> Seasons: 3
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Deadwood_titleimage.jpg/200px-Deadwood_titleimage.jpg" style="float: right" height="115" width="200" /><em>Deadwood</em> Seasons: 3
 
 Having not seen The Wire yet, so I can't directly compare the two, Deadwood has to be one of my all time favorite character based dramas. Not only for the resurrection of "cocksucka" into contemporary vocabulary, but the quality of writing and dialog is on another level. There are so many spectacular lines from this series that are just mind-blowingly good (on a Shakespeare-quality level). Don't hesitate starting this series. It will not disappoint.
 
@@ -103,4 +103,4 @@ A little Quantum Leap and Time Traveler's Wife mixed together and set in San Fra
 
 <em>Terminator: The Sarah Connor Chronicles</em>
 
-Please, please please... settle the strike so this show has a life. My understanding is they have made around 9 episodes for next year if the strike isn't resolved. This could have <a href="http://xkcd.com/311/">potential</a>... and watching Summer Glau kick ass is always a winning premise.
+Please, please please... settle the strike so this show has a life. My understanding is they have made around 9 episodes for next year if the strike isn't resolved. This could have <a href="https://xkcd.com/311/">potential</a>... and watching Summer Glau kick ass is always a winning premise.

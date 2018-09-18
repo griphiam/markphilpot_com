@@ -11,7 +11,7 @@ _This post was migrated from my old blog_
 
 <img alt="A Wizard of Mars (Young Wizards, #9)" border="0" src="https://d.gr-assets.com/books/1272379484l/1583121.jpg" /></a>
 
-[A Wizard of Mars](http://www.goodreads.com/book/show/1583121.A_Wizard_of_Mars) by [Diane Duane](http://www.goodreads.com/author/show/11761.Diane_Duane)
+[A Wizard of Mars](https://www.goodreads.com/book/show/1583121.A_Wizard_of_Mars) by [Diane Duane](https://www.goodreads.com/author/show/11761.Diane_Duane)
 
 Diane Duane has done it again. An incredibly well crafted story in the universe she has crafted and evolved over nine fantastic books. For any fan of the series, this is a must read. Anyone new, I highly recommend starting from the first installment.
 

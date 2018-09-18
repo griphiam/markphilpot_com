@@ -8,7 +8,7 @@ slug: lessons_from_pirates
 
 Old link, but I'm still trying to catch up...
 
-Mark hit the nail on the head <a href="http://diveintomark.org/archives/2007/06/26/piracy-lessons">here</a>... Though I think the blame is shared between the retailers and the content owners, this is more to do with retailers than the latter. But there is a new world emerging... Streaming Video. And I'm not talking about digital downloads -- I'm talking about things similar to what NBC does with its shows\*.
+Mark hit the nail on the head <a href="https://diveintomark.org/archives/2007/06/26/piracy-lessons">here</a>... Though I think the blame is shared between the retailers and the content owners, this is more to do with retailers than the latter. But there is a new world emerging... Streaming Video. And I'm not talking about digital downloads -- I'm talking about things similar to what NBC does with its shows\*.
 
 With more and more (legal and illegal) avenues to get streaming video, retailers will feel more pressure than I think they will from digital downloads. While I don't think they are mutually exclusive, streaming video is definitely more bandwidth intensive (under current technology).
 

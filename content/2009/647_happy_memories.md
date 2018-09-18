@@ -6,4 +6,4 @@ category: blog
 slug: happy_memories
 ---
 
-<img src='http://farm3.static.flickr.com/2453/3752737967_cbbe1dc722.jpg' class='imgserie' alt='Carmel Highlands'/>
+<img src='https://farm3.static.flickr.com/2453/3752737967_cbbe1dc722.jpg' class='imgserie' alt='Carmel Highlands'/>

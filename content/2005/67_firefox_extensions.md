@@ -26,7 +26,7 @@ I use <a href="https://addons.mozilla.org/themes/moreinfo.php?id=72&application=
 
 <a href="https://addons.mozilla.org/extensions/moreinfo.php?id=26">Download Statusbar </a>- Nice way of hiding downloads and sending them to the background. It has its drawbacks, but I find it useful if you are the type of person that doesn't monitor your downloads.
 
-<a href="https://addons.mozilla.org/extensions/moreinfo.php?id=342">Foxylicious</a> - An interface to the <a href="http://del.icio.us/">del.icio.us</a> bookmark community site. I do use <a href="http://del.icio.us/">del.icio.us</a> but not as my primary form for bookmarking. This one is nice to have, but far from perfect.
+<a href="https://addons.mozilla.org/extensions/moreinfo.php?id=342">Foxylicious</a> - An interface to the <a href="https://del.icio.us/">del.icio.us</a> bookmark community site. I do use <a href="https://del.icio.us/">del.icio.us</a> but not as my primary form for bookmarking. This one is nice to have, but far from perfect.
 
 <a href="https://addons.mozilla.org/extensions/moreinfo.php?id=1269&application=firefox">Fasterfox</a> - Tweaks Firefox under the covers to improve your browsing performance. Gives you a few pre-packaged options, and also allows you to customize fully. All these tweaks can be accomplished by going through about:config, but this provides a nice set of options and descriptions about what each parameter is, so you can intelligently set your options. Definitely speeds up browsing!
 

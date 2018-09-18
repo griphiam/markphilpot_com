@@ -10,11 +10,11 @@ Maybe its the way I'm wired... I don't know if others feel this way. Images this
 
 ![Io]({filename}/images/2007/90_69_1.jpg){: .center}
 
-<a href="http://ciclops.org/ir_index.php?id=27"> Io Across Jupiter</a>
+<a href="https://ciclops.org/ir_index.php?id=27"> Io Across Jupiter</a>
 
 ![Saturn]({filename}/images/2007/205_223_0.jpg){: .center}
 
-<a href="http://ciclops.org/ir_index.php?id=27"> Saturn</a>
+<a href="https://ciclops.org/ir_index.php?id=27"> Saturn</a>
 
 ![Saturn]({filename}/images/2007/chandra_abell520.jpg){: .center}
 
@@ -22,4 +22,4 @@ Chandra X-Ray Observer
 
 ![Saturn]({filename}/images/2007/185517main_a-516.jpg){: .center}
 
-<a href="http://www.nasa.gov/mission_pages/galex/20070815/">Mira - The Shooting Star </a>
+<a href="https://www.nasa.gov/mission_pages/galex/20070815/">Mira - The Shooting Star </a>

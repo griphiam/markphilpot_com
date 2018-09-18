@@ -7,7 +7,7 @@ slug: computer_privilege
 summary: Computers are the privilege, not open source
 ---
 
-Hat tip to [Luis Villa](http://lu.is/) who tweeted a [link](http://twitter.com/tieguy/status/514786756777242624) to an old blog [post](http://gandre.ws/blog/blog/2013/11/15/harry-potter-and-the-system-of-privilege/) by [Gus Andrews](https://twitter.com/gusandrews). The post is the last in a four part series about Gus' experiences with Linux (specifically Ubuntu) and his thoughts on open source software. The post rings true in a lot of ways for me, but I wanted to suggest a refinement to his central thesis.
+Hat tip to [Luis Villa](https://lu.is/) who tweeted a [link](https://twitter.com/tieguy/status/514786756777242624) to an old blog [post](https://gandre.ws/blog/blog/2013/11/15/harry-potter-and-the-system-of-privilege/) by [Gus Andrews](https://twitter.com/gusandrews). The post is the last in a four part series about Gus' experiences with Linux (specifically Ubuntu) and his thoughts on open source software. The post rings true in a lot of ways for me, but I wanted to suggest a refinement to his central thesis.
 
 > We should, all of us, try to be conscious of the conditions in which we learned things. Many of us who got deep into computers did do it while we were teenagers and college students, and had tremendous amounts of access and time on our hands.
 

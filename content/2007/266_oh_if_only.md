@@ -8,6 +8,6 @@ slug: oh_if_only
 
 Though not everyone will get the joke, it's damn funny†
 
-<a href="http://xkcd.com/c149.html"><img src="http://imgs.xkcd.com/comics/sandwich.png" title="xkcd" alt="xkcd" height="299" width="360" /></a>
+<a href="https://xkcd.com/c149.html"><img src="https://imgs.xkcd.com/comics/sandwich.png" title="xkcd" alt="xkcd" height="299" width="360" /></a>
 
 † Linux experience required

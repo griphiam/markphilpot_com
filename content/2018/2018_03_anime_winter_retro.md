@@ -51,7 +51,7 @@ Is Mei kinda insufferable? *Nod*
 
 Did I still enjoy it? *Yep*
 
-Not more more to say. Great OP song from [nano.RIPE](http://www.nanoripe.com/)
+Not more more to say. Great OP song from [nano.RIPE](https://www.nanoripe.com/)
 
 
 ![Koi wa Ameagari no You ni]({filename}/images/anime/2018/winter/cards/koi.jpg "Koi wa Ameagari no You ni"){:.ew1920}

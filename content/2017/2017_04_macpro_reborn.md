@@ -27,5 +27,5 @@ I dropped my tri-monitor setup in favor of a decent Samsung 4K display and I fra
 </div>
 
 <div style="font-size: 60%">
-<a href="http://www.flickr.com/people/40187740@N00">Philip Pryke</a>, <a href="https://commons.wikimedia.org/wiki/File:The_phoenix_rises.jpg">The phoenix rises</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a>
+<a href="https://www.flickr.com/people/40187740@N00">Philip Pryke</a>, <a href="https://commons.wikimedia.org/wiki/File:The_phoenix_rises.jpg">The phoenix rises</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a>
 </div>

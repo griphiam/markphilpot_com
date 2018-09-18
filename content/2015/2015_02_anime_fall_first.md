@@ -12,7 +12,7 @@ Hero: "background-image: url(/images/anime/2015/fall/hero.jpg);"
 
 So this is my inaugural anime post that I really meant to do for the Summer season but due to vacations wasn't able to do. I still hope to do a Summer 2015 retrospective at some point because it really was an excellent season. My plan right now is to try to do two posts a season: a First Impressions post that covers the first episode or two of the shows I'm going to try to watch, and a Retrospective post covering the shows I enjoyed and the reasons why I dropped others.
 
-By way of introduction, I use [Hummingbird](https://hummingbird.me) to keep tabs on by anime "todo" list and you can follow me [here](https://hummingbird.me/users/mphilpot). The interface is by far superior to [MAL](http://myanimelist.net) which is probably a post in and of itself.
+By way of introduction, I use [Hummingbird](https://hummingbird.me) to keep tabs on by anime "todo" list and you can follow me [here](https://hummingbird.me/users/mphilpot). The interface is by far superior to [MAL](https://myanimelist.net) which is probably a post in and of itself.
 
 ![One Punch Man]({filename}/images/anime/2015/fall/onepunch_pv.jpg "One Punch Man"){:.center} ![Madhouse]({filename}/images/anime/studios/madhouse.png "Madhouse"){:.studio}
 
@@ -36,13 +36,13 @@ Granted the first episode was heavy on backstory, but just found myself bored by
 
 The last to air for the fall season, this could be promising or it could be a very awkward triangle relationship between an engaged couple and a high school student. I'd admit the dynamic between the two main characters has some good back and forth and it doesn't dive head first into awkwardness based on the age difference. This will be either a "murder mystery of the week" with some punchy dialog between the characters, or an over the top sordid exploration of the relationship between an older woman and underage teenager.
 
-![Comet Lucifer]({filename}/images/anime/2015/fall/comet_pv.jpg "Comet Lucifer"){:.center} [8-Bit](http://){: .center .link-nb}
+![Comet Lucifer]({filename}/images/anime/2015/fall/comet_pv.jpg "Comet Lucifer"){:.center} [8-Bit](https://){: .center .link-nb}
 
 ### [Comet Lucifer](https://hummingbird.me/anime/comet-lucifer)
 
 I'm not one of those people who strictly avoids mecha, but I'm also not one that seeks it out. I honestly didn't realize this was a mecha before I watched the first episode. I think my liking of this show will parallel how deep they go into the characters. If it turns out to be "just another mech series" then I'll probably skip it. I will confess however, that I was intrigued by the first episode.
 
-![Young Black Jack]({filename}/images/anime/2015/fall/blackjack_pv.jpg "Young Black Jack"){:.center} [Tezuka Productions](http://){: .center .link-nb}
+![Young Black Jack]({filename}/images/anime/2015/fall/blackjack_pv.jpg "Young Black Jack"){:.center} [Tezuka Productions](https://){: .center .link-nb}
 
 ### [Young Black Jack](https://hummingbird.me/anime/young-black-jack)
 
@@ -60,7 +60,7 @@ The only reason this is on anyone's radar for this season is the studio attached
 
 File this under "complete unknown" and "somewhat promising." I actually appreciate that the show just drops in the audience without explaining any of context of the world the protagonist finds himself in (unlike some other shows I could name _cough_ Heavy Object _cough_). My one gripe is that it's a continuation of a lazy (but theoretically competant) male lead trope. It really would be nice to have a show with this tone that was gender flipped. The saving grace is that the female supporting character seems like the "sweet but kick-ass type" -- I hope anyway.
 
-![Rakudai]({filename}/images/anime/2015/fall/rakudai_pv.jpg "Rakudai"){:.center}<br/> [Silver Link](http://){: .center .link-nb}
+![Rakudai]({filename}/images/anime/2015/fall/rakudai_pv.jpg "Rakudai"){:.center}<br/> [Silver Link](https://){: .center .link-nb}
 
 ### [Rakudai Kishi no Cavalry](https://hummingbird.me/anime/rakudai-kishi-no-cavalry)
 
@@ -74,7 +74,7 @@ What. The. _Hell_?! You could literally run Asterisk and Cavalry side by side, a
 
 Once again, theoretically a decent story underneath the ecchi, but I have almost no hope that there will be a shift in tone for the better. I think Cavalry will be much better than this one based on a single episode sample.
 
-![Lance]({filename}/images/anime/2015/fall/lance_pv.jpg "Lance"){:.center} [Studio Gokumi](http://){:.center .link-nb}
+![Lance]({filename}/images/anime/2015/fall/lance_pv.jpg "Lance"){:.center} [Studio Gokumi](https://){:.center .link-nb}
 
 ### [Lance N’ Masques](https://hummingbird.me/anime/lance-n-masques)
 
@@ -103,9 +103,9 @@ Like with [Baby Steps 2](https://hummingbird.me/anime/baby-steps-2) in the sprin
 </div>
 
 <div style="font-size: 60%">
-Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+Hero image created by Zana at <a href="https://neregate.com/blog/">neregate.com</a> <br/>
 The following websites were used as sources of information to create the chart : 
-<a href="http://www.animenewsnetwork.com/">ANN</a>
-<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
-<a href="http://myanimelist.net/">MAL</a>
+<a href="https://www.animenewsnetwork.com/">ANN</a>
+<a href="https://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="https://myanimelist.net/">MAL</a>
 </div>

@@ -10,7 +10,7 @@ Hero: "background-image: url(/images/2016/blog_publish_workflow/hero.jpg);"
 
 [TOC]
 
-This quick tutorial will take a static blogging engine ([jekyll](https://jekyllrb.com/), [pelican](http://blog.getpelican.com/), [hugo](http://www.gohugo.io/)) and publish it to S3 automatically. I'm making the following assumptions:
+This quick tutorial will take a static blogging engine ([jekyll](https://jekyllrb.com/), [pelican](https://blog.getpelican.com/), [hugo](https://www.gohugo.io/)) and publish it to S3 automatically. I'm making the following assumptions:
 
 * Your static blog is under some sort of source control
 * A designated branch in your source control should be published (e.g. master)
@@ -21,7 +21,7 @@ In the end you will get a publishing workflow that give you:
 * Automatic publishing to S3 when changes are pushed to your master branch
 * Optionally SSL for your domain (via AWS Cloudfront)
 
-In this example, I'm using [pelican](http://blog.getpelican.com/) for my blog and [travis](https://travis-ci.org/) for my CI. The workflow can definitely be adapted for use with other blogs and other CI services. Travis is free if your blog repository is public in either [Github](https://github.com) or [Bitbucket](https://bitbucket.com).
+In this example, I'm using [pelican](https://blog.getpelican.com/) for my blog and [travis](https://travis-ci.org/) for my CI. The workflow can definitely be adapted for use with other blogs and other CI services. Travis is free if your blog repository is public in either [Github](https://github.com) or [Bitbucket](https://bitbucket.com).
 
 ## Rationale
 

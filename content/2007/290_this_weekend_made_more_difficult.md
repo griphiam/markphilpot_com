@@ -14,7 +14,7 @@ This weekend was quite literally a gut check. Summarized in spectacular powerpoi
 	<li>Building a computer from scratch got a lot more complicated in 8 years.  Building a computer with a pounding stress headache is a fracking awful.</li>
 	<li>Hard drives arriving DOA (complete with that sickening head clicking) SUCK.</li>
 	<li>And I thought ATI was bad... Nvidia (and ATI) need to get their act together and polish their linux drivers... and make sure your installer works!</li>
-	<li>Alberto Milone is a SAINT!!  Wrote a great python script (<a href="http://albertomilone.com/nvidia_scripts1.html">Envy</a>) that does a video driver installer better than Nvidia or ATI (f*ck nuts)</li>
+	<li>Alberto Milone is a SAINT!!  Wrote a great python script (<a href="https://albertomilone.com/nvidia_scripts1.html">Envy</a>) that does a video driver installer better than Nvidia or ATI (f*ck nuts)</li>
 	<li>Discovering Envy after a day and a half of manual tweaking SUCKS!</li>
 	<li>Figuring how to reconnect my home theater system is always much more trouble that it should be.</li>
 </ul>

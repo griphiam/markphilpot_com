@@ -39,7 +39,7 @@ _Not what I thought_
 
 So it turns out, Sakurako _might_ be engaged, given that we _never are even introduced to her fiancé!_ While I enjoyed this, it's no [Hyouka](https://hummingbird.me/anime/hyouka) and my rating will probably drop further if it never gets a second cour. Being basically a "mystery of the week" type of show, there was almost no character development to speak of. We find out bits of Sakurako's backstory, but never get to the main mystery of her past. We are introduced to what should be a central antagonist essentially in the final episode. Since there is no manga, I'm assuming they are trying to setup a second season that allows Sakurako to match wits with this antagonist. If you haven't started this, I might suggest holding off until the second season is confirmed.
 
-![Comet Lucifer]({filename}/images/anime/2015/fall/half/comet_pv.jpg "Comet Lucifer"){:.center} [8-Bit](http://){: .center .link-nb}
+![Comet Lucifer]({filename}/images/anime/2015/fall/half/comet_pv.jpg "Comet Lucifer"){:.center} [8-Bit](https://){: .center .link-nb}
 
 ### [Comet Lucifer](https://hummingbird.me/anime/comet-lucifer)
 
@@ -55,7 +55,7 @@ _Might be Hold territory_
 
 Turns out this is a follow-on series set in the same universe (both based on a game). The pacing feels incredibly slow with a 24 episode run. Through episode 8, there is still no conflict -- no antagonist. Just minimal character and world building. Maybe this is supposed to be more fan service to those who watched the original. I'll probably get to the rest eventually once the run completes.
 
-![Rakudai]({filename}/images/anime/2015/fall/half/rakudai_pv.jpg "Rakudai"){:.center}<br/> [Silver Link](http://){:.center .link-nb}
+![Rakudai]({filename}/images/anime/2015/fall/half/rakudai_pv.jpg "Rakudai"){:.center}<br/> [Silver Link](https://){:.center .link-nb}
 
 ### [Rakudai Kishi no Cavalry](https://hummingbird.me/anime/rakudai-kishi-no-cavalry)
 
@@ -71,7 +71,7 @@ _Completed Dud_
 
 So while I technically completed this one, I definitely wouldn't recommend it. This just bled mediocre. Shallow characters with no compelling conflict. For as much similarity that the first episodes of this and Cavalry showed, they both diverged immediately. Cavalry's characters were compelling, having complex motivations (even taking into account a bit of Deus Ex Machina). Asterisk's fell flat from moment zero and was never able to recover.
 
-![Lance]({filename}/images/anime/2015/fall/half/lance_pv.jpg "Lance"){: .center} [Studio Gokumi](http://){: .center .link-nb}
+![Lance]({filename}/images/anime/2015/fall/half/lance_pv.jpg "Lance"){: .center} [Studio Gokumi](https://){: .center .link-nb}
 
 ### [Lance N’ Masques](https://hummingbird.me/anime/lance-n-masques)
 
@@ -92,9 +92,9 @@ This one I'm putting on hold. Apparently they got Gen Urobuchi to write some epi
 </div>
 
 <div style="font-size: 60%">
-Hero image created by Zana at <a href="http://neregate.com/blog/">neregate.com</a> <br/>
+Hero image created by Zana at <a href="https://neregate.com/blog/">neregate.com</a> <br/>
 The following websites were used as sources of information to create the chart : 
-<a href="http://www.animenewsnetwork.com/">ANN</a>
-<a href="http://m-p.sakura.ne.jp/">Moon Phase</a>
-<a href="http://myanimelist.net/">MAL</a>
+<a href="https://www.animenewsnetwork.com/">ANN</a>
+<a href="https://m-p.sakura.ne.jp/">Moon Phase</a>
+<a href="https://myanimelist.net/">MAL</a>
 </div>
