@@ -23,4 +23,4 @@ I also have a breakdown of what type of browser visited the site.  From the (top
 </ul>
 The software package my host uses to keep track of these things doesn't look very good.  I could probably roll my own or go find a PHP script or PHP Pear implementation to integrate, but really I'm lazy =)
 
-It looks like most of my traffic is through the <a title="www.duke.edu/web/DUMB" href="http://dumb.mcstudios.net">Band website</a> (figures), but actually not as much as I might have thought. It will be interesting to look at the stats next spring and see if Mozilla/Firefox gains even more ground.
+It looks like most of my traffic is through the <a title="www.duke.edu/web/DUMB" href="https://dumb.mcstudios.net">Band website</a> (figures), but actually not as much as I might have thought. It will be interesting to look at the stats next spring and see if Mozilla/Firefox gains even more ground.

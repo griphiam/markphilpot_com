@@ -35,8 +35,8 @@ TRANSLATION_FEED_ATOM = None
 #           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/mark_philpot'),
-          ('Github', 'http://github.com/markphilpot'),)
+SOCIAL = (('Twitter', 'https://twitter.com/mark_philpot'),
+          ('Github', 'https://github.com/markphilpot'),)
 
 DEFAULT_PAGINATION = 10
 

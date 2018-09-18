@@ -14,7 +14,7 @@ Unix, the Web, and the rest of the sane world use '/' to separate directories. T
 char * file = "/home/mark/input.txt";</code>
 ```
 
-However, Windows, tipping its hat to is DOS legacy, has retained the '\' for directory separation, much to the consternation of the entire software community. <a href="http://blogs.msdn.com/larryosterman/archive/2005/06/24/432386.aspx" title="Very insightful">Here</a> is a very interesting take on why DOS even has this legacy. Bottom line -- <em>unlike the other OS of the day (unix), DOS didn't support directories... it just had one root filesystem.</em> This led the clever developers to use the '/' character as the command line switch -- like "xcopy /Y". On Unix-like systems, "-" or "--" is used -- "cp -R \*.txt"
+However, Windows, tipping its hat to is DOS legacy, has retained the '\' for directory separation, much to the consternation of the entire software community. <a href="https://blogs.msdn.com/larryosterman/archive/2005/06/24/432386.aspx" title="Very insightful">Here</a> is a very interesting take on why DOS even has this legacy. Bottom line -- <em>unlike the other OS of the day (unix), DOS didn't support directories... it just had one root filesystem.</em> This led the clever developers to use the '/' character as the command line switch -- like "xcopy /Y". On Unix-like systems, "-" or "--" is used -- "cp -R \*.txt"
 
 The result is, that if your platform is windows, the above code turns into:
 

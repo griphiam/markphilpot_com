@@ -6,7 +6,7 @@ category: blog
 slug: the_best_always_get_canceled
 ---
 
-For those of of you that are emotionally strong, TubeWad as a good <a href="http://www.tubewad.com/13-tv-shows-that-should-never-have-been-cancelled-1340-p.html">breakdown</a> of some shows that have had the brightest candles but the shortest wicks -- shows that got canceled well before their time. Its really sad actually how much good stuff there is on the list (and how much I'm more than intimately familiar with). Before I add a few thoughts, let me point that while we have potentially numerous squandered classics here, we are now suffering through the 14<sup>th</sup> season of <em>Survivor</em> (I shit you not)! Anyway, after that depressing thought... onward.
+For those of of you that are emotionally strong, TubeWad as a good <a href="https://www.tubewad.com/13-tv-shows-that-should-never-have-been-cancelled-1340-p.html">breakdown</a> of some shows that have had the brightest candles but the shortest wicks -- shows that got canceled well before their time. Its really sad actually how much good stuff there is on the list (and how much I'm more than intimately familiar with). Before I add a few thoughts, let me point that while we have potentially numerous squandered classics here, we are now suffering through the 14<sup>th</sup> season of <em>Survivor</em> (I shit you not)! Anyway, after that depressing thought... onward.
 
 ## Firefly
 
@@ -42,4 +42,4 @@ The one good thing about <em>Sports Night</em> getting canceled is that it allow
 
 While I was a big <em>X-Files</em> fan for the first few seasons, I got frustrated that it didn't tie into an arc enough and never answered any of the damn questions (<em>Lost</em>... take notes). <em>The Lone Gunmen</em> were fun characters, but I just can't imagine them sustaining a show of their own.
 
-»Photo <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-by-sa</a> by <a href="http://www.flickr.com/photos/colinrego/">colinrego</a>«
+»Photo <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-by-sa</a> by <a href="https://www.flickr.com/photos/colinrego/">colinrego</a>«

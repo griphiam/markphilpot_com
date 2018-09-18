@@ -8,7 +8,7 @@ slug: tgif
 
 ![Washington Monument]({filename}/images/2005/DSC_0165.jpg){: .center}
 
-I thought I'd start out Friday with a "new" image. It's actually a rather old picture (July 2004 I believe). I took a bunch of other good ones on that shoot, so this set got lost in the background. I uploaded two others in my <a href="http://gallery.mcstudios.net">Gallery</a> of the Washington Monument that I thought also turned out well. Unfortunately the Reflecting Pool was draining at the time, but I actually think it creates a rather neat effect.
+I thought I'd start out Friday with a "new" image. It's actually a rather old picture (July 2004 I believe). I took a bunch of other good ones on that shoot, so this set got lost in the background. I uploaded two others in my <a href="https://gallery.mcstudios.net">Gallery</a> of the Washington Monument that I thought also turned out well. Unfortunately the Reflecting Pool was draining at the time, but I actually think it creates a rather neat effect.
 
 Ann & I have a last minute dance lesson this evening so we don't humiliate ourselves at our wedding (or bore everyone to tears by just swaying back and forth). We took some lessons a few months ago, but we had not selected our music yet. So hopefully it will turn out well =)
 

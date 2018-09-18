@@ -6,32 +6,32 @@ category: blog
 slug: new_panoramas
 ---
 
-I haven't uploaded any of the panorama's I did in the past few months, so I thought I'd do some processing and get it up. Here's the <a title="Panoramas - Page 2" href="http://gallery.mcstudios.net/v/photography/pano/?g2_page=2">ablum</a>
+I haven't uploaded any of the panorama's I did in the past few months, so I thought I'd do some processing and get it up. Here's the <a title="Panoramas - Page 2" href="https://gallery.mcstudios.net/v/photography/pano/?g2_page=2">ablum</a>
 
 <table width="100%" cellpadding="2" border="0" align="center">
 <tr>
-<td><a title="Carmel Beach" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Beach.jpg.html" />
-<div style="text-align: center"><a title="Carmel Beach" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Beach.jpg.html"><img src="http://gallery.mcstudios.net/d/1925-1/Carmel-Beach.jpg" /></a></div>
+<td><a title="Carmel Beach" href="https://gallery.mcstudios.net/v/photography/pano/Carmel-Beach.jpg.html" />
+<div style="text-align: center"><a title="Carmel Beach" href="https://gallery.mcstudios.net/v/photography/pano/Carmel-Beach.jpg.html"><img src="https://gallery.mcstudios.net/d/1925-1/Carmel-Beach.jpg" /></a></div>
 <p align="center" style="font-weight: bold">Carmel Beach Overlook
 </td>
-<td><a title="Sunset" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Sunset.jpg.html" />
-<div style="text-align: center"><a title="Sunset" href="http://gallery.mcstudios.net/v/photography/pano/Carmel-Sunset.jpg.html"><img src="http://gallery.mcstudios.net/d/1928-2/Carmel-Sunset.jpg" /></a></div>
+<td><a title="Sunset" href="https://gallery.mcstudios.net/v/photography/pano/Carmel-Sunset.jpg.html" />
+<div style="text-align: center"><a title="Sunset" href="https://gallery.mcstudios.net/v/photography/pano/Carmel-Sunset.jpg.html"><img src="https://gallery.mcstudios.net/d/1928-2/Carmel-Sunset.jpg" /></a></div>
 <p align="center" style="font-weight: bold">Carmel Beach Sunset
 </td>
 </tr>
 <tr>
-<td><a title="Highlands Inn" href="http://gallery.mcstudios.net/v/photography/pano/Highlands-Inn-Deck.jpg.html" />
-<div style="text-align: center"><a title="Highlands Inn" href="http://gallery.mcstudios.net/v/photography/pano/Highlands-Inn-Deck.jpg.html"><img src="http://gallery.mcstudios.net/d/1931-2/Highlands-Inn-Deck.jpg" /></a></div>
+<td><a title="Highlands Inn" href="https://gallery.mcstudios.net/v/photography/pano/Highlands-Inn-Deck.jpg.html" />
+<div style="text-align: center"><a title="Highlands Inn" href="https://gallery.mcstudios.net/v/photography/pano/Highlands-Inn-Deck.jpg.html"><img src="https://gallery.mcstudios.net/d/1931-2/Highlands-Inn-Deck.jpg" /></a></div>
 <p style="text-align: center; font-weight: bold">Highlands Inn (Deck)
 </td>
-<td><a title="Pike's Peak (outside Colorado Springs)" href="http://gallery.mcstudios.net/v/photography/pano/Pikes-Peak.jpg.html" />
-<div style="text-align: center"><a title="Pike's Peak (outside Colorado Springs)" href="http://gallery.mcstudios.net/v/photography/pano/Pikes-Peak.jpg.html"><img src="http://gallery.mcstudios.net/d/1934-2/Pikes-Peak.jpg" /></a></div>
+<td><a title="Pike's Peak (outside Colorado Springs)" href="https://gallery.mcstudios.net/v/photography/pano/Pikes-Peak.jpg.html" />
+<div style="text-align: center"><a title="Pike's Peak (outside Colorado Springs)" href="https://gallery.mcstudios.net/v/photography/pano/Pikes-Peak.jpg.html"><img src="https://gallery.mcstudios.net/d/1934-2/Pikes-Peak.jpg" /></a></div>
 <p style="text-align: center; font-weight: bold">Pike's Peak, Colorado
 </td>
 </tr>
 <tr>
-<td><a title="Carmel" href="http://gallery.mcstudios.net/v/photography/pano/Wide-Carmel-Beach.jpg.html" />
-<div style="text-align: center"><a title="Carmel" href="http://gallery.mcstudios.net/v/photography/pano/Wide-Carmel-Beach.jpg.html"><img src="http://gallery.mcstudios.net/d/1937-2/Wide-Carmel-Beach.jpg" /></a></div>
+<td><a title="Carmel" href="https://gallery.mcstudios.net/v/photography/pano/Wide-Carmel-Beach.jpg.html" />
+<div style="text-align: center"><a title="Carmel" href="https://gallery.mcstudios.net/v/photography/pano/Wide-Carmel-Beach.jpg.html"><img src="https://gallery.mcstudios.net/d/1937-2/Wide-Carmel-Beach.jpg" /></a></div>
 <p style="text-align: center; font-weight: bold">Carmel Beach Sunset
 </td>
 <td></td>

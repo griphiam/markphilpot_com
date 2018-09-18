@@ -6,7 +6,7 @@ category: blog
 slug: san_andreas
 ---
 
-Jeff has a good <a href="http://jeff.specular.org/archives/2005/07/21/hot-coffee/">post</a> on controversial <em>Hot Coffee</em> mod that has for some mind-blowing reason made its way to Washington where crass old politicians decide
+Jeff has a good <a href="https://jeff.specular.org/archives/2005/07/21/hot-coffee/">post</a> on controversial <em>Hot Coffee</em> mod that has for some mind-blowing reason made its way to Washington where crass old politicians decide
 
 <blockquote>Hey, I'm going to look out for the children and appeal to all the other old crass voters out there that I'm taking a stand on this <em>evil</em> culture that is... umm.. fucking shit up?</blockquote>
 

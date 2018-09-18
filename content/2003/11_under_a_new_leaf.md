@@ -16,7 +16,7 @@ On a more local note, due to an unfortunate (and highly ironic) incident with th
 
 Well you can, but you do need a lot of computer know how. If are starting from nothing, Linux is great. It works... its extremely stable... and an excellent OS. However, if you want to try to get hardware or software that vendors only made for Windows and haven't shown any Linux support, that's where you need some computer experience.
 
-I installed Mandrake 9.2 and have been really happy with it. There are certain general notions that you have to relearn coming from Windows, but all in all is not too hard. There is plenty of documentation out there helping people (http://www.linuxquestions.org is a great resouce). You can basically do anything you want, and most often get software for free that's extremely competitive with paid software.
+I installed Mandrake 9.2 and have been really happy with it. There are certain general notions that you have to relearn coming from Windows, but all in all is not too hard. There is plenty of documentation out there helping people (https://www.linuxquestions.org is a great resouce). You can basically do anything you want, and most often get software for free that's extremely competitive with paid software.
 
 After a bit of work, I finally got my Visor Edge to hotsync. I finally got a P2P client working. I got OpenGL working (I can actually run UT on it, with much better performance than on my windows machine). I need to get the resource.1 file for Quake from home, and I'll be able to run that as well (such a great game).
 

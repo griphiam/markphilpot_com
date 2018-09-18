@@ -6,7 +6,7 @@ category: blog
 slug: more_summer_movies
 ---
 
-I thought I needed to get this review out soon before I missed all the release dates. Some of these I've already covered but I stumbled across this "complete" <a href="http://geeksofdoom.com/2007/04/23/summer-07-movie-mayhem/">list</a>, and I thought I'd take a gander.
+I thought I needed to get this review out soon before I missed all the release dates. Some of these I've already covered but I stumbled across this "complete" <a href="https://geeksofdoom.com/2007/04/23/summer-07-movie-mayhem/">list</a>, and I thought I'd take a gander.
 
 <strong>Spider Man 3</strong>
 

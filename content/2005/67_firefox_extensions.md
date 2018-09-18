@@ -22,7 +22,7 @@ I use <a href="https://addons.mozilla.org/themes/moreinfo.php?id=72&application=
 
 <a href="https://addons.mozilla.org/extensions/moreinfo.php?application=firefox&category=Bookmarks&numpg=10&id=14">Bookmarks Synchronizer</a> - If you have multiple computers and a remote host, this is for you. It allows you to store your bookmarks on a remote ftp server, so that you don't have to individually update the bookmarks for each computer. Also very handy when reformatting your drive, since you don't have to worry about saving your bookmarks.
 
-<a href="http://www.bugmenot.com/">BugMeNot</a> - Also essential. Instead of creating accounts for all those newspaper sites (like the New York Times), you can right-click on the form, select BugMeNot, and it automatically retrieves a "community" username and password so you can continue to view the news story.
+<a href="https://www.bugmenot.com/">BugMeNot</a> - Also essential. Instead of creating accounts for all those newspaper sites (like the New York Times), you can right-click on the form, select BugMeNot, and it automatically retrieves a "community" username and password so you can continue to view the news story.
 
 <a href="https://addons.mozilla.org/extensions/moreinfo.php?id=26">Download Statusbar </a>- Nice way of hiding downloads and sending them to the background. It has its drawbacks, but I find it useful if you are the type of person that doesn't monitor your downloads.
 

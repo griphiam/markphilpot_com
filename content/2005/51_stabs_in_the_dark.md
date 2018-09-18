@@ -12,4 +12,4 @@ OK... Its pretty close for now, though its going to need a lot more tweaks, and 
 
 I still need to figure out how to link to Gallery2 thumbnails. Apparently G2 Beta 3 is a precursor to a Beta 4 overhaul in which lots of things are going to change, including themes and urls. Thankfully, it supports URL rewrite (to allow shorter URLs) but I still need to figure out the best way to link to them easily.
 
-I will update the links in the menu toolbar tomorrow (as the <a href="http://gallery.mcstudios.net">Photo Gallery</a> link is out dated)
+I will update the links in the menu toolbar tomorrow (as the <a href="https://gallery.mcstudios.net">Photo Gallery</a> link is out dated)

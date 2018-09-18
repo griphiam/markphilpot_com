@@ -6,9 +6,9 @@ category: blog
 slug: hello_im_mac_im_a_pc
 ---
 
-Prior to getting started, regardless of which camp you support, you have to appreciate <a title="Reminds me on how much I miss Douglas Adams" href="http://www.guardian.co.uk/commentisfree/story/0,,2006031,00.html">great British humor</a> on the current discussion. Now with that out of the way.
+Prior to getting started, regardless of which camp you support, you have to appreciate <a title="Reminds me on how much I miss Douglas Adams" href="https://www.guardian.co.uk/commentisfree/story/0,,2006031,00.html">great British humor</a> on the current discussion. Now with that out of the way.
 
-For Christmas Ann got me an iPod -- there is a reason this things sell so well. They are just damn easy to use. they of course have their quirks, but they are at least not frustrating to use. My previous MP3 players where the "portable" <a href="http://en.wikipedia.org/wiki/Creative_Nomad_Jukebox#NOMAD_Jukebox_Zen">Creative Jukebox 3</a> and the "great-for-workouts-if-you-didn't-mind-listening-to-the-same-songs-over-and-over" <a href="http://en.wikipedia.org/wiki/Creative_Nomad_Jukebox#NOMAD_and_NOMAD_MuVo">Creative Nomad IIc</a>. Both of these basically come from the before-iPod-era (BiPE) of portable music players. However, before I get too deep in this, let me segue in true Star Wars fashion...
+For Christmas Ann got me an iPod -- there is a reason this things sell so well. They are just damn easy to use. they of course have their quirks, but they are at least not frustrating to use. My previous MP3 players where the "portable" <a href="https://en.wikipedia.org/wiki/Creative_Nomad_Jukebox#NOMAD_Jukebox_Zen">Creative Jukebox 3</a> and the "great-for-workouts-if-you-didn't-mind-listening-to-the-same-songs-over-and-over" <a href="https://en.wikipedia.org/wiki/Creative_Nomad_Jukebox#NOMAD_and_NOMAD_MuVo">Creative Nomad IIc</a>. Both of these basically come from the before-iPod-era (BiPE) of portable music players. However, before I get too deep in this, let me segue in true Star Wars fashion...
 
 ## <em>This is not the post you're looking for...
 
@@ -28,4 +28,4 @@ Now circling back to what to get Ann in a few months, I can't think of a reason 
 
 It was very funny explaining this to Ann. She was devout in the belief that Mac's were "bad" because they were basically incompatible with everything you ever wanted to do. It took me a little while to explain that while it was the case 8 years ago or so (from when this opinion originated), it wasn't the case anymore.
 
-I will probably wait until <a href="http://www.apple.com/macosx/leopard/index.html" title="I really wonder how long they can keep up this cat theme...">Leopard</a> comes out (which I think should be soon). Knowing Apple, they will revamp their hardware to coincide with its release.
+I will probably wait until <a href="https://www.apple.com/macosx/leopard/index.html" title="I really wonder how long they can keep up this cat theme...">Leopard</a> comes out (which I think should be soon). Knowing Apple, they will revamp their hardware to coincide with its release.

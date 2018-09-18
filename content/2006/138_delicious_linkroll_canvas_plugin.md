@@ -6,13 +6,13 @@ category: blog
 slug: delicious_linkroll_canvas_plugin
 ---
 
-My little contribution to the <a title="Canvas for Wordpress" href="http://www.freshpursuits.com/canvas/">Canvas</a> community. This plugin uses the Del.icio.us javascript link roll interface to display your del.icio.us links as a block in Canvas.
+My little contribution to the <a title="Canvas for Wordpress" href="https://www.freshpursuits.com/canvas/">Canvas</a> community. This plugin uses the Del.icio.us javascript link roll interface to display your del.icio.us links as a block in Canvas.
 
 <h4>Download</h4>
 
 <strong>Updated 6.30.06</strong>
 
-Download it here: <a title="Delicious v1" href="http://blog.mcstudios.net/delicious_v1.zip">delicious_v1.zip</a>
+Download it here: <a title="Delicious v1" href="https://blog.mcstudios.net/delicious_v1.zip">delicious_v1.zip</a>
 
 <h4>Installation</h4>
 

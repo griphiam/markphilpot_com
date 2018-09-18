@@ -6,13 +6,13 @@ category: blog
 slug: on_a_date_with_java
 ---
 
-To start, I really like <a title="Cup of Jo" href="http://www.java.com/en/">Java</a> as a programming language. Because of its "library," it is very is to be productive quickly, without having to reinvent the wheel each time. When you combine that with an IDE like <a title="A godsend..." href="http://www.eclipse.org/">Eclipse</a> and a graphics library like <a title="The only Java glib" href="http://www.eclipse.org/swt/">SWT</a>, Java is amazingly powerful.
+To start, I really like <a title="Cup of Jo" href="https://www.java.com/en/">Java</a> as a programming language. Because of its "library," it is very is to be productive quickly, without having to reinvent the wheel each time. When you combine that with an IDE like <a title="A godsend..." href="https://www.eclipse.org/">Eclipse</a> and a graphics library like <a title="The only Java glib" href="https://www.eclipse.org/swt/">SWT</a>, Java is amazingly powerful.
 
 Now that I've got that out of the way, let me bitch for a bit. If anything I say is wrong, please let me know as it will relieve much toil.
 
-Java's builtin <a title="java.util.Date" href="http://java.sun.com/j2se/1.4.2/docs/api/java/util/Date.html">Date</a> and <a title="java.util.Calendar" href="http://java.sun.com/j2se/1.4.2/docs/api/java/util/Calendar.html">Calendar</a> classes <em>suck</em>.
+Java's builtin <a title="java.util.Date" href="https://java.sun.com/j2se/1.4.2/docs/api/java/util/Date.html">Date</a> and <a title="java.util.Calendar" href="https://java.sun.com/j2se/1.4.2/docs/api/java/util/Calendar.html">Calendar</a> classes <em>suck</em>.
 
-The only nice thing about Calendar is the add and roll functions, which I will admit are handy. However, Calendar is a singleton, and does not replace Date... additionally Date is so throughly depreciated, it is almost of no use (especially with the formatting being chucked away in another singleton, <a title="java.text.DateFormat" href="http://java.sun.com/j2se/1.4.2/docs/api/java/text/DateFormat.html">DateFormat</a>).
+The only nice thing about Calendar is the add and roll functions, which I will admit are handy. However, Calendar is a singleton, and does not replace Date... additionally Date is so throughly depreciated, it is almost of no use (especially with the formatting being chucked away in another singleton, <a title="java.text.DateFormat" href="https://java.sun.com/j2se/1.4.2/docs/api/java/text/DateFormat.html">DateFormat</a>).
 
 <strong>Gripe A:</strong>
 
