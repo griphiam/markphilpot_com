@@ -26,12 +26,15 @@
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css" media="screen">
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" media="screen">
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/custom.css" media="screen">
-    <!-- <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/light.css" media="screen"> -->
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/switch.css" media="screen">
+
+    <link rel="stylesheet" type="text/css" title="light" href="{{ SITEURL }}/theme/css/light.css" media="screen">
+    <link rel="alternate stylesheet" type="text/css" title="dark" href="{{ SITEURL }}/theme/css/dark.css" media="screen">
 
     <script type="text/javascript" src="{{ SITEURL }}/theme/js/cookies.js"></script>
     <script type="text/javascript" src="{{ SITEURL }}/theme/js/theme.js"></script>
     <script type="text/javascript">
-      setTheme("{{ SITEURL }}");
+      setTheme("{{ SITEURL }}", readCookie('theme') || 'light');
     </script>
     {% endblock head_links %}
 
@@ -47,8 +50,15 @@
     <link href="https://micro.blog/mphilpot" rel="me" />
   </head>
   <body>
-    <header>
+    <header style="position: relative;">
       <div class="hero" style="{% block hero %}background-image: url(/images/heros/gg_bridge.jpg);{% endblock hero %}"></div>
+      <div id="theme-switch" class="onoffswitch">
+          <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
+          <label class="onoffswitch-label" for="myonoffswitch">
+              <span class="onoffswitch-inner"></span>
+              <span class="onoffswitch-switch"></span>
+          </label>
+      </div>
     </header>
     <div class="container menu">
       <ul>
@@ -79,5 +89,19 @@
       </div>
       {% endblock footer %}
     </footer>
+    <script type="text/javascript">
+      const checkbox = document.getElementById('theme-switch')
+
+      const currentTheme = readCookie('theme') || 'light';
+      document.getElementById('myonoffswitch').checked = currentTheme === 'light';
+
+      checkbox.addEventListener('change', (event) => {
+        if (event.target.checked) {
+          setTheme("{{ SITEURL }}", 'light');
+        } else {
+          setTheme("{{ SITEURL }}", 'dark');
+        }
+      })
+    </script>
   </body>
 </html>
