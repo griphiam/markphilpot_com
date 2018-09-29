@@ -1,0 +1,80 @@
+fieldset {
+  border: 1px solid #c0c0c0;
+}
+
+a {
+  color: #5f7782
+}
+
+.menu ul a:hover {
+  background-color: rgba(95, 119, 130, 0.1);
+  color: #5f7782
+}
+
+.content .date {
+  color: #5f7782
+}
+
+.recent-posts h2 {
+  color: #000;
+}
+.recent-posts li a {
+  color: #222;
+}
+
+.recent-posts li .date {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.recent-posts li .tags {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.micro_content .micro_date {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.content blockquote {
+  background-color: rgba(95, 119, 130, 0.15);
+  color: #495c65
+}
+
+.content blockquote strong {
+  color: #495c65
+}
+
+.content blockquote:before {
+  color: #b3c1c7
+}
+
+.content code {
+  background-color: #eee;
+}
+
+.micro_content code {
+  background-color: #eee;
+}
+
+.content a:hover {
+  color: #546875;
+}
+
+a.headerlink {
+  color: grey;
+}
+
+.hero {
+  background-color: #5f7782;
+}
+
+.closing {
+  color: #999
+}
+
+.closing .author {
+  color: rgba(0, 0, 0, 0.2);
+}
+
+.hll {
+    background-color: lightblue;
+}
