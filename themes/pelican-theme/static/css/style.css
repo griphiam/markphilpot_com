@@ -744,6 +744,11 @@ footer {
   margin: 0 auto;
   max-width: 33rem;
 }
+.closing {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 14px;
+}
 .closing a {
   border-bottom: 0 !important
 }
