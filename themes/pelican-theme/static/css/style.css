@@ -638,6 +638,8 @@ html {
 .micro_content code {
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 0.65rem;
+  border-radius: 4px;
+  padding: 0 2px;
 }
 @media (min-width: 38em) {
   html {
