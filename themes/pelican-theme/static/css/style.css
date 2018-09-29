@@ -632,6 +632,8 @@ html {
 .content code {
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
   font-size: 0.87rem;
+  border-radius: 4px;
+  padding: 0 2px;
 }
 .micro_content code {
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;

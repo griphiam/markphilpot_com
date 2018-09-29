@@ -53,11 +53,11 @@ a {
 }
 
 .content code {
-  background-color: #eee;
+  background-color: #444;
 }
 
 .micro_content code {
-  background-color: #eee;
+  background-color: #444;
 }
 
 .content a:hover {
@@ -70,7 +70,7 @@ a.headerlink {
 
 .hero {
   background-color: #5f7782;
-  filter: brightness(0.5);
+  /*filter: brightness(0.5);*/
 }
 
 .closing {
