@@ -109,8 +109,6 @@ The first episode is quite a trip, but I immediately put this on hold as I think
 ![Planet With]({filename}/images/anime/2018/summer/101368-3cECvrThAPmU.jpg "Planet With"){: .center} 
 ![J.C. Staff]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
-<div class="studio">J.C. Staff</div>
-
 ### [Planet With](https://anilist.co/anime/101368)
 
 I'm *going* to watch this (I think) but I haven't started yet.
