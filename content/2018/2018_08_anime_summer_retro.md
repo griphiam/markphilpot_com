@@ -16,12 +16,27 @@ This will be abbreviated because, damn! Am I late to the party on this one...
 With the season half way done, I guess it's better late than never.
 
 
+![Persona 5]({filename}/images/anime/2018/summer/cards/persona5.jpg "Persona 5"){: .ew1920}
+
+### [Persona 5 The Animation](https://anilist.co/anime/99693/Persona-5-The-Animation/)
+
+*Conflicted* -- sums up my thoughts well.
+
+I was expecting better. I wanted better. I now have to wait for an OVA to finish the story (and no word how long we will have to wait nor how long the OVA will be).
+
+Still, I love these characters. I've now played the *P5* game twice and watched two cours of the anime -- so I've invested *a lot* of time into this franchise. If I didn't love the game, I'm fairly sure I would think the anime is just average.
+
+Maybe they will take the time to do the OVA right. Maybe they will give us a two hour proper conclusion. Maybe they will get the original english voice actors to give us an english dub. A lot of *ifs*, but I'm not holding on to hope that any of them will come.
+
+Should you watch it? If you've played the game, I think it's worth it. Otherwise, wait until the OVA drops to make a determination.
+
+
 
 ![Satsuriku no Tenshi]({filename}/images/anime/2018/summer/cards/angels.jpg "Satsuriku no Tenshi"){: .ew1920}
 
 ### [Satsuriku no Tenshi](https://anilist.co/anime/99629)
 
-There is enough here where I'm curious to see where it goes. The VA's interpretation of Zack is honestly grating, but either it's softened a bit as the episodes have progressed or I'm just getting use to it.
+I feel like there is a piece of context I was missing with *Angels of Death*. There was some interesting morality exploration and some good voice acting, but the dialog was often obtuse and repetitive. Combine that with having to continue with the last four episodes on a different network (I don't believe they are even airing the last four episodes in Japan), this was just a medocre thriller. At this point I've invested enough time that I want to find out what the big reveal is (if there is one).
 
 
 
