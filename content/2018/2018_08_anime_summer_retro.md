@@ -11,9 +11,7 @@ status: draft
 
 [TOC]
 
-This will be abbreviated because, damn! Am I late to the party on this one...
-
-With the season half way done, I guess it's better late than never.
+A pattern is being established. Watch the first 6 or so episodes of a series then hold of watching anymore until it's complete then binge the rest. Shows where I have a casual interest or aren't setup to have a last arc build up I'll follow through, but I definitely prefer to watch episodes 10, 11 and 12 of a show back to back rather than wait three weeks.
 
 
 ![Persona 5]({filename}/images/anime/2018/summer/cards/persona5.jpg "Persona 5"){: .ew1920}
@@ -36,7 +34,7 @@ Should you watch it? If you've played the game, I think it's worth it. Otherwise
 
 ### [Satsuriku no Tenshi](https://anilist.co/anime/99629)
 
-I feel like there is a piece of context I was missing with *Angels of Death*. There was some interesting morality exploration and some good voice acting, but the dialog was often obtuse and repetitive. Combine that with having to continue with the last four episodes on a different network (I don't believe they are even airing the last four episodes in Japan), this was just a medocre thriller. At this point I've invested enough time that I want to find out what the big reveal is (if there is one).
+I feel like there is a piece of context I was missing with *Angels of Death*. There was some interesting morality exploration and some good voice acting, but the dialog was often obtuse and repetitive. At this point I've invested enough time that I want to find out what the big reveal is (if there is one).
 
 
 
@@ -44,13 +42,11 @@ I feel like there is a piece of context I was missing with *Angels of Death*. Th
 
 ### [Hanebado!](https://anilist.co/anime/101045)
 
-Good lord, the animation! *good*
+First, the animation on this show is absolutely jaw dropping. Combined with excellent sound design, those elements did a lot to sustain the show when the story got rocky.
 
-Good lord, the story! *bad*
+I am willing to give the writers the benifit of the doubt on this one. Even though initially it seems like Hanesaki will evolve into the main protagonist, the real one really is Aragaki. In a more traditional sports anime, Hanesaki would have been the antagonist from the get go. She is competitive to the point of being mean, but that is just who she is. She doesn't have a change of heart -- she was made this way by her dispicable mom (worst mom *ever*) and her arc centers around her love of badminton, not her character flaws.
 
-The animation on display here is incredible, but the story is only so-so. The relationship between the main character and her mother absolutely strains believability, so much so I'm pulled out of the story. The side characters are good, and the matches are intense and satisfying.
-
-I have no idea how that relationship will go, but I'm sorry. Worst mom ever.
+It's easy to mistake that realizaton becaue Aragaki gets shafted for screen time. There isn't enough time to develop those two characters given how much time is spent exploring some of the other rivals. If they were able to do a 24 episode show with the same level of animation throughout, this should could have been absolutely amazing.
 
 
 ![Harukana Receive]({filename}/images/anime/2018/summer/cards/harukana.jpg "Harukana Receive"){: .ew1920}
@@ -63,18 +59,15 @@ I enjoyed the characters and their relationships, but unfortunately the animatio
 
 
 
-![Shichisei no Subaru]({filename}/images/anime/2018/summer/cards/subaru.jpg "Shichisei no Subaru"){: .ew1920}
-
-### [Shichisei no Subaru](https://anilist.co/anime/100085)
-
-So very close to dropping this, but I want to find out what the twist is. I'm probably going to just binge/speed watch this.
-
-
 ![Revue Starlight]({filename}/images/anime/2018/summer/cards/revue.jpg "Revue Starlight"){: .ew1920}
 
 ### [Shoujo☆Kageki Revue Starlight](https://anilist.co/anime/98658)
 
-The first episode is quite a trip, but I immediately put this on hold as I think it will be better binged that following each week. There is promise in this one, but I have my concerns that the execution will let it down.
+Anime of the Season for me and if weren't for [A Place Further than the Universe]() it would have been AOTY.
+
+Any original anime effort should be applauded for the risk they are taking and that is doubly so with a show like this -- the OST.  All the original insert songs were sung by the VAs and that level of investment in an original property is fantastic.
+
+This show doesn't just deserve props for effort.  It's story, animation, and meta exploration are executed brilliantly.
 
 
 ![Planet With]({filename}/images/anime/2018/summer/cards/planet_with.jpg "Planet With"){: .ew1920}
