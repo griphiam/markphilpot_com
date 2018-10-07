@@ -57,9 +57,9 @@ I have no idea how that relationship will go, but I'm sorry. Worst mom ever.
 
 ### [Harukana Receive](https://anilist.co/anime/99586)
 
-Can I get all my fan service with characters like this?
+Actual heart to go along with your fan service.
 
-Sure, this show is an excuse to have 12 episodes of *beach episodes* but I've been invested in the characters since the start and that's a big deal for a show with this premise. My one gripe is that there is way to much slow motion on display during matches that it detracts from the intensity. But really, who am I kidding? If you are going to have all your characters in bikinis for the entire show you are obviously going to cater to that.
+I enjoyed the characters and their relationships, but unfortunately the animation and composition during the matches really left a lot to be desired. If you go into it with low expections, I think you'll find something more than just vanilla fan service.
 
 
 
@@ -81,7 +81,11 @@ The first episode is quite a trip, but I immediately put this on hold as I think
 
 ### [Planet With](https://anilist.co/anime/101368)
 
-I'm *going* to watch this (I think) but I haven't started yet.
+I didn't watch an episode until the season was essentially over and then binged my way through it: This is a fun, rapidly paced mech ride that stumbles a bit with the ending.
+
+It's weird and absurd, but with purpose.
+
+As far as mech shows go, I think it's very digestable for anyone (like myself) that doesn't watch many of them, but will pick one up occasionally ([Gurren Lagann](https://anilist.co/anime/2001/Tengen-Toppa-Gurren-Lagann/), [Darling in the Franxx](https://anilist.co/anime/99423/Darling-in-the-Franxx/), etc)
 
 
 
@@ -89,6 +93,10 @@ I'm *going* to watch this (I think) but I haven't started yet.
 
 ### [Kyoto Teramachi Sanjou no Holmes](https://anilist.co/anime/101292)
 
-A very mild Sherlock Holmes rendition with a shippable couple and some spotty animation. I kinda which I could discern a Kyoto accent from a Tokyo one for this show.
+Enjoyable, but fails to deliver the one thing we were waiting for:
+
+![Ship It](http://i.imgur.com/zzTu84u.jpg){: .center}
+
+The animation is budget level and the "Sherlock Holmes deductions" don't feel earned (which is going to be a problem for any show that tries to evoke *Sherlock*).
 
 
