@@ -10,6 +10,9 @@ status: draft
 ---
 
 
+Damn! Through the premier of all the shows on my radar this season and I've only dropped one. 
+
+
 [TOC]
 
 
@@ -18,7 +21,9 @@ status: draft
 
 ### [Sword Art Online: Alicization](https://anilist.co/anime/100182)
 
-> The third season of <i>Sword Art Online</i>.<br><br/><br><br/>“Underworld” … the world that could outstrip even “SAO.”<br><br/>Residents are NPCs who are just like humans.<br><br/>Kirito wanders into and gets lost in “Underground.”<br><br/>He and his new friends struggle to escape as they unravel the secrets of this new virtual world….<br><br/><br><br/>(Source: Aniplex USA)
+The anime everyone loves to hate comes out swinging with a double length opening. I can't help it -- I'm onboard for this one.
+
+Sure there were a few bits that were eye-roll worthy, but there was just so much to like! I'm sure this third season will have it's ups and downs, but all I want from an anime is to have fun, and I think *SAO III* will deliver in spades.
 
 
 
@@ -27,8 +32,11 @@ status: draft
 
 ### [Goblin Slayer](https://anilist.co/anime/101165)
 
-> A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...<br><br><br/><br/>(Source: Yen Press)
+*Holy Fuck! Content Warning! Trigger Warning!*
 
+Do not! I repeat! Do not watch this show if for whatever reason you can't watch graphic violence (including sexual violence). Holy shit, this was gratuitous.
+
+I was *this* close to insta-dropping this, but I think I'm going to give it another episode. This is ultra dark fantasy and that's not something you see very often. I want to see if the opening was done for shock or world building. Frankly, the most likely outcome is that this is dropped a few minutes into episode 2 as this is just not something I'm comfortable with.
 
 
 ![Tensei Shitara Slime Datta Ken]({filename}/images/anime/2018/fall/101280-aKbf16Sh1b31.jpg "Tensei Shitara Slime Datta Ken"){: .center} 
@@ -36,7 +44,7 @@ status: draft
 
 ### [Tensei Shitara Slime Datta Ken](https://anilist.co/anime/101280)
 
-> Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!<br><br><br/><br/>(Source: Yen Press)
+I have to give this show credit -- even though it's full on isekai there is enough new ground here, I'm willing to let it see where it goes.
 
 
 
@@ -46,18 +54,19 @@ status: draft
 
 ### [Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai](https://anilist.co/anime/101291)
 
-> There's a rumor about a mysterious phenomenon call "puberty syndrome." For example, Sakuta Azusagawa is a high school student who suddenly sees a bunny girl appear in front of him. The girl is actually a girl named Mai Sakurajima, who is Sakuta's upperclassman who is also a famous actress who has gone on hiatus from the entertainment industry. For some reason, the people around Mai cannot see her bunny-girl figure. Sakuta sets out to solve this mystery, and as he spends time with Mai, he learns her secret feelings. Other heroines who have "puberty syndrome" start to appear in front of Sakuta.<br><br><br/><br/>(Source: ANN)
-
+For some reason, I got a lot of [Just Because]() vibes from this show.
 
 
 ![Toaru Majutsu no Index III]({filename}/images/anime/2018/fall/100185-NHEkbQX2d7JA.jpg "Toaru Majutsu no Index III"){: .center} 
-![J.C. Staff]({filename}/images/anime/studios/half/.png){: .studio}
-
-<div class="studio">J.C. Staff</div>
+![J.C. Staff]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
 ### [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
 
-> The third season of <i>Toaru Majutsu no Index</i>.
+It's here! 
+
+And what's even better is there is a third season of [Railgun]() coming *next* year as well!
+
+I have a dilema however. Both *Index* and *Railgun* are up there for my favorite English dubs and it doesn't look like Funimation is simuldubing this one like they did for [Stein's Gate: 0](). I'm going to give it a few episodes to see if there is an announcement of an English dub in the future, otherwise I'll reorient myself to the original Japanese VAs.
 
 
 
@@ -76,7 +85,9 @@ status: draft
 
 ### [Zombie Land Saga](https://anilist.co/anime/103871)
 
-> A typical morning. The usual music. Their normal lives. The peace these seven girls experience will suddenly be destroyed. By the living dead... zombies. A reality that they never wanted a part of, an amazing and terrifying zombie world. They all share one wish: "We want to live." These girls will struggle through this saga, in order to achieve a miracle. MAPPA, Avex Pictures, and Cygames team up to bring you a juicy, 100% original anime. A timeless shocker for all audiences, a brand new style of zombie anime, will soon rise.<br><br/><br><br/>(Source: Crunchyroll)
+*Damn!*
+
+That's one way to do an idol show.
 
 
 
@@ -112,7 +123,7 @@ status: draft
 
 ### [Radiant](https://anilist.co/anime/101024)
 
-> The story follows Seth, a boy who seeks to become a great magician, and a group of witches who seek to travel to the Radiant. Radiant is a mythical land that spawns monsters called "Nemesis" which fall to the world from the sky. While traveling, they are also hunted by The Inquisition.<br><br/><br><br/>(Source: ANN)
+Despite the really interesting backstory to this production, *Radiant* is first on my dropped list this season. Shonen series aren't really my cup of tea to begin with and there really wasn't anything to hook me like there was with [My Hero Academia](). However, if you are a shonen fan, I would recommend checking this one out.
 
 
 
@@ -121,7 +132,7 @@ status: draft
 
 ### [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371)
 
-> Due to a strange incident, Akari is rescued by a vampire girl named Sophie Twilight, and Akari becomes interested in her.<br><br><br/><br/>(Source: ANN)
+This is so obviously a 4-koma comic adaptation. All the beats and pacing are really letting the source bleed through. I'm not familar with the source material so I can't comment on how well the adaptation is, but I'll keep up with this one for another couple of episodes as they introduce more of the cast.
 
 
 
@@ -130,7 +141,7 @@ status: draft
 
 ### [Uchi no Maid ga Uzasugiru](https://anilist.co/anime/101506)
 
-> The manga centers on Misha, a little girl who lost her mother at an early age, and now lives with her father. Her father employs a maid named Tsubame, who was a former Self-Defense Force official, and is also a lolicon.<br><br><br/><br/>(Source: ANN)
+This is taking lolicon to the point of pedephilia. There is some really great animation at work here, but if the relationship dynamic doesn't settle somewhere in the ballpark of normal, I'm just going to lump this into wierd, unhealthy Japanese fetishes and move on.
 
 
 
@@ -139,7 +150,9 @@ status: draft
 
 ### [RELEASE THE SPYCE](https://anilist.co/anime/101014)
 
-> Momo may be a quiet student at school, but she’s the newest recruit of the private intelligence agency, Tsukikage. Now she must survive both her training and missions to fight against a global crime organization.<br><br/><br><br/>(Source: HIDIVE)
+[Princess Principal]() did it better.
+
+That's not to say *Spyce* isn't good -- I think I was just hoping for a show like this to have a bit more edge. Maybe that is coming now that everyone is introduced.
 
 
 
@@ -148,7 +161,7 @@ status: draft
 
 ### [Ulysses: Jeanne d'Arc to Renkin no Kishi](https://anilist.co/anime/100432)
 
-> The novel series' story takes place in 15th-century France, during the Hundred Years' War with England. Montmorency, the son of a noble, immerses himself in the study of magic and alchemy at a school for knights. However, after France's defeat at Agincourt, the school is disbanded and Montmorency is forced to flee. While on the run he meets a miraculous village girl named Jeanne.<br><br><br/><br/>(Source: ANN)
+Well that's one way to do a timeskip.
 
 
 
@@ -157,7 +170,7 @@ status: draft
 
 ### [Kaze ga Tsuyoku Fuiteiru](https://anilist.co/anime/101903)
 
-> The series is centered on the Tokyo-Hakone Round-Trip College Ekiden Race or "Hakone Ekiden," one of the biggest university marathon relay races in Japan. The race is held every year on January 2-3 and goes between Tokyo and Hakone and back, for a total run of of nearly 217.9 km (about 135.4 miles).<br><br/><br><br/>(Source: ANN, edited)
+I'm going to give this show one more episode, but my bet is that it's the next series on the dropped list.
 
 
 
@@ -188,7 +201,11 @@ status: draft
 
 ### [Ingress](https://anilist.co/anime/101500)
 
-> Since he was little, Makoto had a strange power which enabled him to read the memories of objects he touched.<br><br/>Hiding his uncontrollable power, he works as a special agent in the police force. One day, while investigating an explosion at a laboratory that researches a unknown substance called “XM”, he sees a mysterious memory.<br><br/>The memory was from Sarah's ring, who was the sole survivor of the accident.<br><br/>It was a sight of a person being swallowed into a red light and disappearing.<br><br/>Makoto becomes embroiled in a massive conspiracy.<br><br/>The battle for “XM”, a material that could affect human mind, starts now――<br><br><br/><br/>(Source: Official Website)
+*We interrupt this post to deliver a seasonal venting...*
+
+...
+
+**Damn it Netflix!**
 
 
 
@@ -241,7 +258,7 @@ status: draft
 
 ### [Anima Yell!](https://anilist.co/anime/101013)
 
-> The story follows Kohane Hatoya, a 1st year high school student who is a bit clumsy and scared of heights but who has a very bubbly and outgoing personality. Kohane decides to join the cheerleading club to try to make friends and overcome her weaknesses.<br><br><br/><br/>(Source: CR)
+A shoestring animation budget is doing this show no service. I'm going to reserve final judgement until the rest of the cast is introduced (and to see if the animation improves), but there was real *uncanny valley* going on.
 
 
 
