@@ -1,0 +1,258 @@
+---
+title: "Anime Fall 2018 First Impressions"
+date: "2018-10-08 17:48:08"
+tags: [anime, first impressions]
+category: anime
+slug: anime_2018_fall_first
+summary: First Impressions of the Anime Fall 2018 Season
+Hero: "background-image: url(/images/anime/2018/fall/hero.jpg);"
+status: draft
+---
+
+
+[TOC]
+
+
+![Sword Art Online: Alicization]({filename}/images/anime/2018/fall/100182-oyTLBSN3iT21.jpg "Sword Art Online: Alicization"){: .center} 
+![A-1 Pictures]({filename}/images/anime/studios/half/a1.png){: .studio}
+
+### [Sword Art Online: Alicization](https://anilist.co/anime/100182)
+
+> The third season of <i>Sword Art Online</i>.<br><br/><br><br/>“Underworld” … the world that could outstrip even “SAO.”<br><br/>Residents are NPCs who are just like humans.<br><br/>Kirito wanders into and gets lost in “Underground.”<br><br/>He and his new friends struggle to escape as they unravel the secrets of this new virtual world….<br><br/><br><br/>(Source: Aniplex USA)
+
+
+
+![Goblin Slayer]({filename}/images/anime/2018/fall/101165-dVgOyGhEP4mB.jpg "Goblin Slayer"){: .center} 
+![White Fox]({filename}/images/anime/studios/half/white_fox.png){: .studio}
+
+### [Goblin Slayer](https://anilist.co/anime/101165)
+
+> A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...<br><br><br/><br/>(Source: Yen Press)
+
+
+
+![Tensei Shitara Slime Datta Ken]({filename}/images/anime/2018/fall/101280-aKbf16Sh1b31.jpg "Tensei Shitara Slime Datta Ken"){: .center} 
+<div class="studio">8-bit</div>
+
+### [Tensei Shitara Slime Datta Ken](https://anilist.co/anime/101280)
+
+> Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!<br><br><br/><br/>(Source: Yen Press)
+
+
+
+
+![Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai]({filename}/images/anime/2018/fall/101291-g1PG2hR0jsxz.jpg "Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai"){: .center} 
+<div class="studio">CloverWorks</div>
+
+### [Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai](https://anilist.co/anime/101291)
+
+> There's a rumor about a mysterious phenomenon call "puberty syndrome." For example, Sakuta Azusagawa is a high school student who suddenly sees a bunny girl appear in front of him. The girl is actually a girl named Mai Sakurajima, who is Sakuta's upperclassman who is also a famous actress who has gone on hiatus from the entertainment industry. For some reason, the people around Mai cannot see her bunny-girl figure. Sakuta sets out to solve this mystery, and as he spends time with Mai, he learns her secret feelings. Other heroines who have "puberty syndrome" start to appear in front of Sakuta.<br><br><br/><br/>(Source: ANN)
+
+
+
+![Toaru Majutsu no Index III]({filename}/images/anime/2018/fall/100185-NHEkbQX2d7JA.jpg "Toaru Majutsu no Index III"){: .center} 
+![J.C. Staff]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">J.C. Staff</div>
+
+### [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
+
+> The third season of <i>Toaru Majutsu no Index</i>.
+
+
+
+
+![Irozuku Sekai no Ashita kara]({filename}/images/anime/2018/fall/101316-KTC6TkKogKp8.jpg "Irozuku Sekai no Ashita kara"){: .center} 
+![P.A. Works]({filename}/images/anime/studios/half/pa_works.png){: .studio}
+
+### [Irozuku Sekai no Ashita kara](https://anilist.co/anime/101316)
+
+> In Nagasaki, a descendant of mages, 17-year-old Hitomi lost her sense of color at a young age and grew up lacking emotion. Her grandmother Kohaku, a great mage, sends Hitomi to the past, to the year 2018. There, she spends time with a 17-year-old Kohaku and friends from club activities.<br><br><br/><br/>(Source: ANN)
+
+
+
+![Zombie Land Saga]({filename}/images/anime/2018/fall/103871-EvtLKTd9OV1q.jpg "Zombie Land Saga"){: .center} 
+![MAPPA]({filename}/images/anime/studios/half/mappa.png){: .studio}
+
+### [Zombie Land Saga](https://anilist.co/anime/103871)
+
+> A typical morning. The usual music. Their normal lives. The peace these seven girls experience will suddenly be destroyed. By the living dead... zombies. A reality that they never wanted a part of, an amazing and terrifying zombie world. They all share one wish: "We want to live." These girls will struggle through this saga, in order to achieve a miracle. MAPPA, Avex Pictures, and Cygames team up to bring you a juicy, 100% original anime. A timeless shocker for all audiences, a brand new style of zombie anime, will soon rise.<br><br/><br><br/>(Source: Crunchyroll)
+
+
+
+![Yagate Kimi ni Naru]({filename}/images/anime/2018/fall/101573-u75RNeMBd2vz.jpg "Yagate Kimi ni Naru"){: .center} 
+![TROYCA]({filename}/images/anime/studios/half/troyca.png){: .studio}
+
+### [Yagate Kimi ni Naru](https://anilist.co/anime/101573)
+
+> Yuu has always dreamt of receiving a love confession but feels nothing when a boy gives her one. Confused, she starts her first year of high school and meets the beautiful Nanami, who makes her heart skip a beat.<br><br/><br><br/>(Source: HIDIVE)
+
+
+
+![SSSS.GRIDMAN]({filename}/images/anime/2018/fall/99424-9bV9lbUhynar.jpg "SSSS.GRIDMAN"){: .center} 
+![Trigger]({filename}/images/anime/studios/half/trigger.png){: .studio}
+
+### [SSSS.GRIDMAN](https://anilist.co/anime/99424)
+
+> Collaboration with Tsuburaya Productions.<br><br><br/><br/>Yuta Hibiki awakens with amnesia and the ability see things that others cannot. He first encounters a Gridman in the reflection of his friend Rikka Takarada's computer and it tells him to "Remember his calling," but Yuta doesn't understand what this means. Later, in the distance, he sees an extremely large monster but it doesn't move. It's only when Yuta gets to school that the two sightings make sense: a monster attacks and the hero Yuta saw in the computer screen pulls him within the computer and transforms Yuta into a giant hero named Gridman.<br><br><br/><br/>(Source: ANN)
+
+
+
+![Kishuku Gakkou no Juliet]({filename}/images/anime/2018/fall/101310-w1PLPsyg0XHr.jpg "Kishuku Gakkou no Juliet"){: .center} 
+![LIDENFILMS]({filename}/images/anime/studios/half/lidenfilms.png){: .studio}
+
+### [Kishuku Gakkou no Juliet](https://anilist.co/anime/101310)
+
+> Grigio Academy Boarding School. The students that attend this school come from two countries, and reside in their own dormitories. Inazuka and Persia are leaders of rival dorms, but in secret they love each other. Now, they have to keep their relationship a secret from their dorm mates or else bad things will happen to them.<br><br><br/><br/>(Source: MAL)
+
+
+
+![Radiant]({filename}/images/anime/2018/fall/101024-4dFUVMKSE0Q1.jpg "Radiant"){: .center} 
+![Lerche, NHK]({filename}/images/anime/studios/half/lerche.png){: .studio}
+
+### [Radiant](https://anilist.co/anime/101024)
+
+> The story follows Seth, a boy who seeks to become a great magician, and a group of witches who seek to travel to the Radiant. Radiant is a mythical land that spawns monsters called "Nemesis" which fall to the world from the sky. While traveling, they are also hunted by The Inquisition.<br><br/><br><br/>(Source: ANN)
+
+
+
+![Tonari no Kyuuketsuki-san]({filename}/images/anime/2018/fall/101371-K4cKNCyTRw04.png "Tonari no Kyuuketsuki-san"){: .center} 
+<div class="studio">Studio Gokumi, AXsiZ</div>
+
+### [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371)
+
+> Due to a strange incident, Akari is rescued by a vampire girl named Sophie Twilight, and Akari becomes interested in her.<br><br><br/><br/>(Source: ANN)
+
+
+
+![Uchi no Maid ga Uzasugiru]({filename}/images/anime/2018/fall/101506-uY2udopqvdYp.jpg "Uchi no Maid ga Uzasugiru"){: .center} 
+![Doga Kobo]({filename}/images/anime/studios/half/dogakobo.png){: .studio}
+
+### [Uchi no Maid ga Uzasugiru](https://anilist.co/anime/101506)
+
+> The manga centers on Misha, a little girl who lost her mother at an early age, and now lives with her father. Her father employs a maid named Tsubame, who was a former Self-Defense Force official, and is also a lolicon.<br><br><br/><br/>(Source: ANN)
+
+
+
+![RELEASE THE SPYCE]({filename}/images/anime/2018/fall/101014-D61mk3qviix3.jpg "RELEASE THE SPYCE"){: .center} 
+<div class="studio">Lay-duce</div>
+
+### [RELEASE THE SPYCE](https://anilist.co/anime/101014)
+
+> Momo may be a quiet student at school, but she’s the newest recruit of the private intelligence agency, Tsukikage. Now she must survive both her training and missions to fight against a global crime organization.<br><br/><br><br/>(Source: HIDIVE)
+
+
+
+![Ulysses: Jeanne d'Arc to Renkin no Kishi]({filename}/images/anime/2018/fall/100432-uh8RbRmENiER.jpg "Ulysses: Jeanne d'Arc to Renkin no Kishi"){: .center} 
+<div class="studio">AXsiZ</div>
+
+### [Ulysses: Jeanne d'Arc to Renkin no Kishi](https://anilist.co/anime/100432)
+
+> The novel series' story takes place in 15th-century France, during the Hundred Years' War with England. Montmorency, the son of a noble, immerses himself in the study of magic and alchemy at a school for knights. However, after France's defeat at Agincourt, the school is disbanded and Montmorency is forced to flee. While on the run he meets a miraculous village girl named Jeanne.<br><br><br/><br/>(Source: ANN)
+
+
+
+![Kaze ga Tsuyoku Fuiteiru]({filename}/images/anime/2018/fall/101903-j8Oeffs1ZUQt.jpg "Kaze ga Tsuyoku Fuiteiru"){: .center} 
+![Production I.G]({filename}/images/anime/studios/half/production_ig.png){: .studio}
+
+### [Kaze ga Tsuyoku Fuiteiru](https://anilist.co/anime/101903)
+
+> The series is centered on the Tokyo-Hakone Round-Trip College Ekiden Race or "Hakone Ekiden," one of the biggest university marathon relay races in Japan. The race is held every year on January 2-3 and goes between Tokyo and Hakone and back, for a total run of of nearly 217.9 km (about 135.4 miles).<br><br/><br><br/>(Source: ANN, edited)
+
+
+
+![RErideD: Tokigoe no Derrida]({filename}/images/anime/2018/fall/99413-BYd2CipzZhiA.jpg "RErideD: Tokigoe no Derrida"){: .center} 
+![Geek Toys]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">Geek Toys</div>
+
+### [RErideD: Tokigoe no Derrida](https://anilist.co/anime/99413)
+
+> The year is 2050. A young engineer named Derrida Yvain became famous thanks to his contribution to the development of the "Autonomous Machine DZ" at Rebuild, the manufacturing company founded by his father. One day, Derrida and his colleague Nathan discover a flaw in the DZs and try to warn their boss, but are ignored. Although Derrida and Nathan are aware of the danger, they reluctantly decide to put off taking any measures, and instead go to Nathan's daughter Mage's birthday party. The next day, after enjoying a peaceful day, Derrida and Nathan are suddenly attacked by unknown forces. At the end of the escape, Derrida falls into a cold sleep machine and 10 years later, he wakes up to a devastated world in the middle of a war. While Derrida is attacked by a group of out of control DZs, he almost gives up, but he recall's Nathan's last words.<br><br><br/><br/>"Take care of Mage."<br><br><br/><br/>Despite the harsh fate that has fallen upon him, Derrida sets off to seek Mage.<br><br><br/><br/>Beyond the time, we reunite — this is the story of a journey for hope.<br><br><br/><br/>(Source: Official Website)<br><br><br/><br/><i>The first four episodes were distributed exclusively on Hikari TV on September 22, 2018. TV broadcast begins on October 4, 2018.</i>
+
+
+
+![Tsurune: Kazemai Koukou Kyuudou-bu]({filename}/images/anime/2018/fall/100402-0927VQ63WEkl.jpg "Tsurune: Kazemai Koukou Kyuudou-bu"){: .center} 
+![Kyoto Animation]({filename}/images/anime/studios/half/kyoto.png){: .studio}
+
+### [Tsurune: Kazemai Koukou Kyuudou-bu](https://anilist.co/anime/100402)
+
+> Minato played Japanese archery in middle school, but after a certain incident, he ran away from the sport. In high school, Minato meets new friends, and together as part of their school's archery club they aim to win the prefectural tournament.<br><br><br/><br/>(Source: ANN)
+
+
+
+![Ingress]({filename}/images/anime/2018/fall/101500-cyZGel4enSqH.jpg "Ingress"){: .center} 
+![Craftar]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">Craftar</div>
+
+### [Ingress](https://anilist.co/anime/101500)
+
+> Since he was little, Makoto had a strange power which enabled him to read the memories of objects he touched.<br><br/>Hiding his uncontrollable power, he works as a special agent in the police force. One day, while investigating an explosion at a laboratory that researches a unknown substance called “XM”, he sees a mysterious memory.<br><br/>The memory was from Sarah's ring, who was the sole survivor of the accident.<br><br/>It was a sight of a person being swallowed into a red light and disappearing.<br><br/>Makoto becomes embroiled in a massive conspiracy.<br><br/>The battle for “XM”, a material that could affect human mind, starts now――<br><br><br/><br/>(Source: Official Website)
+
+
+
+![Akanesasu Shoujo]({filename}/images/anime/2018/fall/101360-rTPciO4MFaGA.jpg "Akanesasu Shoujo"){: .center} 
+<div class="studio">Dandelion Animation Studio, Juumonji</div>
+
+### [Akanesasu Shoujo](https://anilist.co/anime/101360)
+
+> A group of girls living in a small city gather to enact a ritual.<br><br/>They are the “Crystal Radio Research Society”.<br><br/>The sweet and cheery Asuka Tsuchimiya brought this group together with her friends from school.<br><br/>The ritual was merely an urban legend, but events coalesce and what started as play becomes much more... <br><br><br/><br/>(Source: Pony Canyon USA)
+
+
+
+
+![DOUBLE DECKER! Doug & Kirill]({filename}/images/anime/2018/fall/101318-eQZqO7jbfVOs.jpg "DOUBLE DECKER! Doug & Kirill"){: .center} 
+![Sunrise]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">Sunrise</div>
+
+### [DOUBLE DECKER! Doug & Kirill](https://anilist.co/anime/101318)
+
+> The city state of Lisvalletta. Two suns rise above this city, and the people here live peaceful lives, but in the shadows crime and illegal drugs run rampant. Among them is the dangerous, highly lethal drug "Anthem" which casts a dark shadow over the city. The SEVEN-O Special Crime Investigation Unit specializes in cracking down on Anthem. This unit operates in two man "buddy" teams in what's called the "Double Decker System" to tackle the problem. Doug Billingham is a seasoned investigator, and joining him is Kirill Vrubel, whose abilities are mysterious and unknown.<br><br><br/><br/>(Source: Crunchyroll)<br><br><br/><br/><i>The first episode was distributed online through Bandai Channel and Crunchyroll on September 3, 2018. TV broadcast begins September 30, 2018.</i>
+
+
+
+
+![Gaikotsu Shotenin Honda-san]({filename}/images/anime/2018/fall/100093-OZswKrGxD6KL.jpg "Gaikotsu Shotenin Honda-san"){: .center} 
+<div class="studio">DLE</div>
+
+### [Gaikotsu Shotenin Honda-san](https://anilist.co/anime/100093)
+
+> Honda-san is at war - with business, with out-of-print books, and with people who love manga! Who knew there were so many laughs to be found at the manga counter of a bookstore?! These are the day-to-day happenings that take place at a certain bookstore where the love of manga is abundant.<br><br/><br><br/>(Source: Crunchyroll)
+
+
+
+![Satsuriku no Tenshi (ONA)]({filename}/images/anime/2018/fall/104243-i2VvLTuJH5I3.jpg "Satsuriku no Tenshi (ONA)"){: .center} 
+![J.C. Staff]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">J.C. Staff</div>
+
+### [Satsuriku no Tenshi (ONA)](https://anilist.co/anime/104243)
+
+> Episodes 13-16 streamed exclusively on Amazon Prime.
+
+
+
+![Anima Yell!]({filename}/images/anime/2018/fall/101013-hFT0b0mqC1oY.jpg "Anima Yell!"){: .center} 
+![Doga Kobo]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">Doga Kobo</div>
+
+### [Anima Yell!](https://anilist.co/anime/101013)
+
+> The story follows Kohane Hatoya, a 1st year high school student who is a bit clumsy and scared of heights but who has a very bubbly and outgoing personality. Kohane decides to join the cheerleading club to try to make friends and overcome her weaknesses.<br><br><br/><br/>(Source: CR)
+
+
+
+
+![Himote House]({filename}/images/anime/2018/fall/102875-ONMonKCQcWcD.png "Himote House"){: .center} 
+![Bouncy]({filename}/images/anime/studios/half/.png){: .studio}
+
+<div class="studio">Bouncy</div>
+
+### [Himote House](https://anilist.co/anime/102875)
+
+> The comedy anime centers on five girls and one cat all living as housemates in Nakano, Tokyo: the three Himote sisters (Tokiyo, Kinami, and Kokoro) whose family manages the "Himote House," Kokoro's classmates Tae and Minamo, and the cat Enishi. The girls live their daily lives trying to figure out ways to be popular, and they (and the cat) all possess a mysterious secret power…<br><br><br/><br/>(Source: ANN)
+
+
