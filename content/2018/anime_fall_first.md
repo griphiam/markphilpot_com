@@ -44,7 +44,7 @@ I was *this* close to insta-dropping this, but I think I'm going to give it anot
 
 ### [Tensei Shitara Slime Datta Ken](https://anilist.co/anime/101280)
 
-I have to give this show credit -- even though it's full on isekai there is enough new ground here, I'm willing to let it see where it goes.
+I have to give this show credit -- even though it's full on isekai there is enough new ground here, I'm willing to let it see where it goes. Since this is a two cour show, they obviously have the luxury of explaining the mechanics of the world and the abilities of our *main slime*. There is still plenty of ways this can go off the rails quickly, but I definitely like what I've seen so far.
 
 
 
@@ -54,7 +54,7 @@ I have to give this show credit -- even though it's full on isekai there is enou
 
 ### [Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai](https://anilist.co/anime/101291)
 
-For some reason, I got a lot of [Just Because]() vibes from this show.
+For some reason, I got a lot of [Just Because]() vibes from this show. 
 
 
 ![Toaru Majutsu no Index III]({filename}/images/anime/2018/fall/100185-NHEkbQX2d7JA.jpg "Toaru Majutsu no Index III"){: .center} 
@@ -66,7 +66,7 @@ It's here!
 
 And what's even better is there is a third season of [Railgun]() coming *next* year as well!
 
-I have a dilema however. Both *Index* and *Railgun* are up there for my favorite English dubs and it doesn't look like Funimation is simuldubing this one like they did for [Stein's Gate: 0](). I'm going to give it a few episodes to see if there is an announcement of an English dub in the future, otherwise I'll reorient myself to the original Japanese VAs.
+I have a dilema however. Both *Index* and *Railgun* are up there for my favorite English dubs and it doesn't look like Funimation is simuldubing this one like they did for [Stein's Gate: 0](). Additionally, inexplicablly Crunchyroll seems to have completely fumbled the licensing, so who knows what going to happen.
 
 
 
@@ -76,7 +76,9 @@ I have a dilema however. Both *Index* and *Railgun* are up there for my favorite
 
 ### [Irozuku Sekai no Ashita kara](https://anilist.co/anime/101316)
 
-> In Nagasaki, a descendant of mages, 17-year-old Hitomi lost her sense of color at a young age and grew up lacking emotion. Her grandmother Kohaku, a great mage, sends Hitomi to the past, to the year 2018. There, she spends time with a 17-year-old Kohaku and friends from club activities.<br><br><br/><br/>(Source: ANN)
+Damn! I am on board for this one!
+
+Leave it to PA Works to get me seriously hyped for a slice of life show combining magic and time travel. The visuals are vintage PA Works (aka bloody fantastic).
 
 
 
@@ -87,7 +89,7 @@ I have a dilema however. Both *Index* and *Railgun* are up there for my favorite
 
 *Damn!*
 
-That's one way to do an idol show.
+That's one way to do an idol show. 
 
 
 
@@ -96,7 +98,7 @@ That's one way to do an idol show.
 
 ### [Yagate Kimi ni Naru](https://anilist.co/anime/101573)
 
-> Yuu has always dreamt of receiving a love confession but feels nothing when a boy gives her one. Confused, she starts her first year of high school and meets the beautiful Nanami, who makes her heart skip a beat.<br><br/><br><br/>(Source: HIDIVE)
+Being a fan of the source manga, I was very excited for this show. The character designs don't *quite* match what I expected coming from the manga, the animation is very good and the voice actresses of our two leads are pitch perfect. The only trick will be where and how they decide to end the show. There isn't an obvious point that I can recall and I will be interested to see what kind of story they end up telling.
 
 
 
@@ -105,7 +107,9 @@ That's one way to do an idol show.
 
 ### [SSSS.GRIDMAN](https://anilist.co/anime/99424)
 
-> Collaboration with Tsuburaya Productions.<br><br><br/><br/>Yuta Hibiki awakens with amnesia and the ability see things that others cannot. He first encounters a Gridman in the reflection of his friend Rikka Takarada's computer and it tells him to "Remember his calling," but Yuta doesn't understand what this means. Later, in the distance, he sees an extremely large monster but it doesn't move. It's only when Yuta gets to school that the two sightings make sense: a monster attacks and the hero Yuta saw in the computer screen pulls him within the computer and transforms Yuta into a giant hero named Gridman.<br><br><br/><br/>(Source: ANN)
+Welp, I guess I'm watching another mech show this season.
+
+Honestly, I think I would prefer character interactions over the mech battles -- I have a soft spot for Trigger's character aestetics.
 
 
 
@@ -114,7 +118,7 @@ That's one way to do an idol show.
 
 ### [Kishuku Gakkou no Juliet](https://anilist.co/anime/101310)
 
-> Grigio Academy Boarding School. The students that attend this school come from two countries, and reside in their own dormitories. Inazuka and Persia are leaders of rival dorms, but in secret they love each other. Now, they have to keep their relationship a secret from their dorm mates or else bad things will happen to them.<br><br><br/><br/>(Source: MAL)
+I'm not sure how far I'll go with this one. A lot will depend on how the central relationship develops. If it becomes clear that their relationship is just a foil for contrived hijinx, I think I'll end up skipping it.
 
 
 
@@ -161,16 +165,9 @@ That's not to say *Spyce* isn't good -- I think I was just hoping for a show lik
 
 ### [Ulysses: Jeanne d'Arc to Renkin no Kishi](https://anilist.co/anime/100432)
 
-Well that's one way to do a timeskip.
+Well that's one way to do a time skip.
 
-
-
-![Kaze ga Tsuyoku Fuiteiru]({filename}/images/anime/2018/fall/101903-j8Oeffs1ZUQt.jpg "Kaze ga Tsuyoku Fuiteiru"){: .center} 
-![Production I.G]({filename}/images/anime/studios/half/production_ig.png){: .studio}
-
-### [Kaze ga Tsuyoku Fuiteiru](https://anilist.co/anime/101903)
-
-I'm going to give this show one more episode, but my bet is that it's the next series on the dropped list.
+I need a few more episodes to get a clear indication on what type of story they are going to tell.
 
 
 
@@ -206,6 +203,10 @@ I'm going to give this show one more episode, but my bet is that it's the next s
 ...
 
 **Damn it Netflix!**
+
+...
+
+*We now return you to your regulary scheduled post...*
 
 
 
@@ -259,17 +260,5 @@ I'm going to give this show one more episode, but my bet is that it's the next s
 ### [Anima Yell!](https://anilist.co/anime/101013)
 
 A shoestring animation budget is doing this show no service. I'm going to reserve final judgement until the rest of the cast is introduced (and to see if the animation improves), but there was real *uncanny valley* going on.
-
-
-
-
-![Himote House]({filename}/images/anime/2018/fall/102875-ONMonKCQcWcD.png "Himote House"){: .center} 
-![Bouncy]({filename}/images/anime/studios/half/.png){: .studio}
-
-<div class="studio">Bouncy</div>
-
-### [Himote House](https://anilist.co/anime/102875)
-
-> The comedy anime centers on five girls and one cat all living as housemates in Nakano, Tokyo: the three Himote sisters (Tokiyo, Kinami, and Kokoro) whose family manages the "Himote House," Kokoro's classmates Tae and Minamo, and the cat Enishi. The girls live their daily lives trying to figure out ways to be popular, and they (and the cat) all possess a mysterious secret power…<br><br><br/><br/>(Source: ANN)
 
 
