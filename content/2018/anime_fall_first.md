@@ -1,16 +1,15 @@
 ---
 title: "Anime Fall 2018 First Impressions"
-date: "2018-10-08 17:48:08"
+date: "2018-10-13 09:12:00"
 tags: [anime, first impressions]
 category: anime
 slug: anime_2018_fall_first
 summary: First Impressions of the Anime Fall 2018 Season
 Hero: "background-image: url(/images/anime/2018/fall/hero.jpg);"
-status: draft
 ---
 
 
-Damn! Through the premier of all the shows on my radar this season and I've only dropped one. 
+Damn! Through the premier of all the shows on my radar this season and I only dropped one. This is really a stacked season. 
 
 
 [TOC]
@@ -21,7 +20,7 @@ Damn! Through the premier of all the shows on my radar this season and I've only
 
 ### [Sword Art Online: Alicization](https://anilist.co/anime/100182)
 
-The anime everyone loves to hate comes out swinging with a double length opening. I can't help it -- I'm onboard for this one.
+The anime everyone loves to hate comes out swinging with a double length opening. I can't help it -- I'm on board for this one.
 
 Sure there were a few bits that were eye-roll worthy, but there was just so much to like! I'm sure this third season will have it's ups and downs, but all I want from an anime is to have fun, and I think *SAO III* will deliver in spades.
 
@@ -44,7 +43,7 @@ I was *this* close to insta-dropping this, but I think I'm going to give it anot
 
 ### [Tensei Shitara Slime Datta Ken](https://anilist.co/anime/101280)
 
-I have to give this show credit -- even though it's full on isekai there is enough new ground here, I'm willing to let it see where it goes. Since this is a two cour show, they obviously have the luxury of explaining the mechanics of the world and the abilities of our *main slime*. There is still plenty of ways this can go off the rails quickly, but I definitely like what I've seen so far.
+I have to give this show credit -- even though it's full on isekai there is enough new ground here, I'm willing to let it see where it goes. Since this is a two cour show, they obviously have the luxury of explaining the mechanics of the world and the abilities of our *main slime*. There are still plenty of ways this can go off the rails quickly, but I definitely like what I've seen so far.
 
 
 
@@ -54,7 +53,11 @@ I have to give this show credit -- even though it's full on isekai there is enou
 
 ### [Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai](https://anilist.co/anime/101291)
 
-For some reason, I got a lot of [Just Because]() vibes from this show. 
+For some reason, my initial thought on this show was very much [Just Because](https://anilist.co/anime/98820/Just-Because/) vibes. However that is really selling it short.
+
+Don't judge this show by the title or the premise. Our two main protagonists are *the* couple of the season -- their interactions feel sincere and the dialog/banter is top notch. It is *so* refreshing having two characters that can hold their own to each other in an anime without bouts of debilitating shyness. They are uncertain and nervous in the face of the mystery in front of them, but they are fully functional when relating to each other.
+
+Can I please have more of this in my anime life?
 
 
 ![Toaru Majutsu no Index III]({filename}/images/anime/2018/fall/100185-NHEkbQX2d7JA.jpg "Toaru Majutsu no Index III"){: .center} 
@@ -64,9 +67,9 @@ For some reason, I got a lot of [Just Because]() vibes from this show.
 
 It's here! 
 
-And what's even better is there is a third season of [Railgun]() coming *next* year as well!
+And what's even better is there is a third season of [Railgun](https://anilist.co/anime/104462/Toaru-Kagaku-no-Railgun-3/) coming *next* year as well!
 
-I have a dilema however. Both *Index* and *Railgun* are up there for my favorite English dubs and it doesn't look like Funimation is simuldubing this one like they did for [Stein's Gate: 0](). Additionally, inexplicablly Crunchyroll seems to have completely fumbled the licensing, so who knows what going to happen.
+Both *Index* and *Railgun* are up there for my favorite English dubs and I was ecstatic that Funimation announced they were doing a SimulDub release (a bit late but I'll take it). Like [Steins;Gate 0](https://anilist.co/anime/21127/SteinsGate-0/) I will be tracking this one 3-4 weeks behind everyone else.
 
 
 
@@ -76,7 +79,7 @@ I have a dilema however. Both *Index* and *Railgun* are up there for my favorite
 
 ### [Irozuku Sekai no Ashita kara](https://anilist.co/anime/101316)
 
-Damn! I am on board for this one!
+I am on board for this one!
 
 Leave it to PA Works to get me seriously hyped for a slice of life show combining magic and time travel. The visuals are vintage PA Works (aka bloody fantastic).
 
@@ -89,7 +92,11 @@ Leave it to PA Works to get me seriously hyped for a slice of life show combinin
 
 *Damn!*
 
-That's one way to do an idol show. 
+That's one way to do an idol show.
+
+Given the *epic* rap battle in episode 2, it looks like we are going to get a different musical genre each week, and while I definitely would have taken 12 episodes of metal, the rap in episode 2 was so much fun.
+
+Taking my bet for comedy of the season.
 
 
 
@@ -98,7 +105,7 @@ That's one way to do an idol show.
 
 ### [Yagate Kimi ni Naru](https://anilist.co/anime/101573)
 
-Being a fan of the source manga, I was very excited for this show. The character designs don't *quite* match what I expected coming from the manga, the animation is very good and the voice actresses of our two leads are pitch perfect. The only trick will be where and how they decide to end the show. There isn't an obvious point that I can recall and I will be interested to see what kind of story they end up telling.
+Being a fan of the source manga, I was very excited for this show. While the character designs don't *quite* match what I expected coming from the manga, the animation is very good and the voice actresses of our two leads are pitch perfect. The only trick will be where and how they decide to end the show. There isn't an obvious point that I can recall and I will be interested to see what kind of story they end up telling.
 
 
 
@@ -109,7 +116,7 @@ Being a fan of the source manga, I was very excited for this show. The character
 
 Welp, I guess I'm watching another mech show this season.
 
-Honestly, I think I would prefer character interactions over the mech battles -- I have a soft spot for Trigger's character aestetics.
+Honestly, I think I would prefer character interactions over the mech battles -- I have a soft spot for Trigger's character aesthetics. I just hope this show is more than just *monster of the week*.
 
 
 
@@ -127,16 +134,16 @@ I'm not sure how far I'll go with this one. A lot will depend on how the central
 
 ### [Radiant](https://anilist.co/anime/101024)
 
-Despite the really interesting backstory to this production, *Radiant* is first on my dropped list this season. Shonen series aren't really my cup of tea to begin with and there really wasn't anything to hook me like there was with [My Hero Academia](). However, if you are a shonen fan, I would recommend checking this one out.
+Despite the really interesting backstory to this production, *Radiant* is first on my dropped list this season. Shonen series aren't really my cup of tea to begin with and there really wasn't anything to hook me like there was with [My Hero Academia](https://anilist.co/anime/21459/Boku-no-Hero-Academia/). However, if you are a shonen fan, I would recommend checking this one out.
 
 
 
 ![Tonari no Kyuuketsuki-san]({filename}/images/anime/2018/fall/101371-K4cKNCyTRw04.png "Tonari no Kyuuketsuki-san"){: .center} 
-<div class="studio">Studio Gokumi, AXsiZ</div>
+<div class="studio">Studio Gokumi</div>
 
 ### [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371)
 
-This is so obviously a 4-koma comic adaptation. All the beats and pacing are really letting the source bleed through. I'm not familar with the source material so I can't comment on how well the adaptation is, but I'll keep up with this one for another couple of episodes as they introduce more of the cast.
+This is so obviously a 4-koma comic adaptation. All the beats and pacing are really letting the source bleed through. I'm not familiar with the source material so I can't comment on how well the adaptation is, but I'll keep up with this one for another couple of episodes as they introduce more of the cast.
 
 
 
@@ -145,7 +152,7 @@ This is so obviously a 4-koma comic adaptation. All the beats and pacing are rea
 
 ### [Uchi no Maid ga Uzasugiru](https://anilist.co/anime/101506)
 
-This is taking lolicon to the point of pedephilia. There is some really great animation at work here, but if the relationship dynamic doesn't settle somewhere in the ballpark of normal, I'm just going to lump this into wierd, unhealthy Japanese fetishes and move on.
+This is taking lolicon to the point of pedophilia. There is some really great animation at work here, but if the relationship dynamic doesn't settle somewhere in the ballpark of normal, I'm just going to lump this into weird, unhealthy Japanese fetishes and move on.
 
 
 
@@ -154,7 +161,7 @@ This is taking lolicon to the point of pedephilia. There is some really great an
 
 ### [RELEASE THE SPYCE](https://anilist.co/anime/101014)
 
-[Princess Principal]() did it better.
+[Princess Principal](https://anilist.co/anime/98505/Princess-Principal/) did it better.
 
 That's not to say *Spyce* isn't good -- I think I was just hoping for a show like this to have a bit more edge. Maybe that is coming now that everyone is introduced.
 
@@ -167,18 +174,16 @@ That's not to say *Spyce* isn't good -- I think I was just hoping for a show lik
 
 Well that's one way to do a time skip.
 
-I need a few more episodes to get a clear indication on what type of story they are going to tell.
+I need a few more episodes to get a clear indication on what type of story they are going to tell after the time skip.
 
 
 
 ![RErideD: Tokigoe no Derrida]({filename}/images/anime/2018/fall/99413-BYd2CipzZhiA.jpg "RErideD: Tokigoe no Derrida"){: .center} 
-![Geek Toys]({filename}/images/anime/studios/half/.png){: .studio}
-
 <div class="studio">Geek Toys</div>
 
 ### [RErideD: Tokigoe no Derrida](https://anilist.co/anime/99413)
 
-> The year is 2050. A young engineer named Derrida Yvain became famous thanks to his contribution to the development of the "Autonomous Machine DZ" at Rebuild, the manufacturing company founded by his father. One day, Derrida and his colleague Nathan discover a flaw in the DZs and try to warn their boss, but are ignored. Although Derrida and Nathan are aware of the danger, they reluctantly decide to put off taking any measures, and instead go to Nathan's daughter Mage's birthday party. The next day, after enjoying a peaceful day, Derrida and Nathan are suddenly attacked by unknown forces. At the end of the escape, Derrida falls into a cold sleep machine and 10 years later, he wakes up to a devastated world in the middle of a war. While Derrida is attacked by a group of out of control DZs, he almost gives up, but he recall's Nathan's last words.<br><br><br/><br/>"Take care of Mage."<br><br><br/><br/>Despite the harsh fate that has fallen upon him, Derrida sets off to seek Mage.<br><br><br/><br/>Beyond the time, we reunite — this is the story of a journey for hope.<br><br><br/><br/>(Source: Official Website)<br><br><br/><br/><i>The first four episodes were distributed exclusively on Hikari TV on September 22, 2018. TV broadcast begins on October 4, 2018.</i>
+Haven't started this one yet, but given the pedigree coming from [Steins;Gate](https://anilist.co/anime/9253/SteinsGate/), I'm going to give it a shot.
 
 
 
@@ -187,13 +192,11 @@ I need a few more episodes to get a clear indication on what type of story they 
 
 ### [Tsurune: Kazemai Koukou Kyuudou-bu](https://anilist.co/anime/100402)
 
-> Minato played Japanese archery in middle school, but after a certain incident, he ran away from the sport. In high school, Minato meets new friends, and together as part of their school's archery club they aim to win the prefectural tournament.<br><br><br/><br/>(Source: ANN)
+This one is airing late and no word as to who is going to pick it up. It's KyoAni so I'm definitely going to check it out as soon as it's available.
 
 
 
-![Ingress]({filename}/images/anime/2018/fall/101500-cyZGel4enSqH.jpg "Ingress"){: .center} 
-![Craftar]({filename}/images/anime/studios/half/.png){: .studio}
-
+![Ingress]({filename}/images/anime/2018/fall/101500-cyZGel4enSqH.jpg "Ingress"){: .center}
 <div class="studio">Craftar</div>
 
 ### [Ingress](https://anilist.co/anime/101500)
@@ -206,29 +209,16 @@ I need a few more episodes to get a clear indication on what type of story they 
 
 ...
 
-*We now return you to your regulary scheduled post...*
+*We now return you to your regularly scheduled post...*
 
 
 
 ![Akanesasu Shoujo]({filename}/images/anime/2018/fall/101360-rTPciO4MFaGA.jpg "Akanesasu Shoujo"){: .center} 
-<div class="studio">Dandelion Animation Studio, Juumonji</div>
+<div class="studio">Dandelion Animation Studio</div>
 
 ### [Akanesasu Shoujo](https://anilist.co/anime/101360)
 
-> A group of girls living in a small city gather to enact a ritual.<br><br/>They are the “Crystal Radio Research Society”.<br><br/>The sweet and cheery Asuka Tsuchimiya brought this group together with her friends from school.<br><br/>The ritual was merely an urban legend, but events coalesce and what started as play becomes much more... <br><br><br/><br/>(Source: Pony Canyon USA)
-
-
-
-
-![DOUBLE DECKER! Doug & Kirill]({filename}/images/anime/2018/fall/101318-eQZqO7jbfVOs.jpg "DOUBLE DECKER! Doug & Kirill"){: .center} 
-![Sunrise]({filename}/images/anime/studios/half/.png){: .studio}
-
-<div class="studio">Sunrise</div>
-
-### [DOUBLE DECKER! Doug & Kirill](https://anilist.co/anime/101318)
-
-> The city state of Lisvalletta. Two suns rise above this city, and the people here live peaceful lives, but in the shadows crime and illegal drugs run rampant. Among them is the dangerous, highly lethal drug "Anthem" which casts a dark shadow over the city. The SEVEN-O Special Crime Investigation Unit specializes in cracking down on Anthem. This unit operates in two man "buddy" teams in what's called the "Double Decker System" to tackle the problem. Doug Billingham is a seasoned investigator, and joining him is Kirill Vrubel, whose abilities are mysterious and unknown.<br><br><br/><br/>(Source: Crunchyroll)<br><br><br/><br/><i>The first episode was distributed online through Bandai Channel and Crunchyroll on September 3, 2018. TV broadcast begins September 30, 2018.</i>
-
+This feels like a middle of the road mystery show. Given how packed this season is I predict that I'll fall behind and then binge it at the end.
 
 
 
@@ -237,28 +227,24 @@ I need a few more episodes to get a clear indication on what type of story they 
 
 ### [Gaikotsu Shotenin Honda-san](https://anilist.co/anime/100093)
 
-> Honda-san is at war - with business, with out-of-print books, and with people who love manga! Who knew there were so many laughs to be found at the manga counter of a bookstore?! These are the day-to-day happenings that take place at a certain bookstore where the love of manga is abundant.<br><br/><br><br/>(Source: Crunchyroll)
+This is a very off the wall comedy but the opening episode was extremely funny. As a 12 minute short it won't take much and I can't wait to see how it manages to skewer other aspects of otaku culture.
 
 
 
 ![Satsuriku no Tenshi (ONA)]({filename}/images/anime/2018/fall/104243-i2VvLTuJH5I3.jpg "Satsuriku no Tenshi (ONA)"){: .center} 
-![J.C. Staff]({filename}/images/anime/studios/half/.png){: .studio}
-
-<div class="studio">J.C. Staff</div>
+![J.C. Staff]({filename}/images/anime/studios/half/jc_staff.png){: .studio}
 
 ### [Satsuriku no Tenshi (ONA)](https://anilist.co/anime/104243)
 
-> Episodes 13-16 streamed exclusively on Amazon Prime.
+I'm invested at this point so I want to see how the story ends, but in retrospect, I'm not sure the show is worth starting if you haven't.
 
 
 
 ![Anima Yell!]({filename}/images/anime/2018/fall/101013-hFT0b0mqC1oY.jpg "Anima Yell!"){: .center} 
-![Doga Kobo]({filename}/images/anime/studios/half/.png){: .studio}
-
-<div class="studio">Doga Kobo</div>
+![Doga Kobo]({filename}/images/anime/studios/half/dogakobo.png){: .studio}
 
 ### [Anima Yell!](https://anilist.co/anime/101013)
 
-A shoestring animation budget is doing this show no service. I'm going to reserve final judgement until the rest of the cast is introduced (and to see if the animation improves), but there was real *uncanny valley* going on.
+A shoestring animation budget is doing this show no service. I'm going to reserve final judgment until the rest of the cast is introduced (and to see if the animation improves), but there was real *uncanny valley* going on.
 
 
