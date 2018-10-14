@@ -11,12 +11,12 @@ status: draft
 
 {% for show in shows %}
 
+### [{{ show.title.userPreferred }}]({{ show.siteUrl }})
+
 ![{{ show.title.userPreferred }}]({filename}/images/anime/{{ year }}/{{ season }}/{{ show.__pv_filename__ }} "{{ show.title.userPreferred }}"){: .center} 
 ![{{ show.studios.nodes|map(attribute='name')|join(', ') }}]({filename}/images/anime/studios/half/.png){: .studio}
 
 <div class="studio">{{ show.studios.nodes|map(attribute='name')|join(', ') }}</div>
-
-### [{{ show.title.userPreferred }}]({{ show.siteUrl }})
 
 > {{ show.description|replace('\r\n', '<br/>')|replace('\n', '<br/>') }}
 
