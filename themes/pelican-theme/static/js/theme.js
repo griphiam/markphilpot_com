@@ -17,7 +17,7 @@ function setTheme(siteUrl, theme){
 			linkTags[i].disabled = false;
 		}
 	}
-	createCookie('theme', theme);
+	createCookie('theme', theme, 365);
 }
 
 function changeTheme(siteUrl, theme) {
