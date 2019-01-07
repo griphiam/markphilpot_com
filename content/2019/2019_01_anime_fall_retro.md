@@ -1,25 +1,24 @@
 ---
 title: "Anime Fall 2018 Retrospective"
-date: "2018-12-27 13:02:00"
+date: "2019-01-06 19:02:00"
 tags: [anime, retrospective]
 category: anime
 slug: anime_2018_fall_retro
 summary: Retrospective of the Anime Fall 2018 Season
 Hero: "background-image: url(/images/anime/2018/fall/hero.jpg);"
-status: draft
 ---
 
 
 [TOC]
 
-What a really great season! The two 2 cour shows (SAO & Slime) that I'm following regularly are doing well (with Slime being the suprise of the season). I haven't yet dived into *Index III* yet -- it's been such a stacked season something had to give.
+What a really great season! The two 2 cour shows (SAO & Slime) that I'm following regularly are doing well (with Slime being the surprise of the season). I haven't yet dived into *Index III* yet -- it's been such a stacked season something had to give.
 
 
 ### [Goblin Slayer](https://anilist.co/anime/101165)
 
 ![Goblin Slayer]({filename}/images/anime/2018/fall/cards/goblin.jpg "Goblin Slayer"){: .ew1920}
 
-After a controversial and unnessarily graphic opening episode, *Goblin Slayer* settled down into a decent D&D-style narative. There is no character development here, but the show does manage to assemble an interesting an sympathetic party to surround the protagonist. This show is perfectly skippable however, especially if you don't need graphic violence in your life at this moment.
+After a controversial and unnecessarily graphic opening episode, *Goblin Slayer* settled down into a decent D&D-style narrative. There is no character development here, but the show does manage to assemble an interesting and sympathetic party to surround the protagonist. This show is perfectly skippable however, especially if you don't need graphic violence in your life at this moment.
 
 
 
@@ -29,7 +28,7 @@ After a controversial and unnessarily graphic opening episode, *Goblin Slayer* s
 
 [Monogatari](https://anilist.co/anime/5081/Bakemonogatari/) done in rom-com fashion, and I absolutely loved it. [Mai](https://anilist.co/character/127222/Mai-Sakurajima) and [Sakuta](https://anilist.co/character/127221/Sakuta-Azusagawa) were couple of the season after the first arc and the show never strayed from that root romance even as it told the stories of the other characters.
 
-Even if you don't normally watch shows like this, go watch the first three episodes and just treat it as a movie. It definitely won't dissapoint.
+Even if you don't normally watch shows like this, go watch the first three episodes and just treat it as a movie. It definitely won't disappoint.
 
 
 
@@ -37,7 +36,9 @@ Even if you don't normally watch shows like this, go watch the first three episo
 
 ![Irozuku Sekai no Ashita kara]({filename}/images/anime/2018/fall/cards/colors.jpg "Irozuku Sekai no Ashita kara"){: .ew1920}
 
-First, let me just say this show wins the award for best Background Art of the season and it's not even close. Jaw Droppingly Georgous.
+First, let me just say this show wins the award for best Background Art of the season and it's not even close. 
+
+**Jaw Droppingly Gorgeous**
 
 That said this story feels like it would have been better as a two hour film than a full cour. The middle third is very slow and the show doesn't delve deeply into any of the supporting character's stories and motivations. If I ever have time to do a large scale editing project, I'd love to take a pass at this show as a film.
 
@@ -50,14 +51,14 @@ I *really* want to go see a full *Franchouchou* [concert](https://wowjapan.asia/
 
 I've crossed over. There is no going back.
 
-I'm absolutely hooked on the OST, but what made the show is the character exploration and how it was all woven together rather than pure episodic vignettes. I hope to god there is a second season because there are [still](https://anilist.co/character/127651/Yuugiri) [two](https://anilist.co/character/127650/Tae-Yamada) back stories that I despirately want fleshed out.
+I'm absolutely hooked on the OST, but what made the show is the character exploration and how it was all woven together rather than pure episodic vignettes. I hope to god there is a second season because there are [still](https://anilist.co/character/127651/Yuugiri) [two](https://anilist.co/character/127650/Tae-Yamada) back stories that I desperately want fleshed out.
 
 
 ### [Yagate Kimi ni Naru](https://anilist.co/anime/101573)
 
 ![Yagate Kimi ni Naru]({filename}/images/anime/2018/fall/cards/bloom.jpg "Yagate Kimi ni Naru"){: .ew1920}
 
-Probably the best yuri romance ever and *damn* do I hope we get a second season. The anime adaptation *essentially* ended where the english manga release is, so I think there is about a volume and a half of source material that is currently published but not adapted.
+Probably the best yuri romance ever and *damn* do I hope we get a second season. The anime adaptation *essentially* ended where the English manga release is, so I think there is about a volume and a half of source material that is currently published but not adapted.
 
 *Please, please, please let us have a happy resolution!*
 
@@ -72,13 +73,15 @@ The anime adaptation did what I wish all adaptations did -- enhance the source m
 
 *Nothing is ever as it seems...*
 
-A really wonderful homage while at the same time construction an entirely new mythos. The animation is spectacular (like you would have expected anything less from Trigger)
+A really wonderful homage while at the same time constructing an entirely new mythos. The animation is spectacular (like you would have expected anything less from Trigger) and a great atmospheric OST.
 
 And hot damn! Rikka for the win!
 
 ![Rikka]({filename}/images/anime/2018/fall/cards/rikka.jpg "Rikka"){: .ew1920}
 
 Also, we need to ship Rikka & Akane *stat!*
+
+
 
 ### [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371)
 
@@ -94,7 +97,7 @@ A cute 4-koma adaptation. If that's your cup of tea, then dive right in.
 
 I ended up binging this once it finished and I am *very* happy I did. The last arc would have been really rough in real time.
 
-I think I had higher expectations for this show that was reasonable which is why I ended sort of luke warm at the end. Don't get me wrong, I think it's pretty good, but compared with the other shows of the season I felt it was just playing second fiddle (albiet doing it very well).
+I think I had higher expectations for this show that was reasonable which is why I ended sort of luke warm at the end. Don't get me wrong, I think it's pretty good, but compared with the other shows of the season I felt it was just playing second fiddle (albeit doing it very well).
 
 
 
@@ -102,7 +105,7 @@ I think I had higher expectations for this show that was reasonable which is why
 
 ![Gaikotsu Shotenin Honda-san]({filename}/images/anime/2018/fall/cards/bookseller.jpg "Gaikotsu Shotenin Honda-san"){: .ew1920}
 
-TODO
+I've never worked retail so I don't embrace this show as fully as some others might, but it's damn funny.
 
 
 
