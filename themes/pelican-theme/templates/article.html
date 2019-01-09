@@ -6,8 +6,18 @@
 
 {% block meta_tags_in_head %}
 {{ super() }}
+
 {% if article.tags or article.category or article.keywords %}
 <meta name="keywords" content="{{ [article.tags|join(', '), article.category, article.keywords]|join(', ') }}" />
+{% endif %}
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+<meta property="og:title" content="{{ article.title | replace("\"", "&quot;") }}" />
+<meta property="og:description" content="{{ article.content | striptags | replace("\"", "&quot;") | truncate(196, False, '...') }}" />
+
+{% if article.og_image is defined %}
+<meta property="og:image" content="{{ SITEURL }}/images/{{ article.og_image }}" />
 {% endif %}
 
 {% from '_includes/seo_metadata.html' import seo_metadata with context %}
