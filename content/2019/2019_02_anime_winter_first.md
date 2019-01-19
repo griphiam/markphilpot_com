@@ -31,7 +31,9 @@ Since I put the first season of *Mob Psyco* on hold (and subsequently never fini
 
 <div class="studio">Kinema Citrus</div>
 
-> Naofumi Iwatani, an uncharismatic Otaku who spends his days on games and manga, suddenly finds himself summoned to a parallel universe! He discovers he is one of four heroes equipped with legendary weapons and tasked with saving the world from its prophesied destruction. As the Shield Hero, the weakest of the heroes, all is not as it seems. Naofumi is soon alone, penniless, and betrayed. With no one to turn to, and nowhere to run, he is left with only his shield. Now, Naofumi must rise to become the legendary Shield Hero and save the world!<br><br/><br><br/>(Source: One Peace Books)<br><br><br/><br/><i>The first episode was pre-aired on December 27th, 2018. Regular broadcast begins on January 9th, 2019.</i>
+The manga is good. Nothing spectacular, mind you, but solid entertainment.
+
+I sincerely wish I could binge this show in a 24hr blast. Like *Slime* I really eagerly want the story to progress. The composer for the series is [Kevin Penkin](https://anilist.co/staff/121796/Kevin-Penkin) from [Made in Abyss](https://anilist.co/anime/97986/Made-in-Abyss/) fame, so I had *really* high expectations for the OST going in. So far it hasn't been to the exceptional level of *Abyss*, but I'm hoping some more themes are introduced as we get further into the story.
 
 
 
@@ -41,7 +43,13 @@ Since I put the first season of *Mob Psyco* on hold (and subsequently never fini
 
 <div class="studio">CloverWorks</div>
 
-> Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.<br><br/><br>(Source: VIZ)
+What ever you do, if you haven't read the manga go into this show knowing absolutely nothing. This show is my prediction of show of the season.
+
+Also, the OP is **awesome**
+
+<div class="iframe_wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1JoFsTDfd-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
@@ -62,7 +70,7 @@ The OP and ED are each fantastic as well!
 ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen]({filename}/images/anime/2019/winter/nx101921-k0zETTY1j3Zy.jpg "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"){: .center} 
 ![A-1 Pictures]({filename}/images/anime/studios/half/a1.png){: .studio}
 
-> Kaguya Shinomiya and Miyuki Shirogane are the members of the incredibly prestigious Shuichi'in Academy's student council, asserting their positions as geniuses among geniuses. All the time they spend together has caused the two of them to develop feelings for each other, but their pride will not allow them to be the one to confess and become the submissive one in the relationship! Love is war, and their battle to make the other confess begins now!<br><br/><br><br/>(Source: MU)
+The execution of this opening episode is top notch. The handling of the internal monologues was perfectly done. I hope there is more to this show however than just these two narcisistic characters bouncing off each other. If there is some actual development and some sort of arc, then I think I'll really enjoy this show.
 
 
 
@@ -72,7 +80,7 @@ The OP and ED are each fantastic as well!
 ![Dororo]({filename}/images/anime/2019/winter/nx101347-2J2p8qJpxpfZ.jpg "Dororo"){: .center} 
 ![MAPPA, Twin Engine, Tezuka Productions]({filename}/images/anime/studios/half/mappa.png){: .studio}
 
-> Dororo, a young orphan thief, falls into the company of Hyakkimaru, a powerful demon-hunting Rounin. Before Hyakkimaru's birth his father, a greedy feudal lord, made a pact with 40 demons and let them each take a piece of his unborn son's body, in return for granting him great power. Hyakkimaru was born without arms, legs, eyes, ears a nose or mouth, a barely human creature, and his father had him thrown in the river. He was rescued and raised by Dr. Honma, who made him artificial limbs and helped him learn to fight the demons - each time he defeats one he reclaims one piece of his body. Now he and Dororo travel together through the war-torn countryside.<br/><br><br><br/>(Source: ANN)
+Another strong showing by MAPPA.
 
 
 
@@ -93,7 +101,7 @@ The OP and ED are each fantastic as well!
 
 <div class="studio">Tezuka Productions</div>
 
-> One day, a poor high school second-year named Futaro Uesugi comes across a private tutoring gig with good pay. But his pupils are his classmates!! And they’re quintuplets!! A-and they’re all gorgeous girls, but they’re also troublemakers who hate to study and are on the verge of flunking out! And his first task is simply gaining the sisters’ trust?! Every day is a party! The curtain is rising on the Nakano quintuplets’ quirky romantic comedy with five times the cute!!<br/><br><br>(Source: Kodansha Comics)
+On first glance, this appears to be a basic harem trope filled show, but there was something about the handling of the characters that gives me hope that there might be something more to it.
 
 
 
@@ -104,7 +112,7 @@ The OP and ED are each fantastic as well!
 ![LIDENFILMS]({filename}/images/anime/studios/half/lidenfilms.png){: .studio}
 
 
-> When the Earth is threatened by the sudden appearance of undead creatures, a group of young women blessed with powers from a mysterious source rose to defeat them. Now, after three years of apparent peace, the same malevolent creatures have resurfaced. Five magical girls are once again conscripted to war as the Magical Girl Special-Ops force, to defend mankind from an unholy nemesis.<br><br<br/><br/>(Source: Seven Seas)
+Personally, I would have preferred a show that focuses on the PTSD aspect of Magical Girls rather than the show I think we are going to get. I'll give this a few more episodes to see what kind of narative we are setting up.
 
 
 
@@ -136,8 +144,9 @@ I'll tune in next week to see what this conflict is and how they are going to st
 ![Watashi ni Tenshi ga Maiorita!]({filename}/images/anime/2019/winter/nx102680-lbNTS26wBVYB.jpg "Watashi ni Tenshi ga Maiorita!"){: .center} 
 ![Doga Kobo]({filename}/images/anime/studios/half/dogakobo.png){: .studio}
 
-> The four-panel comedy manga's story centers on Miyako Hoshino, a shy college student and otaku. Miyako's younger sister Hinata, who is a fifth grader, has a classmate and friend named Hana. When they meet, Miyako falls for Hana at first sight. <br/><br><br><br/>(Source: ANN)
+Oh my god! *WHY?*
 
+Two *extremely* questionable loli shows in back to back seasons...
 
 
 ### [Endro!](https://anilist.co/anime/103301)
@@ -145,18 +154,10 @@ I'll tune in next week to see what this conflict is and how they are going to st
 ![Endro!]({filename}/images/anime/2019/winter/nx103301-cSSHgCgUQVrR.jpg "Endro!"){: .center} 
 ![Studio Gokumi]({filename}/images/anime/studios/half/studio_gokumi.png){: .studio}
 
->  The anime's story is set on Naral Island, a continent with swords and magic in which humans and monsters coexist. The terrible Demon King lives there. In ancient times, the first-generation hero defeated the Demon King. Over the many successive generations since then, the Demon King has been resurrected, and the hero who opposes him has likewise reappeared. Girls attend a school for adventurers in order to defeat the Demon King when he appears again.<br><br><br/><br/>Though a bit absent-minded, Yusha has the body of a hero. The holy elf Seyla's trouble never ends because she is too serious. The cheerful warrior Fai loves to eat. Mei is a quiet otaku magician. As the four girls aim to be in the hero party, they live relaxed fantasy lives and show no sign of defeating the Demon King no matter how much time passes.<br><br><br/><br/>(Source: ANN)
+Very clever opening episode.
 
+I'm not sure there is going to be enough here to keep me coming back each week, but I applaud the execution of the first episode.
 
-
-
-
-### [Grimms Notes The Animation](https://anilist.co/anime/103735)
-
-![Grimms Notes The Animation]({filename}/images/anime/2019/winter/nx103735-xmpn76ipz86E.jpg "Grimms Notes The Animation"){: .center} 
-![Brain's Base]({filename}/images/anime/studios/half/brains_base.png){: .studio}
-
-> The game takes place in a world created by a beings known as "Story Tellers." At birth, all inhabitants of this world are bestowed with a "book of fate" where all their lives are written in advance. However, rogue Story Tellers known as Chaos Tellers are writing bad events into people's books without them knowing. It is up to the holders of blank books of fate to seek out the Chaos Tellers and restore the world.<br><br><br/><br/>(Source: ANN)
 
 
 
@@ -166,7 +167,7 @@ I'll tune in next week to see what this conflict is and how they are going to st
 
 <div class="studio">Yaoyorozu</div>
 
-> The science-fiction action story follows girls who fight with weird entities nicknamed "mushi" (bugs) and survive in a world of red fog. (Source: ANN)<br/><br/>Based on Tatsuki's winning entry from the '24th 3D Anime Contest' in 2012 of the same name.
+[Kemono Friends](https://anilist.co/anime/87496/Kemono-Friends/) in distopian setting.  I'll pass.
 
 
 
@@ -176,7 +177,7 @@ I'll tune in next week to see what this conflict is and how they are going to st
 
 <div class="studio">Satelight</div>
 
-> In the novels' story, mysterious flying creatures known as Zai suddenly appear, and in order to fight the creatures, mankind creates fighter aircraft called "Daughters," as well as the automatic fighting mechanism "Anima," which are shaped like human girls. The story centers on a young man named Kei Narutani, who yearns to fly in the sky, and an Anima considered to be humanity's trump card, a girl name Gripen.<br><br><br/><br/>(Source: ANN)
+I have a question... Did this show enter production before or after [Darling in the Franxx](https://anilist.co/anime/99423/Darling-in-the-Franxx/) aired? Pass.
 
 
 
@@ -187,7 +188,7 @@ I'll tune in next week to see what this conflict is and how they are going to st
 
 <div class="studio">GEMBA</div>
 
-> The story will take place in a barren frontier where people trade goods with each other in order to help each other survive. The Kotobuki Squadron are bodyguards for hire, led by a strict but beautiful squadron leader, an unreliable commanding officer, and a true artisan of a crew chief. Alongside pilots who don't lack for personality, they take to the air in dogfights, letting the engine noise of their Hayabusa fighters ring out in the skies.<br><br><br/><br/>(Source: ANN)
+So I don't think I'm a fan of the aestetic choices (main characters in 3D, background characters in 2D), but *damn* the sound design was incredible! We don't know much about this show from the opening episode because the majority of time was spent in the dog fight. From the hints given at the end of the episode, there might be some very interesting character backstories to explore here. If they keep up that level of sound design, that just might be enough for me.
 
 
 
@@ -202,14 +203,5 @@ What the hell? What kind of *non sequitur* shit was that?
 
 Honestly, who is the target audience for something like this?
 
-
-
-
-### [Circlet Princess](https://anilist.co/anime/104008)
-
-![Circlet Princess]({filename}/images/anime/2019/winter/nx104008-z3wEQQ63hj1B.png "Circlet Princess"){: .center} 
-![SILVER LINK.]({filename}/images/anime/studios/half/silver_link.png){: .studio}
-
-> The game follows a fictional near-future e-sport that utilizes a "mixed reality system" developed from augmented reality technology. The story centers on a fledgling team of high school girls from Saint Union Academy who pursue the sport of Circlet Bout.<br><br><br/><br/>(Source: ANN)
 
 
