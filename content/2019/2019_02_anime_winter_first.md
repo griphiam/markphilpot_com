@@ -1,18 +1,17 @@
 ---
 title: "Anime Winter 2019 First Impressions"
-date: "2019-01-06 19:05:33"
+date: "2019-02-15 10:17:00"
 tags: [anime, first impressions]
 category: anime
 slug: anime_2019_winter_first
 summary: First Impressions of the Anime Winter 2019 Season
 Hero: "background-image: url(/images/anime/2019/winter/hero.jpg);"
-status: draft
 ---
 
 
 [TOC]
 
-Since I put the first season of *Mob Psyco* on hold (and subsequently never finished it) I won't be watching it's second season (I know, I know... my loss).
+Due to circumstances beyond my control (germs making their way home) this is going up *extremely* late. That being said, also due to said germs, I've been able to stay current with almost everything so far this season!
 
 
 
@@ -58,7 +57,7 @@ Also, the OP is **awesome**
 ![Boogiepop wa Warawanai (2019)]({filename}/images/anime/2019/winter/nx101283-YpZqD7wrzWui.jpg "Boogiepop wa Warawanai (2019)"){: .center} 
 ![MADHOUSE]({filename}/images/anime/studios/half/madhouse.png){: .studio}
 
-I'm not at all familar with the original (done almost 20 years ago at this point) so I went in completely cold turkey. First impression was excellent and a good decision to air the first two episodes at once. There seems to be a bit of overlapping character designs which caused a bit of confusion as to who is who, but I think I've manged to get the three initial groups straight now. The non-linear storytelling takes effort as there aren't a lot of queues for you to anchor on.
+I'm not at all familiar with the original (done almost 20 years ago at this point) so I went in completely cold turkey. First impression was excellent and a good decision to air the first two episodes at once. There seems to be a bit of overlapping character designs which caused a bit of confusion as to who is who, but I think I've manged to get the three initial groups straight now. The non-linear storytelling takes effort as there aren't a lot of queues for you to anchor on.
 
 The OP and ED are each fantastic as well!
 
@@ -70,7 +69,7 @@ The OP and ED are each fantastic as well!
 ![Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen]({filename}/images/anime/2019/winter/nx101921-k0zETTY1j3Zy.jpg "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"){: .center} 
 ![A-1 Pictures]({filename}/images/anime/studios/half/a1.png){: .studio}
 
-The execution of this opening episode is top notch. The handling of the internal monologues was perfectly done. I hope there is more to this show however than just these two narcisistic characters bouncing off each other. If there is some actual development and some sort of arc, then I think I'll really enjoy this show.
+The execution of this opening episode is top notch. The handling of the internal monologues was perfectly done. I hope there is more to this show however than just these two narcissistic characters bouncing off each other. If there is some actual development and some sort of arc, then I think I'll really enjoy this show.
 
 
 
@@ -80,7 +79,7 @@ The execution of this opening episode is top notch. The handling of the internal
 ![Dororo]({filename}/images/anime/2019/winter/nx101347-2J2p8qJpxpfZ.jpg "Dororo"){: .center} 
 ![MAPPA, Twin Engine, Tezuka Productions]({filename}/images/anime/studios/half/mappa.png){: .studio}
 
-Another strong showing by MAPPA.
+Another strong showing by MAPPA. A killer OP and a no-hold-bar take on feudal Japan. If it weren't for *Neverland* this might have taken the lead for show of the season.
 
 
 
@@ -90,7 +89,7 @@ Another strong showing by MAPPA.
 
 <div class="studio">CygamesPictures</div>
 
-> The anime will adapt the "Manaria Mahou Gakuin" event within the Rage of Bahamut social game. It will follow the two young women Anne, the honor student princess, and Grea, a princess born from a dragon and a human as students at the academy. Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other.<br><br/><br><br/>(Source: ANN)
+Incredible production values for a short (given it seems to be reusing assets from it's parent show). It's sweet but I hope it's not 10 episodes of maneuvering (I don't have hope for that however).
 
 
 
@@ -101,7 +100,9 @@ Another strong showing by MAPPA.
 
 <div class="studio">Tezuka Productions</div>
 
-On first glance, this appears to be a basic harem trope filled show, but there was something about the handling of the characters that gives me hope that there might be something more to it.
+On first glance, this appears to be a basic harem trope filled show, but there was something about the handling of the characters that gives me hope that there might be something more to it. The one issue is there are *a lot* of off model shots in this show early on. If they are going off model already in episode 2 and 3, I shudder to think where they will be at 10 and 11.
+
+That being said, the manga looks very good so that might be a better alternative.
 
 
 
@@ -112,18 +113,7 @@ On first glance, this appears to be a basic harem trope filled show, but there w
 ![LIDENFILMS]({filename}/images/anime/studios/half/lidenfilms.png){: .studio}
 
 
-Personally, I would have preferred a show that focuses on the PTSD aspect of Magical Girls rather than the show I think we are going to get. I'll give this a few more episodes to see what kind of narative we are setting up.
-
-
-
-
-### [Ueno-san wa Bukiyou](https://anilist.co/anime/101773)
-
-![Ueno-san wa Bukiyou]({filename}/images/anime/2019/winter/nx101773-BcbnG2PrxsIT.jpg "Ueno-san wa Bukiyou"){: .center} 
-
-<div class="studio">Lesprit</div>
-
-Short and crass, but the voice acting steels the show. This is going to be a fun short to follow each week.
+Personally, I would have preferred a show that focuses on the PTSD aspect of Magical Girls rather than the show I think we are going to get. I'll give this a few more episodes to see what kind of narrative we are setting up.
 
 
 
@@ -167,7 +157,7 @@ I'm not sure there is going to be enough here to keep me coming back each week, 
 
 <div class="studio">Yaoyorozu</div>
 
-[Kemono Friends](https://anilist.co/anime/87496/Kemono-Friends/) in distopian setting.  I'll pass.
+[Kemono Friends](https://anilist.co/anime/87496/Kemono-Friends/) in dystopian setting.  I'll pass.
 
 
 
@@ -188,7 +178,7 @@ I have a question... Did this show enter production before or after [Darling in 
 
 <div class="studio">GEMBA</div>
 
-So I don't think I'm a fan of the aestetic choices (main characters in 3D, background characters in 2D), but *damn* the sound design was incredible! We don't know much about this show from the opening episode because the majority of time was spent in the dog fight. From the hints given at the end of the episode, there might be some very interesting character backstories to explore here. If they keep up that level of sound design, that just might be enough for me.
+So I don't think I'm a fan of the aesthetic choices (main characters in 3D, background characters in 2D), but *damn* the sound design was incredible! We don't know much about this show from the opening episode because the majority of time was spent in the dog fight. From the hints given at the end of the episode, there might be some very interesting character backstories to explore here. If they keep up that level of sound design, that just might be enough for me.
 
 
 
