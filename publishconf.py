@@ -28,3 +28,4 @@ PLUGINS.append('optimize_images')
 TYPOGRIFY = False
 
 DEBUG = False
+SHOW_DRAFTS = False

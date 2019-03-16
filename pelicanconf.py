@@ -7,6 +7,7 @@ import logging
 log = logging.getLogger(__name__)
 
 DEBUG = True
+SHOW_DRAFTS = True
 
 if DEBUG:
      CACHE_CONTENT = True
