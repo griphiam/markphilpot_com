@@ -11,7 +11,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - name: "post"
     label: "Post"
-    folder: "content/2018"
+    folder: "content/2019"
     format: "yaml-frontmatter"
     extension: "md"
     create: true
