@@ -54,7 +54,7 @@ $(document).ready(function(){
     <li>
     {% endif %}
       <div class="micro_content">
-        {{ article.content }}
+        {{ article.content | regex_replace('(img.*?)src="(.*?)"', '\g<1>data-src="\g<2>" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"') }}
         <span class="micro_date">
           {% if article.retweetuser %}<a href="https://twitter.com/{{ article.retweetuser }}" style="border-bottom: 0;">@{{ article.retweetuser }}</a>{% endif %}
           {% if article.tweeturl %}<a href="{{ article.tweeturl }}" class="micro_tweet_link"><i class="fa fa-twitter"></i></a>{% endif %}

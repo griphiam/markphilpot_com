@@ -3,8 +3,28 @@
 from __future__ import unicode_literals
 import datetime
 import logging
+import re
 
 log = logging.getLogger(__name__)
+
+def regex_replace(txt, rgx, val, ignorecase=False, multiline=False):
+    r'''
+    Searches for a pattern and replaces with a sequence of characters.
+    .. code-block:: jinja
+        {% set my_text = 'lets replace spaces' %}
+        {{ my_text | regex_replace('\s+', '__') }}
+    will be rendered as:
+    .. code-block:: text
+        lets__replace__spaces
+    '''
+    flag = 0
+    if ignorecase:
+        flag |= re.I
+    if multiline:
+        flag |= re.M
+    compiled_rgx = re.compile(rgx, flag)
+    return compiled_rgx.sub(val, txt)
+
 
 DEBUG = True
 
@@ -74,6 +94,7 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.loopcontrols']}
+JINJA_FILTERS = {'regex_replace': regex_replace}
 
 TYPOGRIFY = False 
 RELATED_POSTS_LABEL = 'keep reading...'
