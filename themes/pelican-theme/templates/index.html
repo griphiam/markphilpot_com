@@ -1,6 +1,22 @@
 {% extends 'base.html' %}
 
 {% block content %}
+{% if SHOW_DRAFTS %}
+<ul class="recent-posts">
+  <h2 id="drafts">Drafts</h2>
+  {% for draft in drafts %}
+  <li>
+    <a href="{{ SITEURL }}/{{ draft.url }}">
+      <div>
+        <span class="title">{{ draft.title }}</span>
+        <span class="date"><time pubdate="pubdate" datetime="{{ draft.date.isoformat() }}">{{ draft.locale_date }}</time></span>
+        <span class="tags">{{draft.tags|join(', ')}}</span>
+      </div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
 <ul class="recent-posts">
   {% set last_year = 0 %}
   {% for article in dates %}

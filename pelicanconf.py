@@ -27,6 +27,7 @@ def regex_replace(txt, rgx, val, ignorecase=False, multiline=False):
 
 
 DEBUG = True
+SHOW_DRAFTS = True
 
 if DEBUG:
      CACHE_CONTENT = True
