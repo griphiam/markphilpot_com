@@ -177,7 +177,7 @@ if __name__ == '__main__':
     """
     Examples:
 
-        python scripts/bootstrap_anime_first.py --season spring --year 2017 -o content/2016/anime_spring_first.md --save_images --client_id X --client_secret Y
+        python scripts/bootstrap_anime_first.py --season spring --year 2017 -o content/2016/anime_spring_first.md --save_images
 
         mogrify -resize 320x *.jpg # (revert hero.jpg)
 
