@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import datetime
+import dateutil
 import logging
 import re
 
@@ -24,6 +25,12 @@ def regex_replace(txt, rgx, val, ignorecase=False, multiline=False):
         flag |= re.M
     compiled_rgx = re.compile(rgx, flag)
     return compiled_rgx.sub(val, txt)
+
+def format_time(date, fmt=None):
+    date = dateutil.parser.parse(date)
+    native = date.replace(tzinfo=None)
+    format = fmt if fmt is not None else '%B %-d, %Y'
+    return native.strftime(format) 
 
 
 DEBUG = True
@@ -95,7 +102,10 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.loopcontrols']}
-JINJA_FILTERS = {'regex_replace': regex_replace}
+JINJA_FILTERS = {
+'regex_replace': regex_replace,
+'format_time': format_time
+}
 
 TYPOGRIFY = False 
 RELATED_POSTS_LABEL = 'keep reading...'

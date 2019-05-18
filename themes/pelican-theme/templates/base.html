@@ -22,6 +22,7 @@
     <title>{% block title %}{{ SITENAME|striptags }}{% endblock title %}</title>
 
     {% block head_links %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cash/4.1.2/cash.min.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css" media="screen">
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" media="screen">
@@ -52,13 +53,7 @@
   <body>
     <header style="position: relative;">
       <div class="hero" style="{% block hero %}background-image: url(/images/heros/gg_bridge.jpg);{% endblock hero %}"></div>
-      <div id="theme-switch" class="onoffswitch">
-          <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
-          <label class="onoffswitch-label" for="myonoffswitch">
-              <span class="onoffswitch-inner"></span>
-              <span class="onoffswitch-switch"></span>
-          </label>
-      </div>
+      <div id="theme-switch-button"/>
     </header>
     <div class="container menu">
       <ul>
@@ -90,18 +85,29 @@
       {% endblock footer %}
     </footer>
     <script type="text/javascript">
-      const checkbox = document.getElementById('theme-switch')
+      $(function (){
+        const $button = $('#theme-switch-button');
 
-      const currentTheme = readCookie('theme') || 'light';
-      document.getElementById('myonoffswitch').checked = currentTheme === 'light';
+        const currentTheme = readCookie('theme') || 'light';
 
-      checkbox.addEventListener('change', (event) => {
-        if (event.target.checked) {
-          setTheme("{{ SITEURL }}", 'light');
-        } else {
-          setTheme("{{ SITEURL }}", 'dark');
+        const getContent = (theme) => {
+          return theme === 'light' ? $('<i class="fas fa-moon"></i>') : $('<i class="fas fa-sun"></i>');
         }
-      })
+
+        $button
+          .append(getContent(currentTheme))
+          .attr('data-theme', currentTheme);
+        
+        $button.on('click', function() {
+          const ct = $(this).attr('data-theme');
+          const nt = ct === 'light' ? 'dark' : 'light';
+
+          setTheme("{{ SITEURL }}", nt);
+
+          $(this).attr('data-theme', nt).empty().append(getContent(nt));
+        })
+
+      });
     </script>
   </body>
 </html>
