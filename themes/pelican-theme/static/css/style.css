@@ -572,9 +572,6 @@ td, th {
   font-style: italic;
   float: right;
 }
-.micro_content p {
-  margin: 0 !important;
-}
 a.micro_tweet_link {
   text-decoration: none !important;
   border-bottom: 0 !important;
