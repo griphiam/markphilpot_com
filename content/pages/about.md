@@ -10,21 +10,21 @@ Some places you can find me on the Internet: [<i class="fab fa-mastodon"></i>](h
 
 ### Experience
 
-![Dark Castle]({filename}/images/about/dark_castle.png){: .center}
+![Dark Castle]({static}/images/about/dark_castle.png){: .center}
 
 <div class="caption">*Which path did you choose?*</div>
 
 Let's take this in reverse chronological order:
 
-![Journal]({filename}/images/about/journal.png){: .center}
+![Journal]({static}/images/about/journal.png){: .center}
 
-![Mattermark]({filename}/images/about/mattermark.png){: .center}
+![Mattermark]({static}/images/about/mattermark.png){: .center}
 
-![DaedaFusion]({filename}/images/about/daedafusion.png){: .center}
+![DaedaFusion]({static}/images/about/daedafusion.png){: .center}
 
 For a year I worked with [Paul Patrick](https://www.linkedin.com/in/paulpatrick) building out a scalable business solution to gather, analyze and assess cyber threat intelligence. While we weren't able to get it off the ground, I loved every second of it and got a chance to build some cool tech which you can find at the [DaedaFusion Github](https://github.com/daedafusion) repositories. The process of open sourcing is still on going but I hope to finish by the end of 2016.
 
-![Lockheed Martin]({filename}/images/about/lockheed.png){: .center}
+![Lockheed Martin]({static}/images/about/lockheed.png){: .center}
 
 I worked for LM for 10 years out of school on a bunch of cool projects and with awesome teams. Here's a quick run down (in chronological order this time):
 

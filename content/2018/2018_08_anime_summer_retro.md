@@ -14,7 +14,7 @@ featured_image: "/images/anime/2018/summer/cards/hero.jpg"
 A pattern is being established. Watch the first 6 or so episodes of a series then hold off watching anymore until it's complete then binge the rest. Shows where I have a casual interest or aren't setup to have a last arc build up I'll follow throughout the shows run, but I definitely prefer to watch episodes 10, 11 and 12 of a show back to back rather than wait three weeks.
 
 
-![Persona 5]({filename}/images/anime/2018/summer/cards/persona5.jpg "Persona 5"){: .ew1920}
+![Persona 5]({static}/images/anime/2018/summer/cards/persona5.jpg "Persona 5"){: .ew1920}
 
 ### [Persona 5 The Animation](https://anilist.co/anime/99693/Persona-5-The-Animation/)
 
@@ -30,7 +30,7 @@ Should you watch it? If you've played the game, I think it's worth it. Getting a
 
 
 
-![Satsuriku no Tenshi]({filename}/images/anime/2018/summer/cards/angels.jpg "Satsuriku no Tenshi"){: .ew1920}
+![Satsuriku no Tenshi]({static}/images/anime/2018/summer/cards/angels.jpg "Satsuriku no Tenshi"){: .ew1920}
 
 ### [Satsuriku no Tenshi](https://anilist.co/anime/99629)
 
@@ -38,7 +38,7 @@ I feel like there is a piece of context I was missing with *Angels of Death*. Th
 
 
 
-![Hanebado]({filename}/images/anime/2018/summer/cards/hanebado.jpg "Hanebado"){: .ew1920}
+![Hanebado]({static}/images/anime/2018/summer/cards/hanebado.jpg "Hanebado"){: .ew1920}
 
 ### [Hanebado!](https://anilist.co/anime/101045)
 
@@ -49,7 +49,7 @@ I am willing to give the writers the benefit of the doubt on this one. Even thou
 It's easy to mistake that realization because Aragaki gets shafted for screen time. There isn't enough time to develop these two characters given how much time is spent exploring some of the other rivals. If they were able to do a 24 episode show with the same level of animation throughout, this show could have been absolutely amazing.
 
 
-![Harukana Receive]({filename}/images/anime/2018/summer/cards/harukana.jpg "Harukana Receive"){: .ew1920}
+![Harukana Receive]({static}/images/anime/2018/summer/cards/harukana.jpg "Harukana Receive"){: .ew1920}
 
 ### [Harukana Receive](https://anilist.co/anime/99586)
 
@@ -59,7 +59,7 @@ I enjoyed the characters and their relationships, but unfortunately the animatio
 
 
 
-![Revue Starlight]({filename}/images/anime/2018/summer/cards/revue.jpg "Revue Starlight"){: .ew1920}
+![Revue Starlight]({static}/images/anime/2018/summer/cards/revue.jpg "Revue Starlight"){: .ew1920}
 
 ### [Shoujo☆Kageki Revue Starlight](https://anilist.co/anime/98658)
 
@@ -76,7 +76,7 @@ This show doesn't just deserve props for effort. Its story, animation, and meta 
 
 
 
-![Planet With]({filename}/images/anime/2018/summer/cards/planet_with.jpg "Planet With"){: .ew1920}
+![Planet With]({static}/images/anime/2018/summer/cards/planet_with.jpg "Planet With"){: .ew1920}
 
 ### [Planet With](https://anilist.co/anime/101368)
 
@@ -88,7 +88,7 @@ As far as mech shows go, I think it's very digestible for anyone (like myself) t
 
 
 
-![Kyoto Teramachi Sanjou no Holmes]({filename}/images/anime/2018/summer/cards/holmes.jpg "Kyoto Teramachi Sanjou no Holmes"){: .ew1920}
+![Kyoto Teramachi Sanjou no Holmes]({static}/images/anime/2018/summer/cards/holmes.jpg "Kyoto Teramachi Sanjou no Holmes"){: .ew1920}
 
 ### [Kyoto Teramachi Sanjou no Holmes](https://anilist.co/anime/101292)
 

@@ -9,7 +9,7 @@ Hero: "background-image: url(/images/2017/macpro_reborn/hero.jpg);"
 featured_image: "/images/2017/macpro_reborn/hero.jpg"
 ---
 
-I mentioned in my [previous post]({filename}./2017_02_macbook_pro_thoughts.md) on my MacBook Pro how I really, _really_ wanted a retina screen for my MacPro but at the time thought it was nigh impossible given Apple's silence on the product. Then unexpectedly two things occurred:
+I mentioned in my [previous post]({static}./2017_02_macbook_pro_thoughts.md) on my MacBook Pro how I really, _really_ wanted a retina screen for my MacPro but at the time thought it was nigh impossible given Apple's silence on the product. Then unexpectedly two things occurred:
 
 * Apple 'announced'[ref]a roundtable discussion with select reporters[/ref] a new 'upcoming'[ref]not in 2017 at least[/ref] MacPro
 * NVIDIA announced they would release a mac driver for their awesome Pascal line of cards (GeForce 1080)

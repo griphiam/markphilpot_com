@@ -7,6 +7,6 @@ date: ''
 slug: ''
 featured_image: '/images/micro/IMAGE.jpg'
 ---
-![IMAGE]({filename}/images/micro/IMAGE.jpg){: .center} 
+![IMAGE]({static}/images/micro/IMAGE.jpg){: .center} 
 
 CONTENT

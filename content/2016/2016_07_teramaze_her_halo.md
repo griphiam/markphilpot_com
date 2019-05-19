@@ -9,7 +9,7 @@ Hero: "background-image: url(/images/2016/teramaze/hero.jpg);"
 featured_image: "/images/2016/teramaze/hero.jpg"
 ---
 
-![Her Halo]({filename}/images/2016/teramaze/album.jpg){: .ew1000}
+![Her Halo]({static}/images/2016/teramaze/album.jpg){: .ew1000}
 
 I've never thought much of Amazon's Recommendations. I never thought they were very accurate, even though the amount of information they must have about my musical tastes should be staggering. However, I happen to check out what they had for recommended new releases and a few rows down the cover caught my eye. I had never heard of Teramaze and knew nothing about them. After listening to the sample (in all its bad audio quality) I pulled up youtube and checked out their video single
 
