@@ -6,6 +6,7 @@ category: blog
 slug: firewatch
 summary: Review of Panic's Firewatch
 Hero: "background-image: url(/images/2016/firewatch/hero.jpg);"
+featured_image: "/images/2016/firewatch/hero.jpg"
 ---
 
 ![Firewatch]({filename}/images/2016/firewatch/title.jpg){: .ew1000}

@@ -6,6 +6,7 @@ category: blog
 slug: avantasia_ghostlights
 summary: Review of Avantasia's "Ghostlights"
 Hero: "background-image: url(/images/2016/avantasia/hero.jpg);"
+featured_image: "/images/2016/avantasia/hero.jpg"
 ---
 
 ![Ghostlights]({filename}/images/2016/avantasia/avantasia-ghostlights.jpg){: .ew1000 }

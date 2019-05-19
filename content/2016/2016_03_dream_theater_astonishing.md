@@ -6,6 +6,7 @@ category: blog
 slug: dream_theater_astonishing
 summary: Review of Dream Theater's "The Astonishing"
 Hero: "background-image: url(/images/2016/dream_theater/hero.jpg);"
+featured_image: "/images/2016/dream_theater/hero.jpg"
 ---
 
 ![The Astonishing]({filename}/images/2016/dream_theater/dream_theater_astonishing.jpg){: .ew1000}

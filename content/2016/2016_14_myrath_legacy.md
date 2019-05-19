@@ -6,6 +6,7 @@ category: blog
 slug: myrath_legacy
 summary: Review of Myrath's new album 'Legacy'
 Hero: "background-image: url(/images/2016/myrath/hero.jpg);"
+featured_image: "/images/2016/myrath/hero.jpg"
 ---
 
 ![Her Halo]({filename}/images/2016/myrath/legacy.jpg){: .ew1000}

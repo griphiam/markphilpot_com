@@ -6,6 +6,7 @@ category: games
 slug: highway_blossoms
 summary: Review of Alienworks "Highway Blossoms"
 Hero: "background-image: url(/images/2019/highway_blossoms/hero.jpg);"
+featured_image: "/images/2019/highway_blossoms/hero.jpg"
 status: draft
 ---
 

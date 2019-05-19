@@ -7,6 +7,7 @@ category: blog
 slug: anime_2015_fall_retro
 summary: Retrospective of the Fall 2015 Anime Season
 Hero: "background-image: url(/images/anime/2015/fall/hero.jpg);"
+featured_image: "/images/anime/2015/fall/hero.jpg"
 ---
 
 [TOC]

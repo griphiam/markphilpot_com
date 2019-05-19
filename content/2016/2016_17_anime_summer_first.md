@@ -6,6 +6,7 @@ category: blog
 slug: anime_2016_summer_first
 summary: First Impressions of the Anime Summer 2016 Season
 Hero: "background-image: url(/images/anime/2016/summer/hero.jpg);"
+featured_image: "/images/anime/2016/summer/hero.jpg"
 ---
 
 [TOC]

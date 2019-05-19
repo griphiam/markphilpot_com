@@ -6,6 +6,7 @@ category: blog
 slug: life_is_strange
 summary: Review of Dontnod's "Life is Strange"
 Hero: "background-image: url(/images/2016/life_is_strange/hero.jpg);"
+featured_image: "/images/2016/life_is_strange/hero.jpg"
 ---
 
 ![Life is Strange]({filename}/images/2016/life_is_strange/title.jpg){: .ew1000}

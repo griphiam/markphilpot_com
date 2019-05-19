@@ -6,6 +6,7 @@ category: blog
 slug: anime_2016_fall_first
 summary: First Impressions of the Anime Fall 2016 Season
 Hero: "background-image: url(/images/anime/2016/fall/hero.jpg);"
+featured_image: "/images/anime/2016/fall/hero.jpg"
 ---
 
 [TOC]

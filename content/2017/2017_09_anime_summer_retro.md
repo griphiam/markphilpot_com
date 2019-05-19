@@ -5,7 +5,8 @@ tags: [anime, retro]
 category: blog
 slug: anime_2017_summer_retro
 summary: Retrospective of the Anime Summer 2017 Season
-Hero: "background-image: url(/images/anime/2017/summer/montage.jpg);"
+Hero: "background-image: url(/images/anime/2017/summer/cards/hero.jpg);"
+featured_image: "/images/anime/2017/summer/cards/hero.jpg"
 ---
 
 [TOC]

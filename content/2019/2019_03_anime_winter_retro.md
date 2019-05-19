@@ -5,7 +5,8 @@ tags: [anime, retrospective]
 category: anime
 slug: anime_2019_winter_retro
 summary: Retrospective of the Anime Winter 2019 Season
-Hero: "background-image: url(/images/anime/2019/winter/hero.jpg);"
+Hero: "background-image: url(/images/anime/2019/winter/cards/hero.jpg);"
+featured_image: "/images/anime/2019/winter/cards/hero.jpg"
 ---
 
 

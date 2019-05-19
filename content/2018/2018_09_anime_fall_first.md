@@ -6,6 +6,7 @@ category: anime
 slug: anime_2018_fall_first
 summary: First Impressions of the Anime Fall 2018 Season
 Hero: "background-image: url(/images/anime/2018/fall/hero.jpg);"
+featured_image: "/images/anime/2018/fall/hero.jpg"
 ---
 
 

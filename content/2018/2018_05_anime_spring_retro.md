@@ -6,6 +6,7 @@ category: anime
 slug: anime_2018_spring_retro
 summary: Retrospective of the Anime Spring 2018 Season
 Hero: "background-image: url(/images/anime/2018/spring/cards/hero.jpg);"
+featured_image: "/images/anime/2018/spring/cards/hero.jpg"
 ---
 
 [TOC]

@@ -46,3 +46,26 @@
 header {
   min-height: 46px;
 }
+
+img.featured_image {
+  text-align: center;
+  margin: 0 auto !important;
+  display: block;
+  width: 102% !important;
+  border-radius: 4px;
+  height: 180px;
+  object-fit: cover;
+}
+
+div.post_with_featured_image {
+  position: relative;
+  left: -1%;
+  right: 1%;
+}
+
+div.post_with_featured_image_meta {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0 1% !important;
+}

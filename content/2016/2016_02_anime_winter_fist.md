@@ -7,6 +7,7 @@ category: blog
 slug: anime_2016_winter_first
 summary: First Impressions of the Anime Winter 2016 Season
 Hero: "background-image: url(/images/anime/2016/winter/hero.jpg);"
+featured_image: "/images/anime/2016/winter/hero.jpg"
 ---
 
 [TOC]

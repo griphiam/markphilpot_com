@@ -5,7 +5,8 @@ tags: [anime, retrospective]
 category: anime
 slug: anime_2018_summer_retro
 summary: Retrospective of the Anime Summer 2018 Season
-Hero: "background-image: url(/images/anime/2018/summer/hero.jpg);"
+Hero: "background-image: url(/images/anime/2018/summer/cards/hero.jpg);"
+featured_image: "/images/anime/2018/summer/cards/hero.jpg"
 ---
 
 [TOC]

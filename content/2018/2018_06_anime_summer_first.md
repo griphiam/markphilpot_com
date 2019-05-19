@@ -6,6 +6,7 @@ category: anime
 slug: anime_2018_summer_first
 summary: First Impressions of the Anime Summer 2018 Season
 Hero: "background-image: url(/images/anime/2018/summer/hero.jpg);"
+featured_image: "/images/anime/2018/summer/hero.jpg"
 ---
 
 [TOC]

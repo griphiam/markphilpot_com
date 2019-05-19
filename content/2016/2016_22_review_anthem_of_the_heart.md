@@ -6,6 +6,7 @@ category: blog
 slug: review_anthem
 summary: Review of Kokoro ga Sakebitagatterunda
 Hero: "background-image: url(/images/2016/anthem/hero.jpg);"
+featured_image: "/images/2016/anthem/hero.jpg"
 ---
 
 ![Anthem of the Heart]({filename}/images/2016/anthem/title.jpg){: .ew1920} ![A1]({filename}/images/anime/studios/half/a1.png){: .studio}

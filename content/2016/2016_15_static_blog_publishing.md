@@ -6,6 +6,7 @@ category: blog
 slug: static_blog_publishing
 summary: How to publish a static blog
 Hero: "background-image: url(/images/2016/blog_publish_workflow/hero.jpg);"
+featured_image: "/images/2016/blog_publish_workflow/hero.jpg"
 ---
 
 [TOC]

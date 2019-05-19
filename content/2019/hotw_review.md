@@ -6,6 +6,7 @@ category: games
 slug: heart_of_the_woods
 summary: Review of Studio Élan's "Heart of the Woods"
 Hero: "background-image: url(/images/2019/hotw/hero.jpg);"
+featured_image: "/images/2019/hotw/hero.jpg"
 status: draft
 ---
 

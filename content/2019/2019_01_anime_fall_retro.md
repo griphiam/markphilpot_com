@@ -5,7 +5,8 @@ tags: [anime, retrospective]
 category: anime
 slug: anime_2018_fall_retro
 summary: Retrospective of the Anime Fall 2018 Season
-Hero: "background-image: url(/images/anime/2018/fall/hero.jpg);"
+Hero: "background-image: url(/images/anime/2018/fall/cards/hero.jpg);"
+featured_image: "/images/anime/2018/fall/cards/hero.jpg"
 ---
 
 
