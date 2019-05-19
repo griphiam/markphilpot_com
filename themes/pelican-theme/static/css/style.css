@@ -430,7 +430,8 @@ td, th {
   -moz-transition: background-color 0.3s ease;
   -ms-transition: background-color 0.3s ease;
   -o-transition: background-color 0.3s ease;
-  transition: background-color 0.3s ease
+  transition: background-color 0.3s ease;
+  border-radius: 4px;
 }
 .menu ul li {
   display: inline;
