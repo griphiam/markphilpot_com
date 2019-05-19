@@ -12,9 +12,4 @@ windows:
     shell_command_before:
       - 'pyenv activate blog'
     panes:
-      - pelican content -r
-  - window_name: server
-    shell_command_before:
-      - 'pyenv activate blog'
-    panes:
-      - cd output && python -m pelican.server
+      - pelican content -lr

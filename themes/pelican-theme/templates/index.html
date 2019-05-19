@@ -29,13 +29,13 @@
 </ul>
 {% endif %}
 <ul class="recent-posts">
-  {% set last_year = 0 %}
+  {% set ns = namespace(last_year=0) %}
   {% for article in dates %}
     {% if article.category.name != "micro" and article.category.name != "twitter" %}
     {% set year = article.date.strftime('%Y') %}
-    {% if last_year != year %}
-    <h2 id="{{year }}">{{ year }}</h2>
-    {% set last_year = year %}
+    {% if ns.last_year != year %}
+      <h2 id="{{year }}">{{ year }}</h2>
+      {% set ns.last_year = year %}
     {% endif %}
     {% set next_year = 0 %}
     {% if not loop.last %}
