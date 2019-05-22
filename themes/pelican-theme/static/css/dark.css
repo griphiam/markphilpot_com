@@ -3,6 +3,11 @@ body {
   color: #BEBEBE;
 }
 
+div.hero {
+  background-image: url(/images/heros/gg_bridge_dark_trans.png);
+  background-color: #1A1A1A;
+}
+
 fieldset {
   border: 1px solid #c0c0c0;
 }
