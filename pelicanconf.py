@@ -37,9 +37,11 @@ DEBUG = True
 SHOW_DRAFTS = True
 
 if DEBUG:
-     CACHE_CONTENT = True
-     LOAD_CONTENT_CACHE = True
-     CHECK_MODIFIED_METHOD = 'mtime'
+    CACHE_CONTENT = True
+    LOAD_CONTENT_CACHE = True
+    CHECK_MODIFIED_METHOD = 'mtime'
+
+STATIC_CHECK_IF_MODIFIED = True
 
 AUTHOR = 'Mark Philpot'
 SITENAME = 'markphilpot.com'

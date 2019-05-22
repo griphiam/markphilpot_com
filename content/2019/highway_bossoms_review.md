@@ -1,6 +1,6 @@
 ---
 title: "Highway Blossoms"
-date: "2019-03-15 14:25:00"
+date: "2019-05-21 20:59:00"
 tags: [games, review, visual novel]
 category: games
 slug: highway_blossoms
@@ -20,7 +20,9 @@ I came to *HB* late. Initially released in 2016 as a voiceless kenetic visual no
 
 I'm kicking myself it took me so long to experience this gem.
 
-On the visual novel time scale, it's a short read (about six hours) and the basic plot is just a foil for seeing how these characters interact.
+On the visual novel time scale, it's a short read (about six hours) and the basic plot is just a foil for seeing how these characters interact -- and it's the all the characters (but especially Amber and Marina) that make this VN shine.
 
 ![Vegas]({static}/images/2019/highway_blossoms/vegas.jpg "Vegas"){: .ew1920}
+
+There is a charm and realism to how all the characters bounce off one another. 
 

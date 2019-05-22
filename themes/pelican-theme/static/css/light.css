@@ -4,6 +4,7 @@ body {
 
 div.hero {
   background-image: url(/images/heros/gg_bridge_light.jpg);
+  background-color: #ECEFF4;
 }
 
 fieldset {
