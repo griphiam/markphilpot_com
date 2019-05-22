@@ -441,20 +441,7 @@ td, th {
   padding: 0 2rem
 }
 .content .date {
-  float: left;
-  margin-top: 16px;
-  margin-bottom: 25px;
-  margin-left: -190px;
-  width: 150px;
-  text-align: right;
   text-transform: uppercase;
-}
-@media (max-width: 900px) {
-  .content .date {
-    float: none;
-    margin-left: 0;
-    text-align: left
-  }
 }
 .recent-posts {
   margin-bottom: 5rem;
@@ -483,15 +470,11 @@ td, th {
   text-align: right;
 }
 .recent-posts li .date {
-  float: right;
   font-size: 12px;
-  margin-top: 2px;
   text-transform: uppercase;
 }
 .recent-posts li .tags {
-  float: right;
   font-size: 12px;
-  margin-top: 18px;
   text-transform: lowercase;
   line-height: 16px
 }
