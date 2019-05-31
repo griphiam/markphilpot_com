@@ -34,13 +34,13 @@ $(document).ready(function(){
 });
 </script>
 <ul class="recent-posts">
-  {% set last_year = 0 %}
+  {% set ns = namespace(last_year=0) %}
   {% for article in dates %}
     {% if article.category.name == "micro" %}
     {% set year = article.date.strftime('%Y') %}
-    {% if last_year != year %}
+    {% if ns.last_year != year %}
     <h2 id="{{year }}" class="years">{{ year }}</h2>
-    {% set last_year = year %}
+    {% set ns.last_year = year %}
     {% endif %}
     {% set next_year = 0 %}
     {% if not loop.last %}
