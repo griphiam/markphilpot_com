@@ -93,3 +93,8 @@ a.headerlink {
 div.post_with_featured_image_meta {
   background-color: rgba(26, 26, 26, 0.9);
 }
+
+div.micro_content {
+  background-color: rgba(46,52,64,0.4);
+  box-shadow: 0px 0px 8px 12px rgba(46,52,64,0.4);
+}
