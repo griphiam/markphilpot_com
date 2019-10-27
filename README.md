@@ -24,6 +24,8 @@ python scripts/process_twitter_archive.py -i $EXPORT_DIR
 python scripts/bootstrap_anime_first.py --season $SEASON --year $YEAR -o content/$YEAR/anime_$SEASON_first.md --save_images
 ```
 
-For Hero Images :: https://unsplash.com/
+For Hero Images :: https://unsplash.com/ (1920x600)
 
 1920x1080
+
+For Google image search use `imagesize:1920x1080`
