@@ -5,8 +5,8 @@
 ```bash
 brew install libjpeg optipng pyenv pyenv-virtualenv
 
-pyenv install 3.5.2
-pyenv virtualenv 3.5.2 blog pip
+pyenv install 3.7.4
+pyenv virtualenv 3.7.4 blog pip
 pyenv activate blog
 
 pip install -r requirements.txt

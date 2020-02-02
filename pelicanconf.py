@@ -36,10 +36,10 @@ def format_time(date, fmt=None):
 DEBUG = True
 SHOW_DRAFTS = True
 
-if DEBUG:
-    CACHE_CONTENT = True
-    LOAD_CONTENT_CACHE = True
-    CHECK_MODIFIED_METHOD = 'mtime'
+# if DEBUG:
+#     CACHE_CONTENT = True
+#     LOAD_CONTENT_CACHE = True
+#     CHECK_MODIFIED_METHOD = 'mtime'
 
 STATIC_CHECK_IF_MODIFIED = True
 
@@ -86,6 +86,7 @@ PLUGINS = [
     'sitemap', 
     'extract_toc', 
     'neighbors_filtered',
+    # 'subcategory',
 ]
 
 # Theme Settings
