@@ -6,4 +6,4 @@ html5lib==1.0.1
 beautifulsoup4==4.7.1
 pip-tools==3.7.0
 -e git+https://github.com/markphilpot/pelican-frontmark.git@d8e7df2cd11f023b272ddeb9dc328ffdce6bd172#egg=pelican-frontmark==1.1.0
-pyyaml==5.1.2
+pyyaml==5.4
